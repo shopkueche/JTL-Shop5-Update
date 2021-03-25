@@ -1,0 +1,22 @@
+{
+    "name": "jtlshop/wizard",
+    "description": "Shop Wizard",
+    "version": "0.1.0",
+    "keywords": ["jtl", "jtl-shop"],
+    "homepage": "https://www.jtl-software.de/",
+    "type": "library",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "JTL-Software GmbH",
+            "email": "info@jtl-software.de",
+            "homepage": "https://www.jtl-software.de/"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "jtl\\Wizard\\": "src" }
+    }
+}

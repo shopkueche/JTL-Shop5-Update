@@ -1,0 +1,34 @@
+@font-face {
+  font-family: FontAwesome5FreeRegular;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../../../../../templates/NOVA/themes/base/fontawesome/webfonts/fa-regular-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: FontAwesome5FreeSolid;
+  font-style: normal;
+  font-weight: 900;
+  src: url("../../../../../templates/NOVA/themes/base/fontawesome/webfonts/fa-solid-900.woff2") format("woff2");
+}
+@font-face {
+  font-family: FontAwesome5FreeBrands;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../../../../../templates/NOVA/themes/base/fontawesome/webfonts/fa-brands-400.woff2") format("woff2");
+}
+.opc-Icon {
+  font-size: 1.25em;
+  line-height: 1;
+  vertical-align: middle;
+}
+.opc-Icon.opc-Icon-far {
+  font-family: FontAwesome5FreeRegular, sans-serif;
+}
+.opc-Icon.opc-Icon-fas {
+  font-family: FontAwesome5FreeSolid, sans-serif;
+}
+.opc-Icon.opc-Icon-fab {
+  font-family: FontAwesome5FreeBrands, sans-serif;
+}
+
+/*# sourceMappingURL=Button.css.map */

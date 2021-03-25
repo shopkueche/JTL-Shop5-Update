@@ -1,0 +1,42 @@
+.opc-Accordion-group {
+  border: 1px solid #435A6B;
+  color: #435A6B;
+  border-radius: 5px;
+  margin: 8px;
+  background-color: #fff;
+
+  .opc-Accordion-head {
+    display: block;
+    font-size: 14px;
+    padding: 8px;
+    text-decoration: none;
+
+    &:after {
+      content: '' !important;
+    }
+
+    &.collapsed {
+      i {
+        &:before {
+          content: '\f078';
+        }
+      }
+    }
+
+    i {
+      float: right;
+      line-height: inherit;
+    }
+  }
+
+  > .opc-Accordion-collapse {
+    > .opc-area {
+      > .opc-droptarget ,
+      > [data-portlet] {
+        &:first-child {
+          margin-top: 0;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+.opc-Countdown {
+  padding: 20px;
+}
+.opc-Countdown .cntdwn-item {
+  font-size: 45px;
+  font-weight: 700;
+}
+.opc-Countdown .expired {
+  margin: 20px 0;
+  display: none;
+  font-size: x-large;
+}
+
+/*# sourceMappingURL=preview.css.map */

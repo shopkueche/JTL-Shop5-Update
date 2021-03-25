@@ -1,0 +1,39 @@
+.opc-Tabs {
+  background-color: #fff;
+}
+.opc-Tabs .pt-3 {
+  padding-top: 0 !important;
+}
+.opc-Tabs > ul {
+  margin: 8px;
+  margin-bottom: 16px;
+  border-bottom: none;
+}
+.opc-Tabs > ul > li > a {
+  padding: 0 2px !important;
+  border: none !important;
+  border-bottom: 2px solid transparent !important;
+  font-size: 14px !important;
+  font-weight: normal !important;
+  margin-right: 32px !important;
+  color: #999 !important;
+  background: none;
+}
+.opc-Tabs > ul > li > a.active {
+  border-bottom: 2px solid #435A6B !important;
+  color: #435A6B !important;
+}
+.opc-Tabs > ul > li > a:hover {
+  color: #435A6B !important;
+  background: none;
+}
+.opc-Tabs > ul > li.active > a {
+  border-bottom: 2px solid #435A6B !important;
+  color: #435A6B !important;
+}
+.opc-Tabs > .tab-content > .tab-pane {
+  padding: 0;
+  border: none;
+}
+
+/*# sourceMappingURL=preview.css.map */

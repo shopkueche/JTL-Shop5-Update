@@ -1,0 +1,30 @@
+{
+    "name": "jtlshop/qrcodegenerator",
+    "description": "QRCode-Generator adopted from chillerlan/php-qrcode",
+    "type": "package",
+    "version": "0.1.0",
+    "require": {
+        "php": ">=5.4.45"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kazuhiko Arase",
+            "homepage": "https://github.com/kazuhikoarase"
+        },
+        {
+            "name": "Smiley",
+            "email": "smiley@chillerlan.net"
+        },
+        {
+            "name": "JTL-Software-GmbH",
+            "email": "info@jtl-software.com",
+            "homepage": "https://www.jtl-software.de/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "qrcodegenerator\\QRCode\\": "src/"
+        }
+    }
+}

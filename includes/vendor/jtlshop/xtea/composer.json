@@ -1,0 +1,20 @@
+{
+  "name": "jtlshop/xtea",
+  "description": "PHP 7.4 ready XTEA",
+  "homepage": "https://www.jtl-software.de/",
+  "keywords": ["jtl-shop"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Felix Moche",
+      "email": "felix.moche@jtl-software.com",
+      "homepage": "https://www.jtl-software.de/"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": { "JTL\\xtea\\": "src" }
+  }
+}

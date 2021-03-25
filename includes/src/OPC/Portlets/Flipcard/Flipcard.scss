@@ -1,0 +1,57 @@
+.opc-Flipcard {
+  .opc-Flipcard-inner {
+    position: relative;
+    width: 100%;
+  }
+
+  .opc-Flipcard-face {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    transition: 0.5s;
+  }
+
+  &.opc-Flipcard-v {
+    .opc-Flipcard-front {
+      transform: perspective(1024px) rotateX(0deg);
+    }
+
+    .opc-Flipcard-back {
+      transform: perspective(1024px) rotateX(180deg);
+    }
+
+    .opc-Flipcard-flipped {
+      .opc-Flipcard-front {
+        transform: perspective(1024px) rotateX(-180deg);
+      }
+
+      .opc-Flipcard-back {
+        transform: perspective(1024px) rotateX(0deg);
+      }
+    }
+  }
+
+  &.opc-Flipcard-h {
+    .opc-Flipcard-front {
+      transform: perspective(1024px) rotateY(0deg);
+    }
+
+    .opc-Flipcard-back {
+      transform: perspective(1024px) rotateY(180deg);
+    }
+
+    .opc-Flipcard-flipped {
+      .opc-Flipcard-front {
+        transform: perspective(1024px) rotateY(-180deg);
+      }
+
+      .opc-Flipcard-back {
+        transform: perspective(1024px) rotateY(0deg);
+      }
+    }
+  }
+}

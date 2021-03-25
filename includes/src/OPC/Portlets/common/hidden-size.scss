@@ -1,0 +1,22 @@
+$font-size-base: 1rem;
+$font-size-sm: 1rem;
+$font-size-lg: 1rem;
+@import "../../../../../templates/NOVA/themes/base/bootstrap/scss/functions";
+@import "../../../../../templates/NOVA/themes/base/bootstrap/scss/variables";
+@import "../../../../../templates/NOVA/themes/base/bootstrap/scss/mixins";
+
+@include media-breakpoint-between("xs", "sm") {
+  .opc-hidden-xs { display: none !important; }
+}
+
+@include media-breakpoint-only("md") {
+  .opc-hidden-sm { display: none !important; }
+}
+
+@include media-breakpoint-only("lg") {
+  .opc-hidden-md { display: none !important; }
+}
+
+@include media-breakpoint-only("xl") {
+  .opc-hidden-lg { display: none !important; }
+}

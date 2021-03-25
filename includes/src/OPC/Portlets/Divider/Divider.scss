@@ -1,0 +1,50 @@
+$headings-font-family:              "Montserrat", Helvetica, Arial, sans-serif;
+
+$sand:                              #ebebeb;
+$gray-dark:                         #525252;
+$primary:                           #F8BF00;
+$gray-700:                          $gray-dark;
+$headings-color:                    $gray-700;
+
+$font-size-base:                    .95rem;
+$h2-font-size:                      $font-size-base * 1.5;
+$highlight-border-size:             .375rem;
+$font-weight-bold:                  600;
+
+.opc-Divider {
+  display: flex;
+  flex-basis: 100%;
+  align-items: center;
+  color: $headings-color;
+  margin: 8px 0;
+  font-size: $h2-font-size;
+  font-family: $headings-font-family;
+
+  &:before,
+  &:after {
+    content: "";
+    flex-grow: 1;
+    background: $sand;
+    height: 2px;
+    font-size: 0;
+    line-height: 0;
+    margin: 0 30px;
+  }
+  a {
+    text-decoration: none;
+    border-bottom: $highlight-border-size solid transparent;
+    font-weight: $font-weight-bold;
+    &:hover {
+      border-color: $primary;
+    }
+  }
+
+  &.opc-Divider-empty {
+    &:before {
+      margin-right: 0;
+    }
+    &:after {
+      margin-left: 0;
+    }
+  }
+}

@@ -1,0 +1,30 @@
+.opc-ImageSlider {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 64px;
+  text-align: center;
+  color: #5cbcf6;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+  background-color: #fff;
+}
+.opc-ImageSlider.opc-ImageSlider-with-image {
+  background-size: cover;
+  background-position: center;
+  height: 100px;
+  color: #fff;
+}
+.opc-ImageSlider.opc-ImageSlider-with-image > div {
+  text-shadow: 1px 1px 4px #000;
+}
+.opc-ImageSlider > div {
+  font-size: 14px;
+}
+.opc-ImageSlider svg {
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+/*# sourceMappingURL=preview.css.map */

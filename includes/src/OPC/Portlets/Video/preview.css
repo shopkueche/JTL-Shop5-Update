@@ -1,0 +1,39 @@
+.opc-Video .give-consent-preview {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 10%;
+  text-decoration: none;
+  background-size: cover;
+}
+.opc-Video .give-consent-preview:not(:hover) {
+  color: #fff;
+}
+
+.opc-Video {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: #5cbcf6;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+  background-color: #fff;
+  min-height: 64px !important;
+}
+.opc-Video > div {
+  font-size: 14px;
+}
+.opc-Video i {
+  font-size: 28px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+/*# sourceMappingURL=preview.css.map */

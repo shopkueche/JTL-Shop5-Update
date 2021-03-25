@@ -1,0 +1,24 @@
+@import "Video";
+
+.opc-Video {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: #5cbcf6;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+  background-color: #fff;
+  min-height: 64px !important;
+
+  > div {
+    font-size: 14px;
+  }
+
+  i {
+    font-size: 28px;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+}

@@ -1,0 +1,22 @@
+.opc-Image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 64px;
+  text-align: center;
+  color: #5cbcf6;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+  background-color: #fff;
+}
+.opc-Image > div {
+  font-size: 14px;
+}
+.opc-Image i {
+  font-size: 28px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+/*# sourceMappingURL=preview.css.map */

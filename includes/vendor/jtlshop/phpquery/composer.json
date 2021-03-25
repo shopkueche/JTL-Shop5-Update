@@ -1,0 +1,21 @@
+{
+  "name": "jtlshop/phpquery",
+  "description": "PHP 7.4 ready phpQuery",
+  "homepage": "https://www.jtl-software.de/",
+  "keywords": ["jtl-shop"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Felix Moche",
+      "email": "felix.moche@jtl-software.com",
+      "homepage": "https://www.jtl-software.de/"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "files": ["src/pq.php"],
+    "psr-4": { "JTL\\phpQuery\\": "src" }
+  }
+}
