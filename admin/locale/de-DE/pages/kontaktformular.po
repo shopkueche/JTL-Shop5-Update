@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "configureContactform"
+msgstr "Kontaktformular"
+
+msgid "contanctformDesc"
+msgstr "Hier können Sie das Kontaktformular von JTL-Shop für allgemeine Anfragen konfigurieren. Um das Kontaktformular anzeigen zu können, müssen Sie mindestens einen Betreff anlegen. Sie können das Formular über „Darstellung > Eigene Inhalte > Seiten“ z. B. im Kopfbereich des Onlineshops einbinden."
+
+msgid "contanctformSubjectDesc"
+msgstr "Mit Betreffen können Sie Kontaktanfragen an die richtige Abteilung leiten. Der Kunde wählt im Kontaktformular den Betreff aus. Die Anfrage wird als E-Mail an die im Betreff hinterlegte E-Mail-Adresse gesendet."
+
+msgid "mail"
+msgstr "Empfänger-E-Mail-Adresse"
+
+msgid "newSubject"
+msgstr "Neuer Betreff"
+
+msgid "restrictedToCustomerGroups"
+msgstr "Sichtbar für"
+
+msgid "contactformSubject"
+msgstr "Betreff des Kontaktformulars"
+
+msgid "additionalContent"
+msgstr "Zusätzlicher Inhalt"
+
+msgid "topContent"
+msgstr "Inhalt vor dem Formular"
+
+msgid "bottomContent"
+msgstr "Inhalt nach dem Formular"
+
+msgid "title"
+msgstr "Überschrift des Kontaktformulars"
+
+msgid "cURL"
+msgstr "https://jtl-url.de/5s4el"
+
+msgid "successContentSave"
+msgstr "Inhalt wurde erfolgreich gespeichert."
+
+msgid "successSubjectCreate"
+msgstr "Betreff wurde erfolgreich hinzugefügt."
+
+msgid "errorSubjectSave"
+msgstr "Betreff konnte nicht gespeichert werden."
+
+msgid "successSubjectSave"
+msgstr "Betreff %s wurde erfolgreich geändert."
+
+msgid "successSubjectDelete"
+msgstr "Betreff wurde erfolgreich gelöscht."

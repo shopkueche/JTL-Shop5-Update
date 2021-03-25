@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "buyNow"
+msgstr "Buy now"
+
+msgid "loading"
+msgstr "Loading…"
+
+msgid "communityForum"
+msgstr "Community forum"
+
+msgid "noPatchesATM"
+msgstr "There are no patches currently available."
+
+msgid "noStatisticsThisMonth"
+msgstr "No statistics available for the current month."
+
+msgid "phpVersion"
+msgstr "PHP version"
+
+msgid "mysqlStatistic"
+msgstr "MySQL statistics"
+
+msgid "mysqlVersion"
+msgstr "MySQL version"
+
+msgid "maxPHPExecutionTime"
+msgstr "Maximum PHP execution time"
+
+msgid "phpMemoryLimit"
+msgstr "PHP memory limit"
+
+msgid "phpMaxTransimissionSizeFile"
+msgstr "Maximum PHP transmission size (FILE)"
+
+msgid "phpMaxTransimissionSizePost"
+msgstr "Maximum PHP transmission size (POST)"
+
+msgid "soapExtension"
+msgstr "SOAP extension"
+
+msgid "shopVersion"
+msgstr "Shop version"
+
+msgid "templateVersion"
+msgstr "Shop template version"
+
+msgid "dbVersion"
+msgstr "Database version"
+
+msgid "dbLastUpdate"
+msgstr "Last database update"
+
+msgid "subscriptionValidUntil"
+msgstr "Shop licence valid until"
+
+msgid "shopVersionUpToDate"
+msgstr "You are using the current version of JTL-Shop."
+
+msgid "build"
+msgstr "Build"
+
+msgid "noVisitorsATM"
+msgstr "There are no visitors currently online."
+
+msgid "lastActivity"
+msgstr "Last action"
+
+msgid "lastPurchase"
+msgstr "Last purchase"
+
+msgid "newsletterSubscriber"
+msgstr "Newsletter subscription"
+
+msgid "moreDetailsStatistics"
+msgstr "For more details, please see the <a href=\"statistik.php?s=3\">Statistics</a>"
+
+msgid "noStatisticsFound"
+msgstr "No statistics found."
+
+msgid "moduleSelectionWizard"
+msgstr "Selection Wizard Module"
+
+msgid "moduleUpload"
+msgstr "Upload Module"
+
+msgid "moduleDownload"
+msgstr "Download Module"
+
+msgid "moduleConfigurator"
+msgstr "Configurator Module"
+
+msgid "moduleBrandFree"
+msgstr "Brandfree Option"

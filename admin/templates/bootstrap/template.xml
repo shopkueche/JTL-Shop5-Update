@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Template>
+    <Name>Bootstrap Admin for JTL Shop4</Name>
+    <Author>JTL-Software-GmbH</Author>
+    <URL>http://www.jtl-software.de</URL>
+    <Version>1.0.0</Version>
+    <Preview>preview.png</Preview>
+    <Minify>
+        <CSS Name="admin_css">
+            <File Path="css/jquery-ui.theme.css"/>
+            <File Path="css/jquery-ui.min.css"/>
+            <File Path="css/font-awesome.min.css"/>
+            <File Path="css/bootstrap-ladda.css"/>
+            <File Path="js/fileinput/fileinput.css"/>
+            <File Path="css/animate.css"/>
+            <File Path="css/select2.min.css"/>
+            <File Path="css/daterangepicker.css"/>
+            <File Path="css/typeaheadjs.css"/>
+            <File Path="css/fontawesome-pro/css/all.min.css"/>
+            <File Path="css/bootstrap-colorpicker.min.css"/>
+            <File Path="css/app/preload.css"/>
+            <File Path="css/app/app.css"/>
+            <File Path="css/custom.css"/>
+        </CSS>
+        <JS Name="admin_js">
+            <File Path="js/jquery-3.5.1.min.js"/>
+            <File Path="js/jquery-ui.min.js"/>
+            <File Path="js/popper.min.js"/>
+            <File Path="js/bootstrap.js"/>
+            <File Path="js/button.js"/>
+            <File Path="js/jquery-ui-timepicker-addon.js"/>
+            <File Path="js/jquery.cookie.js"/>
+            <File Path="js/highcharts.min.js"/>
+            <File Path="js/global.js"/>
+            <File Path="js/versandart_bruttonetto.js"/>
+            <File Path="js/fileinput/fileinput.min.js"/>
+            <File Path="js/fileinput/themes/fas/theme.min.js"/>
+            <File Path="js/bootstrap-ladda.js"/>
+            <File Path="js/bootstrap-notify.min.js"/>
+            <File Path="js/humanize-duration.js"/>
+            <File Path="js/jquery.highlight.js"/>
+            <File Path="js/jquery.stickytableheaders.min.js"/>
+            <File Path="js/jquery.bootpag.js"/>
+            <File Path="js/select2.min.js"/>
+            <File Path="js/masonry.pkgd.min.js"/>
+            <File Path="js/moment.js"/>
+            <File Path="js/daterangepicker.js"/>
+            <File Path="js/searchpicker.js"/>
+            <File Path="js/typeahead.bundle.js"/>
+            <File Path="js/bootstrap-colorpicker.min.js"/>
+            <File Path="js/Chart.min.js"/>
+            <File Path="js/draggable.bundle.js"/>
+            <File Path="js/store.modern.min.js"/>
+            <File Path="js/bootstrap-select.min.js"/>
+        </JS>
+    </Minify>
+</Template>

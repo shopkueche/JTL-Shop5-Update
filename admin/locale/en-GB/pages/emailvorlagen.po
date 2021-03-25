@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "emailTemplates"
+msgstr "Email templates"
+
+msgid "emailTemplateURL"
+msgstr "https://jtl-url.de/mvfr2"
+
+msgid "emailTemplatesHint"
+msgstr "Here you can edit the templates of all emails that can be sent with JTL-Shop. These templates are edited using the Smarty Template engine. When you request a test email, you can choose between every language available for the online shop."
+
+msgid "testmail"
+msgstr "Request test email"
+
+msgid "testmailsGoToEmail"
+msgstr "Test emails will be sent to the following address: "
+
+msgid "noMasterEmailSpecified"
+msgstr "No master email address found. Please enter a master sender email address under Administration > Email > Server."
+
+msgid "emailTemplateModifyHint"
+msgstr "Here you can edit the content of an email template in every language available for JTL-Shop. You can also specify the email address from which the email is to be send and whether certain attachments will be added by default."
+
+msgid "mailText"
+msgstr "Content (text)"
+
+msgid "mailHtml"
+msgstr "Content (HTML)"
+
+msgid "mailType"
+msgstr "Send this email type as"
+
+msgid "pdf"
+msgstr "PDF file"
+
+msgid "currentFiles"
+msgstr "Current attachments"
+
+msgid "emailAddAKZ"
+msgstr "Attach legal disclosure"
+
+msgid "emailAddAGB"
+msgstr "Attach terms and conditions"
+
+msgid "emailAddWRB"
+msgstr "Attach withdrawal"
+
+msgid "emailAddWRBForm"
+msgstr "Attach model withdrawal form"
+
+msgid "emailAddDSE"
+msgstr "Attach data privacy notice"
+
+msgid "emailActive"
+msgstr "Send email"
+
+msgid "emailOut"
+msgstr "Sender email address"
+
+msgid "emailSenderName"
+msgstr "Address name"
+
+msgid "emailCopyTo"
+msgstr "Send copy of email (bcc) to"
+
+msgid "errorTemplate"
+msgstr "Faulty email template."
+
+msgid "successTemplateReset"
+msgstr "Selected email template reset successfully."
+
+msgid "errorTemplateMissing"
+msgstr "Email template not found: "
+
+msgid "successEmailSend"
+msgstr "Email sent successfully."
+
+msgid "errorEmailSend"
+msgstr "Could not send email."
+
+msgid "errorFileName"
+msgstr "File name %s contains forbidden characters (A–Z, a–z, 0–9, _ and - are allowed)."
+
+msgid "errorFileSave"
+msgstr "Files could not be written. Please check whether write access is set for the pdf directory."
+
+msgid "errorFileNameMissing"
+msgstr "Please also enter a name for every file."
+
+msgid "errorFileSizeType"
+msgstr "The file must be a PDF and must not be larger than 2&nbsp;MB."
+
+msgid "errorFileNamePdfMissing"
+msgstr "The PDF file does not have a name."
+
+msgid "successTemplateEdit"
+msgstr "Email template edited successfully."
+
+msgid "successFileAppendixDelete"
+msgstr "Attachments for the selected languages deleted successfully."
+
+msgid "multipleDividedColon"
+msgstr "In case of multiple recipients, use a semicolon as a separator"
+
+msgid "resetEmailTemplate"
+msgstr "The email template will be reset."
+
+msgid "sureResetEmailTemplate"
+msgstr "Reset email template \"<b>%s</b>\"?"
+
+msgid "pluginTemplates"
+msgstr "Plug-in templates"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_kupon"
+msgstr "Coupon (standard/shipping coupon)"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_gutschein"
+msgstr "Customer receives credit"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellbestaetigung"
+msgstr "Order confirmation"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_passwort_vergessen"
+msgstr "Forgot password"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_neukundenregistrierung"
+msgstr "New customer registration"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_accounterstellung_durch_betreiber"
+msgstr "Creation of a customer account by online shop operator"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellung_bezahlt"
+msgstr "Order was paid"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellung_versandt"
+msgstr "Order was shipped"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_account_geloescht"
+msgstr "Deletion of customer account"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_kdgrp_zuweisung"
+msgstr "Assignment to customer group by online shop operator"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_kontaktformular"
+msgstr "Contact form"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_produktanfrage"
+msgstr "Question about item"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_verfuegbarkeitsbenachrichtigung"
+msgstr "Notification when item is back in stock"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_wunschliste"
+msgstr "Sharing wish lists with friends"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bewertungerinnerung"
+msgstr "Reminder: review after purchase"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellung_aktualisiert"
+msgstr "Order was updated"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellung_storno"
+msgstr "Order was cancelled"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellung_restorno"
+msgstr "Order was reactivated"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellung_teilversandt"
+msgstr "Order was partly delivered"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_footer"
+msgstr "Footer"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_header"
+msgstr "Header"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_newsletteranmelden"
+msgstr "Activation email after newsletter subscription"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_artikelweiterempfehlen"
+msgstr "Recommend item"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bewertung_guthaben"
+msgstr "Bonus credit for customer review"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_anbieterkennzeichnung"
+msgstr "Legal disclosure"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_checkbox_shopbetreiber"
+msgstr "Selection of a check box option"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_admin_passwort_vergessen"
+msgstr "Forgot password (administrator)"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_statusemail"
+msgstr "Email report"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_verfuegbarkeitsbenachrichtigung_optin"
+msgstr "Back in stock notification email (double opt-in confirmation)"
+
+msgid "Empty mail body"
+msgstr "Empty email body"
+
+msgid "Check syntax"
+msgstr "Check email sytnax"
+
+msgid "Syntax check fail"
+msgstr "Email syntax check failed"

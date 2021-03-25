@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "shopsitemap"
+msgstr "Sitemap-Aufbau"
+
+msgid "shopsitemapURL"
+msgstr "https://jtl-url.de/zhv8l"
+
+msgid "shopsitemapDesc"
+msgstr "Hier legen Sie fest, welche Seiten in einer automatisch generierten Sitemap angezeigt werden sollen. Die Sitemap können Sie anschließend (automatisiert) an Suchmaschinen übergeben lassen."

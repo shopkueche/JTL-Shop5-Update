@@ -1,0 +1,22 @@
+
+.btn {
+	@include hover { box-shadow: none; }
+}
+
+.btn-primary {
+	@include hover { background-color: $primary; border-color: $primary; }
+
+	&:focus, &.focus { background-color: $primary; border-color: $primary; box-shadow: $btn-box-shadow; }
+
+	&:not(:disabled):not(.disabled):active,
+	&:not(:disabled):not(.disabled).active,
+	.show > &.dropdown-toggle { background-color: map-get($primary-palette, 'medium'); border-color: map-get($primary-palette, 'medium'); }
+}
+
+.btn-outline-primary { box-shadow: $btn-box-shadow;
+	@include hover { background-color: transparent; border-color: $primary; color: $primary; }
+
+	&:not(:disabled):not(.disabled):active,
+	&:not(:disabled):not(.disabled).active,
+	.show > &.dropdown-toggle { background-color: transparent; border-color: map-get($primary-palette, 'medium'); color: map-get($primary-palette, 'medium'); }
+}

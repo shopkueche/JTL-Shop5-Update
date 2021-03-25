@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "kampagne"
+msgstr "Campaigns"
+
+msgid "kampagneDesc"
+msgstr " "
+
+msgid "kampagneURL"
+msgstr "https://jtl-url.de/mdy-n"
+
+msgid "kampagneSingle"
+msgstr "Campaign"
+
+msgid "kampagneIntern"
+msgstr "Internal JTL-Shop campaigns"
+
+msgid "kampagneExtern"
+msgstr "Custom campaigns"
+
+msgid "kampagneOverview"
+msgstr "Campaigns"
+
+msgid "kampagneNewBTN"
+msgstr "Create new campaign"
+
+msgid "kampagneDetailStatsBTN"
+msgstr "Update"
+
+msgid "kampagneDetailStats"
+msgstr "Detailed campaign statistics"
+
+msgid "kampagneDetailStatsDef"
+msgstr "Detailed statistics"
+
+msgid "kampagneDetailGraph"
+msgstr "Graphs"
+
+msgid "kampagneGlobalStats"
+msgstr "Global reports"
+
+msgid "kampagneDetailView"
+msgstr "View"
+
+msgid "kampagneOverall"
+msgstr "Total"
+
+msgid "kampagnePeriod"
+msgstr "Period"
+
+msgid "kampagneView"
+msgstr "View"
+
+msgid "kampagneDateTill"
+msgstr "up to and including"
+
+msgid "kampagneCreate"
+msgstr "Creating new campaigns"
+
+msgid "kampagneEdit"
+msgstr "Editing campaigns"
+
+msgid "kampagneName"
+msgstr "Campaign name"
+
+msgid "kampagneParam"
+msgstr "Campaign parameter (GET/POST)"
+
+msgid "kampagneValue"
+msgstr "Campaign value"
+
+msgid "kampagneValueType"
+msgstr "Campaign value type"
+
+msgid "kampagneValueStatic"
+msgstr "Fixed campaign value"
+
+msgid "kampagneStatic"
+msgstr "Fixed value"
+
+msgid "kampagnenDate"
+msgstr "Created on"
+
+msgid "kampagnenNLInfo"
+msgstr "Number of calls of newsletters linked with the campaign. Default: 0 if the campaign is not assigned to a newsletter or there were no newsletter calls"
+
+msgid "successCampaignSave"
+msgstr "Campaign saved successfully."
+
+msgid "successCampaignDelete"
+msgstr "Selected campaigns deleted successfully."
+
+msgid "errorAtLeastOneCampaign"
+msgstr "Please select at least one campaign."
+
+msgid "errorCampaignSave"
+msgstr "Could not save campaign."
+
+msgid "errorCampaignNameMissing"
+msgstr "Please enter a campaign name."
+
+msgid "errorCampaignParameterMissing"
+msgstr "Please enter a campaign parameter."
+
+msgid "errorCampaignValueMissing"
+msgstr "Please enter a campaign value."
+
+msgid "errorCampaignNameDuplicate"
+msgstr "The entered campaign name already exists."
+
+msgid "errorCampaignParameterDuplicate"
+msgstr "The entered campaign parameter is already in use."
+
+msgid "Hit"
+msgstr "Hits"
+
+msgid "Verkauf"
+msgstr "Sales"
+
+msgid "Anmeldung"
+msgstr "Registrations"
+
+msgid "Verkaufssumme"
+msgstr "Sales amount"
+
+msgid "Frage zum Produkt"
+msgstr "Questions about item"
+
+msgid "Verfügbarkeits-Anfrage"
+msgstr "Availability requests"
+
+msgid "Login"
+msgstr "Logins"
+
+msgid "Produkt auf Wunschliste"
+msgstr "Items on wish list"
+
+msgid "Produkt in den Warenkorb"
+msgstr "Items in basket"
+
+msgid "Angeschaute Newsletter"
+msgstr "Read newsletters"
+
+msgid "kampagneParamDesc"
+msgstr "Campaigns are initiated by an URL parameter of your choice and are kept for the session. You can use this to assess subsequent actions such as purchases. Ex.: rv, http://demoshop.jtl-software.de/?rv=5"
+
+msgid "kampagneValueTypeDesc"
+msgstr "Specify whether the campaign value is to be a fixed or a dynamic value."
+
+msgid "kampagneValueStaticDesc"
+msgstr "Enter the campaign value here if you have selected \"Fixed value \" for the campaign type. Ex.: 5, http://demoshop.jtl-software.de/?rv=5"

@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "navigationsfilter"
+msgstr "Item overview"
+
+msgid "navigationsfilterDesc"
+msgstr "Here you can set the various filter possibilities for item overview pages of JTL-Shop."
+
+msgid "navigationsfilterUrl"
+msgstr "https://jtl-url.de/gbz5f"
+
+msgid "thePriceRangeIsInvalid"
+msgstr "Invalid price range."
+
+msgid "thePriceRangeOverlapps"
+msgstr "The price range overlaps with other price ranges."
+
+msgid "addPriceRange"
+msgstr "Add price range"

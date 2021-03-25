@@ -1,0 +1,1 @@
+// moved to app/views/dashboard.js

@@ -1,0 +1,30 @@
+<?php declare(strict_types=1);
+
+if (PHP_SAPI !== 'cli') {
+    echo 'Error: Shop CLI should be invoked via the CLI version of PHP, not the ' . PHP_SAPI . ' SAPI' . PHP_EOL;
+    exit;
+}
+
+set_error_handler(function($code, $description, $file = null, $line = null, $context = null) {
+    if ($code === E_ERROR) {
+        echo $error . ' (' . $code . '): ' . $description . ' in [' . $file . ', line ' . $line . ']' . PHP_EOL;
+        exit;
+    }
+});
+
+define('CLI_BATCHRUN', true);
+define('PFAD_INCLUDES', 'includes/');
+
+if (file_exists(__DIR__ . '/' . PFAD_INCLUDES . 'config.JTL-Shop.ini.php')) {
+    require_once __DIR__ . '/' . PFAD_INCLUDES . 'config.JTL-Shop.ini.php';
+} else {
+    define('PFAD_ROOT', __DIR__ . '/');
+}
+
+require_once PFAD_ROOT . PFAD_INCLUDES . 'defines.php';
+require_once PFAD_ROOT . PFAD_INCLUDES . 'autoload.php';
+require_once PFAD_ROOT . PFAD_INCLUDES . 'plugin_inc.php';
+
+$application = new \JTL\Console\Application();
+$application->initPluginCommands();
+$application->run();

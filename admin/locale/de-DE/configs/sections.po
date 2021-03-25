@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "configsection_1"
+msgstr "Globale Einstellungen"
+
+msgid "configsection_2"
+msgstr "Startseite"
+
+msgid "configsection_3"
+msgstr "E-Mail-Einstellungen"
+
+msgid "configsection_4"
+msgstr "Sucheinstellungen"
+
+msgid "configsection_5"
+msgstr "Artikeldetailseite"
+
+msgid "configsection_6"
+msgstr "Formulareinstellungen"
+
+msgid "configsection_7"
+msgstr "Warenkorb / Kaufabwicklung"
+
+msgid "configsection_8"
+msgstr "Boxen"

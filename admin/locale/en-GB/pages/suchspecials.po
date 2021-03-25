@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "suchspecials"
+msgstr "Special items"
+
+msgid "suchspecialURL"
+msgstr "https://jtl-url.de/3ys8a"
+
+msgid "suchspecialsDesc"
+msgstr "Specify the structure of links to special item overviews. These will be added to the URL of your online shop."
+
+msgid "specialOffers"
+msgstr "Special offers"
+
+msgid "newInAssortment"
+msgstr "New in product range"
+
+msgid "topOffers"
+msgstr "Top items"
+
+msgid "shortTermAvailable"
+msgstr "Available soon"
+
+msgid "topreviews"
+msgstr "Top rated"
+
+msgid "errorBestsellerExistRename"
+msgstr "The Bestseller page %s already existed and was renamed %s."
+
+msgid "errorSpecialExistRename"
+msgstr "The Special price page %s already existed and was renamed %s."
+
+msgid "errorNewExistRename"
+msgstr "The New in product range page %s already existed and was renamed %s."
+
+msgid "errorTopProductsExistRename"
+msgstr "The Top item page %s already existed and was renamed %s."
+
+msgid "errorSoonExistRename"
+msgstr "The Available soon page %s already existed and was renamed %s."
+
+msgid "errorTopRatingExistRename"
+msgstr "The Top rated page %s already existed and was renamed %s."
+
+msgid "successSeoSave"
+msgstr "Page names saved/updated successfully."

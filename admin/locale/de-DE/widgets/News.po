@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "News_title"
+msgstr "News"
+
+msgid "News_desc"
+msgstr "Aktuelle News zu JTL-Shop"

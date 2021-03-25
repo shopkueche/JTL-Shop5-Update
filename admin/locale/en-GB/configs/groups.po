@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "configgroup_1_products"
+msgstr "Items"
+
+msgid "configgroup_1_categories"
+msgstr "Categories"
+
+msgid "configgroup_1_general"
+msgstr "General"
+
+msgid "configgroup_1_vat_label"
+msgstr "Show value-added tax (e.g. small business regulation)"
+
+msgid "configgroup_1_saved_cart"
+msgstr "Saved basket"
+
+msgid "configgroup_1_wishlist"
+msgstr "Wish list"
+
+msgid "configgroup_1_maintenance"
+msgstr "Maintenance mode"
+
+msgid "configgroup_1_shipping"
+msgstr "Special page \"Shipments\""
+
+msgid "configgroup_1_admin_area"
+msgstr "Admin area"
+
+msgid "configgroup_1_cookies"
+msgstr "Cookie settings <br><span class=\"text-danger\">Faulty cookie settings may lead to a dysfunctional back-end login! Only make changes if you know what you are doing.</span>"
+
+msgid "configgroup_2_general"
+msgstr "General"
+
+msgid "configgroup_3_email"
+msgstr "Email settings"
+
+msgid "configgroup_4_search"
+msgstr "Search"
+
+msgid "configgroup_4_livesearch"
+msgstr "Search queries"
+
+msgid "configgroup_4_extended_view"
+msgstr "Expanded view"
+
+msgid "configgroup_5_cross_sell"
+msgstr "Cross-selling (manual setting in JTL-Wawi)"
+
+msgid "configgroup_5_cross_sell_xy"
+msgstr "Cross-selling (Others also bought)"
+
+msgid "configgroup_5_general"
+msgstr "General"
+
+msgid "configgroup_5_product_question"
+msgstr "Question about item"
+
+msgid "configgroup_5_product_available"
+msgstr "Availability requests"
+
+msgid "configgroup_5_comparelist"
+msgstr "Comparison list"
+
+msgid "configgroup_5_media_module"
+msgstr "Media files"
+
+msgid "configgroup_5_product_similar"
+msgstr "Similar items"
+
+msgid "configgroup_5_part_list"
+msgstr "Bill of materials"
+
+msgid "configgroup_5_tab_description"
+msgstr "Description tab"
+
+msgid "configgroup_6_account_register"
+msgstr "Create customer account/Order without registration"
+
+msgid "configgroup_6_shipping_address"
+msgstr "Shipping address"
+
+msgid "configgroup_6_vat_id"
+msgstr "VAT identification number"
+
+msgid "configgroup_7_cart"
+msgstr "Basket"
+
+msgid "configgroup_7_order_progress"
+msgstr "Order process"
+
+msgid "configgroup_7_order_final"
+msgstr "Order completion"
+
+msgid "configgroup_8_box_bestsellers"
+msgstr "Box: Bestsellers"
+
+msgid "configgroup_8_box_special_offers"
+msgstr "Box: Special offers"
+
+msgid "configgroup_8_box_new_products"
+msgstr "Box: New in product range"
+
+msgid "configgroup_8_box_top_products"
+msgstr "Box: Top item"
+
+msgid "configgroup_8_box_last_viewed"
+msgstr "Box: Last viewed"
+
+msgid "configgroup_8_box_upcoming_products"
+msgstr "Box: Items coming soon"
+
+msgid "configgroup_8_box_searchcloud"
+msgstr "Search cloud"
+
+msgid "configgroup_8_box_wishlist"
+msgstr "Wish list"
+
+msgid "configgroup_8_box_comparelist"
+msgstr "Comparison list"
+
+msgid "configgroup_8_box_top_rated"
+msgstr "Box: Top rated"
+
+msgid "configgroup_9_image_settings"
+msgstr "Image settings"
+
+msgid "configgroup_10_livesearch_overview"
+msgstr "Search query overview"
+
+msgid "configgroup_10_gifts"
+msgstr "Free gift"
+
+msgid "configgroup_100_payment_advance"
+msgstr "Advance payment via transfer"
+
+msgid "configgroup_100_cash_on_delivery"
+msgstr "Cash on delivery"
+
+msgid "configgroup_100_credit_card"
+msgstr "Credit card"
+
+msgid "configgroup_100_invoice"
+msgstr "Invoice"
+
+msgid "configgroup_100_debit"
+msgstr "Direct debit"
+
+msgid "configgroup_100_cash"
+msgstr "Cash"
+
+msgid "configgroup_102_settings"
+msgstr "Settings"
+
+msgid "configgroup_104_rss"
+msgstr "Settings for RSS feed"
+
+msgid "configgroup_105_price_trend"
+msgstr "Price history"
+
+msgid "configgroup_106_comparelist"
+msgstr "Comparison list"
+
+msgid "configgroup_107_rating"
+msgstr "Review"
+
+msgid "configgroup_107_rating_reminder"
+msgstr "Remind customer to leave a customer review"
+
+msgid "configgroup_108_newsletter"
+msgstr "Newsletter"
+
+msgid "configgroup_109_customer_field"
+msgstr "Form field"
+
+msgid "configgroup_110_general"
+msgstr "General"
+
+msgid "configgroup_110_category_filter"
+msgstr "Category filter"
+
+msgid "configgroup_110_rating_filter"
+msgstr "Customer review filter"
+
+msgid "configgroup_110_search_filter"
+msgstr "Search result filter"
+
+msgid "configgroup_110_attribute_filter"
+msgstr "Characteristics filter"
+
+msgid "configgroup_110_price_range_filter"
+msgstr "Price range filter"
+
+msgid "configgroup_110_current_manufacturer"
+msgstr "Current manufacturer"
+
+msgid "configgroup_110_current_attribute"
+msgstr "Current characteristic value"
+
+msgid "configgroup_110_current_category"
+msgstr "Current category"
+
+msgid "configgroup_110_availability_filter"
+msgstr "Availability filter"
+
+msgid "configgroup_111_email_blacklist"
+msgstr "Email blacklist"
+
+msgid "configgroup_112_meta"
+msgstr "Meta data"
+
+msgid "configgroup_113_news"
+msgstr "Blog"
+
+msgid "configgroup_114_sitemap_settings"
+msgstr "Sitemap settings"
+
+msgid "configgroup_119_searchspecial_standard_search"
+msgstr "Default sorting for special items"
+
+msgid "configgroup_122_returns"
+msgstr "Goods return"
+
+msgid "ftp_header"
+msgstr "FTP connection"
+
+msgid "sftp_header"
+msgstr "SFTP connection"
+
+msgid "fs_general_header"
+msgstr "General"
+
+msgid "configgroup_110_manufacturer_filter"
+msgstr "Manufacturer filter"
+
+msgid "configgroup_129_consentmanager"
+msgstr "Consent manager"
+
+msgid "configgroup_124_cache"
+msgstr "Cache"
+
+msgid "configgroup_128_cron"
+msgstr "Cron"
+
+msgid "configgroup_121_selectionwizard"
+msgstr "Selection wizard"
+
+msgid "configgroup_127_filesystem"
+msgstr "File system"

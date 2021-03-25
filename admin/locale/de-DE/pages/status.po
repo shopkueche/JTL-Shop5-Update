@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "status"
+msgstr "Status"
+
+msgid "statusURL"
+msgstr "https://jtl-url.de/njc39"
+
+msgid "systemCache"
+msgstr "System-Cache"
+
+msgid "imageCache"
+msgstr "Bilder-Cache"
+
+msgid "imagesInCache"
+msgstr "Artikelbilder im Cache"
+
+msgid "fileStructure"
+msgstr "Dateistruktur"
+
+msgid "directoryPermissions"
+msgstr "Verzeichnisrechte"
+
+msgid "openUpdates"
+msgstr "Ausstehende Updates"
+
+msgid "installDirectory"
+msgstr "Installationsverzeichnis"
+
+msgid "profilerActive"
+msgstr "Profiler aktiv"
+
+msgid "orphanedCategories"
+msgstr "Verwaiste Kategorien"
+
+msgid "newPluginVersions"
+msgstr "Neue Plugin-Versionen"
+
+msgid "atmNoInfo"
+msgstr "Vorübergehend keine Informationen verfügbar."
+
+msgid "expiresInXDays"
+msgstr "Läuft in %s Tagen ab"
+
+msgid "paymentTypesWithError"
+msgstr "Folgende Zahlungsarten beinhalten Protokolle mit dem Status „Fehler“."
+
+msgid "pluginsWithSameHook"
+msgstr "Folgende Plugins benutzen einen identischen Hook."
+
+msgid "recommendedValue"
+msgstr "Empfohlener Wert"
+
+msgid "requirementsMet"
+msgstr "Alle Voraussetzungen wurden erfüllt."
+
+msgid "extensions"
+msgstr "Erweiterungen"

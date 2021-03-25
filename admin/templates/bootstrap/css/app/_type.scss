@@ -1,0 +1,14 @@
+
+h1, .h1 { font-weight: $font-weight-bold; }
+
+.h1, .h2 {
+	@at-root #{selector-append('span', &)} { display: block; }
+}
+
+.subheading-bg { background-color: map-get($grays, 'light'); padding: map-get($spacers, 2) map-get($spacers, 3); }
+
+.subheading1, .subheading2 { font-weight: $font-weight-semibold; text-transform: uppercase;
+	@at-root #{selector-append('span', &)} { display: block; }
+}
+.subheading1 { font-size: $subheading1-font-size; color: $subheading1-color; }
+.subheading2 { font-size: $subheading2-font-size; color: $subheading2-color; }

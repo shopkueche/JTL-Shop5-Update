@@ -1,0 +1,51 @@
+#blueprints {
+  #blueprintList {
+    padding-bottom: 60px;
+  }
+
+  .blueprintButton {
+    cursor: pointer;
+
+    &:hover {
+      box-shadow: 4px 4px 4px rgba(0,0,0,0.125);
+    }
+
+    .blueprint-icon {
+      color: $primary-color;
+      font-size: 22px;
+      vertical-align: bottom;
+      margin-right: 8px;
+    }
+
+    .blueprint-btn-actions {
+      float: right;
+      display: none;
+
+      button {
+        padding: 0 4px;
+        margin-top: -4px;
+        font-size: 16px;
+        width: 28px;
+        height: 28px;
+        border-radius: 100px;
+
+        &:hover {
+          background-color: $hover-btn-bg;
+        }
+      }
+    }
+
+    &:hover {
+      .blueprint-btn-actions {
+        display: block;
+      }
+    }
+  }
+
+  #btnImportBlueprint {
+    position: fixed;
+    bottom: 212px;
+    width: 334px;
+    box-shadow: none;
+  }
+}

@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Help_title"
+msgstr "Hilfe"
+
+msgid "Help_desc"
+msgstr "Aktuelle Hilfethemen für JTL-Shop"

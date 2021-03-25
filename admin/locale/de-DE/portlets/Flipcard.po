@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Flipcard"
+msgstr "Flipcard"
+
+msgid "flipcardOrientation"
+msgstr "Richtung"
+
+msgid "flipTrigger"
+msgstr "Flip-Auslöser"
+
+msgid "onClick"
+msgstr "Klick"
+
+msgid "onHover"
+msgstr "Hover"
+
+msgid "flipcardFront"
+msgstr "Vorderseite"
+
+msgid "flipcardBack"
+msgstr "Rückseite"
+
+msgid "flipDirDesc"
+msgstr "Legt fest, ob sich die Flipcard um die vertikale oder horizontale Achse dreht."

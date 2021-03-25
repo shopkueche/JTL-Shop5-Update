@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "branding"
+msgstr "Watermark"
+
+msgid "brandingDesc"
+msgstr "Here you can add watermarks to images in different categories. Images of items are updated directly after saving. Images of all other categories must be transferred form JTL-Wawi via a complete synchronisation in order to display the watermarks."
+
+msgid "brandingUrl"
+msgstr "https://jtl-url.de/5nd2e"
+
+msgid "brandingPictureKat"
+msgstr "Image category"
+
+msgid "brandingActive"
+msgstr "Activate watermark"
+
+msgid "brandingActiveDesc"
+msgstr "Here you can specify whether the images of the selected image category receive a watermark. You need to perform a complete synchronisation with JTL-Wawi for all categories except \"Item\"."
+
+msgid "brandingPositionDesc"
+msgstr "Here you can define in which part of the image the watermark will be displayed."
+
+msgid "brandingTransparencyDesc"
+msgstr "Here you can adjust the transparency of the watermark (in %). We recommend a value of 50."
+
+msgid "brandingSizeDesc"
+msgstr "Enter the size of the watermark in proportion to the image size (in %). We recommend setting a value of 30. If you enter 0, the watermark will not be scaled at all and will be inserted in the original image size."
+
+msgid "brandingFileName"
+msgstr "Watermark file"
+
+msgid "brandingFileNameDesc"
+msgstr "Here you can specify which file to use for the watermark. We recommend using a .png file with a transparent background."
+
+# branding types (tbranding)
+msgid "product"
+msgstr "Item"
+
+# branding types (tbranding)
+msgid "category"
+msgstr "Categories"
+
+# branding types (tbranding)
+msgid "variation"
+msgstr "Variations"
+
+# branding types (tbranding)
+msgid "characteristic"
+msgstr "Characteristics"
+
+# branding types (tbranding)
+msgid "characteristicvalue"
+msgstr "Characteristic values"
+
+# branding types (tbranding)
+msgid "manufacturer"
+msgstr "Manufacturer"
+
+#placeholder: name of image category
+msgid "headingEditBrandingForProduct"
+msgstr "Editing watermark for %s"

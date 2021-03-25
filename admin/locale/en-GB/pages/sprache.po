@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "lang"
+msgstr "Language variables and text blocks"
+
+msgid "langURL"
+msgstr "https://jtl-url.de/br78w"
+
+msgid "langDesc"
+msgstr "Edit the standard text blocks of the online shops. All texts are defined on the basis of a specific language. You can also export and import text blocks for every language."
+
+msgid "langVars"
+msgstr "Language variables"
+
+msgid "notFoundVars"
+msgstr "Variables not found"
+
+msgid "section"
+msgstr "Section"
+
+msgid "variableName"
+msgstr "Variable"
+
+msgid "btnAddVar"
+msgstr "Add variable"
+
+msgid "btnResetLog"
+msgstr "Empty list"
+
+msgid "newLangVar"
+msgstr "New language variable"
+
+msgid "langSection"
+msgstr "Language section"
+
+msgid "notImportedYet"
+msgstr "Language not yet imported."
+
+msgid "errorImport"
+msgstr "File import failed! Could not open file. Please check the file for potential errors."
+
+msgid "successImport"
+msgstr "%s variables updated successfully."
+
+msgid "newLangAvailable"
+msgstr "New language(s) available."
+
+msgid "successVarRemove"
+msgstr "Variable %s deleted successfully."
+
+msgid "errorVarFormat"
+msgstr "The variable may only include letters and numbers and must not be empty."
+
+msgid "errorVarExistsForLang"
+msgstr "The variable already exists for the following languages: %s. Please select which version you want to overwrite."
+
+msgid "successVarChange"
+msgstr "Variables changed successfully. "
+
+msgid "errorVarChangeNone"
+msgstr "No variables changed."
+
+msgid "successListReset"
+msgstr "List reset successfully."
+
+msgid "searchInContentAndVarName"
+msgstr "Searches variable names and contents"
+
+msgid "systemOwn"
+msgstr "System/Custom"
+
+msgid "system"
+msgstr "System only"
+
+msgid "own"
+msgstr "Custom only"

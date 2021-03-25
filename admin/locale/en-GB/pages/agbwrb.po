@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "agbwrb"
+msgstr "Terms/Withdrawal"
+
+msgid "availableAGBWRB"
+msgstr "Available terms/withdrawals policies"
+
+msgid "agbwrbURL"
+msgstr "https://jtl-url.de/09qo2"
+
+msgid "agb"
+msgstr "Terms and conditions"
+
+msgid "wrb"
+msgstr "Withdrawal"
+
+msgid "dse"
+msgstr "Data privacy notice"
+
+msgid "wrbform"
+msgstr "Model withdrawal form"
+
+msgid "agbWrbInfo"
+msgstr "Here you can store custom texts for your terms and conditions, any information concerning the right of withdrawal, a model withdrawal form, and your data privacy notice. Our partners are happy to help you produce legally incontestable texts. Please find the list of all partners offering help with legal texts here: <i class=\"fa fa-external-link\"></i><a href=\"http://jtl-url.de/rechtstexte\" target=\"_blank\">https://jtl-url.de/legaltexts</a>."
+
+msgid "errorInvalidCustomerGroup"
+msgstr "Please enter a valid customer group."
+
+msgid "successSave"
+msgstr "Information on terms/withdrawal saved successfully."
+
+msgid "errorSave"
+msgstr "Could not save the information on terms/withdrawal."

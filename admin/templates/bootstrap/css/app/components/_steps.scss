@@ -1,0 +1,24 @@
+
+.steps { display: inline-flex; flex-direction: row; justify-content: space-between; align-items: center; position: relative;
+	&::before { content: ''; position: absolute; left: 0; top: 50%; transform: translateY(-50%); border-bottom: $step-border-width $step-complete-border-style $step-complete-border-color; width: 100%; }
+}
+
+.step { width: $step-size; height: $step-size; margin: 0 .75rem; font-weight: $font-weight-bold; font-size: $step-font-size; display: flex; align-items: center; justify-content: center; border: $step-border-width $step-complete-border-style $step-complete-border-color; border-radius: 50rem; background-color: $step-complete-bg-color; color: $step-complete-color; position: relative;
+	&:first-child { margin-left: 0; }
+	&:last-child { margin-right: 0; }
+
+	&.active { background-color: $step-active-bg-color; color: $step-active-color; border-color: $step-active-border-color; border-style: $step-outer-border-style; width: $step-size + 6 * $step-border-width; height: $step-size + 6 * $step-border-width;
+		&::before { content: ''; border: $step-border-width $step-active-border-style $step-outer-border-color; border-radius: inherit; position: absolute; left: $step-border-width * 2; top: $step-border-width * 2; right: $step-border-width * 2; bottom: $step-border-width * 2; }
+
+		~ .step { background-color: $step-next-bg-color; color: $step-next-color; border-color: $step-next-border-color; border-style: $step-next-border-style; }
+	}
+}
+
+.steps-vertical { flex-direction: column;
+	&::before { content: ''; position: absolute; left: 50%; top: auto; transform: translateX(-50%); border-bottom: 0; border-left: $step-border-width $step-complete-border-style $step-complete-border-color; height: 100%; width: auto; }
+
+	.step { margin: .75rem 0;
+		&:first-child { margin-top: 0; }
+		&:last-child { margin-bottom: 0; }
+	}
+}

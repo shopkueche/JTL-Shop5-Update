@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "ServerSettings_title"
+msgstr "Server-Konfiguration"
+
+msgid "ServerSettings_desc"
+msgstr "Übersicht über relevante Server-Konfigurationen"

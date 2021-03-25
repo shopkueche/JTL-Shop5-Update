@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "news"
+msgstr "Blog"
+
+msgid "newsURL"
+msgstr "https://jtl-url.de/2ek6o"
+
+msgid "newsDesc"
+msgstr "Verwenden Sie den Blog von JTL-Shop, um Ihre Kunden auf dem Laufenden zu halten. Erstellen Sie hier neue Blogbeiträge und legen Sie fest, wie die Beiträge dargestellt werden."
+
+msgid "newAdd"
+msgstr "Neuen Beitrag erstellen"
+
+msgid "newEdit"
+msgstr "Beitrag bearbeiten"
+
+msgid "newsPreviewText"
+msgstr "Vorschautext"
+
+msgid "newsValidation"
+msgstr "Erstellt am"
+
+msgid "newsDate"
+msgstr "Erstellt am"
+
+msgid "newsArchive"
+msgstr "Archivieren"
+
+msgid "newsArchiveLast"
+msgstr "Archivierte Beiträge"
+
+msgid "newsPicAdd"
+msgstr "Weiteres Bild hinzufügen"
+
+msgid "newsPics"
+msgstr "Verfügbare Bilder"
+
+msgid "newsActivate"
+msgstr "Freischalten"
+
+msgid "newsCommentActivate"
+msgstr "Nicht freigeschaltete Kommentare"
+
+msgid "newsComments"
+msgstr "Kommentare"
+
+msgid "newsSeo"
+msgstr "SEO"
+
+msgid "newsPraefix"
+msgstr "Monatsübersicht-Präfix"
+
+msgid "newsCatCreate"
+msgstr "Neue Kategorie erstellen"
+
+msgid "newsCatEdit"
+msgstr "Kategorie bearbeiten"
+
+msgid "newsCatSort"
+msgstr "Kategoriesortierung"
+
+msgid "newsCatParent"
+msgstr "Oberkategorie"
+
+msgid "newsCatLastUpdate"
+msgstr "Letzte Aktualisierung"
+
+msgid "newsOverview"
+msgstr "Beiträge"
+
+msgid "newsCatOverview"
+msgstr "Kategorien"
+
+msgid "newsInfinite"
+msgstr "immer"
+
+msgid "newsCommentEdit"
+msgstr "Kommentar bearbeiten"
+
+msgid "newsMetaTitle"
+msgstr "Meta Title"
+
+msgid "newsMetaDescription"
+msgstr "Meta Description"
+
+msgid "newsMetaKeywords"
+msgstr "Meta Keywords"
+
+msgid "newsAuthor"
+msgstr "Autor"
+
+msgid "newsMandatoryFields"
+msgstr "(*) Pflichtfelder"
+
+msgid "newsAlreadyExists"
+msgstr "schon vorhanden"
+
+msgid "newsDeleteCat"
+msgstr "Folgende Blogkategorien und deren Unterkategorien werden gelöscht:"
+
+msgid "newsDeleteNews"
+msgstr "Blogbeitrag löschen"
+
+msgid "newsDeleteComment"
+msgstr "Kommentar löschen"
+
+msgid "errorNewsCatFirst"
+msgstr "Bitte legen Sie zuerst eine Blogkategorie an."
+
+msgid "successNewsCommmentEdit"
+msgstr "Blogkommentar wurde erfolgreich bearbeitet."
+
+msgid "successNewsDelete"
+msgstr "Markierte Blogbeiträge wurden erfolgreich gelöscht."
+
+msgid "errorAtLeastOneNews"
+msgstr "Bitte wählen Sie mindestens einen Blogbeitrag."
+
+msgid "successNewsCatDelete"
+msgstr "Markierte Blogkategorien wurden erfolgreich gelöscht."
+
+msgid "errorAtLeastOneNewsCat"
+msgstr "Bitte markieren Sie mindestens eine Blogkategorie."
+
+msgid "successNewsImageDelete"
+msgstr "Ausgewähltes Blogbild wurde erfolgreich gelöscht."
+
+msgid "errorNewsImageDelete"
+msgstr "Ausgewähltes Blogbild konnte nicht gelöscht werden."
+
+msgid "errorNewsCatNotFound"
+msgstr "Blogkategorie mit ID %d konnte nicht gefunden werden."
+
+msgid "successNewsCommentUnlock"
+msgstr "Markierte Blogkommentare wurden erfolgreich freigeschaltet."
+
+msgid "errorAtLeastOneNewsComment"
+msgstr "Bitte markieren Sie mindestens einen Blogkommentar."
+
+msgid "goOnEdit"
+msgstr " und weiterbearbeiten"
+
+msgid "mainCategory"
+msgstr "Hauptkategorie"
+
+msgid "deleteComment"
+msgstr "Möchten Sie die Kommentare wirklich löschen?"
+
+msgid "successNewsSave"
+msgstr "Blogbeitrag wurde erfolgreich gespeichert."
+
+msgid "successNewsCatSave"
+msgstr "Blogkategorie wurde erfolgreich eingetragen."
+
+msgid "successNewsCommentDelete"
+msgstr "Markierte Kommentare wurden erfolgreich gelöscht."
+
+msgid "commentReply"
+msgstr "Antwort"
+
+msgid "answerComment"
+msgstr "Auf Kommentar antworten"
+
+msgid "newsCommentAnswerEdit"
+msgstr "Antwort bearbeiten"
+
+msgid "displayedName"
+msgstr "Angezeigter Name"
+
+msgid "selectAuthor"
+msgstr "Autor auswählen"
+
+msgid "authorNotAvailable"
+msgstr "Nicht verfügbar"
+
+msgid "noNewsAuthor"
+msgstr "Kein Autor vorhanden. Kein Autor vorhanden. Falls Sie für den Beitrag einen verantwortlichen Autor angeben wollen, erstellen Sie bitte zuerst einen entsprechenden Benutzer mit Zugriffsrechten für den Blog."

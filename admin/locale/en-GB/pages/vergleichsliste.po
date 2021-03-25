@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "configureComparelist"
+msgstr "Comparison list"
+
+msgid "configureComparelistURL"
+msgstr "https://jtl-url.de/8g6qc"
+
+msgid "configureComparelistDesc"
+msgstr "Your customers can use the comparison list to view similar items side by side. You can adjust how the comparison list is displayed and view which items were compared by your customers."
+
+msgid "last20Compares"
+msgstr "All comparisons"
+
+msgid "topCompareProducts"
+msgstr "Most frequent comparisons"
+
+msgid "compareID"
+msgstr "Comparison ID"
+
+msgid "compareProducts"
+msgstr "Compared items"
+
+msgid "compareDate"
+msgstr "Comparison date"
+
+msgid "compareCount"
+msgstr "Number"
+
+msgid "compareProduct"
+msgstr "Items"
+
+msgid "compareTimeFilter"
+msgstr "Period"
+
+msgid "compareNoTopCompares"
+msgstr "No comparisons found."
+
+msgid "compareTopCount"
+msgstr "Number of items"
+
+msgid "compareSettings"
+msgstr "Settings"
+
+msgid "compareSave"
+msgstr "Save"

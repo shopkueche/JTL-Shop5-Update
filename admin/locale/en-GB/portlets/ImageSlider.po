@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Bilder-Slider"
+msgstr "Image slider"
+
+msgid "Slides"
+msgstr "Slides"
+
+msgid "Theme"
+msgstr "Theme"
+
+msgid "themeStandard"
+msgstr "Standard"
+
+msgid "themeBar"
+msgstr "Bar"
+
+msgid "themeBright"
+msgstr "Light"
+
+msgid "themeDark"
+msgstr "Dark"
+
+msgid "sliderAnimationSpeed"
+msgstr "Slider speed (ms)"
+
+msgid "pause"
+msgstr "Pause (ms)"
+
+msgid "autoStart"
+msgstr "Autostart"
+
+msgid "pauseOnHover"
+msgstr "Pause when hovering"
+
+msgid "pauseOnHoverPause"
+msgstr "yes"
+
+msgid "pauseOnHoverContinue"
+msgstr "no"
+
+msgid "pointNavigation"
+msgstr "Dot navigation"
+
+msgid "useKenBurnsEffect"
+msgstr "Use Ken Burns effect"
+
+msgid "overridesOtherSettings"
+msgstr "Overwrites other settings"
+
+msgid "showNavigationArrows"
+msgstr "Arrow navigation"
+
+msgid "randomEffects"
+msgstr "Random effects"
+
+msgid "kenBurnsDesc"
+msgstr "Slow panning and zooming effect into the image"
+
+msgid "randomEffectsDesc"
+msgstr "Switches randomly between all effects listed below."

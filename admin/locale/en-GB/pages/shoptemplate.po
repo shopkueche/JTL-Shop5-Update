@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "shoptemplates"
+msgstr "Templates for JTL-Shop"
+
+msgid "shoptemplateURL"
+msgstr "https://jtl-url.de/4t1so"
+
+msgid "shoptemplatesDesc"
+msgstr "This page contains all templates included in the folder \"/templates/\" of the JTL-Shop root directory. If you have a new template and want to use it, use <abbr title=\"FTP (File Transfer Protocol) is a data transfer protocol\">FTP</abbr> to move it to this directory first. You can only activate one normal and one mobile template for JTL-Shop at the same time. Use the button \"Settings\" to configure the activated template."
+
+msgid "templateName"
+msgstr "Template name"
+
+msgid "warning_responsive_mobile"
+msgstr "Responsive templates support all resolutions and should not be explicitly labelled as a template for mobile devices."
+
+msgid "successTemplateSave"
+msgstr "Template and settings changed successfully."
+
+msgid "errorTemplateSave"
+msgstr "Could not edit template or settings. If the template is a child template, please make sure that the respective parent template is available. If the problem persists, please contact the Support team."
+
+msgid "errorFileUpload"
+msgstr "Could not upload file. Please check the write access of folder \"%s\"."
+
+msgid "errorStyleFilePermission"
+msgstr "Could not write style file. File %s does not exist or does not have sufficient write access."
+
+msgid "successLayoutSave"
+msgstr "Layout changed successfully."
+
+msgid "standardTemplateMobil"
+msgstr "Template for mobile devices"
+
+msgid "optimizeBrowser"
+msgstr "No (optimised for standard browsers)"
+
+msgid "optimizeMobile"
+msgstr "Yes (optimised for mobile devices)"
+
+msgid "activateTemplate"
+msgstr "Activate template"
+
+msgid "inheritsFrom"
+msgstr "Inherits from %s"
+
+msgid "originalExists"
+msgstr "Original version exists"
+
+msgid "mobileDevices"
+msgstr "Mobile devices"
+
+msgid "parentTemplateMissing"
+msgstr "Missing parent template"
+
+msgid "errorOverlayWritePermissions"
+msgstr "Could not create item badges. Please check the write access of the folder \"%s\" and re-enable the template."
+
+msgid "successTemplateUpload"
+msgstr "Template uploaded successfully."
+
+msgid "uploadTemplateHeading"
+msgstr "Upload a template"
+
+msgid "errorTemplateUpload"
+msgstr "Could not upload template. Please contact the Support team."
+
+msgid "errorParentNotFound"
+msgstr "Parent template not found."
+
+msgid "errorShopVersionNotFound"
+msgstr "XML node \"ShopVersion\"/\"MinShopVersionParent\" not found."
+
+msgid "errorXmlNotFound"
+msgstr "template.xml not found."
+
+msgid "errorXmlParse"
+msgstr "Could not parse XML."
+
+msgid "errorNameNotFound"
+msgstr "XML node \"Name\" not found."
+
+msgid "errorInvalidVersion"
+msgstr "No valid SemVer."
+
+msgid "errorUnknown"
+msgstr "Unknown error."
+
+msgid "dangerMinShopVersion"
+msgstr "Please note: This template requires a newer version of JTL-Shop. This might lead to performance issues."
+
+msgid "dangerMaxShopVersion"
+msgstr "Please note: This template was developed for an older version of JTL-Shop. This might lead to performance issues."

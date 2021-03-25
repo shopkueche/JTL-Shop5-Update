@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "benutzer"
+msgstr "Benutzer und Rechte"
+
+msgid "benutzerDesc"
+msgstr "Hier verwalten Sie Benutzer und Gruppenberechtigungen für das Backend von JTL-Shop. Sie können neue Benutzer anlegen und diese einer Gruppe zuordnen. In der Registerkarte „Benutzergruppen“ setzen Sie Berechtigungen für bestimmte Bereiche des Backends."
+
+msgid "benutzerURL"
+msgstr "https://jtl-url.de/2t78f"
+
+msgid "benutzerTab"
+msgstr "Benutzer"
+
+msgid "benutzerKategorie"
+msgstr "Benutzer verwalten"
+
+msgid "benutzer2FA"
+msgstr "2-Faktor-Authentifizierung"
+
+msgid "benutzerLoginVersuche"
+msgstr "Fehlgeschlagene Anmeldeversuche"
+
+msgid "benutzerLetzterLogin"
+msgstr "Letzte Anmeldung"
+
+msgid "benutzerGueltigBis"
+msgstr "Gültig bis"
+
+msgid "benutzerSperren"
+msgstr "Zugang sperren"
+
+msgid "benutzerBearbeiten"
+msgstr "Benutzer bearbeiten"
+
+msgid "benutzerLoeschen"
+msgstr "Benutzer löschen"
+
+msgid "benutzerNeu"
+msgstr "Benutzer anlegen"
+
+msgid "sperrenLabel"
+msgstr "Benutzer sperren"
+
+msgid "entsperrenLabel"
+msgstr "Benutzer entsperren"
+
+msgid "loeschenLabelDeaktiviert"
+msgstr "Löschen nicht möglich. Die Benutzergruppe hat noch Mitglieder."
+
+msgid "gruppenTab"
+msgstr "Benutzergruppen"
+
+msgid "gruppenKategorie"
+msgstr "Benutzergruppen verwalten"
+
+msgid "gruppeNeu"
+msgstr "Benutzergruppe anlegen"
+
+msgid "gruppeBearbeiten"
+msgstr "Benutzergruppe bearbeiten"
+
+msgid "stateON"
+msgstr "Aktiviert"
+
+msgid "stateOFF"
+msgstr "Deaktiviert"
+
+msgid "errorSelfLock"
+msgstr "Sie können sich nicht selbst sperren."
+
+msgid "errorLockAdmin"
+msgstr "Administratoren können nicht gesperrt werden."
+
+msgid "successLock"
+msgstr "Benutzer wurde erfolgreich gesperrt."
+
+msgid "errorUserNotFound"
+msgstr "Benutzer wurde nicht gefunden."
+
+msgid "successUnlocked"
+msgstr "Benutzer wurde erfolgreich entsperrt."
+
+msgid "errorAtLeastOneAdmin"
+msgstr "Es muss mindestens ein Administrator im System vorhanden sein."
+
+msgid "successUserSave"
+msgstr "Benutzerdaten wurden erfolgreich bearbeitet."
+
+msgid "errorUserSave"
+msgstr "Benutzer konnte nicht gespeichert werden."
+
+msgid "successUserAdd"
+msgstr "Benutzer wurde erfolgreich angelegt."
+
+msgid "errorUserAdd"
+msgstr "Benutzer konnte nicht angelegt werden."
+
+msgid "errorSelfDelete"
+msgstr "Sie können sich nicht selbst löschen."
+
+msgid "successUserDelete"
+msgstr "Benutzer wurde erfolgreich gelöscht."
+
+msgid "errorUserDelete"
+msgstr "Benutzer konnte nicht gelöscht werden."
+
+msgid "errorAtLeastOneRight"
+msgstr "Sie müssen mindestens eine Berechtigung auswählen."
+
+msgid "successGroupEdit"
+msgstr "Benutzergruppe wurde erfolgreich bearbeitet."
+
+msgid "successGroupCreate"
+msgstr "Benutzergruppe wurde erfolgreich angelegt."
+
+msgid "successGroupDelete"
+msgstr "Benutzergruppe wurde erfolgreich gelöscht."
+
+msgid "errorGroupDelete"
+msgstr "Benutzergruppe konnte nicht gelöscht werden."
+
+msgid "errorGroupDeleteCustomer"
+msgstr "Die Benutzergruppe konnte nicht gelöscht werden, da sie noch mindestens ein Mitglied hat."
+
+msgid "errorKeyChange"
+msgstr " %s konnte nicht geändert werden!"
+
+msgid "sureDeleteGroup"
+msgstr "Möchten Sie die Gruppe wirklich löschen?"
+
+msgid "usernameNotAvailable"
+msgstr "Benutzername <strong>%s</strong> ist bereits vergeben."
+
+msgid "temporaryAccess"
+msgstr "Zeitlich begrenzter Zugriff"
+
+msgid "tillInclusive"
+msgstr "Bis einschließlich"
+
+msgid "errorUsernameMissing"
+msgstr "Bitte legen Sie zuerst in den Anmeldedaten einen Benutzernamen fest."
+
+msgid "warningAuthSecretOverwrite"
+msgstr "Das bisherige „Authentication Secret“ wird ersetzt. Möchten Sie fortfahren?"
+
+msgid "warningNoPermissionToBackendAfter"
+msgstr "Bitte beachten Sie, dass Sie nach dem Speichern mit diesem Benutzerkonto keine Möglichkeit mehr haben, in das Backend von JTL-Shop zu gelangen, falls Sie keinen Zugriff mehr auf die Google Authenticator App auf Ihrem Mobilgerät haben sollten!"
+
+msgid "infoScanQR"
+msgstr "Scannen Sie den hier abgebildeten QR-Code mit der Google Authenticator App auf Ihrem Handy."
+
+msgid "emergencyCode"
+msgstr "Notfall-Codes"
+
+msgid "codeCreateAgain"
+msgstr "Neue Codes erzeugen"
+
+msgid "clickHereToCreateQR"
+msgstr "Um einen neuen QR-Code zu erzeugen, klicken Sie bitte hier:"
+
+msgid "codeCreate"
+msgstr "Neuen Code erzeugen"
+
+msgid "emergencyCodeCreate"
+msgstr "Neue Notfall-Codes erzeugen"
+
+msgid "shopEmergencyCodes"
+msgstr "Notfall-Codes für das JTL-Shop-Backend"
+
+msgid "permission_SETTINGS_META_KEYWORD_BLACKLIST_VIEW"
+msgstr "Blacklist für Meta-Keywords"
+
+msgid "permission_EXPORT_SHOPINFO_VIEW"
+msgstr "Exportdatei shopinfo.xml (elm@ar)"
+
+msgid "permission_DASHBOARD_VIEW"
+msgstr "Dashboard"
+
+msgid "permission_SETTINGS_SEARCH_VIEW"
+msgstr "Einstellungen durchsuchen"
+
+msgid "permission_FILECHECK_VIEW"
+msgstr "Prüfung der Onlineshop-Dateien"
+
+msgid "permission_DBCHECK_VIEW"
+msgstr "Datenbankprüfung"
+
+msgid "permission_PERMISSIONCHECK_VIEW"
+msgstr "Verzeichnisprüfung"
+
+msgid "permission_WIZARD_VIEW"
+msgstr "Einrichten"
+
+msgid "permission_IMAGE_UPLOAD"
+msgstr "Hochladen von Bildern (für Slider und im OPC)"
+
+# description of admin group (tadminlogingruppe)
+msgid "Voller Zugriff auf den Administrationsbereich."
+msgstr "Voller Zugriff auf den Administrationsbereich"
+
+msgid "resume"
+msgstr "Über den Autor (wird z.&nbsp;B. bei Blogbeiträgen angezeigt)"
+
+msgid "personalInformation"
+msgstr "Autoreninformationen"
+
+msgid "avatar"
+msgstr "Benutzerbild"
+
+msgid "errorImageMissing"
+msgstr "Bitte wählen Sie ein Bild aus."
+
+msgid "errorImageUpload"
+msgstr "Fehler beim Hochladen des Bildes."
+
+msgid "noMenuItem"
+msgstr "Sonstiges"
+
+msgid "sureDeleteUser"
+msgstr "Möchten Sie den User wirklich löschen?"
+
+msgid "newUserTitle"
+msgstr "Benutzer erstellen"

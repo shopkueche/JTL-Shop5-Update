@@ -1,0 +1,22 @@
+
+.tooltip-inner { background-color: map-get($primary-palette, 'darker'); color: map-get($grays, 'light'); }
+
+.bs-tooltip-top,
+.bs-tooltip-auto[x-placement^=top] {
+	.arrow::before { border-top-color: map-get($primary-palette, 'darker'); }
+}
+
+.bs-tooltip-bottom,
+.bs-tooltip-auto[x-placement^=bottom] {
+	.arrow::before { border-bottom-color: map-get($primary-palette, 'darker'); }
+}
+
+.bs-tooltip-right,
+.bs-tooltip-auto[x-placement^=right] {
+	.arrow::before { border-right-color: map-get($primary-palette, 'darker'); }
+}
+
+.bs-tooltip-left,
+.bs-tooltip-auto[x-placement^=left] {
+	.arrow::before { border-left-color: map-get($primary-palette, 'darker'); }
+}

@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Bilder-Slider"
+msgstr "Bilder-Slider"
+
+msgid "Slides"
+msgstr "Slides"
+
+msgid "Theme"
+msgstr "Theme"
+
+msgid "themeStandard"
+msgstr "Standard"
+
+msgid "themeBar"
+msgstr "Balken"
+
+msgid "themeBright"
+msgstr "Hell"
+
+msgid "themeDark"
+msgstr "Dunkel"
+
+msgid "sliderAnimationSpeed"
+msgstr "Slidergeschwindigkeit (ms)"
+
+msgid "pause"
+msgstr "Pause (ms)"
+
+msgid "autoStart"
+msgstr "Autostart"
+
+msgid "pauseOnHover"
+msgstr "Pause bei Hover"
+
+msgid "pauseOnHoverPause"
+msgstr "ja"
+
+msgid "pauseOnHoverContinue"
+msgstr "nein"
+
+msgid "pointNavigation"
+msgstr "Punktnavigation"
+
+msgid "useKenBurnsEffect"
+msgstr "Ken-Burns-Effekt nutzen"
+
+msgid "overridesOtherSettings"
+msgstr "Überschreibt andere Einstellungen"
+
+msgid "showNavigationArrows"
+msgstr "Pfeilnavigation"
+
+msgid "randomEffects"
+msgstr "Zufällige Effekte"
+
+msgid "kenBurnsDesc"
+msgstr "Langsame Zoom- und Schwenkbewegung in das Bild"
+
+msgid "randomEffectsDesc"
+msgstr "Wechselt zufällig zwischen allen unten aufgelisteten Effekten"

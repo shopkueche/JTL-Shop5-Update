@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "auswahlassistent"
+msgstr "Selection wizard"
+
+msgid "auswahlassistentDesc"
+msgstr " "
+
+msgid "auswahlassistentURL"
+msgstr "https://jtl-url.de/6pvid"
+
+msgid "aaOverview"
+msgstr "Question groups"
+
+msgid "aaQuestion"
+msgstr "Creating questions"
+
+msgid "aaQuestionEdit"
+msgstr "Editing questions"
+
+msgid "aaGroup"
+msgstr "Creating question groups"
+
+msgid "aaGroupEdit"
+msgstr "Editing question groups"
+
+msgid "aaSpecialSite"
+msgstr "CMS (custom page)"
+
+msgid "aaLocation"
+msgstr "Display location"
+
+msgid "aaChoose"
+msgstr "Please select"
+
+msgid "aaStartseiteTaken"
+msgstr "Another group is already displayed on the start page."
+
+msgid "aaKatSyntax"
+msgstr "Please use the right syntax (e.g.: 57;58)."
+
+msgid "aaKatTaken"
+msgstr "Another group is already displayed for a selected category."
+
+msgid "aaLinkTaken"
+msgstr "Another group is already displayed on a selected special page."
+
+msgid "aaMerkmalTaken"
+msgstr "The selected characteristic has already been selected for a different question in this group."
+
+msgid "successGroupSaved"
+msgstr "Group saved successfully."
+
+msgid "successGroupDeleted"
+msgstr "Selected groups deleted successfully."
+
+msgid "errorGroupDeleted"
+msgstr "Could not delete selected groups."
+
+msgid "successQuestionSaved"
+msgstr "Question saved successfully."
+
+msgid "successQuestionDeleted"
+msgstr "Selected question deleted successfully."
+
+msgid "errorQuestionDeleted"
+msgstr "Could not delete the selected question."
+
+msgid "hintName"
+msgstr "Enter the name of the question group. It is only used internally."
+
+msgid "hintDesc"
+msgstr "Here you can enter a description for a question group, which will be shown above the group."
+
+msgid "questionCatInGroup"
+msgstr "Specify for which categories the question group will be displayed."
+
+msgid "noSpecialPageAvailable"
+msgstr "Special page \"Selection Wizard\" does not exist."
+
+msgid "hintSpecialPage"
+msgstr "Specify on which special page the group will be displayed. By holding Ctrl, you can select several pages at once."
+
+msgid "hintGroupOnHome"
+msgstr "Specify whether the group will be active on the start page of your JTL-Shop. Only one question group can be displayed on the start page."
+
+msgid "hintShowCheckbox"
+msgstr "Define whether the question group is active or not. Only active question groups are displayed."
+
+msgid "hintQuestionName"
+msgstr "Enter the question to your customers."
+
+msgid "hintQuestionGroup"
+msgstr "Assign the question to a question group."
+
+msgid "hintQuestionAttribute"
+msgstr "Define which characteristic will be asked for."
+
+msgid "hintQuestionPosition"
+msgstr "Specify in which position the question will be displayed. The smaller the number, the higher up the question will be displayed."
+
+msgid "hintQuestionActive"
+msgstr "Specify whether the question is active and will thus be displayed."

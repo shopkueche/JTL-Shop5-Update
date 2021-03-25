@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "statusemail"
+msgstr "Email reports"
+
+msgid "statusemailURL"
+msgstr "https://jtl-url.de/4oqs8"
+
+msgid "statusemailDesc"
+msgstr "You can have reports containing information on all online shop activities emailed to you on a regular basis."
+
+msgid "statusemailUse"
+msgstr "Use email reports"
+
+msgid "statusemailUseDesc"
+msgstr "Here you can activate the \"Email reports\" function."
+
+msgid "statusemailEmail"
+msgstr "Send email to"
+
+msgid "statusemailEmailDesc"
+msgstr "Enter the email address to which the report is to be sent."
+
+msgid "statusemailIntervall"
+msgstr "Period covered by report"
+
+msgid "statusemailIntervallDesc"
+msgstr "Specify the intervals in which reports are to be sent. Multiple selection is possible."
+
+msgid "statusemailContent"
+msgstr "Content of report"
+
+msgid "statusemailContentDesc"
+msgstr "Specify which information is to be included in the email reports. Multiple selection is possible."
+
+msgid "sendEmail"
+msgstr "Send email report now"
+
+msgid "contentTypeCountItemCustomerGroup"
+msgstr "Number of items per customer group"
+
+msgid "contentTypeCountNewCustomer"
+msgstr "Number of new customers"
+
+msgid "contentTypeCountNewCustomerOrdered"
+msgstr "Number of new customers who made a purchase"
+
+msgid "contentTypeCountOrders"
+msgstr "Number of orders"
+
+msgid "contentTypeCountOrdersNewCustomers"
+msgstr "Number of orders by new customers"
+
+msgid "contentTypeCountPayments"
+msgstr "Number of received payments for orders"
+
+msgid "contentTypeCountOrdersSent"
+msgstr "Number of shipped orders"
+
+msgid "contentTypeCountVisitors"
+msgstr "Number of visitors"
+
+msgid "contentTypeCountVisitorsSearchEngine"
+msgstr "Number of visitors via search engines"
+
+msgid "contentTypeCountRatings"
+msgstr "Number of customer reviews"
+
+msgid "contentTypeCountRatingsLocked"
+msgstr "Number of unactivated reviews"
+
+msgid "contentTypeCountRatingDepositPayed"
+msgstr "Number of granted review credits"
+
+msgid "contentTypeCountCustomerRecruited"
+msgstr "Number of acquired customers"
+
+msgid "contentTypeCountCustomerRecruitedOrdered"
+msgstr "Number of acquired customers who made a purchase"
+
+msgid "contentTypeCountSentWishlists"
+msgstr "Number of sent wish lists"
+
+msgid "contentTypeCountNewsComments"
+msgstr "Number of new blog comments"
+
+msgid "contentTypeCountNewsCommentsLocked"
+msgstr "Number of unactivated blog comments"
+
+msgid "contentTypeCountProductQuestion"
+msgstr "Number of new questions about item"
+
+msgid "contentTypeCountAvailabilityNotifications"
+msgstr "Number of availability requests"
+
+msgid "contentTypeCountProductCompare"
+msgstr "Number of item comparisons"
+
+msgid "contentTypeCountCouponsUsed"
+msgstr "Number of used coupons"
+
+msgid "contentTypeLastErrorLog"
+msgstr "Last error messages in system log"
+
+msgid "contentTypeLastNoteLog"
+msgstr "Last notes in system log"
+
+msgid "contentTypeLastDebugLog"
+msgstr "Last debug entries in system log"
+
+msgid "intervalDay"
+msgstr "Daily report"
+
+msgid "intervalWeek"
+msgstr "Weekly report"
+
+msgid "intervalMonth"
+msgstr "Monthly report"
+
+msgid "nextStatusMail"
+msgstr "The next %s will be sent on %s."
+
+msgid "contentTypeCountNewsletterOptOut"
+msgstr "Newsletter cancellations"
+
+msgid "contentTypeCountNewsletterOptIn"
+msgstr "Newsletter subscriptions"

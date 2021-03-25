@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "kundenfeld"
+msgstr "Erweiterte Kundendaten"
+
+msgid "kundenfeldURL"
+msgstr "https://jtl-url.de/nsmuy"
+
+msgid "kundenfeldDesc"
+msgstr "Hier können Sie eigene Formularfelder definieren, mit denen Sie bei der Erstellung von Kundenkonten und im Bestellvorgang weitere Kundendaten abfragen können."
+
+msgid "kundenfeldExistingDesc"
+msgstr "Ihre eigenen Formularfelder:"
+
+msgid "kundenfeldName"
+msgstr "Feldname in JTL-Shop"
+
+msgid "kundenfeldNameShort"
+msgstr "Feldname in JTL-Shop"
+
+msgid "kundenfeldPflicht"
+msgstr "Pflichtfeld"
+
+msgid "kundenfeldTyp"
+msgstr "Feldtyp"
+
+msgid "kundenfeldSortDesc"
+msgstr "Ganzzahl, z. B. 10 (wird bei mehreren Feldern 0 oder nichts eingetragen, erscheinen diese Felder in willkürlicher Sortierung)"
+
+msgid "kundenfeldPflichtDesc"
+msgstr "(*) = Pflichtfeld"
+
+msgid "kundenfeldWawi"
+msgstr "Feldname in JTL-Wawi"
+
+msgid "kundenfeldWawiShort"
+msgstr "Feldname in JTL-Wawi"
+
+msgid "kundenfeldEditable"
+msgstr "Nachträglich bearbeitbar"
+
+msgid "headingKundenfeldEdit"
+msgstr "Formularfeld bearbeiten"
+
+msgid "headingKundenfeldCreate"
+msgstr "Neues Formularfeld erstellen"
+
+msgid "successCustomerFieldDelete"
+msgstr "Ausgewählte Formularfelder wurden erfolgreich gelöscht."
+
+msgid "errorCustomerFieldDelete"
+msgstr "Ausgewählte Formularfelder konnten nicht gelöscht werden."
+
+msgid "errorAtLeastOneCustomerField"
+msgstr "Bitte wählen Sie mindestens ein Formularfeld aus."
+
+msgid "successCustomerFieldUpdate"
+msgstr "Formularfelder wurden erfolgreich aktualisiert."
+
+msgid "errorCustomerFieldUpdate"
+msgstr "Formularfelder konnten nicht aktualisiert werden."
+
+msgid "successCustomerFieldSave"
+msgstr "Formularfeld wurde erfolgreich gespeichert."
+
+msgid "errorCustomerFieldSave"
+msgstr "Formularfeld konnte nicht gespeichert werden."
+
+msgid "errorCustomerFieldNameExists"
+msgstr "Ein Feld mit diesem Namen existiert bereits."
+
+msgid "errorLoginTemporaryNotPossible"
+msgstr "Anmeldung zurzeit nicht möglich."
+
+msgid "errorLoginDataExpired"
+msgstr "Anmeldedaten nicht mehr gültig."
+
+msgid "errorFieldNeedsAtLeastOneValue"
+msgstr "Bitte geben Sie mindestens einen Wert für das Feld ein."
+
+msgid "errorChooseField"
+msgstr "Bitte wählen Sie zuerst ein Feld aus."
+
+msgid "sureDeleteSelected"
+msgstr "Möchten Sie die ausgewählten Felder wirklich löschen? Alle zugeordneten Kundenwerte gehen dabei verloren."
+
+msgid "infoChangeFieldType"
+msgstr "Wenn Sie den Feldtyp ändern, werden alle Kundenwerte – soweit möglich – automatisch an den neuen Typ angepasst."

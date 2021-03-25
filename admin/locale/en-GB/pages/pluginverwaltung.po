@@ -1,0 +1,792 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "pluginverwaltung"
+msgstr "Plug-in manager"
+
+msgid "pluginverwaltungLocales"
+msgstr "Language variables"
+
+msgid "pluginverwaltungLicenceKeyInput"
+msgstr "Licence key for plug-in"
+
+msgid "pluginverwaltungLicenceKey"
+msgstr "Licence key"
+
+msgid "pluginverwaltungDesc"
+msgstr "Plug-ins extend the functionality of JTL-Shop without changing its core. Go to the <a href=\"https://jtl-url.de/exs\" target=\"_blank\">JTL-Extension Store</a> to browse through a multitude of available extensions. Active plug-ins can be deactivated or uninstalled at any time. Please do not install any updates from unknown sources. <br/><strong>Security note: Plug-ins have access to the entire database of JTL-Shop.</strong>"
+
+msgid "pluginverwaltungURL"
+msgstr "https://jtl-url.de/gfso0"
+
+msgid "pluginListNotInstalled"
+msgstr "Available plug-ins (not installed)"
+
+msgid "pluginListNotActivated"
+msgstr "Available plug-ins (not active)"
+
+msgid "pluginListNotInstalledAndError"
+msgstr "Faulty plug-ins (not installed)"
+
+msgid "pluginListInstalled"
+msgstr "Installed plug-ins"
+
+msgid "pluginListProblems"
+msgstr "Installed plug-ins still to be configured"
+
+msgid "pluginName"
+msgstr "Name"
+
+msgid "pluginErrorCode"
+msgstr "Error code"
+
+msgid "pluginAuthor"
+msgstr "Author"
+
+msgid "pluginHomepage"
+msgstr "Website"
+
+msgid "pluginDesc"
+msgstr "Description"
+
+msgid "pluginLanguage"
+msgstr "Languages"
+
+msgid "pluginVersion"
+msgstr "Version"
+
+msgid "pluginCompatibility"
+msgstr "Online shop version"
+
+msgid "pluginInfo"
+msgstr "Info"
+
+msgid "pluginInstalled"
+msgstr "Installed on"
+
+msgid "pluginUpdated"
+msgstr "Updated on"
+
+msgid "pluginFolder"
+msgstr "Directory"
+
+msgid "statusInstalled"
+msgstr "Installed"
+
+msgid "statusDeactive"
+msgstr "Disabled"
+
+msgid "statusNotInstalled"
+msgstr "Not installed"
+
+msgid "statusError"
+msgstr "Faulty"
+
+msgid "pluginBtnUpdate"
+msgstr "Update"
+
+msgid "pluginBtnInstall"
+msgstr "Install"
+
+msgid "pluginBtnDeInstall"
+msgstr "Uninstall"
+
+msgid "pluginBtnDelete"
+msgstr "Delete"
+
+msgid "pluginBtnReload"
+msgstr "Reload"
+
+msgid "pluginBtnLicenceAdd"
+msgstr "Enter licence key"
+
+msgid "pluginBtnLicenceChange"
+msgstr "Edit"
+
+msgid "pluginBtnLicence"
+msgstr "Licence"
+
+msgid "pluginLocalesStd"
+msgstr "Reset to default settings"
+
+msgid "pluginEditLocales"
+msgstr "Language variables"
+
+msgid "pluginEditLinkgrps"
+msgstr "Link groups"
+
+msgid "pluginUpdateExists"
+msgstr "A newer plug-in version was uploaded. The plug-in can now be updated."
+
+msgid "pluginUpdateExistsError"
+msgstr "The plug-in does, however, have the following error."
+
+msgid "successPluginKeySave"
+msgstr "Licence key for plug-in saved successfully."
+
+msgid "errorPluginKeyInvalid"
+msgstr "Invalid licence key. Please check the licence key for potential typing errors and contact the Support team if necessary."
+
+msgid "errorPluginNotFound"
+msgstr "Could not find the plug-in in the database. Please install it again."
+
+msgid "successPluginActivate"
+msgstr "Selected plug-ins activated successfully."
+
+msgid "errorAtLeastOnePlugin"
+msgstr "Please select at least one plug-in."
+
+msgid "successPluginDeactivate"
+msgstr "Selected plug-ins deactivated successfully."
+
+msgid "errorPluginDeleteAtLeastOne"
+msgstr "At least one plugin could not be deleted."
+
+msgid "errorPluginDeleteSQL"
+msgstr "Could not uninstall plug-in due to an SQL error. Please check the log file."
+
+msgid "successPluginDelete"
+msgstr "Selected plug-ins uninstalled successfully."
+
+msgid "errorPluginNotFoundMultiple"
+msgstr "Could not find one or more plug-ins in the database. Please install the plug-in(s) again."
+
+msgid "successPluginRefresh"
+msgstr "Selected plug-ins updated successfully."
+
+msgid "errorPluginRefresh"
+msgstr "Could not update one plug-in. Please install the plug-in again."
+
+msgid "successPluginUpdate"
+msgstr "Plug-in updated successfully."
+
+msgid "errorPluginUpdate"
+msgstr "Could not perform update. Error code: "
+
+msgid "successPluginInstall"
+msgstr "Selected plug-ins installed successfully."
+
+msgid "errorPluginInstall"
+msgstr "Error during the installation. Error code: "
+
+msgid "successVariableRestore"
+msgstr "Selected variable successfully reset to default settings."
+
+msgid "surePluginUpdate"
+msgstr "Update plug-in?"
+
+msgid "successPluginUpload"
+msgstr "Plug-in uploaded successfully."
+
+msgid "errorPluginUpload"
+msgstr "Could not upload plug-in. Please contact the Support team."
+
+msgid "sureResetLangVar"
+msgstr "Reset language variable to default settings?<br/><br/> All edited translations of the variable will be deleted."
+
+msgid "dangerPluginNotCompatibleShop5"
+msgstr "Please note that the plug-in is not fully compatible with JTL-Shop&nbsp;5. This might lead to performance issues."
+
+msgid "dangerPluginNotCompatibleShop4"
+msgstr "Please note that the plug-in is not fully compatible with JTL-Shop&nbsp;4. This might lead to performance issues."
+
+msgid "dangerMinShopVersion"
+msgstr "Please note that the template requires a newer version of JTL-Shop. This might lead to performance issues."
+
+msgid "dangerMaxShopVersion"
+msgstr "Please note that the template was developed for an older version of JTL-Shop. This might lead to performance issues."
+
+msgid "licensePlugin"
+msgstr "Plug-in licence"
+
+msgid "deletePluginData"
+msgstr "Delete plug-in from database?"
+
+msgid "deletePluginFilesHeading"
+msgstr "Are you sure you want to try to delete all plugin files?"
+
+msgid "deletePluginFilesQuestion"
+msgstr "Also delete the associated files?"
+
+msgid "deletePluginDataYes"
+msgstr "Yes, delete all plug-in data."
+
+msgid "deletePluginDataNo"
+msgstr "No, keep plug-in data."
+
+msgid "WRONG_PARAM"
+msgstr "Plausibility check cancelled due to missing parameters."
+
+msgid "DIR_DOES_NOT_EXIST"
+msgstr "Plug-in directory does not exist."
+
+msgid "INFO_XML_MISSING"
+msgstr "File \"info.xml\" does not exist."
+
+msgid "NO_PLUGIN_FOUND"
+msgstr "Could not find selected plug-in in database."
+
+msgid "INVALID_NAME"
+msgstr "Invalid plug-in name convention."
+
+msgid "INVALID_PLUGIN_ID"
+msgstr "Invalid plug-in ID convention."
+
+msgid "INSTALL_NODE_MISSING"
+msgstr "Installation node not available."
+
+msgid "INVALID_XML_VERSION_NUMBER"
+msgstr "Invalid first version number convention."
+
+msgid "INVALID_VERSION_NUMBER"
+msgstr "Invalid version number convention."
+
+msgid "INVALID_DATE"
+msgstr "Invalid version date convention."
+
+msgid "MISSING_SQL_FILE"
+msgstr "The SQL file for the current version does not exist."
+
+msgid "MISSING_HOOKS"
+msgstr "No hooks available."
+
+msgid "INVALID_HOOK"
+msgstr "Invalid hook value convention."
+
+msgid "INVALID_CUSTOM_LINK_NAME"
+msgstr "Invalid \"CustomLink Name\" convention."
+
+msgid "INVALID_CUSTOM_LINK_FILE_NAME"
+msgstr "Invalid file name convention."
+
+msgid "MISSING_CUSTOM_LINK_FILE"
+msgstr "The CustomLink file does not exist."
+
+msgid "INVALID_CONFIG_LINK_NAME"
+msgstr "Invalid \"SettingsLink Name\" convention."
+
+msgid "MISSING_CONFIG"
+msgstr "No settings available."
+
+msgid "INVALID_CONFIG_TYPE"
+msgstr "Invalid \"Setting type\" convention."
+
+msgid "INVALID_CONFIG_INITIAL_VALUE"
+msgstr "Invalid \"Setting initialValue\" convention."
+
+msgid "INVALID_CONFIG_SORT_VALUE"
+msgstr "Invalid \"Setting sort\" convention."
+
+msgid "INVALID_CONFIG_NAME"
+msgstr "Invalid \"Settings Name\" convention."
+
+msgid "MISSING_CONFIG_SELECTBOX_OPTIONS"
+msgstr "\"SelectboxOptionen\" not available."
+
+msgid "INVALID_CONFIG_OPTION"
+msgstr "Invalid option convention."
+
+msgid "MISSING_LANG_VARS"
+msgstr "No language variables available."
+
+msgid "INVALID_LANG_VAR_NAME"
+msgstr "Invalid \"Variable Name\" convention."
+
+msgid "MISSING_LOCALIZED_LANG_VAR"
+msgstr "No localised language variable available."
+
+msgid "INVALID_LANG_VAR_ISO"
+msgstr "Invalid convention for ISO of localised language variable."
+
+msgid "INVALID_LOCALIZED_LANG_VAR_NAME"
+msgstr "Invalid convention for name of localised language variable."
+
+msgid "MISSING_HOOK_FILE"
+msgstr "No hook file available."
+
+msgid "MISSING_VERSION_DIR"
+msgstr "The version does not exist in the version folder."
+
+msgid "INVALID_CONF"
+msgstr "Invalid \"Setting conf\" convention."
+
+msgid "INVALID_CONF_VALUE_NAME"
+msgstr "Invalid \"Setting ValueName\" convention."
+
+msgid "INVALID_XML_VERSION"
+msgstr "Invalid XML version convention."
+
+msgid "INVALID_SHOP_VERSION"
+msgstr "Invalid convention for version of JTL-Shop."
+
+msgid "SHOP_VERSION_COMPATIBILITY"
+msgstr "This version of JTL-Shop is no longer compatible. You need a newer version."
+
+msgid "MISSING_FRONTEND_LINKS"
+msgstr "No front-end links available even though node was created."
+
+msgid "INVALID_FRONTEND_LINK_FILENAME"
+msgstr "Invalid \"Filename\" link convention."
+
+msgid "INVALID_FRONTEND_LINK_NAME"
+msgstr "Invalid \"LinkName\" convention."
+
+msgid "INVALID_FRONEND_LINK_VISIBILITY"
+msgstr "Invalid convention for specification of \"Only visible after login\"."
+
+msgid "INVALID_FRONEND_LINK_PRINT"
+msgstr "Invalid convention for specification of whether button \"Print\" is to be displayed."
+
+msgid "INVALID_FRONEND_LINK_ISO"
+msgstr "Invalid convention for ISO of link language."
+
+msgid "INVALID_FRONEND_LINK_SEO"
+msgstr "Invalid SEO name convention."
+
+msgid "INVALID_FRONEND_LINK_NAME"
+msgstr "Invalid name convention."
+
+msgid "INVALID_FRONEND_LINK_TITLE"
+msgstr "Invalid \"Title\" convention."
+
+msgid "INVALID_FRONEND_LINK_META_TITLE"
+msgstr "Invalid \"MetaTitle\" convention."
+
+msgid "INVALID_FRONEND_LINK_META_KEYWORDS"
+msgstr "Invalid \"MetaKeywords\" convention."
+
+msgid "INVALID_FRONEND_LINK_META_DESCRIPTION"
+msgstr "Invalid \"MetaDescription\" convention."
+
+msgid "INVALID_PAYMENT_METHOD_NAME"
+msgstr "Invalid name convention in payment methods."
+
+msgid "INVALID_PAYMENT_METHOD_MAIL"
+msgstr "Invalid \"SendMail\" convention in payment methods."
+
+msgid "INVALID_PAYMENT_METHOD_TSCODE"
+msgstr "Invalid \"TSCode\" convention in payment methods."
+
+msgid "INVALID_PAYMENT_METHOD_PRE_ORDER"
+msgstr "Invalid \"PreOrder\" convention in payment methods."
+
+msgid "INVALID_PAYMENT_METHOD_CLASS_FILE"
+msgstr "Invalid \"ClassFile\" convention in payment methods."
+
+msgid "MISSING_PAYMENT_METHOD_FILE"
+msgstr "The file for the payment method class is not available."
+
+msgid "INVALID_PAYMENT_METHOD_TEMPLATE"
+msgstr "Invalid \"TemplateFile\" convention in payment methods."
+
+msgid "MISSING_PAYMENT_METHOD_TEMPLATE"
+msgstr "The file for the payment method template is not available."
+
+msgid "MISSING_PAYMENT_METHOD_LANGUAGES"
+msgstr "No languages available in payment methods."
+
+msgid "INVALID_PAYMENT_METHOD_LANGUAGE_ISO"
+msgstr "Invalid convention for language ISO in the payment method."
+
+msgid "INVALID_PAYMENT_METHOD_NAME_LOCALIZED"
+msgstr "Invalid name convention in languages of payment methods."
+
+msgid "INVALID_PAYMENT_METHOD_CHARGE_NAME"
+msgstr "Invalid \"ChargeName\" convention in languages of payment methods."
+
+msgid "INVALID_PAYMENT_METHOD_INFO_TEXT"
+msgstr "Invalid \"InfoText\" convention in languages of payment methods."
+
+msgid "INVALID_PAYMENT_METHOD_CONFIG_TYPE"
+msgstr "Invalid \"type\" convention in a setting of the payment method."
+
+msgid "INVALID_PAYMENT_METHOD_CONFIG_INITITAL_VALUE"
+msgstr "Invalid \"initialValue\" convention in a setting of the payment method."
+
+msgid "INVALID_PAYMENT_METHOD_CONFIG_SORT"
+msgstr "Invalid \"sort\" convention in a setting of the payment method."
+
+msgid "INVALID_PAYMENT_METHOD_CONFIG_CONF"
+msgstr "Invalid \"conf\" convention in a setting of the payment method."
+
+msgid "INVALID_PAYMENT_METHOD_CONFIG_NAME"
+msgstr "Invalid \"Name\" convention in a setting of the payment method."
+
+msgid "INVALID_PAYMENT_METHOD_VALUE_NAME"
+msgstr "Invalid \"ValueName\" convention in a setting of the payment method."
+
+msgid "INVALID_PAYMENT_METHOD_SORT"
+msgstr "Invalid convention for sorting in payment methods."
+
+msgid "INVALID_PAYMENT_METHOD_SOAP"
+msgstr "Invalid \"Soap\" convention in payment methods."
+
+msgid "INVALID_PAYMENT_METHOD_CURL"
+msgstr "Invalid \"Curl\" convention in payment methods."
+
+msgid "INVALID_PAYMENT_METHOD_SOCKETS"
+msgstr "Invalid \"Sockets\" convention in payment methods."
+
+msgid "INVALID_PAYMENT_METHOD_CLASS_NAME"
+msgstr "Invalid \"ClassName\" convention in payment methods."
+
+msgid "INVALID_FULLSCREEN_TEMPLATE"
+msgstr "Invalid convention for full-screen template name."
+
+msgid "MISSING_FRONTEND_LINK_TEMPLATE"
+msgstr "The template file for the front-end link is not available."
+
+msgid "TOO_MANY_FULLSCREEN_TEMPLATE_NAMES"
+msgstr "Only one template name or one full-screen template name must exist."
+
+msgid "INVALID_FULLSCREEN_TEMPLATE_NAME"
+msgstr "Invalid convention for full-screen template name."
+
+msgid "MISSING_FULLSCREEN_TEMPLATE_FILE"
+msgstr "The full-screen template file for the front-end link does not exist."
+
+msgid "INVALID_FRONTEND_LINK_TEMPLATE_FULLSCREEN_TEMPLATE"
+msgstr "Enter a template name or a full-screen template name for a front-end link."
+
+msgid "MISSING_BOX"
+msgstr "No box available."
+
+msgid "INVALID_BOX_NAME"
+msgstr "Invalid \"Box Name\" convention."
+
+msgid "INVALID_BOX_TEMPLATE"
+msgstr "Invalid \"Box TemplateFile\" convention."
+
+msgid "MISSING_BOX_TEMPLATE_FILE"
+msgstr "\"Box TemplateFile\" not available."
+
+msgid "MISSING_LICENCE_FILE"
+msgstr "Licence class not available."
+
+msgid "INVALID_LICENCE_FILE_NAME"
+msgstr "Invalid convention for licence class name."
+
+msgid "MISSING_LICENCE"
+msgstr "Licence class not defined."
+
+msgid "MISSING_LICENCE_CHECKLICENCE_METHOD"
+msgstr "Undefined \"checkLicence\" method in licence class."
+
+msgid "DUPLICATE_PLUGIN_ID"
+msgstr "The plug-in ID already exists in the database."
+
+msgid "MISSING_EMAIL_TEMPLATES"
+msgstr "No email templates available even though node was created."
+
+msgid "INVALID_TEMPLATE_NAME"
+msgstr "Invalid template name convention."
+
+msgid "INVALID_TEMPLATE_TYPE"
+msgstr "Invalid convention for the setting \"Type\" of the template."
+
+msgid "INVALID_TEMPLATE_MODULE_ID"
+msgstr "Invalid convention for the module ID of the template."
+
+msgid "INVALID_TEMPLATE_ACTIVE"
+msgstr "Invalid \"Template Active\" convention."
+
+msgid "INVALID_TEMPLATE_AKZ"
+msgstr "Invalid \"Template AKZ\" convention."
+
+msgid "INVALID_TEMPLATE_AGB"
+msgstr "Invalid \"Template AGB\" convention."
+
+msgid "INVALID_TEMPLATE_WRB"
+msgstr "Invalid \"Template WRB\" convention."
+
+msgid "INVALID_EMAIL_TEMPLATE_ISO"
+msgstr "Invalid convention for language ISO of the email template."
+
+msgid "INVALID_EMAIL_TEMPLATE_SUBJECT"
+msgstr "Invalid \"Subject Name\" convention."
+
+msgid "MISSING_EMAIL_TEMPLATE_LANGUAGE"
+msgstr "No template languages available."
+
+msgid "INVALID_CHECKBOX_FUNCTION_NAME"
+msgstr "Invalid \"CheckBoxFunction Name\" convention."
+
+msgid "INVALID_CHECKBOX_FUNCTION_ID"
+msgstr "Invalid \"CheckBoxFunction ID\" convention."
+
+msgid "INVALID_FRONTEND_LINK_NO_FOLLOW"
+msgstr "Invalid convention for front-end link attribute \"NoFollow\"."
+
+msgid "MISSING_WIDGETS"
+msgstr "No widgets available."
+
+msgid "INVALID_WIDGET_TITLE"
+msgstr "Invalid \"Widget Title\" convention."
+
+msgid "INVALID_WIDGET_CLASS"
+msgstr "Invalid \"Widget Class\" convention."
+
+msgid "MISSING_WIDGET_CLASS_FILE"
+msgstr "The file for the class of \"AdminWidget\" is not available."
+
+msgid "INVALID_WIDGET_CONTAINER"
+msgstr "Invalid convention for \"Container\" in the widget."
+
+msgid "INVALID_WIDGET_POS"
+msgstr "Invalid convention for \"Pos\" in the widget."
+
+msgid "INVALID_WIDGET_EXPANDED"
+msgstr "Invalid convention for \"Expanded\" in the widget."
+
+msgid "INVALID_WIDGET_ACTIVE"
+msgstr "Invalid convention for \"Active\" in the widget."
+
+msgid "INVALID_PAYMENT_METHOD_ADDITIONAL_STEP_TEMPLATE_FILE"
+msgstr "Invalid convention for \"AdditionalTemplateFile\" in payment methods."
+
+msgid "MISSING_PAYMENT_METHOD_ADDITIONAL_STEP_FILE"
+msgstr "The file for the extra-step template of the payment method is not available."
+
+msgid "MISSING_FORMATS"
+msgstr "No formats available."
+
+msgid "INVALID_FORMAT_NAME"
+msgstr "Invalid \"Format Name\" convention."
+
+msgid "INVALID_FORMAT_FILE_NAME"
+msgstr "Invalid \"Format Filename\" convention."
+
+msgid "MISSING_FORMAT_CONTENT"
+msgstr "Format contains neither content nor a content file."
+
+msgid "INVALID_FORMAT_ENCODING"
+msgstr "Invalid \"Format Encoding\" convention."
+
+msgid "INVALID_FORMAT_SHIPPING_COSTS_DELIVERY_COUNTRY"
+msgstr "Invalid \"Format ShippingCostsDeliveryCountry\" convention."
+
+msgid "INVALID_FORMAT_CONTENT_FILE"
+msgstr "Invalid \"Format ContentFile\" convention."
+
+msgid "MISSING_EXTENDED_TEMPLATE"
+msgstr "No template available."
+
+msgid "INVALID_EXTENDED_TEMPLATE_FILE_NAME"
+msgstr "Invalid template file convention."
+
+msgid "MISSING_EXTENDED_TEMPLATE_FILE"
+msgstr "No template file available."
+
+msgid "MISSING_UNINSTALL_FILE"
+msgstr "Uninstall file not available."
+
+msgid "IONCUBE_REQUIRED"
+msgstr "The plug-in requires ionCube."
+
+msgid "INVALID_OPTIONS_SOURE_FILE"
+msgstr "No file \"OptionsSource\" specified."
+
+msgid "MISSING_OPTIONS_SOURE_FILE"
+msgstr "File \"OptionsSource\" not available."
+
+msgid "MISSING_BOOTSTRAP_CLASS"
+msgstr "Bootstrap class \"%cPluginID%\\Bootstrap\" not available."
+
+msgid "INVALID_BOOTSTRAP_IMPLEMENTATION"
+msgstr "Bootstrap class \"%cPluginID%\\Bootstrap\" must implement \"PlugInterface\"."
+
+msgid "INVALID_AUTHOR"
+msgstr "Invalid author convention."
+
+msgid "MISSING_PORTLETS"
+msgstr "No portlets available."
+
+msgid "INVALID_PORTLET_TITLE"
+msgstr "Invalid \"Portlet Title\" convention."
+
+msgid "INVALID_PORTLET_CLASS"
+msgstr "Invalid \"Portlet Class\" convention."
+
+msgid "INVALID_PORTLET_CLASS_FILE"
+msgstr "The file for the portlet class is not available."
+
+msgid "INVALID_PORTLET_GROUP"
+msgstr "Invalid convention for \"Group\" in the portlet."
+
+msgid "INVALID_PORTLET_ACTIVE"
+msgstr "Invalid convention for \"Active\" in the portlet."
+
+msgid "MISSING_BLUEPRINTS"
+msgstr "No blueprints available."
+
+msgid "INVALID_BLUEPRINT_NAME"
+msgstr "Invalid \"Blueprint Name\" convention."
+
+msgid "INVALID_BLUEPRINT_FILE"
+msgstr "Blueprint file not available."
+
+msgid "EXT_MUST_NOT_HAVE_UNINSTALLER"
+msgstr "Plug-in must not define an uninstaller."
+
+msgid "WRONG_EXT_DIR"
+msgstr "Plug-in installed in incorrect folder."
+
+msgid "unknownError"
+msgstr "Unknown error."
+
+msgid "errorPrefix"
+msgstr "Error: "
+
+msgid "MISSING_PAYMENT_METHOD_SELECTBOX_OPTIONS"
+msgstr "No Selectbox option for payment method."
+
+msgid "INVALID_PAYMENT_METHOD_OPTION"
+msgstr "Faulty option for payment method."
+
+msgid "OK_LEGACY"
+msgstr "Legacy plug-in. Everything is okay."
+
+msgid "MISSING_PLUGIN_NODE"
+msgstr "Missing plug-in node \"jtlshopplugin\"."
+
+msgid "SQL_MISSING_DATA"
+msgstr "SQL missing data."
+
+msgid "SQL_ERROR"
+msgstr "SQL error."
+
+msgid "SQL_WRONG_TABLE_NAME_DELETE"
+msgstr "SQL Delete - wrong table name."
+
+msgid "SQL_WRONG_TABLE_NAME_CREATE"
+msgstr "SQL Create - wrong table name"
+
+msgid "SQL_INVALID_FILE_CONTENT"
+msgstr "SQL file has no lines"
+
+msgid "SQL_CANNOT_SAVE_HOOK"
+msgstr "SQL cannot save hook."
+
+msgid "SQL_CANNOT_SAVE_UNINSTALL"
+msgstr "SQL problem saving to tpluginuninstall."
+
+msgid "SQL_CANNOT_SAVE_ADMIN_MENU_ITEM"
+msgstr "SQL Cannot save admin menu item."
+
+msgid "SQL_CANNOT_SAVE_SETTINGS_ITEM"
+msgstr "SQL Cannot save setting option."
+
+msgid "SQL_CANNOT_SAVE_SETTING"
+msgstr "SQL Cannot save setting."
+
+msgid "SQL_CANNOT_FIND_LINK_GROUP"
+msgstr "SQL Cannot find link group."
+
+msgid "SQL_CANNOT_SAVE_LINK"
+msgstr "SQL Cannot save link."
+
+msgid "SQL_CANNOT_SAVE_PAYMENT_METHOD"
+msgstr "SQL Cannot save payment method."
+
+msgid "SQL_CANNOT_SAVE_PAYMENT_METHOD_LOCALIZATION"
+msgstr "SQL Cannot save payment method localisation."
+
+msgid "SQL_CANNOT_SAVE_PAYMENT_METHOD_LANGUAGE"
+msgstr "SQL Cannot save payment method language."
+
+msgid "SQL_CANNOT_SAVE_PAYMENT_METHOD_SETTING"
+msgstr "SQL Cannot save payment setting."
+
+msgid "SQL_CANNOT_SAVE_BOX_TEMPLATE"
+msgstr "SQL Cannot save box template."
+
+msgid "SQL_CANNOT_SAVE_TEMPLATE"
+msgstr "SQL Cannot save template."
+
+msgid "SQL_CANNOT_SAVE_EMAIL_TEMPLATE"
+msgstr "SQL Cannot save email template."
+
+msgid "SQL_CANNOT_SAVE_LANG_VAR"
+msgstr "SQL Cannot save language variable."
+
+msgid "SQL_CANNOT_SAVE_LANG_VAR_LOCALIZATION"
+msgstr "SQL Cannot save language variable localisation."
+
+msgid "SQL_CANNOT_SAVE_WIDGET"
+msgstr "SQL Cannot save widget."
+
+msgid "SQL_CANNOT_SAVE_PORTLET"
+msgstr "SQL Cannot save portlet."
+
+msgid "SQL_CANNOT_SAVE_BLUEPRINT"
+msgstr "SQL Cannot save OPC blueprint."
+
+msgid "SQL_CANNOT_SAVE_EXPORT"
+msgstr "SQL Cannot save export."
+
+msgid "INVALID_STORE_ID"
+msgstr "Wrong Store ID."
+
+msgid "SQL_CANNOT_SAVE_VENDOR"
+msgstr "SQL Cannot save vendor."
+
+msgid "MISSING_CONSENT_VENDOR"
+msgstr "Missing consent vendor."
+
+msgid "INVALID_CONSENT_VENDOR_NAME"
+msgstr "Invalid consent vendor name."
+
+msgid "INVALID_CONSENT_VENDOR_PURPOSE"
+msgstr "Invalid consent vendor purpose."
+
+msgid "INVALID_CONSENT_VENDOR_LOCALIZATION"
+msgstr "Invalid consent vendor localisation."
+
+msgid "INVALID_CONSENT_VENDOR_LOCALIZATION_ISO"
+msgstr "Invalid consent vendor ISO."
+
+msgid "INVALID_CONSENT_VENDOR_DESCRIPTION"
+msgstr "Invalid consent vendor description."
+
+msgid "INVALID_CONSENT_VENDOR_PRIV_POL"
+msgstr "Invalid consent vendor data privacy notice."
+
+msgid "INVALID_CONSENT_VENDOR_ID"
+msgstr "Invalid consent vendor ID."
+
+msgid "INVALID_CONSENT_VENDOR_COMPANY"
+msgstr "Invalid consent vendor company."
+
+msgid "Deaktiviert"
+msgstr "Disabled"
+
+msgid "Aktiviert"
+msgstr "Enabled"
+
+msgid "Fehlerhaft"
+msgstr "Faulty"
+
+msgid "Update fehlgeschlagen"
+msgstr "Update failed"
+
+msgid "Lizenzschlüssel fehlt"
+msgstr "Missing licence key"
+
+msgid "Lizenzschlüssel ungültig"
+msgstr "Invalid licence key"
+
+msgid "Lizenz abgelaufen"
+msgstr "Licence expired"
+
+msgid "Subscription abgelaufen"
+msgstr "Subscription expired"
+
+msgid "Unbekannt"
+msgstr "Unknown"
+
+msgid "Safe mode restrictions."
+msgstr "Please note: In safe mode, plug-ins might not be fully deactivated or uninstalled. This could lead to unused data remaining in the database."
+
+msgid "Plugin probably flawed"
+msgstr "The plug-in might cause failures: "

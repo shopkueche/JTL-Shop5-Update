@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "plz_ort_import"
+msgstr "Postleitzahlen und Orte importieren"
+
+msgid "plz_ort_importDesc"
+msgstr "Auf dieser Seite können Sie aktuelle Daten zu Postleitzahlen und Orten aus OpenGeoDB importieren."
+
+msgid "plz_ort_available"
+msgstr "Vorhandene Postleitzahlen / Ortsdaten"
+
+msgid "plz_ort_size"
+msgstr "Dateigröße"
+
+msgid "plz_ort_import_new"
+msgstr "Importieren"
+
+msgid "plz_ort_import_select"
+msgstr "Import auswählen"
+
+msgid "plz_ort_import_select_failed"
+msgstr "Liste der verfügbaren Importe konnte nicht geladen werden."
+
+msgid "plz_ort_import_load"
+msgstr "Wird geladen…"
+
+msgid "plz_ort_import_tmp_exists"
+msgstr "Es wurde ein temporärer Import in der Datenbank gefunden. Soll dieser gelöscht werden?"
+
+msgid "plz_ort_import_delete_no"
+msgstr "Nein, nicht löschen"
+
+msgid "plz_ort_import_delete_yes"
+msgstr "Ja, löschen"
+
+msgid "plz_ort_import_refresh_desc"
+msgstr "Neue Daten importieren"
+
+msgid "plz_ort_import_reset_desc"
+msgstr "Zurücksetzen auf Stand vor Aktualisierung"
+
+msgid "plz_ort_import_help"
+msgstr "Über „Neue Daten importieren“ können Sie direkt von <i>%s</i> eine Datendatei herunterladen und automatisch installieren.<br/>Sollte der direkte Download nicht möglich sein oder wg. Zeitüberschreitung abbrechen, laden Sie die gewünschte Datei bitte per FTP in das Verzeichnis <i>/uploads</i> Ihres Webservers. Die Datei kann dann über das <i class=\"fa fa-download\"></i>-Symbol in der Übersicht importiert werden.<br/>Vor dem Import wird ein Backup der aktuellen Daten erstellt, welches bei Bedarf zurückgespielt werden kann."
+
+msgid "errorImportInvalid"
+msgstr "Importdatei für %s kann nicht gelesen werden!"
+
+msgid "importProgress"
+msgstr "%s wird in Datenbank aktualisiert…"
+
+msgid "successImport"
+msgstr "Import erfolgreich."
+
+msgid "errorParameterInvalid"
+msgstr "Der eingegebene Parameter ist ungültig."
+
+msgid "errorDownload"
+msgstr "%s kann nicht heruntergeladen werden."
+
+msgid "errorDownloadFileCreate"
+msgstr "Download-Datei für %s kann nicht erstellt werden. Eventuell ist die Seite %s gerade nicht erreichbar. Bitte versuchen Sie es später erneut."
+
+msgid "errorDownloadTimeLong"
+msgstr "Der Download von %s wurde aufgrund einer Zeitüberschreitung abgebrochen. Bitte wenden Sie sich an den Support."
+
+msgid "successDownload"
+msgstr "%s wurde erfolgreich heruntergeladen."
+
+msgid "errorImportRunning"
+msgstr "Es läuft bereits ein Import. Bitte warten Sie, bis dieser abgeschlossen ist."
+
+msgid "errorImportStart"
+msgstr "Der Import kann nicht gestartet werden. Die Sitzung ist abgelaufen. Bitte melden Sie sich erneut an. Sollte der Fehler weiterhin auftreten, wenden Sie sich an den Support."
+
+msgid "successImportTempDelete"
+msgstr "Temporärer Import wurde erfolgreich gelöscht."
+
+msgid "importCancel"
+msgstr "Import wurde abgebrochen."
+
+msgid "importDataFrom"
+msgstr "Importiere Daten aus %s"
+
+msgid "createBackupFrom"
+msgstr "Erstelle Backup von %s ..."
+
+msgid "downloadFrom"
+msgstr "Download von %s"
+
+msgid "importPending"
+msgstr "Importing %s …"

@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "systemcheck"
+msgstr "Systemprüfung"
+
+msgid "systemcheckURL"
+msgstr "https://jtl-url.de/njc39"
+
+msgid "systemcheckDesc"
+msgstr "Die Systemprüfung überprüft relevante serverseitige Einstellungen."
+
+msgid "noteImportantCheckSettings"
+msgstr "Um einen einwandfreien Betrieb gewährleisten zu können, ist es zwingend erforderlich, alle <code>markierten</code> Eigenschaften zu überprüfen."
+
+msgid "suggestedAdjustments"
+msgstr "Empfohlene Anpassungen"
+
+msgid "suggestedValue"
+msgstr "Empfohlener Wert"
+
+msgid "neededPHPExtensions"
+msgstr "Benötigte PHP-Erweiterungen und -Funktionen"
+
+msgid "needPHPSetting"
+msgstr "Benötigte PHP-Einstellungen"
+
+msgid "neededValue"
+msgstr "Benötigter Wert"

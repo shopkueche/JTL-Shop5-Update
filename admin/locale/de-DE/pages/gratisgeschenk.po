@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "ggActiveProducts"
+msgstr "Aktive Geschenke"
+
+msgid "ggCommonBuyedProducts"
+msgstr "Am häufigsten gekauft"
+
+msgid "ggLast100Products"
+msgstr "Letzte 100"
+
+msgid "ggOrderValueMin"
+msgstr "Bestellbar ab"
+
+msgid "ggCount"
+msgstr "Gewählt"
+
+msgid "ggDate"
+msgstr "Erstellt"
+
+msgid "ggHeader"
+msgstr "Gratisgeschenk"
+
+msgid "ggURL"
+msgstr "https://jtl-url.de/qoo2h"
+
+msgid "ggOrdered"
+msgstr "Bestellt am"
+
+msgid "gglastOrdered"
+msgstr "Zuletzt"
+
+msgid "ggOrderValue"
+msgstr "Bestellwert"
+
+msgid "ggOrderValueAverage"
+msgstr "Durchschn. Bestellwert"

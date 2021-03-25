@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# Titles
+msgid "JTL Shop Administration"
+msgstr "Administration of JTL-Shop"
+
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+msgid "Search item"
+msgstr "Search term"
+
+# Top Menu
+msgid "Appearance"
+msgstr "View"
+
+# Mid Menu
+msgid "Templates"
+msgstr "Templates"
+
+# Mid Menu
+msgid "Images"
+msgstr "Images"
+
+# Menu Items
+msgid "Image settings"
+msgstr "Image settings"
+
+msgid "Watermark"
+msgstr "Watermark"
+
+msgid "Shop logo"
+msgstr "Logo"
+
+msgid "Item badges"
+msgstr "Item badges"
+
+# Top Menu
+msgid "Contents"
+msgstr "Contents"
+
+# Mid Menu
+msgid "Item"
+msgstr "Items"
+
+msgid "Item detail page"
+msgstr "Item detail page"
+
+msgid "Reviews"
+msgstr "Customer reviews"
+
+msgid "Price history"
+msgstr "Price history"
+
+msgid "Warehouse display"
+msgstr "Warehouse stocks"
+
+# Top Menu
+msgid "Pages"
+msgstr "Pages"
+
+# Mid Menu
+msgid "OnPage Composer"
+msgstr "OnPage Composer"
+
+# Menu Items
+msgid "Home page"
+msgstr "Start page"
+
+msgid "Terms / Withdrawal"
+msgstr "Terms/Withdrawal"
+
+msgid "Blog posts"
+msgstr "Blog postings"
+
+msgid "Footer / Boxes"
+msgstr "Footers/Boxes"
+
+msgid "Languages"
+msgstr "Language variables"
+
+# Mid Menu
+msgid "Forms"
+msgstr "Forms"
+
+# Menu Items
+msgid "Registration"
+msgstr "Registration"
+
+msgid "Contact form"
+msgstr "Contact form"
+
+msgid "Extended customer data"
+msgstr "Extended customer data"
+
+msgid "Check boxes"
+msgstr "Check boxes"
+
+# Mid Menu
+msgid "Email"
+msgstr "Email"
+
+msgid "Reports"
+msgstr "Reports"
+
+msgid "Blacklist"
+msgstr "Blacklist"
+
+# Menu Items
+msgid "Checkout"
+msgstr "Order process"
+
+msgid "Baskets"
+msgstr "Baskets"
+
+msgid "Free gifts"
+msgstr "Free gifts"
+
+# Mid Menu
+msgid "Payments"
+msgstr "Payments"
+
+# Menu Items
+msgid "Payment methods"
+msgstr "Payment methods"
+
+# Mid Menu
+msgid "Shipments"
+msgstr "Shipments"
+
+# Menu Items
+msgid "Shipping methods"
+msgstr "Shipping methods"
+
+msgid "Additional packaging"
+msgstr "Additional packaging"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Coupons"
+msgstr "Coupons"
+
+msgid "Wish list"
+msgstr "Wish list"
+
+msgid "Comparison list"
+msgstr "Comparison list"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+# Menu Items
+msgid "Banners"
+msgstr "Banners"
+
+msgid "Sliders"
+msgstr "Sliders"
+
+msgid "Campaigns"
+msgstr "Campaigns"
+
+# Mid Menu
+msgid "Statistics"
+msgstr "Statistics"
+
+# Menu Items
+msgid "Sales"
+msgstr "Sales revenues"
+
+msgid "Visitors"
+msgstr "Visitors"
+
+msgid "Referrer pages"
+msgstr "Origin pages"
+
+msgid "Search engines"
+msgstr "Search engines"
+
+msgid "Entry pages"
+msgstr "Start pages"
+
+msgid "Coupon statistics"
+msgstr "Coupons"
+
+# Mid Menu
+msgid "Import"
+msgstr "Import"
+
+# Menu Items
+msgid "Customers"
+msgstr "Customers"
+
+msgid "Newsletters"
+msgstr "Newsletter"
+
+msgid "Postal codes"
+msgstr "Postal codes"
+
+# Mid Menu
+msgid "Export"
+msgstr "Export"
+
+# Menu Items
+msgid "Export manager"
+msgstr "Export manager"
+
+msgid "Other formats"
+msgstr "Other formats"
+
+msgid "Site map"
+msgstr "Sitemap"
+
+msgid "RSS feed"
+msgstr "RSS feed"
+
+# Top Menu
+msgid "Administration"
+msgstr "Administration"
+
+# Mid Menu
+msgid "Settings"
+msgstr "Settings"
+
+# Menu Items
+msgid "System"
+msgstr "System"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "JTL-Wawi synchronisation"
+msgstr "Sync with JTL-Wawi"
+
+msgid "Meta data"
+msgstr "Meta data"
+
+msgid "SEO path"
+msgstr "SEO paths"
+
+msgid "Number formats"
+msgstr "Number formats"
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "Filesystem"
+msgstr "File system"
+
+# Mid Menu
+msgid "Maintenance"
+msgstr "Maintenance"
+
+# Menu Items
+msgid "Orders"
+msgstr "Orders"
+
+msgid "Approvals"
+msgstr "Activations"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Item images"
+msgstr "Images"
+
+msgid "Forwarding"
+msgstr "Forwarding"
+
+msgid "Reset"
+msgstr "Reset"
+
+# Mid Menu
+msgid "Search"
+msgstr "Search & item lists"
+
+msgid "Item overview"
+msgstr "Item overview"
+
+msgid "Search queries"
+msgstr "Search queries"
+
+msgid "Cron"
+msgstr "Cron"
+
+# Top Menu
+msgid "Plug-ins"
+msgstr "Plug-ins"
+
+# Mid Menu
+msgid "Overview"
+msgstr "Overview"
+
+msgid "Plug-in manager"
+msgstr "Plug-in manager"
+
+msgid "My purchases"
+msgstr "My purchases"
+
+msgid "Plug-in profiler"
+msgstr "Plug-in profiler"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "System check"
+msgstr "System check"
+
+msgid "Consent manager"
+msgstr "Consent manager"
+
+msgid "Manage favorites"
+msgstr "Managing favourites"
+
+msgid "First steps"
+msgstr "First steps"
+
+msgid "JTL guide"
+msgstr "JTL-Guide"
+
+msgid "JTL forum"
+msgstr "JTL-Forum"
+
+msgid "Training"
+msgstr "Training"
+
+msgid "Service partner"
+msgstr "Service partners"
+
+msgid "To the shop"
+msgstr "Go to online shop"
+
+msgid "Logout"
+msgstr "Log out"
+
+# Notfications
+msgid "System update"
+msgstr "System update"
+
+msgid "A database update is mandatory"
+msgstr "A database update is required."
+
+msgid "Data system"
+msgstr "File system"
+
+msgid "Some directories are not writeable."
+msgstr "Some directories are not writeable."
+
+msgid "Please delete the installation directory '/install' in the root directory."
+msgstr "Please delete the installation directory '/install/' in the root directory of your JTL-Shop."
+
+msgid "Database"
+msgstr "Database"
+
+msgid "There are errors within the database structure."
+msgstr "Error in the database structure."
+
+msgid "Your template version differs from your shop version.<br />For additional help about template updates go to <i class=\"fa fa-external-link\"></i> Wiki"
+msgstr "The template version does not match the version of our online shop.<br/>For further information on adjusting the template, please see the <i class=\"fa fa-external-link\"></i> JTL-Guide."
+
+msgid "You are using a full responsive template. The activation of a separate mobile template is not necessary in this case."
+msgstr "You are using a fully responsive template. It is not necessary to activate a separate mobile template."
+
+msgid "You have activated a non-standard template!"
+msgstr "No standard template enabled."
+
+msgid "The profiler is active. This can cause strong power loss in the shop."
+msgstr "The plug-in profiler is enabled. This can lead to severe performance issues."
+
+msgid "New plugin versions are available."
+msgstr "There are new plug-in versions available."
+
+msgid "Configuration"
+msgstr "Configuration"
+
+msgid "You've selected Google reCaptcha as spam protection method, but homepage and or secrect key have not been added."
+msgstr "You have chosen Google reCaptcha as your spam protection method but did not indicate a site key and/or a secret key."
+
+msgid "The full-text index does not exist!"
+msgstr "No full-text index available."
+
+msgid "E-mail template broken"
+msgstr "Defective email template"
+
+msgid "The E-mail template 'Passwort vergessen'/'Forgotten password' is outdated. The variable $neues_passwort is not available anymore. Please replace this with $passwordResetLink or reset the template."
+msgstr "The email template \"Forgot password\" is outdated. The variable $neues_passwort is no longer available. Please replace it by $passwordResetLink or reset the template."
+
+msgid "Insecure SMTP connection"
+msgstr "Unsafe SMTP connection"
+
+msgid "You have selected SMTP as mail-method, but no encryption method has been chosen. We recommend you urgently to adjust your mail settings. You can find these options at 'System > E-Mails > Emaileinstellungen > SMTP Security'"
+msgstr "You chose SMTP but did not select an SMTP security method. We urgently recommend adapting your email settings. You will find the option here: Administration > Emails > Server."
+
+msgid "User management"
+msgstr "User management"
+
+msgid "The algorithm for saving passwords has changed. <br/>Please generate a new emergency code for the 2 factor authentication."
+msgstr "The algorithm for changing the password has changed.<br/>Please generate new emergency codes for the two-factor authentication."
+
+msgid "Installed plug-ins"
+msgstr "Installed plug-ins"
+
+msgid "Promotions"
+msgstr "Promotions"
+
+msgid "Landing pages"
+msgstr "Landing pages"
+
+msgid "Default views"
+msgstr "Standard views"
+
+msgid "Default elements"
+msgstr "Standard elements"
+
+msgid "Question on item"
+msgstr "Question about item"
+
+msgid "Custom contents"
+msgstr "Custom contents"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Accounts"
+msgstr "Users & rights"
+
+msgid "Troubleshooting"
+msgstr "Troubleshooting"
+
+msgid "System diagnostics"
+msgstr "Diagnostics"
+
+msgid "Set up"
+msgstr "Set up"
+
+msgid "Email templates"
+msgstr "Templates"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "Availability notifications"
+msgstr "Availability requests"

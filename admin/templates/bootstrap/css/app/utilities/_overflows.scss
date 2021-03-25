@@ -1,0 +1,6 @@
+
+@each $direction in (x, y) {
+	@each $prop in (scroll, auto, hidden) {
+		.overflow-#{$direction}-#{$prop} { overflow-#{$direction}: $prop !important; }
+	}
+}

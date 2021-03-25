@@ -1,0 +1,486 @@
+#opc #configModal {
+  #configModalBody {
+    overflow: initial;
+  }
+
+  .modal-dialog {
+    width: 786px;
+    max-width: none;
+
+    .checkbox-standalone {
+      padding: 26px 0 0 2px;
+    }
+  }
+
+  .colorpicker-input:placeholder-shown ~ .input-group-append i {
+    visibility: hidden !important;
+  }
+
+  .product-filter-config {
+    label {
+      display: block;
+      font-weight: bold;
+    }
+
+    .active-filters {
+      margin-bottom: 10px;
+
+      .filters-enabled {
+        button {
+          background-color: $text-color;
+          color: $light-bg;
+          padding: 4px 16px;
+          border-radius: 100px;
+          margin-right: 8px;
+          margin-bottom: 8px;
+
+          &.restore-all {
+            background-color: $primary-color;
+          }
+
+          i {
+            margin-left: 4px;
+            font-size: 12px;
+          }
+        }
+      }
+    }
+
+    .filters-section {
+      background-color: $light-bg;
+      border-radius: 5px;
+      margin-bottom: 8px;
+      padding: 16px;
+      padding-bottom: 12px;
+
+      .no-options {
+        color: $muted-text;
+        font-style: italic;
+      }
+
+      .filters-section-inner {
+        max-height: 92px;
+        overflow-y: scroll;
+
+        &:after {
+          content: "";
+          display: block;
+          clear: both;
+        }
+
+        .filter-option {
+          width: 33%;
+          float: left;
+          margin-bottom: 2px;
+          text-align: left;
+          text-overflow: ellipsis;
+          overflow: hidden;
+          white-space: nowrap;
+          padding-right: 8px;
+
+          &:hover {
+            i:before {
+              content: "\f14a";
+            }
+          }
+
+          i {
+            margin-right: 4px;
+          }
+        }
+      }
+    }
+  }
+}
+
+#opc .slides-container {
+  padding-right: 8px;
+  max-height: calc(100vh - 494px);
+  overflow-y: auto;
+}
+
+#opc .slide-entry {
+  background-color: $light-bg;
+  padding: 16px;
+  margin-bottom: 16px;
+  display: flex;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  .slide-btns {
+    > button ,
+    > span {
+      display: block;
+      padding: 4px;
+      margin-bottom: 8px;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    i {
+      font-size: 16px;
+    }
+
+    hr {
+      margin: 8px 4px;
+      margin-top: 0;
+      width: 20px;
+      border-width: 2px;
+    }
+  }
+
+  .slide-image-col {
+    .slide-image-btn {
+      width: 128px;
+      height: 128px;
+      margin: 0 16px;
+      border-radius: 5px;
+      background-size: cover;
+      background-position: center;
+      cursor: pointer;
+    }
+  }
+
+  .slide-props {
+    flex: auto;
+
+    .row {
+      margin: 0 -8px;
+      margin-bottom: -16px;
+
+      .col-4, .col-8 {
+        padding: 0 8px;
+      }
+    }
+
+    .form-control {
+      height: 32px;
+      padding: 4px 8px;
+      margin-bottom: 16px;
+    }
+
+    .select-wrapper {
+      margin: 0;
+      display: block;
+
+      &:after {
+        top: 6px;
+      }
+    }
+  }
+}
+
+#opc button.add-slide-btn {
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: -16px;
+  width: 48px;
+  height: 48px;
+  background-color: $text-color;
+  border-color: $text-color;
+
+  &:hover {
+    background-color: $text-lighter;
+  }
+
+  i {
+    font-size: 18px;
+  }
+}
+
+#opc .conf-gallery-layout {
+  margin-bottom: 16px;
+
+  &:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+  label {
+    display: block;
+    float: left;
+    text-align: center;
+    margin: 0 12px;
+
+    input {
+      display: block;
+      -webkit-appearance: none;
+      width: 90px;
+      height: 90px;
+      border: 2px solid $light-bg;
+      background-color: $light-bg;
+      position: relative;
+      color: $muted-text;
+      cursor: pointer;
+      margin: auto;
+      margin-bottom: 4px;
+
+      &:before,
+      &:after {
+        content: "";
+        display: block;
+        background-color: currentColor;
+        color: $muted-text;
+        position: absolute;
+      }
+
+      &:checked {
+        color: $primary-color;
+        border: 2px solid $primary-color;
+
+        &:before,
+        &:after {
+          color: $primary-color;
+        }
+      }
+
+      $wa: 24px;
+      $wb: $wa * 2;
+
+      &.gallery-layout-option-grid {
+        &:before {
+          width: 20px;
+          height: 20px;
+          left: 9px;
+          top: 9px;
+          box-shadow:
+                  $wa 0   currentColor,
+                  $wb 0   currentColor,
+                  0   $wa currentColor,
+                  $wa $wa currentColor,
+                  $wb $wa currentColor,
+                  0   $wb currentColor,
+                  $wa $wb currentColor,
+                  $wb $wb currentColor;
+        }
+      }
+
+      &.gallery-layout-option-alternate {
+        &:before {
+          width: 44px;
+          height: 20px;
+          left: 9px;
+          top: 9px;
+          box-shadow:
+                  24px $wa currentColor,
+                  0    $wb currentColor;
+        }
+
+        &:after {
+          width: 20px;
+          height: 20px;
+          left: 57px;
+          top: 9px;
+          box-shadow:
+                  -48px $wa currentColor,
+                  0     $wb currentColor;
+        }
+      }
+
+      &.gallery-layout-option-columns {
+        &:before {
+          width: 20px;
+          height: 20px;
+          left: 9px;
+          top: 9px;
+          box-shadow:
+                  $wa 48px currentColor,
+                  $wb 0    currentColor;
+        }
+
+        &:after {
+          width: 20px;
+          height: 44px;
+          left: 9px;
+          top: 33px;
+          box-shadow:
+                  $wa (-24px) currentColor,
+                  $wb 0     currentColor;
+        }
+      }
+    }
+  }
+}
+
+#opc .image-btn ,
+#opc .video-btn {
+  min-width: 64px;
+  min-height: 64px;
+  display: block;
+
+  img {
+    min-width: 64px;
+    min-height: 64px;
+    max-width: 100%;
+    max-height: 100%;
+
+    &.thumb {
+      max-width: 128px;
+      max-height: 128px;
+      object-fit: contain;
+    }
+  }
+}
+
+#opc .video-btn video {
+  background: url('../gfx/upload-stub.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#opc .zone-props {
+  textarea {
+    height: 60px;
+  }
+
+  .row {
+    margin: 0 -8px;
+
+    .col-6 {
+      padding: 0 8px;
+    }
+  }
+}
+
+#opc .modal .box-config {
+  font-size: 12px;
+  line-height: 0.9;
+
+  .form-control {
+    width: 36px;
+    display: inline;
+    margin: 0;
+    padding: 0;
+    height: 22px;
+    text-align: center;
+    font-size: 12px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 0;
+  }
+
+  .top-row {
+    &:after {
+      content: "";
+      display: block;
+      clear: both;
+    }
+
+    > * {
+      float: left;
+      display: block;
+      width: 33.33%;
+    }
+
+    > .mid-top-col {
+      text-align: center;
+    }
+  }
+
+  .mid-row {
+    display: flex;
+    align-items: center;
+
+    > label {
+      flex: none;
+    }
+
+    > div {
+      flex: auto;
+    }
+  }
+
+  .bottom-row {
+    text-align: center;
+  }
+
+  .outer-box ,
+  .padding-box ,
+  .border-box ,
+  .content-box {
+    padding: 5px;
+    margin: 5px;
+  }
+
+  .outer-box ,
+  .padding-box {
+    border: 1px dashed $muted-text;
+    background-color: $light-bg;
+  }
+
+  .border-box ,
+  .content-box {
+    background-color: #e3e3e3;
+  }
+
+  .content-box {
+    height: 64px;
+  }
+}
+
+#opc .row-layout-controls {
+  .row {
+    margin: 0 -8px;
+
+    .col-4,
+    .col-2 {
+      padding: 0 8px;
+    }
+  }
+}
+
+#opc .row-layout-previews {
+  text-align: center;
+  color: $muted-text;
+
+  > * {
+    display: inline-block;
+  }
+
+  .layout-preview {
+    margin: 10px 40px 20px 40px;
+
+    > * {
+      background-color: $primary-color;
+      height: 8px;
+      float: left;
+      margin: 1px;
+    }
+  }
+
+  .layout-preview-3 {
+    background-image: url(../gfx/row-preview-desktop.png);
+    width: 126px;
+    height: 94px;
+    padding: 7px 7px 29px 8px;
+  }
+
+  .layout-preview-2 {
+    background-image: url(../gfx/row-preview-laptop.png);
+    width: 118px;
+    height: 70px;
+    padding: 7px 11px 9px 11px;
+  }
+
+  .layout-preview-1 {
+    background-image: url(../gfx/row-preview-tablet.png);
+    width: 46px;
+    height: 66px;
+    padding: 3px 3px 11px 3px;
+  }
+
+  .layout-preview-0 {
+    background-image: url(../gfx/row-preview-phone.png);
+    width: 36px;
+    height: 56px;
+    padding: 2px 2px 7px 2px;
+  }
+}

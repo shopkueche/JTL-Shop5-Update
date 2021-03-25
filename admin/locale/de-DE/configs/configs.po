@@ -1,0 +1,3000 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "systemlog_flag_name"
+msgstr "systemlog_flag"
+
+msgid "systemlog_flag_desc"
+msgstr " "
+
+msgid "artikel_artikelanzeigefilter_name"
+msgstr "Artikelanzeigefilter"
+
+msgid "artikel_artikelanzeigefilter_desc"
+msgstr "Hier legen Sie fest, ob alle Artikel, nur Artikel, die einen verfügbaren Lagerbestand haben, oder nur Artikel, die einen verfügbaren Lagerbestand haben oder mit Überverkäufen arbeiten, angezeigt werden sollen."
+
+msgid "artikel_artikelanzeigefilter_seo_name"
+msgstr "Direktaufruf ausverkaufter Artikel"
+
+msgid "artikel_artikelanzeigefilter_seo_desc"
+msgstr "Hier legen Sie fest, ob ausverkaufte Artikel weiterhin über die Artikel-URL aufrufbar sind. Diese Option ist nur wirksam, wenn „Artikelanzeigefilter“ aktiv ist."
+
+msgid "artikel_lagerampel_gruen_name"
+msgstr "Lagerbestand grün"
+
+msgid "artikel_lagerampel_gruen_desc"
+msgstr "Geben Sie hier ein, ab welchem Lagerbestand der Inhalt der Sprachvariable „ampel gruen“ angezeigt wird. Zwischen diesem Lagerbestand und dem Lagerbestand unter „Lagerbestand rot“ wird der Inhalt der Sprachvariable „ampel gelb“ angezeigt."
+
+msgid "artikel_lagerampel_rot_name"
+msgstr "Lagerbestand rot"
+
+msgid "artikel_lagerampel_rot_desc"
+msgstr "Geben Sie hier ein, bis zu welchem Lagerbestand der Inhalt der Sprachvariable „ampel rot“ angezeigt wird. Zwischen diesem Lagerbestand und dem Lagerbestand unter „Lagerbestand grün“ wird der Inhalt der Sprachvariable „ampel gelb“ angezeigt."
+
+msgid "artikel_ampel_lagernull_gruen_name"
+msgstr "Lagerbestand grün bei „Überverkäufe möglich“"
+
+msgid "artikel_ampel_lagernull_gruen_desc"
+msgstr "Hier legen Sie fest, ob bei Artikeln, bei denen in JTL-Wawi die Option „Überverkäufe möglich“ aktiviert wurde, immer der Inhalt der Sprachvariable „ampel gruen“ angezeigt werden soll."
+
+msgid "global_preis0_name"
+msgstr "Wenn Preis ist gleich 0"
+
+msgid "global_preis0_desc"
+msgstr "Hier legen Sie fest, ob Artikel, deren Preis 0 ist, in den Warenkorb gelegt werden können, oder ob ein Hinweis angezeigt wird, dass der Preis auf Anfrage genannt werden kann. Diese Option kann verhindern, dass Artikel versehentlich kostenlos eingestellt werden."
+
+msgid "artikeldetails_variationswertlager_name"
+msgstr "Variationswerte ohne verfügbaren Lagerbestand"
+
+msgid "artikeldetails_variationswertlager_desc"
+msgstr "Hier legen Sie für Artikel mit Variationen, bei denen die Option „Lagerbestand in Variationen“ aktiviert ist, fest, wie damit verfahren werden soll, wenn einzelne Variationswerte nicht auf Lager sind."
+
+msgid "global_versandfrei_anzeigen_name"
+msgstr "Versandfrei beim Artikel anzeigen"
+
+msgid "global_versandfrei_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob angezeigt werden soll, ob ein Artikel versandkostenfrei versendet werden kann. Diese Anzeige hängt von den Einstellungen in der Versandart und der Einstellung „Anzeige versandkostenfreier Länder“ (1470) ab."
+
+msgid "global_warenkorb_weiterleitung_name"
+msgstr "Weiterleitung zum Warenkorb"
+
+msgid "global_warenkorb_weiterleitung_desc"
+msgstr "Hier legen Sie fest, ob Kunden sofort zum Warenkorb weitergeleitet werden, wenn sie etwas in den Warenkorb legen."
+
+msgid "global_versandklasse_anzeigen_name"
+msgstr "Versandklasse im Versandtext anzeigen"
+
+msgid "global_versandklasse_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob bei Artikeln, die nicht die Versandklasse „standard“ haben, die Versandklasse angezeigt werden soll."
+
+msgid "global_lieferverzoegerung_anzeigen_name"
+msgstr "Evtl. Lieferzeitverzögerung anzeigen"
+
+msgid "global_lieferverzoegerung_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob Lieferzeitverzögerungen von Artikeln im Warenkorb angezeigt werden sollen. Voraussetzung für die Anzeige ist, dass bei Artikeln die Bestandsführung aktiv ist und Überverkäufe möglich sind."
+
+msgid "global_versandkostenfrei_darstellung_name"
+msgstr "Anzeige versandkostenfreier Länder"
+
+msgid "global_versandkostenfrei_darstellung_desc"
+msgstr "Hier legen Sie fest, wie die Länder angezeigt werden, in die der Versand kostenfrei ist."
+
+msgid "global_bestseller_minanzahl_name"
+msgstr "Mindestanzahl Verkäufe für Bestseller"
+
+msgid "global_bestseller_minanzahl_desc"
+msgstr "Hier legen Sie fest, wie oft ein Artikel mindestens verkauft werden muss, um als Bestseller markiert zu werden."
+
+msgid "kategorien_anzeigefilter_name"
+msgstr "Kategorieanzeige"
+
+msgid "kategorien_anzeigefilter_desc"
+msgstr "Hier legen Sie fest, ob in JTL-Shop alle Kategorien oder nur Kategorien, die nicht leer sind, angezeigt werden sollen."
+
+msgid "artikel_lagerampel_keinlager_name"
+msgstr "Lagerbestandsanzeige (ohne Bestandsführung)"
+
+msgid "artikel_lagerampel_keinlager_desc"
+msgstr "Hier legen Sie fest, welcher Text bei Artikeln angezeigt wird, die ohne Bestandsführung arbeiten."
+
+msgid "global_shopname_name"
+msgstr "Name des Onlineshops"
+
+msgid "global_shopname_desc"
+msgstr "Hier legen Sie den Titel Ihres Onlineshops fest. Dieser wird beispielsweise angezeigt, wenn Sie mit der Maus über das Logo des Onlineshops fahren."
+
+msgid "global_sichtbarkeit_name"
+msgstr "Sichtbar ohne Anmeldung"
+
+msgid "global_sichtbarkeit_desc"
+msgstr "Hier legen Sie fest, ob Besucher, die sich nicht anmelden, alles sehen, nur Artikel ohne Preise sehen oder Artikel und Kategorien gar nicht sehen können."
+
+msgid "global_kundenkonto_aktiv_name"
+msgstr "Aktivierung neuer Kundenkonten"
+
+msgid "global_kundenkonto_aktiv_desc"
+msgstr "Hier legen Sie fest, ob Kundenkonten erst in JTL-Wawi aktiviert werden müssen oder direkt nach Erstellung in JTL-Shop aktiv sind und zum Kauf verwendet werden können."
+
+msgid "kaufabwicklung_ssl_nutzen_name"
+msgstr "Automatischer Seitenwechsel von http zu https"
+
+msgid "kaufabwicklung_ssl_nutzen_desc"
+msgstr "Hier legen Sie fest, ob Teile Ihrer Website oder die gesamte Website nur verschlüsselt erreichbar sein sollen. Hierzu benötigen Sie ein gültiges SSL-Zertifikat auf Ihrem Server."
+
+msgid "global_versandhinweis_name"
+msgstr "Hinweis auf Versandkosten an Artikelpreisen"
+
+msgid "global_versandhinweis_desc"
+msgstr ""
+
+msgid "global_erscheinende_kaeuflich_name"
+msgstr "Artikel mit zukünftigem Erscheinungsdatum"
+
+msgid "global_erscheinende_kaeuflich_desc"
+msgstr "Hier legen Sie fest, ob Artikel, deren Erscheinungsdatum in der Zukunft liegt, bereits gekauft werden können."
+
+msgid "global_zaehler_anzeigen_name"
+msgstr "Besucherzähler anzeigen"
+
+msgid "global_zaehler_anzeigen_desc"
+msgstr ""
+
+msgid "global_dezimaltrennzeichen_sonstigeangaben_name"
+msgstr "Dezimaltrennzeichen bei „Stückzahl teilbar“"
+
+msgid "global_dezimaltrennzeichen_sonstigeangaben_desc"
+msgstr "Hier legen Sie fest, welches Dezimaltrennzeichen bei Artikelmengen verwendet wird, für die „Stückzahl teilbar“ in JTL-Wawi aktiviert wurde. "
+
+msgid "garbagecollector_wawiabgleich_name"
+msgstr "Automatische Bereinigung von JTL-Shop (GarbageCollector)"
+
+msgid "garbagecollector_wawiabgleich_desc"
+msgstr "Hier legen Sie fest, ob Einträge in stark wachsenden Tabellen regelmäßig gelöscht werden sollen. Wir empfehlen, die Einstellung auf „Ja“ zu setzen."
+
+msgid "global_merkmalwert_url_indexierung_name"
+msgstr "Suchmaschinen-Indexierung von Merkmalwert-URLs"
+
+msgid "global_merkmalwert_url_indexierung_desc"
+msgstr ""
+
+msgid "redirect_save_404_name"
+msgstr "404-Hits automatisch unter „Weiterleitungen“ erfassen"
+
+msgid "redirect_save_404_desc"
+msgstr "Hier legen Sie fest, ob nicht gefundene URLs automatisch gespeichert werden sollen. Sie können anschließend für diese Seiten eine Weiterleitung einrichten."
+
+msgid "global_ust_auszeichnung_name"
+msgstr "Umsatzsteuer-Ausweisung am Artikel"
+
+msgid "global_ust_auszeichnung_desc"
+msgstr "Hier legen Sie fest, wie die Umsatzsteuer am Artikelpreis ausgewiesen wird."
+
+msgid "global_fusszeilehinweis_name"
+msgstr "Hinweise in Fußzeile"
+
+msgid "global_fusszeilehinweis_desc"
+msgstr "Hier können Sie weitere Hinweise zum Artikelpreis eingeben (z.&nbsp;B. als Kleinunternehmer)."
+
+msgid "global_steuerpos_anzeigen_name"
+msgstr "Steuerpositionen in Bestellvorgang / E-Mails ausweisen"
+
+msgid "global_steuerpos_anzeigen_desc"
+msgstr "Als Kleinunternehmer können Sie die explizite Ausweisung der USt. hiermit ein- und ausschalten."
+
+msgid "warenkorbpers_nutzen_name"
+msgstr "Warenkorb speichern"
+
+msgid "warenkorbpers_nutzen_desc"
+msgstr "Hier legen Sie fest, ob für angemeldete Kunden der letzte nicht bestellte Warenkorb in der Datenbank gespeichert werden soll. Damit können Kunden, die sich erneut anmelden, auf den vorherigen Warenkorb zurückgreifen. "
+
+msgid "global_wunschliste_weiterleitung_name"
+msgstr "Weiterleitung zum Wunschzettel"
+
+msgid "global_wunschliste_weiterleitung_desc"
+msgstr "Hier legen Sie fest, ob Ihre Kunden direkt zum Wunschzettel weitergeleitet werden, wenn sie einen Artikel hinzufügen."
+
+msgid "global_wunschliste_anzeigen_name"
+msgstr "Wunschzettel nutzen"
+
+msgid "global_wunschliste_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob Ihre Kunden grundsätzlich Wunschzettel erstellen und pflegen können."
+
+msgid "global_wunschliste_freunde_aktiv_name"
+msgstr "Wunschzettelversand an Freunde aktivieren"
+
+msgid "global_wunschliste_freunde_aktiv_desc"
+msgstr "Hier legen Sie fest, ob Ihre Kunden die von ihnen gepflegten Wunschzettel direkt aus JTL-Shop per E-Mail versenden können."
+
+msgid "global_wunschliste_max_email_name"
+msgstr "Maximale Anzahl von Empfängern beim Wunschzettelversand"
+
+msgid "global_wunschliste_max_email_desc"
+msgstr "Hier legen Sie fest, an wie viele Empfänger Wunschzettel per E-Mail versendet werden können."
+
+msgid "global_wunschliste_artikel_loeschen_nach_kauf_name"
+msgstr "Gekaufte Artikel nach Bestellung von Wunschzettel löschen"
+
+msgid "global_wunschliste_artikel_loeschen_nach_kauf_desc"
+msgstr "Hier legen Sie fest, ob Artikel, nachdem sie gekauft wurden, vom Wunschzettel gelöscht werden sollen."
+
+msgid "wartungsmodus_aktiviert_name"
+msgstr "Wartungsmodus aktivieren"
+
+msgid "wartungsmodus_aktiviert_desc"
+msgstr "Der Besucher des Onlineshops sieht einen Infotext zur laufenden Wartung. Dieser Text wird über die Sprachvariable „maintenanceModeActive“ gesteuert. Wechseln Sie zum Menüeintrag „Sprachvariablen“, um den Text für diese Sprachvariable zu ändern."
+
+msgid "global_versandermittlung_anzeigen_name"
+msgstr "Versandkostenermittlung anzeigen"
+
+msgid "global_versandermittlung_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die Versandkostenermittlung auf der Spezialseite „Versand“ angezeigt wird."
+
+msgid "global_versandermittlung_lieferdauer_anzeigen_name"
+msgstr "Lieferdauer bei Versandkostenermittlung anzeigen"
+
+msgid "global_versandermittlung_lieferdauer_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob bei der Versandkostenermittlung auch die Lieferdauer angezeigt werden soll."
+
+msgid "admin_ckeditor_mode_name"
+msgstr "CKEditor-Modus"
+
+msgid "admin_ckeditor_mode_desc"
+msgstr ""
+
+msgid "admin_login_logger_mode_name"
+msgstr "Anmeldeversuche von Admin protokollieren"
+
+msgid "admin_login_logger_mode_desc"
+msgstr "Hier legen Sie fest, ob Anmeldeversuche des Admins im Backend protokolliert werden."
+
+msgid "global_cookie_lifetime_name"
+msgstr "Cookie-Lifetime"
+
+msgid "global_cookie_lifetime_desc"
+msgstr "Hier legen Sie fest, wie viele Sekunden ein Cookie gültig sein soll. 0 bedeutet Standard."
+
+msgid "global_cookie_path_name"
+msgstr "Cookie-Pfad"
+
+msgid "global_cookie_path_desc"
+msgstr "Hier hinterlegen Sie den Pfad Ihres JTL-Shops, in dem der Cookie zur Verfügung stehen soll. Geben Sie einen einfachen Schrägstrich ein, damit er überall zur Verfügung steht. Lassen Sie das Feld leer, um die Standardeinstellung zu wählen."
+
+msgid "global_cookie_domain_name"
+msgstr "Cookie-Domain"
+
+msgid "global_cookie_domain_desc"
+msgstr "Hier geben Sie die Domain an, für die die Cookies gelten, z.&nbsp;B. „www.beispiel.com“. Damit Cookies auch auf allen Subdomains zur Verfügung stehen, muss der Domain ein Punkt vorangestellt werden. Lassen Sie das Feld leer, um die Standardeinstellung zu wählen."
+
+msgid "global_cookie_secure_name"
+msgstr "Secure"
+
+msgid "global_cookie_secure_desc"
+msgstr "Hier können Sie festlegen, ob Cookies nur bei sicheren Verbindungen gesendet werden sollen."
+
+msgid "global_cookie_httponly_name"
+msgstr "HTTPONLY"
+
+msgid "global_cookie_httponly_desc"
+msgstr "Hier legen Sie fest, ob PHP versuchen soll, das HTTPONLY-Flag zu senden."
+
+msgid "global_cookie_samesite_name"
+msgstr "SameSite"
+
+msgid "global_cookie_samesite_desc"
+msgstr "Hier legen Sie fest, ob PHP versuchen soll, das SameSite-Flag zu senden."
+
+msgid "startseite_neuimsortiment_anzahl_name"
+msgstr "„Neu im Sortiment“: Anzahl Artikel"
+
+msgid "startseite_neuimsortiment_anzahl_desc"
+msgstr "Hier legen Sie die Anzahl der Artikel in der Box fest. Geben Sie 0 ein, um diese Box gar nicht anzuzeigen. Weitere Einstellungen zu dem „Neu im Sortiment“-Slider finden Sie im Einstellungen-Tab unter „Standardelemente > Footer / Boxen“."
+
+msgid "startseite_neuimsortiment_sortnr_name"
+msgstr "„Neu im Sortiment“: Sortiernummer"
+
+msgid "startseite_neuimsortiment_sortnr_desc"
+msgstr "Hier legen Sie die Position der Box fest. Je niedriger eine eingegebene Zahl im Vergleich zu den anderen Boxen ist, desto weiter oben erscheint eine Box."
+
+msgid "startseite_topangebote_anzahl_name"
+msgstr "Top-Artikel: Anzahl Artikel"
+
+msgid "startseite_topangebote_anzahl_desc"
+msgstr ""
+
+msgid "startseite_topangebote_sortnr_name"
+msgstr "Top-Artikel: Sortiernummer"
+
+msgid "startseite_topangebote_sortnr_desc"
+msgstr ""
+
+msgid "startseite_sonderangebote_anzahl_name"
+msgstr "Sonderangebote: Anzahl Artikel"
+
+msgid "startseite_sonderangebote_anzahl_desc"
+msgstr ""
+
+msgid "startseite_sonderangebote_sortnr_name"
+msgstr "Sonderangebote: Sortiernummer"
+
+msgid "startseite_sonderangebote_sortnr_desc"
+msgstr ""
+
+msgid "startseite_bestseller_anzahl_name"
+msgstr "Bestseller: Anzahl Artikel"
+
+msgid "startseite_bestseller_anzahl_desc"
+msgstr ""
+
+msgid "startseite_bestseller_sortnr_name"
+msgstr "Bestseller: Sortiernummer"
+
+msgid "startseite_bestseller_sortnr_desc"
+msgstr ""
+
+msgid "email_methode_name"
+msgstr "E-Mails versenden per"
+
+msgid "email_methode_desc"
+msgstr "Hier legen Sie fest, über welches Protokoll E-Mails versendet werden."
+
+msgid "email_sendmail_pfad_name"
+msgstr "Sendmail-Pfad"
+
+msgid "email_sendmail_pfad_desc"
+msgstr "Falls Sie unter „E-Mails versenden per“ die Option „Sendmail“ gewählt haben, geben Sie hier den Pfad für Sendmail ein."
+
+msgid "email_smtp_hostname_name"
+msgstr "SMTP-Hostname"
+
+msgid "email_smtp_hostname_desc"
+msgstr "Falls Sie unter „E-Mails versenden per“ die Option „SMTP“ gewählt haben, geben Sie hier den Namen des Hosts ein."
+
+msgid "email_smtp_port_name"
+msgstr "SMTP-Port"
+
+msgid "email_smtp_port_desc"
+msgstr "Falls Sie unter „E-Mails versenden per“ die Option „SMTP“ gewählt haben, geben Sie hier die Nummer des Ports ein."
+
+msgid "email_smtp_auth_name"
+msgstr "SMTP-Auth nutzen"
+
+msgid "email_smtp_auth_desc"
+msgstr "Falls Sie unter „E-Mails versenden per“ die Option „SMTP“ gewählt haben, können Sie hier angeben, ob eine SMTP-Authentifizierung notwendig ist."
+
+msgid "email_smtp_user_name"
+msgstr "SMTP-Benutzername"
+
+msgid "email_smtp_user_desc"
+msgstr "Falls Sie SMTP-Auth nutzen, können Sie hier den Benutzernamen für den SMTP-Server eingeben."
+
+msgid "email_smtp_pass_name"
+msgstr "SMTP-Passwort"
+
+msgid "email_smtp_pass_desc"
+msgstr "Falls Sie SMTP-Auth nutzen, können Sie hier das Passwort für den SMTP-Server eingeben."
+
+msgid "email_smtp_verschluesselung_name"
+msgstr "SMTP-Security"
+
+msgid "email_smtp_verschluesselung_desc"
+msgstr "Falls Sie unter „E-Mails versenden per“ die Option „SMTP“ gewählt haben, können Sie hier angeben, ob und wie die SMTP-Verbindung verschlüsselt ist."
+
+msgid "email_master_absender_name"
+msgstr "Master-E-Mail-Adresse"
+
+msgid "email_master_absender_desc"
+msgstr "Hier legen Sie fest, von welcher E-Mail-Adresse E-Mails versendet werden sollen."
+
+msgid "email_master_absender_name_name"
+msgstr "Absender für Master-E-Mail-Adresse"
+
+msgid "email_master_absender_name_desc"
+msgstr "Hier legen Sie fest, welcher Absender bei E-Mails verwendet werden soll."
+
+msgid "suche_fulltext_name"
+msgstr "Volltextsuche verwenden"
+
+msgid "suche_fulltext_desc"
+msgstr "Hier legen Sie fest, ob die Volltextsuche verwendet werden soll. Für die Volltextsuche werden spezielle Indizes angelegt. Dies muss von der verwendeten Datenbankversion unterstützt werden."
+
+msgid "suche_prio_name_name"
+msgstr "Suchpriorität Artikelname"
+
+msgid "suche_prio_name_desc"
+msgstr "Hier legen Sie fest, in welcher Reihenfolge Felder durchsucht werden sollen. Je kleiner die eingegebene Zahl, desto früher wird ein Feld durchsucht. 0 sorgt dafür, dass ein Feld gar nicht berücksichtigt wird."
+
+msgid "suche_prio_suchbegriffe_name"
+msgstr "Suchpriorität Suchbegriffe eines Artikels"
+
+msgid "suche_prio_suchbegriffe_desc"
+msgstr "Hier legen Sie fest, in welcher Reihenfolge Felder durchsucht werden sollen. Je kleiner die eingegebene Zahl, desto früher wird ein Feld durchsucht. 0 sorgt dafür, dass ein Feld gar nicht berücksichtigt wird."
+
+msgid "suche_prio_artikelnummer_name"
+msgstr "Suchpriorität Artikelnummer"
+
+msgid "suche_prio_artikelnummer_desc"
+msgstr "Hier legen Sie fest, in welcher Reihenfolge Felder durchsucht werden sollen. Je kleiner die eingegebene Zahl, desto früher wird ein Feld durchsucht. 0 sorgt dafür, dass ein Feld gar nicht berücksichtigt wird."
+
+msgid "suche_prio_kurzbeschreibung_name"
+msgstr "Suchpriorität Artikelkurzbeschreibung"
+
+msgid "suche_prio_kurzbeschreibung_desc"
+msgstr "Hier legen Sie fest, in welcher Reihenfolge Felder durchsucht werden sollen. Je kleiner die eingegebene Zahl, desto früher wird ein Feld durchsucht. 0 sorgt dafür, dass ein Feld gar nicht berücksichtigt wird."
+
+msgid "suche_prio_beschreibung_name"
+msgstr "Suchpriorität Artikelbeschreibung"
+
+msgid "suche_prio_beschreibung_desc"
+msgstr "Hier legen Sie fest, in welcher Reihenfolge Felder durchsucht werden sollen. Je kleiner die eingegebene Zahl, desto früher wird ein Feld durchsucht. 0 sorgt dafür, dass ein Feld gar nicht berücksichtigt wird."
+
+msgid "suche_prio_ean_name"
+msgstr "Suchpriorität Artikel-GTIN"
+
+msgid "suche_prio_ean_desc"
+msgstr "Hier legen Sie fest, in welcher Reihenfolge Felder durchsucht werden sollen. Je kleiner die eingegebene Zahl, desto früher wird ein Feld durchsucht. 0 sorgt dafür, dass ein Feld gar nicht berücksichtigt wird."
+
+msgid "suche_prio_isbn_name"
+msgstr "Suchpriorität Artikel-ISBN"
+
+msgid "suche_prio_isbn_desc"
+msgstr "Hier legen Sie fest, in welcher Reihenfolge Felder durchsucht werden sollen. Je kleiner die eingegebene Zahl, desto früher wird ein Feld durchsucht. 0 sorgt dafür, dass ein Feld gar nicht berücksichtigt wird."
+
+msgid "suche_prio_han_name"
+msgstr "Suchpriorität Artikel-HAN"
+
+msgid "suche_prio_han_desc"
+msgstr "Hier legen Sie fest, in welcher Reihenfolge Felder durchsucht werden sollen. Je kleiner die eingegebene Zahl, desto früher wird ein Feld durchsucht. 0 sorgt dafür, dass ein Feld gar nicht berücksichtigt wird."
+
+msgid "suche_prio_anmerkung_name"
+msgstr "Suchpriorität Artikel-Anmerkung"
+
+msgid "suche_prio_anmerkung_desc"
+msgstr "Hier legen Sie fest, in welcher Reihenfolge Felder durchsucht werden sollen. Je kleiner die eingegebene Zahl, desto früher wird ein Feld durchsucht. 0 sorgt dafür, dass ein Feld gar nicht berücksichtigt wird."
+
+msgid "suche_min_zeichen_name"
+msgstr "Mindestzeichenanzahl des Suchbegriffs"
+
+msgid "suche_min_zeichen_desc"
+msgstr "Hier legen Sie fest, wie viele Zeichen ein Suchbegriff mindestens umfassen muss, damit die Suche ausgeführt wird. Bei Verwendung der Volltextsuche sollte dieser Wert an den Datenbankparameter ft_min_word_len angepasst werden."
+
+msgid "suche_sortierprio_name_name"
+msgstr "Priorität der Sortiermöglichkeiten: Name von A bis Z"
+
+msgid "suche_sortierprio_name_desc"
+msgstr "Je kleiner die eingegebene Zahl, desto weiter oben wird diese Sortiermöglichkeit angezeigt. Geben Sie 0 ein, um diese Möglichkeit gar nicht anzuzeigen."
+
+msgid "suche_sortierprio_name_ab_name"
+msgstr "Priorität der Sortiermöglichkeiten: Name von Z bis A"
+
+msgid "suche_sortierprio_name_ab_desc"
+msgstr "Je kleiner die eingegebene Zahl, desto weiter oben wird diese Sortiermöglichkeit angezeigt. Geben Sie 0 ein, um diese Möglichkeit gar nicht anzuzeigen."
+
+msgid "suche_sortierprio_preis_name"
+msgstr "Priorität der Sortiermöglichkeiten: Preis aufsteigend"
+
+msgid "suche_sortierprio_preis_desc"
+msgstr "Je kleiner die eingegebene Zahl, desto weiter oben wird diese Sortiermöglichkeit angezeigt. Geben Sie 0 ein, um diese Möglichkeit gar nicht anzuzeigen."
+
+msgid "suche_sortierprio_preis_ab_name"
+msgstr "Priorität der Sortiermöglichkeiten: Preis absteigend"
+
+msgid "suche_sortierprio_preis_ab_desc"
+msgstr "Je kleiner die eingegebene Zahl, desto weiter oben wird diese Sortiermöglichkeit angezeigt. Geben Sie 0 ein, um diese Möglichkeit gar nicht anzuzeigen."
+
+msgid "suche_sortierprio_ean_name"
+msgstr "Priorität der Sortiermöglichkeiten: GTIN"
+
+msgid "suche_sortierprio_ean_desc"
+msgstr "Je kleiner die eingegebene Zahl, desto weiter oben wird diese Sortiermöglichkeit angezeigt. Geben Sie 0 ein, um diese Möglichkeit gar nicht anzuzeigen."
+
+msgid "suche_sortierprio_erstelldatum_name"
+msgstr "Priorität der Sortiermöglichkeiten: Neueste Artikel"
+
+msgid "suche_sortierprio_erstelldatum_desc"
+msgstr "Je kleiner die eingegebene Zahl, desto weiter oben wird diese Sortiermöglichkeit angezeigt. Geben Sie 0 ein, um diese Möglichkeit gar nicht anzuzeigen. Mit dieser Option werden die zuletzt hinzugefügten Artikel zuerst angezeigt."
+
+msgid "suche_sortierprio_artikelnummer_name"
+msgstr "Priorität der Sortiermöglichkeiten: Artikelnummer"
+
+msgid "suche_sortierprio_artikelnummer_desc"
+msgstr "Je kleiner die eingegebene Zahl, desto weiter oben wird diese Sortiermöglichkeit angezeigt. Geben Sie 0 ein, um diese Möglichkeit gar nicht anzuzeigen."
+
+msgid "suche_sortierprio_gewicht_name"
+msgstr "Priorität der Sortiermöglichkeiten: Gewicht"
+
+msgid "suche_sortierprio_gewicht_desc"
+msgstr "Je kleiner die eingegebene Zahl, desto weiter oben wird diese Sortiermöglichkeit angezeigt. Geben Sie 0 ein, um diese Möglichkeit gar nicht anzuzeigen."
+
+msgid "suche_sortierprio_erscheinungsdatum_name"
+msgstr "Priorität der Sortiermöglichkeiten: Erscheinungsdatum"
+
+msgid "suche_sortierprio_erscheinungsdatum_desc"
+msgstr "Je kleiner die eingegebene Zahl, desto weiter oben wird diese Sortiermöglichkeit angezeigt. Geben Sie 0 ein, um diese Möglichkeit gar nicht anzuzeigen."
+
+msgid "suche_sortierprio_bestseller_name"
+msgstr "Priorität der Sortiermöglichkeiten: Bestseller"
+
+msgid "suche_sortierprio_bestseller_desc"
+msgstr "Je kleiner die eingegebene Zahl, desto weiter oben wird diese Sortiermöglichkeit angezeigt. Geben Sie 0 ein, um diese Möglichkeit gar nicht anzuzeigen."
+
+msgid "suche_sortierprio_bewertung_name"
+msgstr "Priorität der Sortiermöglichkeiten: Bewertungen"
+
+msgid "suche_sortierprio_bewertung_desc"
+msgstr "Je kleiner die eingegebene Zahl, desto weiter oben wird diese Sortiermöglichkeit angezeigt. Geben Sie 0 ein, um diese Möglichkeit gar nicht anzuzeigen."
+
+msgid "suche_max_treffer_name"
+msgstr "Maximale Treffer pro Suche"
+
+msgid "suche_max_treffer_desc"
+msgstr "Hier legen Sie fest, wie viele Suchtreffer maximal gefunden werden sollen. Setzen Sie den Wert nicht zu hoch, um die Suche nicht zu verlangsamen. Wir empfehlen einen Wert von 300."
+
+msgid "suche_ajax_anzahl_name"
+msgstr "Maximale Anzahl Ajax-Suchvorschläge"
+
+msgid "suche_ajax_anzahl_desc"
+msgstr "Hier legen Sie fest, wie viele Suchvorschläge Ihren Kunden maximal bereits während der Eingabe gemacht werden. Dazu muss jeweils ein Mapping existieren."
+
+msgid "artikeluebersicht_lagerbestandsanzeige_name"
+msgstr "Lagerbestandsanzeige"
+
+msgid "artikeluebersicht_lagerbestandsanzeige_desc"
+msgstr "Hier legen Sie fest, ob und wie der Lagerbestand eines Artikels angezeigt wird."
+
+msgid "artikeluebersicht_kurzbeschreibung_anzeigen_name"
+msgstr "Kurzbeschreibung anzeigen"
+
+msgid "artikeluebersicht_kurzbeschreibung_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob in der Artikelübersicht auch die Kurzbeschreibung eines Artikels angezeigt werden soll. Diese Einstellung gilt nur für die Listenansicht."
+
+msgid "artikeluebersicht_lagerbestandanzeige_anzeigen_name"
+msgstr "Hinweis auf Lieferantenbestand anzeigen"
+
+msgid "artikeluebersicht_lagerbestandanzeige_anzeigen_desc"
+msgstr ""
+
+msgid "artikeluebersicht_hersteller_anzeigen_name"
+msgstr "Hersteller bei den Artikeln anzeigen"
+
+msgid "artikeluebersicht_hersteller_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob und wie der Hersteller in der Artikelübersicht angezeigt werden soll. Diese Einstellung gilt nur für die Listenansicht."
+
+msgid "artikeluebersicht_artikelproseite_name"
+msgstr "Artikel pro Seite in der Artikelübersicht"
+
+msgid "artikeluebersicht_artikelproseite_desc"
+msgstr "Diese Einstellung greift, wenn für „Artikelanzahl in Listenansicht/Galerieansicht“ im Bereich „Erweiterte Darstellung“ kein Wert eingetragen ist."
+
+msgid "artikeluebersicht_artikelsortierung_name"
+msgstr "Standardsortierung"
+
+msgid "artikeluebersicht_artikelsortierung_desc"
+msgstr ""
+
+msgid "artikeluebersicht_max_seitenzahl_name"
+msgstr "Anzahl Seitenzahlen"
+
+msgid "artikeluebersicht_max_seitenzahl_desc"
+msgstr "Hier legen Sie fest, wie viele Seitenzahlen auf einer Suchtrefferseite maximal zur direkten Auswahl unterhalb der Suchergebnisse angezeigt werden sollen."
+
+msgid "artikeluebersicht_rabattanzeige_name"
+msgstr "Anzeige rabattierter Preise (Artikelübersicht / Suche)"
+
+msgid "artikeluebersicht_rabattanzeige_desc"
+msgstr "Hier legen Sie fest, wie rabattierte Preise angezeigt werden sollen."
+
+msgid "artikeluebersicht_sonderpreisanzeige_name"
+msgstr "Anzeige von Sonderpreisen (Artikelübersicht / Suche)"
+
+msgid "artikeluebersicht_sonderpreisanzeige_desc"
+msgstr "Hier legen Sie fest, wie der Preis bei Artikeln mit Sonderpreis angezeigt werden soll."
+
+msgid "articleoverview_pricerange_width_name"
+msgstr "Preisunterschied für Preisanzeige mit „ab“"
+
+msgid "articleoverview_pricerange_width_desc"
+msgstr "Geben Sie an, wie groß die Abweichung in Prozent zwischen dem niedrigsten und dem höchsten Preis mindestens sein muss, damit der Preis auf die Weise „ab“ + niedrigster Preis angezeigt wird."
+
+msgid "topbest_anzeigen_name"
+msgstr "Top-Artikel und / oder Bestseller anzeigen"
+
+msgid "topbest_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob in Kategorien, in denen sich keine Top-Artikel oder Bestseller befinden, die entsprechenden Artikel aus den Unterkategorien angezeigt werden sollen."
+
+msgid "artikelubersicht_topbest_anzahl_name"
+msgstr "Maximale Anzahl Top- / Bestseller-Artikel"
+
+msgid "artikelubersicht_topbest_anzahl_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel als Top- / Bestseller-Artikel angezeigt werden. Wenn Sie 0 wählen, wird kein Artikel angezeigt."
+
+msgid "artikelubersicht_bestseller_gruppieren_name"
+msgstr "Bestseller pro Seite gruppieren"
+
+msgid "artikelubersicht_bestseller_gruppieren_desc"
+msgstr "Hier legen Sie fest, ob die Bestseller über den Suchergebnissen gruppiert werden sollen."
+
+msgid "artikeluebersicht_bestseller_anzahl_name"
+msgstr "Maximale Anzahl gruppierter Bestseller"
+
+msgid "artikeluebersicht_bestseller_anzahl_desc"
+msgstr "Hier legen Sie fest, wie viele Bestseller maximal gruppiert werden. Dazu muss die Option „Bestseller pro Seite gruppieren“ aktiviert sein."
+
+msgid "artikeluebersicht_gewicht_anzeigen_name"
+msgstr "Versandgewicht anzeigen"
+
+msgid "artikeluebersicht_gewicht_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob das in JTL-Wawi hinterlegte Versandgewicht (Artikel + Verpackung) auf der Artikeldetailseite angezeigt wird."
+
+msgid "artikeluebersicht_artikelgewicht_anzeigen_name"
+msgstr "Artikelgewicht anzeigen"
+
+msgid "artikeluebersicht_artikelgewicht_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob das in JTL-Wawi hinterlegte Artikelgewicht (Artikel ohne Verpackung) auf der Artikeldetailseite angezeigt wird."
+
+msgid "artikeluebersicht_vergleichsliste_anzeigen_name"
+msgstr "Vergleichslisten-Schaltfläche anzeigen"
+
+msgid "artikeluebersicht_vergleichsliste_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob in der Artikelliste eine Schaltfläche angezeigt wird, mit der Artikel auf die Vergleichsliste gesetzt werden können. Dafür muss zusätzlich in den Template-Einstellungen die Funktion „Zusatzinfos zu Artikeln beim Hovern/Antippen anzeigen“ aktiviert sein"
+
+msgid "artikeluebersicht_wunschzettel_anzeigen_name"
+msgstr "Wunschzettel-Schaltfläche anzeigen"
+
+msgid "artikeluebersicht_wunschzettel_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob in der Artikelliste eine Schaltfläche angezeigt wird, mit der Artikel auf den Wunschzettel gesetzt werden können."
+
+msgid "artikeluebersicht_artikelintervall_anzeigen_name"
+msgstr "Abnahmeintervall anzeigen"
+
+msgid "artikeluebersicht_artikelintervall_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob ein eventuell vorhandenes Abnahmeintervall angezeigt werden soll."
+
+msgid "livesuche_max_ip_count_name"
+msgstr "Maximale Einträge pro Besucher und Stunde"
+
+msgid "livesuche_max_ip_count_desc"
+msgstr "Hier legen Sie fest, wie viele Einträge maximal pro Besucher und Stunde in den Suchanfragen gespeichert werden. So können Sie die Manipulation der Suchanfragen verhindern."
+
+msgid "suchfilter_anzeigen_ab_name"
+msgstr "Filter im „Content-Bereich“ anzeigen ab"
+
+msgid "suchfilter_anzeigen_ab_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel in den Suchergebnissen mindestens angezeigt werden müssen, damit die Filter im Content-Bereich angezeigt werden."
+
+msgid "artikeluebersicht_erw_darstellung_name"
+msgstr "Erweiterte Darstellung für Artikelübersicht nutzen"
+
+msgid "artikeluebersicht_erw_darstellung_desc"
+msgstr "Mit dieser Option legen Sie fest, ob Ihre Kunden die Ansicht der Artikelübersicht ändern können. Falls diese Option auf Nein steht, wird immer die Standard-Darstellung verwendet."
+
+msgid "artikeluebersicht_erw_darstellung_stdansicht_name"
+msgstr "Standard-Darstellung für Artikelübersicht"
+
+msgid "artikeluebersicht_erw_darstellung_stdansicht_desc"
+msgstr "Hier legen Sie fest, welche Ansichtsoption der Artikelübersicht Ihren Kunden standardmäßig angezeigt wird."
+
+msgid "artikeluebersicht_anzahl_darstellung1_name"
+msgstr "Artikelanzahl in Listenansicht"
+
+msgid "artikeluebersicht_anzahl_darstellung1_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel in der Listenansicht jeweils pro Seite angezeigt werden."
+
+msgid "products_per_page_list_name"
+msgstr "Artikel-Auswahloptionen pro Seite in Listenansicht"
+
+msgid "products_per_page_list_desc"
+msgstr "Hier geben Sie die Werte ein, aus denen der Kunde im Frontend auswählen kann, wie viele Artikel pro Seite sichtbar sein sollen. Geben Sie „-1“ ein, wenn die Möglichkeit angezeigt werden soll, alle Artikel auf einer Seite anzuzeigen."
+
+msgid "artikeluebersicht_anzahl_darstellung2_name"
+msgstr "Artikelanzahl in Galerieansicht"
+
+msgid "artikeluebersicht_anzahl_darstellung2_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel in der Galeriedarstellung jeweils pro Seite angezeigt werden."
+
+msgid "products_per_page_gallery_name"
+msgstr "Artikel-Auswahloptionen pro Seite in Galerieansicht"
+
+msgid "products_per_page_gallery_desc"
+msgstr "Hier geben Sie die Werte ein, aus denen der Kunde im Frontend auswählen kann, wie viele Artikel pro Seite sichtbar sein sollen. Geben Sie „-1“ ein, wenn die Möglichkeit angezeigt werden soll, alle Artikel auf einer Seite anzuzeigen."
+
+msgid "artikeldetails_xselling_standard_anzeigen_name"
+msgstr "Standard-Cross-Selling anzeigen"
+
+msgid "artikeldetails_xselling_standard_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob das in JTL-Wawi eingestellte Cross-Selling für den Artikel angezeigt werden soll."
+
+msgid "artikeldetails_xselling_kauf_anzeigen_name"
+msgstr "„Kunden kauften dazu folgende Artikel“ anzeigen"
+
+msgid "artikeldetails_xselling_kauf_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob Kunden im Artikel andere Artikel angezeigt werden sollen, die von anderen Kunden zusammen mit diesem Artikel gekauft wurden."
+
+msgid "artikeldetails_xselling_kauf_anzahl_name"
+msgstr "Anzahl angezeigter Artikel"
+
+msgid "artikeldetails_xselling_kauf_anzahl_desc"
+msgstr ""
+
+msgid "artikeldetails_xselling_kauf_parent_name"
+msgstr "Immer Vaterartikel anzeigen"
+
+msgid "artikeldetails_xselling_kauf_parent_desc"
+msgstr "Hier legen Sie fest, ob immer die Vaterartikel angezeigt werden sollen statt der exakten Kindartikel."
+
+msgid "artikel_variationspreisanzeige_name"
+msgstr "Variationsaufpreise anzeigen als"
+
+msgid "artikel_variationspreisanzeige_desc"
+msgstr "Hier legen Sie fest, wie Variationsaufpreise angezeigt werden."
+
+msgid "artikel_lagerbestandsanzeige_name"
+msgstr "Lagerbestand anzeigen"
+
+msgid "artikel_lagerbestandsanzeige_desc"
+msgstr "Hier legen Sie fest, wie der Lagerbestand eines Artikels angezeigt wird. (Einzelansicht)"
+
+msgid "artikeldetails_lieferantenbestand_anzeigen_name"
+msgstr "Hinweis auf Lieferantenbestand anzeigen"
+
+msgid "artikeldetails_lieferantenbestand_anzeigen_desc"
+msgstr ""
+
+msgid "artikeldetails_kurzbeschreibung_anzeigen_name"
+msgstr "Kurzbeschreibung anzeigen"
+
+msgid "artikeldetails_kurzbeschreibung_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die Kurzbeschreibung des Artikels auf der Artikeldetailseite angezeigt wird."
+
+msgid "artikeldetails_uvp_anzeigen_name"
+msgstr "UVP anzeigen"
+
+msgid "artikeldetails_uvp_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die unverbindliche Preisempfehlung eines Artikels auf der Artikeldetailseite angezeigt wird. Dazu muss diese Angabe im Artikel in JTL-Wawi hinterlegt sein."
+
+msgid "artikeldetails_lieferstatus_anzeigen_name"
+msgstr "Lieferstatus anzeigen"
+
+msgid "artikeldetails_lieferstatus_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob der Lieferstatus eines Artikels auf der Artikeldetailseite angezeigt wird. Dazu muss diese Angabe im Artikel in JTL-Wawi hinterlegt sein."
+
+msgid "artikeldetails_hersteller_anzeigen_name"
+msgstr "Hersteller anzeigen"
+
+msgid "artikeldetails_hersteller_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob der Hersteller eines Artikels auf der Artikeldetailseite angezeigt wird. Dazu muss diese Angabe im Artikel in JTL-Wawi hinterlegt sein."
+
+msgid "artikeldetails_artikelintervall_anzeigen_name"
+msgstr "Abnahmeintervall anzeigen"
+
+msgid "artikeldetails_artikelintervall_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob das Abnahmeintervall eines Artikels auf der Artikeldetailseite angezeigt wird. Dazu muss diese Angabe im Artikel in JTL-Wawi hinterlegt sein."
+
+msgid "artikel_weitere_artikel_hersteller_anzeigen_name"
+msgstr "Link auf weitere Artikel des Herstellers anzeigen"
+
+msgid "artikel_weitere_artikel_hersteller_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob bei Artikeln ein Link auf die anderen Artikel seines Herstellers angezeigt wird. Dazu muss diese Angabe im Artikel in JTL-Wawi hinterlegt sein."
+
+msgid "artikeldetails_rabattanzeige_name"
+msgstr "Anzeige rabattierter Preise (Detailansicht)"
+
+msgid "artikeldetails_rabattanzeige_desc"
+msgstr "Hier legen Sie fest, wie rabattierte Preise angezeigt werden sollen."
+
+msgid "artikeldetails_sonderpreisanzeige_name"
+msgstr "Anzeige von Sonderpreisen (Detailansicht)"
+
+msgid "artikeldetails_sonderpreisanzeige_desc"
+msgstr "Hier legen Sie fest, wie der Preis bei Artikeln mit Sonderpreis angezeigt werden soll."
+
+msgid "artikeldetails_kategorie_anzeigen_name"
+msgstr "Kategorie anzeigen"
+
+msgid "artikeldetails_kategorie_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die Kategorie des Artikels auf der Artikeldetailseite angezeigt wird."
+
+msgid "artikeldetails_tabs_nutzen_name"
+msgstr "Registerkarten nutzen"
+
+msgid "artikeldetails_tabs_nutzen_desc"
+msgstr "Hier legen Sie fest, ob auf der Artikeldetailseite Registerkarten verwendet werden sollen. Diese beinhalten beispielsweise die Bewertungen oder Fragen zum Artikel. Wenn Sie die Option deaktivieren, werden alle Informationen untereinander angezeigt."
+
+msgid "artikeldetails_navi_blaettern_name"
+msgstr "Navigation zum nächsten / vorherigen Artikel anzeigen"
+
+msgid "artikeldetails_navi_blaettern_desc"
+msgstr "Hier legen Sie fest, ob Ihren Benutzern Links zum vorherigen bzw. nächsten Artikel angezeigt werden sollen."
+
+msgid "sie_sparen_x_anzeigen_name"
+msgstr "UVP-Ersparnis anzeigen"
+
+msgid "sie_sparen_x_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob bei Artikeln mit UVP der Betrag und Prozentsatz angezeigt werden soll, den der Kunde spart."
+
+msgid "artikeldetails_canonicalurl_varkombikind_name"
+msgstr "Canonical-URLs bei Kindartikeln"
+
+msgid "artikeldetails_canonicalurl_varkombikind_desc"
+msgstr "Hier legen Sie fest, ob Canonical-URLs von Kindartikeln auf den Vaterartikel zeigen sollen."
+
+msgid "artikeldetails_warenkorbmatrix_anzeigeformat_name"
+msgstr "Anzeigeformat für Warenkorbmatrix"
+
+msgid "artikeldetails_warenkorbmatrix_anzeigeformat_desc"
+msgstr "Hier legen Sie fest, in welcher Art die Warenkorbmatrix angezeigt werden soll."
+
+msgid "artikeldetails_warenkorbmatrix_anzeige_name"
+msgstr "Warenkorbmatrix anzeigen"
+
+msgid "artikeldetails_warenkorbmatrix_anzeige_desc"
+msgstr "Hier legen Sie fest, ob bei Variationen bzw. Varkombis die Variationsauswahl über eine Warenkorbmatrix erfolgen soll."
+
+msgid "artikeldetails_warenkorbmatrix_lagerbeachten_name"
+msgstr "Nicht verfügbare Artikel in Warenkorbmatrix ausblenden"
+
+msgid "artikeldetails_warenkorbmatrix_lagerbeachten_desc"
+msgstr "Hier legen Sie fest, ob Variationen, die aktuell nicht verfügbar sind, aus der Warenkorbmatrix ausgeblendet werden sollen."
+
+msgid "isbn_display_name"
+msgstr "ISBN anzeigen"
+
+msgid "isbn_display_desc"
+msgstr "Hier legen Sie fest, ob die ISBN angezeigt wird."
+
+msgid "adr_hazard_display_name"
+msgstr "Gefahrentafel im Artikel anzeigen"
+
+msgid "adr_hazard_display_desc"
+msgstr "Hier legen Sie fest, ob die europäische Gefahrentafel im Artikel angezeigt werden soll. Hierfür müssen in JTL-Wawi die UN-Nummer und die Gefahrnummer gepflegt sein."
+
+msgid "artikeldetails_variationskombikind_bildvorschau_name"
+msgstr "Bildvorschau für Kindartikel anzeigen"
+
+msgid "artikeldetails_variationskombikind_bildvorschau_desc"
+msgstr "Hier legen Sie fest, ob in der Artikelübersicht Vorschaubilder für Kindartikel angezeigt werden sollen. Bei vielen Kindartikeln kann dies zu großen Ladezeiten führen."
+
+msgid "artikeldetails_fragezumprodukt_anzeigen_name"
+msgstr "Formular für Fragen zum Artikel anzeigen"
+
+msgid "artikeldetails_fragezumprodukt_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob Ihre Kunden auf der Artikeldetailseite Fragen zum Artikel stellen können. Sie erhalten die Fragen per E-Mail."
+
+msgid "artikeldetails_fragezumprodukt_email_name"
+msgstr "E-Mail-Adresse für Fragen zum Artikel"
+
+msgid "artikeldetails_fragezumprodukt_email_desc"
+msgstr "Hier hinterlegen Sie eine E-Mail-Adresse, an die Fragen zum Artikel gesendet werden. Die Angabe einer E-Mail-Adresse ist zur Nutzung dieser Funktion zwingend erforderlich."
+
+msgid "produktfrage_abfragen_anrede_name"
+msgstr "Anrede abfragen"
+
+msgid "produktfrage_abfragen_anrede_desc"
+msgstr "Hier legen Sie fest, ob die Anrede abgefragt werden soll. Unabhängig von dieser Einstellung verwendet JTL-Shop standardmäßig in Frontend und E-Mails eine geschlechtsneutrale Briefanrede (z.&nbsp;B. „Guten Tag Max Mustermann“). Die Briefanrede kann in E-Mail-Vorlagen oder in den Druckvorlagen von JTL-Wawi entsprechend angepasst werden."
+
+msgid "produktfrage_abfragen_vorname_name"
+msgstr "Vornamen abfragen"
+
+msgid "produktfrage_abfragen_vorname_desc"
+msgstr ""
+
+msgid "produktfrage_abfragen_nachname_name"
+msgstr "Nachnamen abfragen"
+
+msgid "produktfrage_abfragen_nachname_desc"
+msgstr ""
+
+msgid "produktfrage_abfragen_firma_name"
+msgstr "Firmennamen abfragen"
+
+msgid "produktfrage_abfragen_firma_desc"
+msgstr ""
+
+msgid "produktfrage_abfragen_tel_name"
+msgstr "Telefonnummer abfragen"
+
+msgid "produktfrage_abfragen_tel_desc"
+msgstr ""
+
+msgid "produktfrage_abfragen_fax_name"
+msgstr "Faxnummer abfragen"
+
+msgid "produktfrage_abfragen_fax_desc"
+msgstr ""
+
+msgid "produktfrage_abfragen_mobil_name"
+msgstr "Mobilnummer abfragen"
+
+msgid "produktfrage_abfragen_mobil_desc"
+msgstr ""
+
+msgid "produktfrage_kopiekunde_name"
+msgstr "Kopie der Rückfrage zum Artikel an Kunden schicken"
+
+msgid "produktfrage_kopiekunde_desc"
+msgstr "Hier legen Sie fest, ob Kunden ihre eigenen Rückfragen ebenfalls per E-Mail zugesendet bekommen."
+
+msgid "produktfrage_sperre_minuten_name"
+msgstr "Formular für Rückfragen zum Artikel sperren für X Minuten"
+
+msgid "produktfrage_sperre_minuten_desc"
+msgstr "Hier legen Sie fest, wie viele Minuten mindestens zwischen zwei Anfragen vergehen müssen."
+
+msgid "produktfrage_abfragen_captcha_name"
+msgstr "Spamschutz aktivieren"
+
+msgid "produktfrage_abfragen_captcha_desc"
+msgstr "Hier legen Sie fest, ob für das Formular der Spamschutz aktiviert werden soll. Dazu müssen Sie ggf. zuerst den Spamschutz von JTL-Shop in den globalen Einstellungen konfigurieren."
+
+msgid "benachrichtigung_nutzen_name"
+msgstr "Verfügbarkeitsanfragen ermöglichen"
+
+msgid "benachrichtigung_nutzen_desc"
+msgstr "Hier können Sie festlegen, ob Kunden bei Artikeln, die aktuell nicht lieferbar sind, angeben können, dass sie per E-Mail informiert werden möchten, wenn der Artikel wieder verfügbar ist. (Dialogfenster in Listenansicht im NOVA Template inaktiv)"
+
+msgid "benachrichtigung_abfragen_vorname_name"
+msgstr "Vornamen abfragen"
+
+msgid "benachrichtigung_abfragen_vorname_desc"
+msgstr ""
+
+msgid "benachrichtigung_abfragen_nachname_name"
+msgstr "Nachnamen abfragen"
+
+msgid "benachrichtigung_abfragen_nachname_desc"
+msgstr ""
+
+msgid "benachrichtigung_sperre_minuten_name"
+msgstr "Formular für Verfügbarkeitsanfragen sperren für X Minuten"
+
+msgid "benachrichtigung_sperre_minuten_desc"
+msgstr "Hier legen Sie fest, wie viele Minuten mindestens zwischen zwei Anfragen vergehen müssen."
+
+msgid "benachrichtigung_abfragen_captcha_name"
+msgstr "Spamschutz aktivieren"
+
+msgid "benachrichtigung_abfragen_captcha_desc"
+msgstr "Hier legen Sie fest, ob für Benachrichtigungsanfragen der Spamschutz aktiviert werden soll. Dazu müssen Sie ggf. zuerst den Spamschutz von JTL-Shop in den globalen Einstellungen konfigurieren."
+
+msgid "benachrichtigung_min_lagernd_name"
+msgstr "Benachrichtigung ab prozentualem Mindestlagerbestand"
+
+msgid "benachrichtigung_min_lagernd_desc"
+msgstr "Hier stellen Sie ein, ab welchem Verhältnis zwischen verfügbarem Lagerbestand und Verfügbarkeitsanfragen eine Verfügbarkeitsbenachrichtigung versendet wird. Beispiel: 10 Kunden haben einen Artikel angefragt. Ihr neuer Lagerbestand umfasst 3 Einheiten. Damit eine Verfügbarkeitsbenachrichtigung versendet wird, dürfen Sie hier also höchstens 30 Prozent einstellen."
+
+msgid "artikeldetails_vergleichsliste_anzeigen_name"
+msgstr "„Zur Vergleichsliste hinzufügen“ anzeigen"
+
+msgid "artikeldetails_vergleichsliste_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob auf der Artikeldetailseite die Schaltfläche „Zur Vergleichsliste hinzufügen“ angezeigt werden soll."
+
+msgid "mediendatei_anzeigen_name"
+msgstr "Mediendateien anzeigen"
+
+msgid "mediendatei_anzeigen_desc"
+msgstr " Hier legen Sie fest, ob und wo Mediendateien auf der Artikeldetailseite angezeigt werden."
+
+msgid "artikeldetails_aehnlicheartikel_anzahl_name"
+msgstr "Anzahl Artikel"
+
+msgid "artikeldetails_aehnlicheartikel_anzahl_desc"
+msgstr "Hier legen Sie fest, wie viele ähnliche Artikel angezeigt werden sollen. Ähnliche Artikel werden aufgrund identischer Merkmale vorgeschlagen. Falls Sie keine Merkmale nutzen, werden ähnliche Artikel aus der Suche abgeleitet. Bereits über Cross-Selling angebotene Artikel werden dabei ausgeschlossen. 0 zeigt gar keine Artikel an."
+
+msgid "artikeldetails_stueckliste_anzeigen_name"
+msgstr "Stücklistenkomponenten anzeigen"
+
+msgid "artikeldetails_stueckliste_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob alle Komponenten einer Stückliste auf der Artikeldetailseite in einer Box angezeigt werden."
+
+msgid "artikeldetails_produktbundle_nutzen_name"
+msgstr "Artikelbundle-Empfehlungen nutzen"
+
+msgid "artikeldetails_produktbundle_nutzen_desc"
+msgstr ""
+
+msgid "merkmale_anzeigen_name"
+msgstr "Merkmale anzeigen"
+
+msgid "merkmale_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die in JTL-Wawi zugewiesenen Merkmale der Artikel auf der Artikeldetailseite angezeigt werden."
+
+msgid "artikeldetails_gewicht_anzeigen_name"
+msgstr "Versandgewicht anzeigen"
+
+msgid "artikeldetails_gewicht_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob das in JTL-Wawi hinterlegte Versandgewicht (Artikel + Verpackung) auf der Artikeldetailseite angezeigt wird."
+
+msgid "artikeldetails_artikelgewicht_anzeigen_name"
+msgstr "Artikelgewicht anzeigen"
+
+msgid "artikeldetails_artikelgewicht_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob das in JTL-Wawi hinterlegte Artikelgewicht (Artikel ohne Verpackung) auf der Artikeldetailseite angezeigt wird."
+
+msgid "artikeldetails_abmessungen_anzeigen_name"
+msgstr "Abmessungen anzeigen"
+
+msgid "artikeldetails_abmessungen_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die in JTL-Wawi hinterlegten Maße (Länge x Breite x Höhe) auf der Artikeldetailseite angezeigt werden."
+
+msgid "artikeldetails_attribute_anhaengen_name"
+msgstr "Artikelattribute an Beschreibung anhängen"
+
+msgid "artikeldetails_attribute_anhaengen_desc"
+msgstr "Hier legen Sie fest, ob in JTL-Wawi gepflegte Artikelattribute nach dem Muster Attributname: Attributwert auf der Artikeldetailseite angezeigt werden."
+
+msgid "kundenregistrierung_abfragen_titel_name"
+msgstr "Titel abfragen"
+
+msgid "kundenregistrierung_abfragen_titel_desc"
+msgstr "Hier legen Sie fest, ob der Titel abgefragt werden soll."
+
+msgid "kundenregistrierung_abfragen_anrede_name"
+msgstr "Anrede abfragen"
+
+msgid "kundenregistrierung_abfragen_anrede_desc"
+msgstr "Hier legen Sie fest, ob die Anrede abgefragt werden soll. Unabhängig von dieser Einstellung verwendet JTL-Shop standardmäßig in Frontend und E-Mails eine geschlechtsneutrale Briefanrede (z.&nbsp;B. „Guten Tag Max Mustermann“). Die Briefanrede kann in E-Mail-Vorlagen oder in den Druckvorlagen von JTL-Wawi entsprechend angepasst werden."
+
+msgid "kundenregistrierung_pflicht_vorname_name"
+msgstr "Vornamen abfragen"
+
+msgid "kundenregistrierung_pflicht_vorname_desc"
+msgstr "Wenn Vorname eine Pflichtangabe ist, aber kein Vorname angegeben ist, abbrechen."
+
+msgid "kundenregistrierung_abfragen_firma_name"
+msgstr "Firma abfragen"
+
+msgid "kundenregistrierung_abfragen_firma_desc"
+msgstr "Hier legen Sie fest, ob der Firmenname abgefragt wird."
+
+msgid "kundenregistrierung_abfragen_firmazusatz_name"
+msgstr "Firmenzusatz abfragen"
+
+msgid "kundenregistrierung_abfragen_firmazusatz_desc"
+msgstr "Hier legen Sie fest, ob der Firmenzusatz abgefragt wird."
+
+msgid "kundenregistrierung_abfragen_adresszusatz_name"
+msgstr "Adresszusatz abfragen"
+
+msgid "kundenregistrierung_abfragen_adresszusatz_desc"
+msgstr "Hier legen Sie fest, ob ein Adresszusatz abgefragt wird."
+
+msgid "kundenregistrierung_abfragen_mobil_name"
+msgstr "Mobiltelefonnummer abfragen"
+
+msgid "kundenregistrierung_abfragen_mobil_desc"
+msgstr ""
+
+msgid "kundenregistrierung_abfragen_fax_name"
+msgstr "Faxnummer abfragen"
+
+msgid "kundenregistrierung_abfragen_fax_desc"
+msgstr ""
+
+msgid "kundenregistrierung_abfragen_tel_name"
+msgstr "Telefonnummer abfragen"
+
+msgid "kundenregistrierung_abfragen_tel_desc"
+msgstr ""
+
+msgid "kundenregistrierung_abfragen_ustid_name"
+msgstr "USt-IdNr. abfragen"
+
+msgid "kundenregistrierung_abfragen_ustid_desc"
+msgstr "Hier legen Sie fest, ob die Umsatzsteuer-Identifikationsnummer abgefragt werden soll."
+
+msgid "kundenregistrierung_abfragen_www_name"
+msgstr "Website-Adresse abfragen"
+
+msgid "kundenregistrierung_abfragen_www_desc"
+msgstr "Hier legen Sie fest, ob eine Website-Adresse des Kunden abgefragt werden soll."
+
+msgid "kundenregistrierung_abfragen_geburtstag_name"
+msgstr "Geburtsdatum abfragen"
+
+msgid "kundenregistrierung_abfragen_geburtstag_desc"
+msgstr ""
+
+msgid "kundenregistrierung_passwortlaenge_name"
+msgstr "Mindestlänge Passwort"
+
+msgid "kundenregistrierung_passwortlaenge_desc"
+msgstr "Hier legen Sie fest, wie viele Zeichen ein Kundenpasswort mindestens umfassen muss."
+
+msgid "kundenregistrierung_standardland_name"
+msgstr "Vorausgewähltes Land"
+
+msgid "kundenregistrierung_standardland_desc"
+msgstr "Hier geben Sie den ISO-Code für das Land an, das vorausgewählt sein soll, z. B. DE für Deutschland oder AT für Österreich."
+
+msgid "kundenregistrierung_abfragen_bundesland_name"
+msgstr "Bundesland abfragen"
+
+msgid "kundenregistrierung_abfragen_bundesland_desc"
+msgstr "Hier wählen Sie aus, ob das Bundesland, bzw. die für das ausgewählte Land zutreffende administrative Einheit (Départements in Frankreich, Staaten in den USA, usw.), ausgewählt werden muss."
+
+msgid "kundenregistrierung_pruefen_ort_name"
+msgstr "Stadt auf Zahl prüfen"
+
+msgid "kundenregistrierung_pruefen_ort_desc"
+msgstr "Hier können Sie festlegen, ob JTL-Shop den eingegebenen Namen der Stadt auf Zahlen überprüft."
+
+msgid "kundenregistrierung_pruefen_name_name"
+msgstr "Name auf Zahlen prüfen"
+
+msgid "kundenregistrierung_pruefen_name_desc"
+msgstr "Hier können Sie festlegen, ob JTL-Shop den eingegebenen Vor- und Nachnamen auf Zahlen überprüft."
+
+msgid "kundenregistrierung_pruefen_zeit_name"
+msgstr "Ausfüllzeit prüfen"
+
+msgid "kundenregistrierung_pruefen_zeit_desc"
+msgstr "Hier können Sie festlegen, ob JTL-Shop überprüft, ob für das gesamte Ausfüllen des Formulars weniger als 5 Sekunden benötigt wurden."
+
+msgid "kundenregistrierung_pruefen_email_name"
+msgstr "E-Mail-DNS prüfen"
+
+msgid "kundenregistrierung_pruefen_email_desc"
+msgstr "Hier können Sie festlegen, ob geprüft wird, ob es einen DNS-Eintrag zur Domain der eingegebenen E-Mail-Adresse gibt."
+
+msgid "kundenregistrierung_nur_lieferlaender_name"
+msgstr "Nur belieferbare Länder in Auswahl"
+
+msgid "kundenregistrierung_nur_lieferlaender_desc"
+msgstr "Hier legen Sie fest, ob bei Rechnungs- und Lieferadresse nur Länder ausgewählt werden können, für die es auch mindestens eine Versandart gibt. Wir empfehlen, diese Einstellung auf „Ja“ zu setzen."
+
+msgid "kundenregistrierung_abgleichen_plz_name"
+msgstr "Postleitzahlen prüfen"
+
+msgid "kundenregistrierung_abgleichen_plz_desc"
+msgstr "Hier legen Sie fest, ob JTL-Shop prüft, ob die eingegebene Postleitzahl zum eingegebenen Ort passt. Ist dies nicht der Fall, bekommt Ihr Kunde eine Fehlermeldung. Er kann dann den Bestellvorgang trotzdem fortsetzen, auch wenn er keine Änderungen vornimmt."
+
+msgid "registrieren_captcha_name"
+msgstr "Spamschutz aktivieren"
+
+msgid "registrieren_captcha_desc"
+msgstr "Hier legen Sie fest, ob für das Formular der Spamschutz aktiviert werden soll. Dazu müssen Sie ggf. zuerst den Spamschutz von JTL-Shop in den globalen Einstellungen konfigurieren."
+
+msgid "kundenlogin_max_loginversuche_name"
+msgstr "CAPTCHA nach X erfolglosen Anmeldeversuchen anzeigen"
+
+msgid "kundenlogin_max_loginversuche_desc"
+msgstr "Sie können vorgeben, wie viele erfolglose Anmeldeversuche ein Kunde hat, bevor ein CAPTCHA angezeigt wird. Hiermit wird erschwert, dass ein Bot durch Ausprobieren ein Kundenkonto hacken kann."
+
+msgid "lieferadresse_abfragen_anrede_name"
+msgstr "Anrede abfragen"
+
+msgid "lieferadresse_abfragen_anrede_desc"
+msgstr "Hier legen Sie fest, ob die Anrede abgefragt werden soll. Unabhängig von dieser Einstellung verwendet JTL-Shop standardmäßig in Frontend und E-Mails eine geschlechtsneutrale Briefanrede (z.&nbsp;B. „Guten Tag Max Mustermann“). Die Briefanrede kann in E-Mail-Vorlagen oder in den Druckvorlagen von JTL-Wawi entsprechend angepasst werden."
+
+msgid "lieferadresse_abfragen_titel_name"
+msgstr "Titel abfragen"
+
+msgid "lieferadresse_abfragen_titel_desc"
+msgstr ""
+
+msgid "lieferadresse_abfragen_adresszusatz_name"
+msgstr "Adresszusatz abfragen"
+
+msgid "lieferadresse_abfragen_adresszusatz_desc"
+msgstr "Hier legen Sie fest, ob ein Adresszusatz abgefragt wird."
+
+msgid "lieferadresse_abfragen_bundesland_name"
+msgstr "Bundesland abfragen"
+
+msgid "lieferadresse_abfragen_bundesland_desc"
+msgstr "Hier wählen Sie aus, ob das Bundesland, bzw. die für das ausgewählte Land zutreffende administrative Einheit (Départements in Frankreich, Staaten in den USA, usw.), ausgewählt werden muss."
+
+msgid "lieferadresse_abfragen_tel_name"
+msgstr "Telefonnummer abfragen"
+
+msgid "lieferadresse_abfragen_tel_desc"
+msgstr ""
+
+msgid "lieferadresse_abfragen_mobil_name"
+msgstr "Mobiltelefonnummer abfragen"
+
+msgid "lieferadresse_abfragen_mobil_desc"
+msgstr ""
+
+msgid "lieferadresse_abfragen_email_name"
+msgstr "E-Mail-Adresse abfragen"
+
+msgid "lieferadresse_abfragen_email_desc"
+msgstr ""
+
+msgid "lieferadresse_abfragen_fax_name"
+msgstr "Faxnummer abfragen"
+
+msgid "lieferadresse_abfragen_fax_desc"
+msgstr ""
+
+msgid "lieferadresse_abfragen_standardland_name"
+msgstr "Vorausgewähltes Land"
+
+msgid "lieferadresse_abfragen_standardland_desc"
+msgstr "Hier geben Sie den ISO-Code für das Land an, das vorausgewählt sein soll, z. B. DE für Deutschland oder AT für Österreich."
+
+msgid "shop_ustid_name"
+msgstr "USt-IdNr. des Onlineshops"
+
+msgid "shop_ustid_desc"
+msgstr "Hinterlegen Sie hier die Umsatzsteuer-Identifikationsnummer für die Firma, die den JTL-Shop betreibt, um die USt.-IdNr. eines Kunden prüfen zu können."
+
+msgid "shop_ustid_bzstpruefung_name"
+msgstr "USt-IdNr.-Prüfung durch MIAS-System aktivieren"
+
+msgid "shop_ustid_bzstpruefung_desc"
+msgstr "Hier können Sie festlegen, ob Umsatzsteuer-Identifikationsnummern durch das MIAS-System der Europäischen Kommission geprüft werden sollen. Sie müssen dazu Ihre eigene USt.-IdNr. eingeben."
+
+msgid "shop_ustid_force_remote_check_name"
+msgstr "Kundenregistrierung nur mit MIAS-Bestätigung"
+
+msgid "shop_ustid_force_remote_check_desc"
+msgstr "Hier legen Sie fest, ob eine Registrierung nur nach erfolgreicher MIAS-Bestätigung möglich ist. Wenn Sie diese Option aktivieren, wird die Registrierung auch verhindert, wenn das zuständige Steueramt nicht erreichbar ist."
+
+msgid "warenkorb_produktbilder_anzeigen_name"
+msgstr "Artikelbilder im Warenkorb anzeigen"
+
+msgid "warenkorb_produktbilder_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob im Warenkorb für jeden Artikel ein Vorschaubild angezeigt wird."
+
+msgid "warenkorb_versandermittlung_anzeigen_name"
+msgstr "Versandkostenermittlung anzeigen"
+
+msgid "warenkorb_versandermittlung_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die Versandkostenermittlung auf der Spezialseite „Versand“ angezeigt wird."
+
+msgid "warenkorb_kupon_anzeigen_name"
+msgstr "Coupons bereits im Warenkorb abfragen"
+
+msgid "warenkorb_kupon_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob Coupons bereits im Warenkorb abgefragt werden."
+
+msgid "warenkorb_xselling_anzeigen_name"
+msgstr "Cross-Selling im Warenkorb anzeigen"
+
+msgid "warenkorb_xselling_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob im Warenkorb Cross-Selling angezeigt werden soll."
+
+msgid "warenkorb_xselling_anzahl_name"
+msgstr "Anzahl Cross-Selling-Artikel im Warenkorb"
+
+msgid "warenkorb_xselling_anzahl_desc"
+msgstr "Hier legen Sie fest, wie viele Cross-Selling-Artikel im Warenkorb angezeigt werden sollen."
+
+msgid "warenkorb_varianten_varikombi_anzeigen_name"
+msgstr "Variationswerte im Warenkorb anzeigen"
+
+msgid "warenkorb_varianten_varikombi_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob Variationswerte (z. B. Farbe und Größe) im Warenkorb angezeigt werden sollen."
+
+msgid "warenkorb_warenkorb2pers_merge_name"
+msgstr "Aktuellen Warenkorb mit gespeichertem Warenkorb zusammenfassen"
+
+msgid "warenkorb_warenkorb2pers_merge_desc"
+msgstr "Hier legen Sie fest, ob der aktuelle Warenkorb eines Kunden mit bereits gespeicherten Warenkörben für diesen Kunden zusammengefasst werden soll."
+
+msgid "bestellvorgang_kaufabwicklungsmethode_name"
+msgstr "Kaufabwicklungsmethode"
+
+msgid "bestellvorgang_kaufabwicklungsmethode_desc"
+msgstr "Hier legen Sie fest, welche Methode für die Kaufabwicklung verwendet werden soll."
+
+msgid "bestellvorgang_wrb_anzeigen_name"
+msgstr "Widerrufsbelehrung im Bestellvorgang anzeigen"
+
+msgid "bestellvorgang_wrb_anzeigen_desc"
+msgstr ""
+
+msgid "bestellvorgang_einzelpreise_anzeigen_name"
+msgstr "Einzelpreise der Positionen anzeigen"
+
+msgid "bestellvorgang_einzelpreise_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob Einzelpreise von Positionen im Warenkorb und Bestellvorgang angezeigt werden."
+
+msgid "bestellvorgang_lieferstatus_anzeigen_name"
+msgstr "Lieferstatus bei Positionen anzeigen"
+
+msgid "bestellvorgang_lieferstatus_anzeigen_desc"
+msgstr ""
+
+msgid "bestellvorgang_unregistriert_name"
+msgstr "Unregistrierten Bestellvorgang zulassen"
+
+msgid "bestellvorgang_unregistriert_desc"
+msgstr "Hier legen Sie fest, ob Kunden zwingend ein Kundenkonto anlegen müssen, um Bestellungen aufgeben zu können."
+
+msgid "bestellvorgang_unregneukundenkupon_zulassen_name"
+msgstr "Bei unregistrierten Kunden Neukundencoupons zulassen"
+
+msgid "bestellvorgang_unregneukundenkupon_zulassen_desc"
+msgstr "Hier legen Sie fest, ob Kunden, die kein Kundenkonto anlegen, auch einen Neukundencoupon einlösen können."
+
+msgid "bestellvorgang_versand_steuersatz_name"
+msgstr "Versand- / Zahlungsgebühr"
+
+msgid "bestellvorgang_versand_steuersatz_desc"
+msgstr "Hier legen Sie fest, wie der Steuersatz für die Versand- bzw. Zahlungsgebühr berechnet werden soll."
+
+msgid "bestellvorgang_artikelmerkmale_name"
+msgstr "Artikelmerkmale anzeigen"
+
+msgid "bestellvorgang_artikelmerkmale_desc"
+msgstr ""
+
+msgid "bestellvorgang_artikelattribute_name"
+msgstr "Artikelattribute anzeigen"
+
+msgid "bestellvorgang_artikelattribute_desc"
+msgstr ""
+
+msgid "bestellvorgang_artikelkurzbeschreibung_name"
+msgstr "Eindeutige Artikelkurzbeschreibung anzeigen"
+
+msgid "bestellvorgang_artikelkurzbeschreibung_desc"
+msgstr ""
+
+msgid "bestellabschluss_bestellnummer_praefix_name"
+msgstr "Bestellnummer Präfix"
+
+msgid "bestellabschluss_bestellnummer_praefix_desc"
+msgstr "Hier legen Sie fest, wie die Bestellnummer aufgebaut sein soll. Diese wird wie folgt generiert: {Präfix}{Fortlaufende Nummer + Anfangsnummer}{Suffix}"
+
+msgid "bestellabschluss_bestellnummer_anfangsnummer_name"
+msgstr "Bestellnummer Anfangsnummer"
+
+msgid "bestellabschluss_bestellnummer_anfangsnummer_desc"
+msgstr "Hier legen Sie fest, wie die Bestellnummer aufgebaut sein soll. Diese wird wie folgt generiert: {Präfix}{Fortlaufende Nummer + Anfangsnummer}{Suffix}"
+
+msgid "bestellabschluss_bestellnummer_suffix_name"
+msgstr "Bestellnummer Suffix"
+
+msgid "bestellabschluss_bestellnummer_suffix_desc"
+msgstr "Hier legen Sie fest, wie die Bestellnummer aufgebaut sein soll. Diese wird wie folgt generiert: {Präfix}{Fortlaufende Nummer + Anfangsnummer}{Suffix}"
+
+msgid "bestellabschluss_runden5_name"
+msgstr "Gesamtsumme auf 5 Rappen / Cent runden"
+
+msgid "bestellabschluss_runden5_desc"
+msgstr "Hier legen Sie fest, ob die Gesamtsumme im Warenkorb auf 5 Rappen / Cent auf- bzw. abgerundet werden soll."
+
+msgid "bestellabschluss_spamschutz_nutzen_name"
+msgstr "Spamschutz aktivieren"
+
+msgid "bestellabschluss_spamschutz_nutzen_desc"
+msgstr "Hier legen Sie fest, ob weitere Bestellungen von der gleichen IP-Adresse nur nach 2 Minuten Wartezeit möglich sind. Wird früher versucht, erneut zu bestellen, wird die Wartezeit verdoppelt; sie beträgt dann also 4, 8, 16, 32 usw. Minuten."
+
+msgid "bestellabschluss_abschlussseite_name"
+msgstr "Abschluss-Seite nach externer Bezahlung"
+
+msgid "bestellabschluss_abschlussseite_desc"
+msgstr "Hier legen Sie fest, welche Seite nach einer externen Bezahlung angezeigt werden soll."
+
+msgid "box_bestseller_anzahl_anzeige_name"
+msgstr "Anzahl angezeigter Artikel"
+
+msgid "box_bestseller_anzahl_anzeige_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel in der Box angezeigt werden."
+
+msgid "box_bestseller_anzahl_basis_name"
+msgstr "Basisanzahl Artikel"
+
+msgid "box_bestseller_anzahl_basis_desc"
+msgstr "Hier legen Sie fest, aus wie vielen Artikeln die anzuzeigenden Artikel zufällig ausgesucht werden sollen."
+
+msgid "box_sonderangebote_anzahl_anzeige_name"
+msgstr "Anzahl angezeigter Artikel"
+
+msgid "box_sonderangebote_anzahl_anzeige_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel in der Box angezeigt werden."
+
+msgid "box_sonderangebote_anzahl_basis_name"
+msgstr "Basisanzahl Artikel"
+
+msgid "box_sonderangebote_anzahl_basis_desc"
+msgstr "Hier legen Sie fest, aus wie vielen Artikeln die anzuzeigenden Artikel zufällig ausgesucht werden sollen."
+
+msgid "box_neuimsortiment_anzahl_anzeige_name"
+msgstr "Anzahl angezeigter Artikel"
+
+msgid "box_neuimsortiment_anzahl_anzeige_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel in der Box angezeigt werden."
+
+msgid "box_neuimsortiment_alter_tage_name"
+msgstr "Maximales Artikelalter in Tagen"
+
+msgid "box_neuimsortiment_alter_tage_desc"
+msgstr "Hier legen Sie fest, wie viele Tage lang Artikel als „Neu im Sortiment“ markiert werden."
+
+msgid "box_neuimsortiment_anzahl_basis_name"
+msgstr "Basisanzahl Artikel"
+
+msgid "box_neuimsortiment_anzahl_basis_desc"
+msgstr "Hier legen Sie fest, aus wie vielen Artikeln die anzuzeigenden Artikel zufällig ausgesucht werden sollen."
+
+msgid "box_topangebot_anzahl_anzeige_name"
+msgstr "Anzahl angezeigter Artikel"
+
+msgid "box_topangebot_anzahl_anzeige_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel in der Box angezeigt werden."
+
+msgid "box_topangebot_anzahl_basis_name"
+msgstr "Basisanzahl Artikel"
+
+msgid "box_topangebot_anzahl_basis_desc"
+msgstr "Hier legen Sie fest, aus wie vielen Artikeln die anzuzeigenden Artikel zufällig ausgesucht werden sollen."
+
+msgid "box_zuletztangesehen_anzahl_name"
+msgstr "Anzahl angezeigter Artikel"
+
+msgid "box_zuletztangesehen_anzahl_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel in der Box angezeigt werden."
+
+msgid "box_erscheinende_anzahl_anzeige_name"
+msgstr "Anzahl angezeigter Artikel"
+
+msgid "box_erscheinende_anzahl_anzeige_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel in der Box angezeigt werden."
+
+msgid "box_erscheinende_anzahl_basis_name"
+msgstr "Basisanzahl Artikel"
+
+msgid "box_erscheinende_anzahl_basis_desc"
+msgstr "Hier legen Sie fest, aus wie vielen Artikeln die anzuzeigenden Artikel zufällig ausgesucht werden sollen."
+
+msgid "boxen_livesuche_anzeigen_name"
+msgstr "Box anzeigen"
+
+msgid "boxen_livesuche_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die Suchwolke in der Box angezeigt werden soll."
+
+msgid "boxen_livesuche_count_name"
+msgstr "Anzahl angezeigter Suchbegriffe"
+
+msgid "boxen_livesuche_count_desc"
+msgstr "Hier legen Sie die Anzahl von Begriffen fest, die in der Suchwolke angezeigt werden."
+
+msgid "boxen_wunschzettel_anzahl_name"
+msgstr "Anzahl angezeigter Artikel"
+
+msgid "boxen_wunschzettel_anzahl_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel in der Box „Wunschzettel“ angezeigt werden."
+
+msgid "boxen_wunschzettel_bilder_name"
+msgstr "Bilder anzeigen"
+
+msgid "boxen_wunschzettel_bilder_desc"
+msgstr "Hier legen Sie fest, ob in der Box „Wunschzettel“ Artikelbilder angezeigt werden sollen."
+
+msgid "boxen_vergleichsliste_anzeigen_name"
+msgstr "Vergleichsliste anzeigen"
+
+msgid "boxen_vergleichsliste_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die Vergleichsliste in einer Box angezeigt werden soll."
+
+msgid "boxen_topbewertet_anzahl_name"
+msgstr "Anzahl angezeigter Artikel"
+
+msgid "boxen_topbewertet_anzahl_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel in der Box angezeigt werden."
+
+msgid "boxen_topbewertet_basisanzahl_name"
+msgstr "Basisanzahl Artikel"
+
+msgid "boxen_topbewertet_basisanzahl_desc"
+msgstr "Hier legen Sie fest, aus wie vielen Artikeln die anzuzeigenden Artikel zufällig ausgesucht werden sollen."
+
+msgid "boxen_topbewertet_minsterne_name"
+msgstr "Top bewertet ab welcher Durchschnittsbewertung"
+
+msgid "boxen_topbewertet_minsterne_desc"
+msgstr "Hier legen Sie fest, mit wie vielen Sternen ein Artikel mindestens im Durchschnitt bewertet sein muss, um als „Top bewertet“ zu gelten."
+
+msgid "bilder_kategorien_breite_name"
+msgstr "Kategoriebilder Breite"
+
+msgid "bilder_kategorien_breite_desc"
+msgstr ""
+
+msgid "bilder_kategorien_hoehe_name"
+msgstr "Kategoriebilder Höhe"
+
+msgid "bilder_kategorien_hoehe_desc"
+msgstr ""
+
+msgid "bilder_variationen_gross_breite_name"
+msgstr "Variationsbilder Groß Breite"
+
+msgid "bilder_variationen_gross_breite_desc"
+msgstr ""
+
+msgid "bilder_variationen_gross_hoehe_name"
+msgstr "Variationsbilder Groß Höhe"
+
+msgid "bilder_variationen_gross_hoehe_desc"
+msgstr ""
+
+msgid "bilder_variationen_breite_name"
+msgstr "Variationsbilder Breite"
+
+msgid "bilder_variationen_breite_desc"
+msgstr ""
+
+msgid "bilder_variationen_hoehe_name"
+msgstr "Variationsbilder Höhe"
+
+msgid "bilder_variationen_hoehe_desc"
+msgstr ""
+
+msgid "bilder_variationen_mini_breite_name"
+msgstr "Variationsbilder Mini Breite"
+
+msgid "bilder_variationen_mini_breite_desc"
+msgstr ""
+
+msgid "bilder_variationen_mini_hoehe_name"
+msgstr "Variationsbilder Mini Höhe"
+
+msgid "bilder_variationen_mini_hoehe_desc"
+msgstr ""
+
+msgid "bilder_artikel_gross_breite_name"
+msgstr "Artikelbilder Groß Breite"
+
+msgid "bilder_artikel_gross_breite_desc"
+msgstr ""
+
+msgid "bilder_artikel_gross_hoehe_name"
+msgstr "Artikelbilder Groß Höhe"
+
+msgid "bilder_artikel_gross_hoehe_desc"
+msgstr ""
+
+msgid "bilder_artikel_normal_breite_name"
+msgstr "Artikelbilder Normal Breite"
+
+msgid "bilder_artikel_normal_breite_desc"
+msgstr ""
+
+msgid "bilder_artikel_normal_hoehe_name"
+msgstr "Artikelbilder Normal Höhe"
+
+msgid "bilder_artikel_normal_hoehe_desc"
+msgstr ""
+
+msgid "bilder_artikel_klein_breite_name"
+msgstr "Artikelbilder Klein Breite"
+
+msgid "bilder_artikel_klein_breite_desc"
+msgstr ""
+
+msgid "bilder_artikel_klein_hoehe_name"
+msgstr "Artikelbilder Klein Höhe"
+
+msgid "bilder_artikel_klein_hoehe_desc"
+msgstr ""
+
+msgid "bilder_artikel_mini_breite_name"
+msgstr "Artikelbilder Mini Breite"
+
+msgid "bilder_artikel_mini_breite_desc"
+msgstr ""
+
+msgid "bilder_artikel_mini_hoehe_name"
+msgstr "Artikelbilder Mini Höhe"
+
+msgid "bilder_artikel_mini_hoehe_desc"
+msgstr ""
+
+msgid "bilder_hersteller_normal_breite_name"
+msgstr "Herstellerbilder Normal Breite"
+
+msgid "bilder_hersteller_normal_breite_desc"
+msgstr ""
+
+msgid "bilder_hersteller_normal_hoehe_name"
+msgstr "Herstellerbilder Normal Höhe"
+
+msgid "bilder_hersteller_normal_hoehe_desc"
+msgstr ""
+
+msgid "bilder_hersteller_klein_breite_name"
+msgstr "Herstellerbilder Klein Breite"
+
+msgid "bilder_hersteller_klein_breite_desc"
+msgstr ""
+
+msgid "bilder_hersteller_klein_hoehe_name"
+msgstr "Herstellerbilder Klein Höhe"
+
+msgid "bilder_hersteller_klein_hoehe_desc"
+msgstr ""
+
+msgid "bilder_merkmal_normal_breite_name"
+msgstr "Merkmalbilder Normal Breite"
+
+msgid "bilder_merkmal_normal_breite_desc"
+msgstr ""
+
+msgid "bilder_merkmal_normal_hoehe_name"
+msgstr "Merkmalbilder Normal Höhe"
+
+msgid "bilder_merkmal_normal_hoehe_desc"
+msgstr ""
+
+msgid "bilder_merkmal_klein_breite_name"
+msgstr "Merkmalbilder Klein Breite"
+
+msgid "bilder_merkmal_klein_breite_desc"
+msgstr ""
+
+msgid "bilder_merkmal_klein_hoehe_name"
+msgstr "Merkmalbilder Klein Höhe"
+
+msgid "bilder_merkmal_klein_hoehe_desc"
+msgstr ""
+
+msgid "bilder_merkmalwert_normal_breite_name"
+msgstr "Merkmalwertbilder Normal Breite"
+
+msgid "bilder_merkmalwert_normal_breite_desc"
+msgstr ""
+
+msgid "bilder_merkmalwert_normal_hoehe_name"
+msgstr "Merkmalwertbilder Normal Höhe"
+
+msgid "bilder_merkmalwert_normal_hoehe_desc"
+msgstr ""
+
+msgid "bilder_konfiggruppe_klein_breite_name"
+msgstr "Konfigurationsgruppenbilder Klein Breite"
+
+msgid "bilder_konfiggruppe_klein_breite_desc"
+msgstr ""
+
+msgid "bilder_merkmalwert_klein_breite_name"
+msgstr "Merkmalwertbilder Klein Breite"
+
+msgid "bilder_merkmalwert_klein_breite_desc"
+msgstr ""
+
+msgid "bilder_konfiggruppe_klein_hoehe_name"
+msgstr "Konfigurationsgruppenbilder Klein Höhe"
+
+msgid "bilder_konfiggruppe_klein_hoehe_desc"
+msgstr ""
+
+msgid "bilder_merkmalwert_klein_hoehe_name"
+msgstr "Merkmalwertbilder Klein Höhe"
+
+msgid "bilder_merkmalwert_klein_hoehe_desc"
+msgstr ""
+
+msgid "bilder_jpg_quali_name"
+msgstr "JPEG-Bildqualität"
+
+msgid "bilder_jpg_quali_desc"
+msgstr ""
+
+msgid "bilder_artikel_namen_name"
+msgstr "Bildnamen von Artikelbildern"
+
+msgid "bilder_artikel_namen_desc"
+msgstr "Hier legen Sie fest, wie der Name der Bilddateien für Artikel erzeugt werden soll."
+
+msgid "bilder_kategorie_namen_name"
+msgstr "Bildnamen von Kategoriebildern"
+
+msgid "bilder_kategorie_namen_desc"
+msgstr "Hier legen Sie fest, wie der Name der Bilddateien für Kategorien erzeugt werden soll."
+
+msgid "bilder_variation_namen_name"
+msgstr "Bildnamen von Variationsbildern"
+
+msgid "bilder_variation_namen_desc"
+msgstr "Hier legen Sie fest, wie der Name der Bilddateien für Variationen erzeugt werden soll."
+
+msgid "bilder_hersteller_namen_name"
+msgstr "Bildnamen von Herstellerbildern"
+
+msgid "bilder_hersteller_namen_desc"
+msgstr "Hier legen Sie fest, wie der Name der Bilddateien für Hersteller erzeugt werden soll."
+
+msgid "bilder_merkmal_namen_name"
+msgstr "Bildnamen von Merkmalbildern"
+
+msgid "bilder_merkmal_namen_desc"
+msgstr "Hier legen Sie fest, wie der Name der Bilddateien für Merkmale erzeugt werden soll."
+
+msgid "bilder_merkmalwert_namen_name"
+msgstr "Bildnamen von Merkmalwertbildern"
+
+msgid "bilder_merkmalwert_namen_desc"
+msgstr "Hier legen Sie fest, wie der Name der Bilddateien für Merkmalwerte erzeugt werden soll."
+
+msgid "bilder_externe_bildschnittstelle_name"
+msgstr "Externe Bildschnittstelle aktivieren"
+
+msgid "bilder_externe_bildschnittstelle_desc"
+msgstr "Hier legen Sie fest, ob die externe Bildschnittstelle aktiviert werden soll."
+
+msgid "container_verwenden_name"
+msgstr "Container-Größe verwenden"
+
+msgid "container_verwenden_desc"
+msgstr "Hier legen Sie fest, ob das Bild auf die Größe des entsprechenden Containers angepasst wird."
+
+msgid "bilder_dateiformat_name"
+msgstr "Dateiformat"
+
+msgid "bilder_dateiformat_desc"
+msgstr "Hier legen Sie fest, ob die Bilder im PNG- oder im JPEG-Format gespeichert werden sollen. Falls „Auto“ ausgewählt wird und der Server dies zulässt, werden alle Bilder auch im webp-Format angelegt. Dadurch wird zwar zusätzlicher Speicherpatz auf dem Server belegt, Bilder im webp-Format sind jedoch wesentlich kleiner und führen daher zu einer besseren Performance im Frontend."
+
+msgid "bilder_hintergrundfarbe_name"
+msgstr "Hintergrundfarbe"
+
+msgid "bilder_hintergrundfarbe_desc"
+msgstr "Geben Sie eine Hintergrundfarbe für Bilder an. Die Farbe ist nur zu sehen, wenn „Ja“ für „Container-Größe verwenden“ eingestellt ist."
+
+msgid "sonstiges_livesuche_all_top_count_name"
+msgstr "Anzahl anzuzeigender TOP-Suchanfragen"
+
+msgid "sonstiges_livesuche_all_top_count_desc"
+msgstr "Hier legen Sie fest, wie viele Begriffe als TOP-Suchanfragen in der Komplettübersicht der Suchanfragen angezeigt werden."
+
+msgid "sonstiges_livesuche_all_last_count_name"
+msgstr "Anzahl letzte Suchanfragen"
+
+msgid "sonstiges_livesuche_all_last_count_desc"
+msgstr "Hier legen Sie fest, wie viele letzte Suchanfragen in der Komplettübersicht der Suchanfragen angezeigt werden sollen."
+
+msgid "sonstiges_gratisgeschenk_nutzen_name"
+msgstr "Gratisgeschenke anbieten"
+
+msgid "sonstiges_gratisgeschenk_nutzen_desc"
+msgstr "Hier legen Sie fest, ob Gratisgeschenke im Warenkorb angeboten werden, sobald ein Kunde den dafür erforderlichen Mindestbestellwert erreicht hat."
+
+msgid "sonstiges_gratisgeschenk_anzahl_name"
+msgstr "Anzahl Gratisgeschenke auf der Übersichtsseite/im Warenkorb"
+
+msgid "sonstiges_gratisgeschenk_anzahl_desc"
+msgstr "Hier legen Sie fest, wie viele Gratisgeschenke auf der Übersichtsseite und im Warenkorb angezeigt werden. Geben Sie 0 an, um alle Gratisgeschenke anzuzeigen."
+
+msgid "sonstiges_gratisgeschenk_sortierung_name"
+msgstr "Gratisgeschenke sortieren nach"
+
+msgid "sonstiges_gratisgeschenk_sortierung_desc"
+msgstr "Hier legen Sie fest, nach welchem Kriterium die Gratisgeschenke sortiert werden sollen."
+
+msgid "zahlungsart_ueberweisung_min_bestellungen_name"
+msgstr "Anzahl nötiger Bestellungen"
+
+msgid "zahlungsart_ueberweisung_min_bestellungen_desc"
+msgstr "Hier legen Sie fest, wie oft ein Kunde mindestens bei Ihnen bestellt haben muss, damit ihm diese Zahlungsart angeboten wird."
+
+msgid "zahlungsart_ueberweisung_min_name"
+msgstr "Mindestbestellwert"
+
+msgid "zahlungsart_ueberweisung_min_desc"
+msgstr "Hier legen Sie fest, wie hoch der Warenkorbwert mindestens sein muss, damit eine Zahlungsart angeboten wird."
+
+msgid "zahlungsart_ueberweisung_max_name"
+msgstr "Maximaler Bestellwert"
+
+msgid "zahlungsart_ueberweisung_max_desc"
+msgstr "Hier legen Sie fest, bis zu welchem Warenkorbwert eine Zahlungsart angeboten wird."
+
+msgid "zahlungsart_nachnahme_min_bestellungen_name"
+msgstr "Anzahl nötiger Bestellungen"
+
+msgid "zahlungsart_nachnahme_min_bestellungen_desc"
+msgstr "Hier legen Sie fest, wie oft ein Kunde mindestens bei Ihnen bestellt haben muss, damit ihm diese Zahlungsart angeboten wird."
+
+msgid "zahlungsart_nachnahme_min_name"
+msgstr "Mindestbestellwert"
+
+msgid "zahlungsart_nachnahme_min_desc"
+msgstr "Hier legen Sie fest, wie hoch der Warenkorbwert mindestens sein muss, damit eine Zahlungsart angeboten wird."
+
+msgid "zahlungsart_nachnahme_max_name"
+msgstr "Maximaler Bestellwert"
+
+msgid "zahlungsart_nachnahme_max_desc"
+msgstr "Hier legen Sie fest, bis zu welchem Warenkorbwert eine Zahlungsart angeboten wird."
+
+msgid "zahlungsart_kreditkarte_min_bestellungen_name"
+msgstr "Anzahl nötiger Bestellungen"
+
+msgid "zahlungsart_kreditkarte_min_bestellungen_desc"
+msgstr "Hier legen Sie fest, wie oft ein Kunde mindestens bei Ihnen bestellt haben muss, damit ihm diese Zahlungsart angeboten wird."
+
+msgid "zahlungsart_kreditkarte_min_name"
+msgstr "Mindestbestellwert"
+
+msgid "zahlungsart_kreditkarte_min_desc"
+msgstr "Hier legen Sie fest, wie hoch der Warenkorbwert mindestens sein muss, damit eine Zahlungsart angeboten wird."
+
+msgid "zahlungsart_kreditkarte_max_name"
+msgstr "Maximaler Bestellwert"
+
+msgid "zahlungsart_kreditkarte_max_desc"
+msgstr "Hier legen Sie fest, bis zu welchem Warenkorbwert eine Zahlungsart angeboten wird."
+
+msgid "zahlungsart_rechnung_min_bestellungen_name"
+msgstr "Anzahl nötiger Bestellungen"
+
+msgid "zahlungsart_rechnung_min_bestellungen_desc"
+msgstr "Hier legen Sie fest, wie oft ein Kunde mindestens bei Ihnen bestellt haben muss, damit ihm diese Zahlungsart angeboten wird."
+
+msgid "zahlungsart_rechnung_min_name"
+msgstr "Mindestbestellwert"
+
+msgid "zahlungsart_rechnung_min_desc"
+msgstr "Hier legen Sie fest, wie hoch der Warenkorbwert mindestens sein muss, damit eine Zahlungsart angeboten wird."
+
+msgid "zahlungsart_rechnung_max_name"
+msgstr "Maximaler Bestellwert"
+
+msgid "zahlungsart_rechnung_max_desc"
+msgstr "Hier legen Sie fest, bis zu welchem Warenkorbwert eine Zahlungsart angeboten wird."
+
+msgid "zahlungsart_lastschrift_min_bestellungen_name"
+msgstr "Anzahl nötiger Bestellungen"
+
+msgid "zahlungsart_lastschrift_min_bestellungen_desc"
+msgstr "Hier legen Sie fest, wie oft ein Kunde mindestens bei Ihnen bestellt haben muss, damit ihm diese Zahlungsart angeboten wird."
+
+msgid "zahlungsart_lastschrift_min_name"
+msgstr "Mindestbestellwert"
+
+msgid "zahlungsart_lastschrift_min_desc"
+msgstr "Hier legen Sie fest, wie hoch der Warenkorbwert mindestens sein muss, damit eine Zahlungsart angeboten wird."
+
+msgid "zahlungsart_lastschrift_max_name"
+msgstr "Maximaler Bestellwert"
+
+msgid "zahlungsart_lastschrift_max_desc"
+msgstr "Hier legen Sie fest, bis zu welchem Warenkorbwert eine Zahlungsart angeboten wird."
+
+msgid "zahlungsart_lastschrift_bic_abfrage_name"
+msgstr "BIC abfragen"
+
+msgid "zahlungsart_lastschrift_bic_abfrage_desc"
+msgstr "Hier legen Sie fest, ob die BIC abgefragt werden soll."
+
+msgid "zahlungsart_lastschrift_kontoinhaber_abfrage_name"
+msgstr "Kontoinhaber abfragen"
+
+msgid "zahlungsart_lastschrift_kontoinhaber_abfrage_desc"
+msgstr "Hier legen Sie fest, ob der Kontoinhaber abgefragt werden soll."
+
+msgid "zahlungsart_lastschrift_kreditinstitut_abfrage_name"
+msgstr "Kreditinstitut abfragen"
+
+msgid "zahlungsart_lastschrift_kreditinstitut_abfrage_desc"
+msgstr "Hier legen Sie fest, ob das Kreditinstitut abgefragt werden soll."
+
+msgid "zahlungsart_barzahlung_min_bestellungen_name"
+msgstr "Anzahl nötiger Bestellungen"
+
+msgid "zahlungsart_barzahlung_min_bestellungen_desc"
+msgstr "Hier legen Sie fest, wie oft ein Kunde mindestens bei Ihnen bestellt haben muss, damit ihm diese Zahlungsart angeboten wird."
+
+msgid "zahlungsart_barzahlung_min_name"
+msgstr "Mindestbestellwert"
+
+msgid "zahlungsart_barzahlung_min_desc"
+msgstr "Hier legen Sie fest, wie hoch der Warenkorbwert mindestens sein muss, damit eine Zahlungsart angeboten wird."
+
+msgid "zahlungsart_barzahlung_max_name"
+msgstr "Maximaler Bestellwert"
+
+msgid "zahlungsart_barzahlung_max_desc"
+msgstr "Hier legen Sie fest, bis zu welchem Warenkorbwert eine Zahlungsart angeboten wird."
+
+msgid "exportformate_lager_ueber_null_name"
+msgstr "Nur Artikel mit Lagerbestand über 0"
+
+msgid "exportformate_lager_ueber_null_desc"
+msgstr ""
+
+msgid "exportformate_preis_ueber_null_name"
+msgstr "Nur Artikel mit Preis über 0"
+
+msgid "exportformate_preis_ueber_null_desc"
+msgstr ""
+
+msgid "exportformate_beschreibung_name"
+msgstr "Nur Artikel mit Beschreibung"
+
+msgid "exportformate_beschreibung_desc"
+msgstr ""
+
+msgid "exportformate_lieferland_name"
+msgstr "Versandkosten für Lieferland (ISO-Code)"
+
+msgid "exportformate_lieferland_desc"
+msgstr "Es werden automatisch die günstigsten Versandkosten zu diesem Lieferland berechnet. Geben Sie den ISO-Code an, z. B. DE für Deutschland."
+
+msgid "exportformate_quot_name"
+msgstr "Zeichenmaskierung \""
+
+msgid "exportformate_quot_desc"
+msgstr "Sie können bei Bedarf diese Zeichen maskieren lassen."
+
+msgid "exportformate_equot_name"
+msgstr "Zeichenmaskierung '"
+
+msgid "exportformate_equot_desc"
+msgstr "Sie können bei Bedarf diese Zeichen maskieren lassen."
+
+msgid "exportformate_semikolon_name"
+msgstr "Zeichenmaskierung ;"
+
+msgid "exportformate_semikolon_desc"
+msgstr "Sie können bei Bedarf diese Zeichen maskieren lassen."
+
+msgid "kontakt_abfragen_anrede_name"
+msgstr "Anrede abfragen"
+
+msgid "kontakt_abfragen_anrede_desc"
+msgstr "Hier legen Sie fest, ob die Anrede abgefragt werden soll. Unabhängig von dieser Einstellung verwendet JTL-Shop standardmäßig in Frontend und E-Mails eine geschlechtsneutrale Briefanrede (z.&nbsp;B. „Guten Tag Max Mustermann“). Die Briefanrede kann in E-Mail-Vorlagen oder in den Druckvorlagen von JTL-Wawi entsprechend angepasst werden."
+
+msgid "kontakt_abfragen_vorname_name"
+msgstr "Vornamen abfragen"
+
+msgid "kontakt_abfragen_vorname_desc"
+msgstr ""
+
+msgid "kontakt_abfragen_nachname_name"
+msgstr "Nachnamen abfragen"
+
+msgid "kontakt_abfragen_nachname_desc"
+msgstr ""
+
+msgid "kontakt_abfragen_firma_name"
+msgstr "Firmennamen abfragen"
+
+msgid "kontakt_abfragen_firma_desc"
+msgstr ""
+
+msgid "kontakt_abfragen_tel_name"
+msgstr "Telefonnummer abfragen"
+
+msgid "kontakt_abfragen_tel_desc"
+msgstr ""
+
+msgid "kontakt_abfragen_fax_name"
+msgstr "Faxnummer abfragen"
+
+msgid "kontakt_abfragen_fax_desc"
+msgstr ""
+
+msgid "kontakt_abfragen_mobil_name"
+msgstr "Mobilnummer abfragen"
+
+msgid "kontakt_abfragen_mobil_desc"
+msgstr ""
+
+msgid "kontakt_kopiekunde_name"
+msgstr "Kopie der Anfrage an Kunden schicken"
+
+msgid "kontakt_kopiekunde_desc"
+msgstr "Hier legen Sie fest, ob Kunden ihre eigenen Anfragen ebenfalls per E-Mail zugesendet bekommen."
+
+msgid "kontakt_sperre_minuten_name"
+msgstr "Kontaktformular sperren für X Minuten"
+
+msgid "kontakt_sperre_minuten_desc"
+msgstr "Hier legen Sie fest, wie viele Minuten mindestens zwischen zwei Anfragen vergehen müssen."
+
+msgid "kontakt_abfragen_captcha_name"
+msgstr "Spamschutz aktivieren"
+
+msgid "kontakt_abfragen_captcha_desc"
+msgstr "Hier legen Sie fest, ob für das Formular der Spamschutz aktiviert werden soll. Dazu müssen Sie ggf. zuerst den Spamschutz von JTL-Shop in den globalen Einstellungen konfigurieren."
+
+msgid "rss_nutzen_name"
+msgstr "RSS-Feed nutzen"
+
+msgid "rss_nutzen_desc"
+msgstr ""
+
+msgid "rss_titel_name"
+msgstr "Name des RSS-Feeds"
+
+msgid "rss_titel_desc"
+msgstr "Hier geben Sie den Namen des RSS-Feeds an."
+
+msgid "rss_description_name"
+msgstr "Beschreibung des RSS-Feeds"
+
+msgid "rss_description_desc"
+msgstr ""
+
+msgid "rss_copyright_name"
+msgstr "Copyright"
+
+msgid "rss_copyright_desc"
+msgstr "Hier hinterlegen Sie Copyright-Informationen zum RSS-Feed, beispielsweise den Namen Ihres Onlineshops."
+
+msgid "rss_logoURL_name"
+msgstr "URL zum Logo"
+
+msgid "rss_logoURL_desc"
+msgstr "Sie können auf Ihrem Webspace ein Logo für den RSS-Feed hinterlegen. Geben Sie hier die URL zu diesem Logo ein. Empfohlene Breite für das Logo: 200 Pixel"
+
+msgid "rss_alterTage_name"
+msgstr "Max. Alter von Informationen in Tagen"
+
+msgid "rss_alterTage_desc"
+msgstr "Hier legen Sie fest, wie viele Tage rückwirkend im RSS-Feed berücksichtigt werden."
+
+msgid "rss_artikel_beachten_name"
+msgstr "Artikel im Export beachten"
+
+msgid "rss_artikel_beachten_desc"
+msgstr "Hier legen Sie fest, ob neue Artikel im RSS-Feed angezeigt werden sollen."
+
+msgid "rss_news_beachten_name"
+msgstr "Blogbeiträge im Export beachten"
+
+msgid "rss_news_beachten_desc"
+msgstr "Hier legen Sie fest, ob Blogbeiträge im RSS-Feed angezeigt werden sollen."
+
+msgid "rss_bewertungen_beachten_name"
+msgstr "Bewertungen im Export beachten"
+
+msgid "rss_bewertungen_beachten_desc"
+msgstr "Hier legen Sie fest, ob neue freigeschaltete Bewertungen im RSS-Feed angezeigt werden sollen."
+
+msgid "rss_wawiabgleich_name"
+msgstr "Feed bei jedem Abgleich mit JTL-Wawi erstellen"
+
+msgid "rss_wawiabgleich_desc"
+msgstr "Hier legen Sie fest, ob bei jedem Abgleich mit JTL-Wawi automatisch ein neuer RSS-Feed erzeugt werden soll. Achtung: Diese Option kann den Abgleich mit JTL-Wawi stark verlangsamen."
+
+msgid "preisverlauf_anzeigen_name"
+msgstr "Preisverlauf anzeigen"
+
+msgid "preisverlauf_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob der Preisverlauf auf der Artikeldetailseite angezeigt werden soll."
+
+msgid "preisverlauf_anzahl_monate_name"
+msgstr "Letzte X Monate beachten"
+
+msgid "preisverlauf_anzahl_monate_desc"
+msgstr "Hier legen Sie fest, wie viele Monate rückwirkend für den Preisverlauf berücksichtigt werden sollen. "
+
+msgid "vergleichsliste_anzahl_name"
+msgstr "Maximale Anzahl an Artikeln"
+
+msgid "vergleichsliste_anzahl_desc"
+msgstr "Hier legen Sie fest, wie viele Artikel sich maximal auf der Vergleichsliste befinden dürfen."
+
+msgid "vergleichsliste_artikelnummer_name"
+msgstr "Anzeigepriorität der Artikelnummer"
+
+msgid "vergleichsliste_artikelnummer_desc"
+msgstr "Hier können Sie die Priorität der einzelnen Felder auf der Vergleichsliste einstellen. Je niedriger der Wert, desto weiter oben wird ein Feld angezeigt. Geben Sie 0 ein, um dieses Feld gar nicht anzuzeigen."
+
+msgid "vergleichsliste_verfuegbarkeit_name"
+msgstr "Anzeigepriorität der Verfügbarkeit"
+
+msgid "vergleichsliste_verfuegbarkeit_desc"
+msgstr "Hier können Sie die Priorität der einzelnen Felder auf der Vergleichsliste einstellen. Je niedriger der Wert, desto weiter oben wird ein Feld angezeigt. Geben Sie 0 ein, um dieses Feld gar nicht anzuzeigen."
+
+msgid "vergleichsliste_lieferzeit_name"
+msgstr "Anzeigepriorität der Lieferzeit"
+
+msgid "vergleichsliste_lieferzeit_desc"
+msgstr "Hier können Sie die Priorität der einzelnen Felder auf der Vergleichsliste einstellen. Je niedriger der Wert, desto weiter oben wird ein Feld angezeigt. Geben Sie 0 ein, um dieses Feld gar nicht anzuzeigen."
+
+msgid "vergleichsliste_hersteller_name"
+msgstr "Anzeigepriorität des Herstellers"
+
+msgid "vergleichsliste_hersteller_desc"
+msgstr "Hier können Sie die Priorität der einzelnen Felder auf der Vergleichsliste einstellen. Je niedriger der Wert, desto weiter oben wird ein Feld angezeigt. Geben Sie 0 ein, um dieses Feld gar nicht anzuzeigen."
+
+msgid "vergleichsliste_kurzbeschreibung_name"
+msgstr "Anzeigepriorität der Kurzbeschreibung"
+
+msgid "vergleichsliste_kurzbeschreibung_desc"
+msgstr "Hier können Sie die Priorität der einzelnen Felder auf der Vergleichsliste einstellen. Je niedriger der Wert, desto weiter oben wird ein Feld angezeigt. Geben Sie 0 ein, um dieses Feld gar nicht anzuzeigen."
+
+msgid "vergleichsliste_beschreibung_name"
+msgstr "Anzeigepriorität der Beschreibung"
+
+msgid "vergleichsliste_beschreibung_desc"
+msgstr "Hier können Sie die Priorität der einzelnen Felder auf der Vergleichsliste einstellen. Je niedriger der Wert, desto weiter oben wird ein Feld angezeigt. Geben Sie 0 ein, um dieses Feld gar nicht anzuzeigen."
+
+msgid "vergleichsliste_artikelgewicht_name"
+msgstr "Anzeigepriorität des Artikelgewichts"
+
+msgid "vergleichsliste_artikelgewicht_desc"
+msgstr "Hier können Sie die Priorität der einzelnen Felder auf der Vergleichsliste einstellen. Je niedriger der Wert, desto weiter oben wird ein Feld angezeigt. Geben Sie 0 ein, um dieses Feld gar nicht anzuzeigen."
+
+msgid "vergleichsliste_versandgewicht_name"
+msgstr "Anzeigepriorität des Versandgewichts"
+
+msgid "vergleichsliste_versandgewicht_desc"
+msgstr "Hier können Sie die Priorität der einzelnen Felder auf der Vergleichsliste einstellen. Je niedriger der Wert, desto weiter oben wird ein Feld angezeigt. Geben Sie 0 ein, um dieses Feld gar nicht anzuzeigen."
+
+msgid "vergleichsliste_variationen_name"
+msgstr "Anzeigepriorität der Variationen"
+
+msgid "vergleichsliste_variationen_desc"
+msgstr "Hier können Sie die Priorität der einzelnen Felder auf der Vergleichsliste einstellen. Je niedriger der Wert, desto weiter oben wird ein Feld angezeigt. Geben Sie 0 ein, um dieses Feld gar nicht anzuzeigen."
+
+msgid "vergleichsliste_merkmale_name"
+msgstr "Anzeigepriorität der Merkmale"
+
+msgid "vergleichsliste_merkmale_desc"
+msgstr "Hier können Sie die Priorität der einzelnen Felder auf der Vergleichsliste einstellen. Je niedriger der Wert, desto weiter oben wird ein Feld angezeigt. Geben Sie 0 ein, um dieses Feld gar nicht anzuzeigen."
+
+msgid "vergleichsliste_spaltengroesse_name"
+msgstr "Spaltenbreite des Artikels"
+
+msgid "vergleichsliste_spaltengroesse_desc"
+msgstr "Hier legen Sie fest, wie viele Pixel eine Spalte für einen Artikel in der Vergleichsliste breit sein soll."
+
+msgid "vergleichsliste_spaltengroesseattribut_name"
+msgstr "Spaltenbreite der Attribute"
+
+msgid "vergleichsliste_spaltengroesseattribut_desc"
+msgstr "Hier legen Sie fest, wie viele Pixel eine Spalte für ein Artikelattribut in der Vergleichsliste breit sein soll."
+
+msgid "vergleichsliste_target_name"
+msgstr "Position der Vergleichsliste"
+
+msgid "vergleichsliste_target_desc"
+msgstr "Hier legen Sie fest, ob die Vergleichsliste als Dialogfenster oder als eigene Seite im gleichen bzw. in einem neuen Fenster geöffnet werden soll."
+
+msgid "bewertung_anzeigen_name"
+msgstr "Bewertungssystem nutzen"
+
+msgid "bewertung_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die Möglichkeit, eine Bewertung abzugeben, in den Artikeldetails angezeigt wird."
+
+msgid "bewertung_freischalten_name"
+msgstr "Bewertungen freischalten"
+
+msgid "bewertung_freischalten_desc"
+msgstr "Hier legen Sie fest, ob Bewertungen erst freigeschaltet werden müssen, damit sie Ihren Besuchern angezeigt werden."
+
+msgid "bewertung_anzahlseite_name"
+msgstr "Anzahl Bewertungen pro Seite"
+
+msgid "bewertung_anzahlseite_desc"
+msgstr "Hier legen Sie fest, wie viele Bewertungen gleichzeitig auf der Artikeldetailseite angezeigt werden."
+
+msgid "bewertung_hilfreich_anzeigen_name"
+msgstr "„Bewertung hilfreich“ anzeigen"
+
+msgid "bewertung_hilfreich_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob Ihre Kunden Bewertungen als hilfreich bzw. nicht hilfreich markieren können sollen."
+
+msgid "bewertungserinnerung_nutzen_name"
+msgstr "Bewertungserinnerung nutzen"
+
+msgid "bewertungserinnerung_nutzen_desc"
+msgstr "Hier legen Sie fest, ob Ihre Kunden nach dem Kauf eines Artikels per E-Mail erinnert werden sollen, den Artikel zu bewerten. Bewertungserinnerungen werden nur an Kunden geschickt, die dem Erhalt des Newsletters per Double-Opt-In zugestimmt haben. Welche Kundengruppen dem Newsletter über Double-Opt-In zustimmen müssen, können Sie unter Marketing > Aktionen > Newsletter > Einstellungen „Double-Opt-In für folgende Kunden“ einstellen."
+
+msgid "bewertungserinnerung_kundengruppen_name"
+msgstr "Bewertungserinnerung nur zulassen für"
+
+msgid "bewertungserinnerung_kundengruppen_desc"
+msgstr "Hier legen Sie fest, welche Kundengruppen an eine Bewertung erinnert werden sollen. Mit gehaltener Strg-Taste können Sie mehrere Gruppen markieren."
+
+msgid "bewertung_guthaben_nutzen_name"
+msgstr "Guthabenbonus gewähren"
+
+msgid "bewertung_guthaben_nutzen_desc"
+msgstr "Hier legen Sie fest, ob Ihre Kunden für das Erstellen einer Artikelbewertung Guthaben gutgeschrieben bekommen sollen."
+
+msgid "bewertungserinnerung_versandtage_name"
+msgstr "Tage nach Versand bis zur Erinnerung"
+
+msgid "bewertungserinnerung_versandtage_desc"
+msgstr "Hier geben Sie die Wartezeit in Tagen ein, bis nach der Bestellung eine Bewertungserinnerung verschickt wird."
+
+msgid "bewertung_stufe2_anzahlzeichen_name"
+msgstr "Minimale Textlänge für Stufe 2"
+
+msgid "bewertung_stufe2_anzahlzeichen_desc"
+msgstr "Hier legen Sie fest, wie viele Zeichen eine Bewertung mindestens umfassen muss, damit ein Kunde die Belohnung der Stufe 2 erhält."
+
+msgid "bewertung_stufe1_guthaben_name"
+msgstr "Guthabenbonus für Stufe 1"
+
+msgid "bewertung_stufe1_guthaben_desc"
+msgstr "Hier legen Sie fest, wie hoch der Bonus für Bewertungen unabhängig von der Länge mindestens ist."
+
+msgid "bewertung_stufe2_guthaben_name"
+msgstr "Guthabenbonus für Stufe 2"
+
+msgid "bewertung_stufe2_guthaben_desc"
+msgstr "Hier legen Sie fest, wie hoch der Bonus für Bewertungen ist, wenn die Länge der Bewertung mindestens die Zeichenanzahl unter „Minimale Textlänge für Stufe 2“ umfasst."
+
+msgid "bewertung_max_guthaben_name"
+msgstr "Maximale Vergütung pro Kunde und Monat"
+
+msgid "bewertung_max_guthaben_desc"
+msgstr "Hier legen Sie fest, wie hoch maximal der Gesamtbonus sein kann, den ein Kunde innerhalb eines Monats erreicht."
+
+msgid "bewertung_artikel_gekauft_name"
+msgstr "Bewertung nur bei bereits gekauftem Artikel"
+
+msgid "bewertung_artikel_gekauft_desc"
+msgstr "Hier legen Sie fest, ob Kunden nur die Artikel bewerten dürfen, die sie selbst auch erworben haben."
+
+msgid "newsletter_active_name"
+msgstr "Newsletter aktivieren"
+
+msgid "newsletter_active_desc"
+msgstr "Hier legen Sie fest, ob der Newsletter genutzt werden soll."
+
+msgid "newsletter_emailmethode_name"
+msgstr "E-Mails versenden per"
+
+msgid "newsletter_emailmethode_desc"
+msgstr "Hier legen Sie fest, über welches Protokoll E-Mails versendet werden."
+
+msgid "newsletter_sendmailpfad_name"
+msgstr "Sendmail-Pfad"
+
+msgid "newsletter_sendmailpfad_desc"
+msgstr "Falls Sie unter „E-Mails versenden per“ die Option „Sendmail“ gewählt haben, geben Sie hier den Pfad für Sendmail ein."
+
+msgid "newsletter_smtp_host_name"
+msgstr "SMTP-Hostname"
+
+msgid "newsletter_smtp_host_desc"
+msgstr "Falls Sie unter „E-Mails versenden per“ die Option „SMTP“ gewählt haben, geben Sie hier die Nummer des Ports ein."
+
+msgid "newsletter_smtp_port_name"
+msgstr "SMTP-Port"
+
+msgid "newsletter_smtp_port_desc"
+msgstr "Falls Sie unter „E-Mails versenden per“ die Option „SMTP“ gewählt haben, geben Sie hier die Nummer des Ports ein."
+
+msgid "newsletter_smtp_authnutzen_name"
+msgstr "SMTP-Auth nutzen"
+
+msgid "newsletter_smtp_authnutzen_desc"
+msgstr "Falls Sie unter „E-Mails versenden per“ die Option „SMTP“ gewählt haben, geben Sie hier die Nummer des Ports ein."
+
+msgid "newsletter_smtp_benutzer_name"
+msgstr "SMTP-Benutzername"
+
+msgid "newsletter_smtp_benutzer_desc"
+msgstr "Falls Sie unter „E-Mails versenden per“ die Option „SMTP“ gewählt haben, geben Sie hier die Nummer des Ports ein."
+
+msgid "newsletter_smtp_pass_name"
+msgstr "SMTP-Passwort"
+
+msgid "newsletter_smtp_pass_desc"
+msgstr "Falls Sie unter „E-Mails versenden per“ die Option „SMTP“ gewählt haben, geben Sie hier die Nummer des Ports ein."
+
+msgid "newsletter_smtp_verschluesselung_name"
+msgstr "SMTP-Security"
+
+msgid "newsletter_smtp_verschluesselung_desc"
+msgstr "Falls Sie unter „E-Mails versenden per“ die Option „SMTP“ gewählt haben, geben Sie hier die Nummer des Ports ein."
+
+msgid "newsletter_emailadresse_name"
+msgstr "Absenderadresse für Newsletter"
+
+msgid "newsletter_emailadresse_desc"
+msgstr "Hier legen Sie fest, von welcher E-Mail-Adresse Newsletter versendet werden sollen."
+
+msgid "newsletter_emailtest_name"
+msgstr "Empfängeradresse für Newsletter-Tests"
+
+msgid "newsletter_emailtest_desc"
+msgstr "Hier legen Sie fest, an welche E-Mail-Adresse Test-Newsletter versendet werden sollen."
+
+msgid "newsletter_emailabsender_name"
+msgstr "Absendername für Newsletter"
+
+msgid "newsletter_emailabsender_desc"
+msgstr "Hier geben Sie an, welcher Name als Absender für Newsletter verwendet werden soll."
+
+msgid "newsletter_doubleopt_name"
+msgstr "Double-Opt-in für folgende Kunden"
+
+msgid "newsletter_doubleopt_desc"
+msgstr "Hier legen Sie fest, ob nur unregistrierte Kunden oder alle den Eintrag in die Abonnentenliste zusätzlich per Klick auf einen Link in einer E-Mail bestätigen müssen."
+
+msgid "newsletter_sicherheitscode_name"
+msgstr "Spamschutz aktivieren"
+
+msgid "newsletter_sicherheitscode_desc"
+msgstr "Hier legen Sie fest, ob für das Formular der Spamschutz aktiviert werden soll. Dazu müssen Sie ggf. zuerst den Spamschutz von JTL-Shop in den globalen Einstellungen konfigurieren."
+
+msgid "newsletter_send_delay_name"
+msgstr "Sendeverzögerung (in Stunden)"
+
+msgid "newsletter_send_delay_desc"
+msgstr "Um bei sehr vielen Abonnenten eine irrtümliche Kennzeichnung als Spam zu verhindern, wird der Newsletter jeweils an Gruppen von 100 Empfängern versendet. Hier legen Sie fest, wie viele Stunden jeweils zwischen den Newsletter-Sendungen an die einzelnen Gruppen liegen sollen."
+
+msgid "kundenfeld_anzeigen_name"
+msgstr "Eigene Formularfelder anzeigen"
+
+msgid "kundenfeld_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die angelegten eigenen Formularfelder bei der Registrierung bzw. im Bestellprozess abgefragt werden sollen."
+
+msgid "allgemein_weiterleitung_name"
+msgstr "Weiterleitung bei nur einem Suchtreffer"
+
+msgid "allgemein_weiterleitung_desc"
+msgstr "Hier legen Sie fest, ob automatisch auf die Artikeldetailseite weitergeleitet wird, falls nach der Filterung nur noch ein Treffer übrigbleibt."
+
+msgid "allgemein_herstellerfilter_benutzen_name"
+msgstr "Herstellerfilter benutzen"
+
+msgid "allgemein_herstellerfilter_benutzen_desc"
+msgstr "Mit dieser Option legen Sie fest, ob Ihren Kunden in der Ergebnisliste unter dem Punkt „Filtern nach“ der Hersteller als Filtermöglichkeit angezeigt wird. Diese Optionen werden im NOVA-Template nur teilweise unterstützt. Bitte wählen Sie „Ja, im Content-Bereich und der Navigationsbox“ oder „Nein“, falls Sie NOVA verwenden."
+
+msgid "manufacturer_filter_type_name"
+msgstr "Mehrfachauswahl bei Herstellerfilter"
+
+msgid "manufacturer_filter_type_desc"
+msgstr "Hier legen Sie fest, ob eine Mehrfachauswahl von Filterwerten möglich ist oder ob diese jeweils die Auswahl einschränken."
+
+msgid "allgemein_suchspecialfilter_benutzen_name"
+msgstr "Besondere-Artikel-Filter benutzen"
+
+msgid "allgemein_suchspecialfilter_benutzen_desc"
+msgstr "Mit dieser Option legen Sie fest, ob Ihren Kunden in der Ergebnisliste unter dem Punkt „Filtern nach“ besondere Artikel (z.&nbsp;B. Top-Artikel) als Filtermöglichkeit angezeigt werden. Diese Optionen werden im NOVA-Template nur teilweise unterstützt. Bitte wählen Sie „Ja, im Content-Bereich und der Navigationsbox“ oder „Nein“, falls Sie NOVA verwenden."
+
+msgid "search_special_filter_type_name"
+msgstr "Mehrfachauswahl bei Spezialfilter"
+
+msgid "search_special_filter_type_desc"
+msgstr "Hier legen Sie fest, ob eine Mehrfachauswahl von Filterwerten möglich ist oder ob diese jeweils die Auswahl einschränken."
+
+msgid "allgemein_kategoriefilter_benutzen_name"
+msgstr "Kategoriefilterung benutzen"
+
+msgid "allgemein_kategoriefilter_benutzen_desc"
+msgstr "Mit dieser Option legen Sie fest, ob Ihren Kunden in der Ergebnisliste unter dem Punkt „Filtern nach“ die Kategorie als Filtermöglichkeit angezeigt wird. Diese Optionen werden im NOVA-Template nur teilweise unterstützt. Bitte wählen Sie „Ja, im Content-Bereich und der Navigationsbox“ oder „Nein“, falls Sie NOVA verwenden."
+
+msgid "allgemein_availabilityfilter_benutzen_name"
+msgstr "Verfügbarkeitsfilter benutzen"
+
+msgid "allgemein_availabilityfilter_benutzen_desc"
+msgstr "Mit dieser Option legen Sie fest, ob Ihren Kunden in der Ergebnisliste unter dem Punkt „Filtern nach“ die Verfügbarkeit als Filtermöglichkeit angezeigt wird. Diese Optionen werden im NOVA-Template nur teilweise unterstützt. Bitte wählen Sie „Ja, im Content-Bereich und der Navigationsbox“ oder „Nein“, falls Sie NOVA verwenden."
+
+msgid "kategoriefilter_anzeigen_als_name"
+msgstr "Kategoriefilter anzeigen als"
+
+msgid "kategoriefilter_anzeigen_als_desc"
+msgstr "Hier können Sie festlegen, wie genau die Kategorien bei aktiviertem Kategoriefilter dargestellt werden sollen."
+
+msgid "category_filter_type_name"
+msgstr "Mehrfachauswahl bei Kategoriefilter"
+
+msgid "category_filter_type_desc"
+msgstr "Hier legen Sie fest, ob eine Mehrfachauswahl von Filterwerten möglich ist oder ob diese jeweils die Auswahl einschränken."
+
+msgid "bewertungsfilter_benutzen_name"
+msgstr "Bewertungsfilter benutzen"
+
+msgid "bewertungsfilter_benutzen_desc"
+msgstr "Hier legen Sie fest, ob bei vorhandenen Bewertungen nach diesen gefiltert werden kann. Diese Optionen werden im NOVA-Template nur teilweise unterstützt. Bitte wählen Sie „Ja, im Content-Bereich und der Navigationsbox“ oder „Nein“, falls Sie NOVA verwenden."
+
+msgid "suchtrefferfilter_nutzen_name"
+msgstr "Suchtrefferfilter benutzen"
+
+msgid "suchtrefferfilter_nutzen_desc"
+msgstr "Hier legen Sie fest, ob Kunden andere Suchen angezeigt werden sollen, die für die angezeigten Artikel ebenfalls zutreffen. Dazu müssen Sie Suchanfragen-Ergebnisse freischalten. Diese Optionen werden im NOVA-Template nur teilweise unterstützt. Bitte wählen Sie „Ja, im Content-Bereich und der Navigationsbox“ oder „Nein“, falls Sie NOVA verwenden."
+
+msgid "suchtrefferfilter_anzahl_name"
+msgstr "Anzahl Suchtreffer"
+
+msgid "suchtrefferfilter_anzahl_desc"
+msgstr "Hier legen Sie fest, wie viele Suchtreffer angezeigt werden sollen."
+
+msgid "merkmalfilter_verwenden_name"
+msgstr "Merkmalfilter benutzen"
+
+msgid "merkmalfilter_verwenden_desc"
+msgstr "Hier legen Sie fest, ob Merkmalfilter angezeigt werden sollen. Diese Optionen werden im NOVA-Template nur teilweise unterstützt. Bitte wählen Sie „Ja, im Content-Bereich und der Navigationsbox“ oder „Nein“, falls Sie NOVA verwenden."
+
+msgid "merkmal_anzeigen_als_name"
+msgstr "Merkmale anzeigen als"
+
+msgid "merkmal_anzeigen_als_desc"
+msgstr "Hier legen Sie fest, wie die Merkmale angezeigt werden sollen."
+
+msgid "merkmalfilter_maxmerkmale_name"
+msgstr "Maximale Anzahl Merkmale in Filter"
+
+msgid "merkmalfilter_maxmerkmale_desc"
+msgstr "Hier begrenzen Sie die Anzahl der Merkmale, die im Filter angezeigt werden."
+
+msgid "merkmalfilter_maxmerkmalwerte_name"
+msgstr "Maximale Anzahl Merkmalwerte"
+
+msgid "merkmalfilter_maxmerkmalwerte_desc"
+msgstr "Hier begrenzen Sie die Anzahl der Merkmalwerte, die pro Merkmal im Filter angezeigt werden."
+
+msgid "preisspannenfilter_benutzen_name"
+msgstr "Preisspannenfilter benutzen"
+
+msgid "preisspannenfilter_benutzen_desc"
+msgstr "Mit dieser Option legen Sie fest, ob Ihren Kunden bei der Anzeige einer Artikelliste die Möglichkeit gegeben werden soll, nach bestimmten Preisspannen zu filtern. Diese Optionen werden im NOVA-Template nur teilweise unterstützt. Bitte wählen Sie „Ja, im Content-Bereich und der Navigationsbox“ oder „Nein“, falls Sie NOVA verwenden."
+
+msgid "preisspannenfilter_spannen_ausblenden_name"
+msgstr "Leere Preisspannen ausblenden"
+
+msgid "preisspannenfilter_spannen_ausblenden_desc"
+msgstr "Hier legen Sie fest, ob Preisspannen, in die kein Artikel fällt, auch angezeigt werden sollen."
+
+msgid "preisspannenfilter_anzeige_berechnung_name"
+msgstr "Automatische Preisspannenfilterung"
+
+msgid "preisspannenfilter_anzeige_berechnung_desc"
+msgstr "Hier legen Sie fest, ob JTL-Shop selbst die angezeigten Preisspannen auswählt (automatisch) oder ob immer vorher definierte Preisspannen gewählt werden sollen (manuell). Wenn Sie „manuell“ wählen, werden Ihnen weitere Felder angezeigt, in die Sie die Preisspannen eingeben können."
+
+msgid "hersteller_bild_anzeigen_name"
+msgstr "Hersteller anzeigen"
+
+msgid "hersteller_bild_anzeigen_desc"
+msgstr "Mit dieser Option legen Sie fest, ob bei Klick auf einen Hersteller (z. B. in den Artikeldetails) Informationen zum Hersteller angezeigt werden."
+
+msgid "hersteller_beschreibung_anzeigen_name"
+msgstr "Herstellerbeschreibung anzeigen"
+
+msgid "hersteller_beschreibung_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob auch der Beschreibungstext zum Hersteller angezeigt werden soll."
+
+msgid "merkmalwert_bild_anzeigen_name"
+msgstr "Merkmalwert anzeigen"
+
+msgid "merkmalwert_bild_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob bei Klick auf einen Merkmalwert in den Artikeldetails der Wert und das für den Wert hinterlegte Bild angezeigt werden sollen."
+
+msgid "merkmalwert_beschreibung_anzeigen_name"
+msgstr "Merkmalwertbeschreibung anzeigen"
+
+msgid "merkmalwert_beschreibung_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob zusätzlich die in JTL-Wawi hinterlegte Beschreibung des Merkmalwerts angezeigt werden soll."
+
+msgid "kategorie_bild_anzeigen_name"
+msgstr "Kategorie anzeigen"
+
+msgid "kategorie_bild_anzeigen_desc"
+msgstr "Hier legen Sie fest, wie eine Kategorie angezeigt wird, wenn Sie in der Navigation auf diese klicken."
+
+msgid "kategorie_beschreibung_anzeigen_name"
+msgstr "Kategoriebeschreibung anzeigen"
+
+msgid "kategorie_beschreibung_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die in JTL-Wawi gepflegte Kategoriebeschreibung auf der Kategorieseite angezeigt werden soll."
+
+msgid "artikeluebersicht_bild_anzeigen_name"
+msgstr "Unterkategorie anzeigen"
+
+msgid "artikeluebersicht_bild_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob auf der Seite auch die Unterkategorien angezeigt werden sollen. Dabei können Sie festlegen, ob dies nur als Text bzw. Bild oder mit beidem geschieht."
+
+msgid "unterkategorien_lvl2_anzeigen_name"
+msgstr "Unter-Unterkategorien anzeigen"
+
+msgid "unterkategorien_lvl2_anzeigen_desc"
+msgstr "Mit dieser Option können Sie zusätzlich die Unterkategorien einzelner Unterkategorien anzeigen lassen."
+
+msgid "unterkategorien_beschreibung_anzeigen_name"
+msgstr "Unterkategoriebeschreibung anzeigen"
+
+msgid "unterkategorien_beschreibung_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob die Beschreibung von Unterkategorien ebenfalls angezeigt werden soll."
+
+msgid "blacklist_benutzen_name"
+msgstr "E-Mail-Blacklist benutzen"
+
+msgid "blacklist_benutzen_desc"
+msgstr "Hier legen Sie fest, ob die E-Mail-Blacklist angewendet werden soll. Unter „E-Mail-Adressen“ legen Sie fest, welche Adressen nicht zur Registrierung im Onlineshop und für unregistrierte Bestellungen verwendet werden können."
+
+msgid "global_meta_publisher_name"
+msgstr "Meta Publisher"
+
+msgid "global_meta_publisher_desc"
+msgstr "Hier geben Sie den globalen Herausgeber der Website an."
+
+msgid "global_meta_copyright_name"
+msgstr "Meta Copyright"
+
+msgid "global_meta_copyright_desc"
+msgstr "Hier geben Sie das globale Copyright der Website an."
+
+msgid "global_meta_title_anhaengen_name"
+msgstr "Meta Title an Artikeldetailseiten anhängen"
+
+msgid "global_meta_title_anhaengen_desc"
+msgstr "Diese Einstellung sorgt dafür, dass der globale Meta Title auf jeder Artikeldetailseite an den individuellen Meta Title der Seite angehängt wird."
+
+msgid "global_meta_title_preis_name"
+msgstr "Artikelpreis im Titel anhängen"
+
+msgid "global_meta_title_preis_desc"
+msgstr "Diese Einstellung sorgt dafür, dass der Artikelpreis auf jeder Artikeldetailseite an den Meta Title angehängt wird."
+
+msgid "global_meta_keywords_laenge_name"
+msgstr "Mindestanzahl von Zeichen in Keywords"
+
+msgid "global_meta_keywords_laenge_desc"
+msgstr "Hier legen Sie fest, wie lang die Meta Keywords für Artikeldetailseiten mindestens sein müssen."
+
+msgid "global_meta_maxlaenge_title_name"
+msgstr "Maximalanzahl von Zeichen im Meta Title"
+
+msgid "global_meta_maxlaenge_title_desc"
+msgstr "Hier legen Sie fest, wie viele Zeichen der Meta Title maximal haben darf (inklusive Leerzeichen)."
+
+msgid "global_meta_maxlaenge_description_name"
+msgstr "Maximalanzahl von Zeichen in Meta Description"
+
+msgid "global_meta_maxlaenge_description_desc"
+msgstr "Hier legen Sie fest, wie viele Zeichen die Meta Description maximal haben darf (inklusive Leerzeichen)."
+
+msgid "global_cancellation_time_name"
+msgstr "Retourenfrist"
+
+msgid "global_cancellation_time_desc"
+msgstr "Zeitspanne in Tagen, in der eine Retoure möglich ist. Gilt für den gesamten Onlineshop."
+
+msgid "news_benutzen_name"
+msgstr "Blog verwenden"
+
+msgid "news_benutzen_desc"
+msgstr "Hier legen Sie generell fest, ob der Blog im Frontend von JTL-Shop angezeigt werden soll."
+
+msgid "news_kommentare_nutzen_name"
+msgstr "Blog kommentierbar"
+
+msgid "news_kommentare_nutzen_desc"
+msgstr "Hier legen Sie fest, ob alle Blogbeiträge kommentierbar sein sollen."
+
+msgid "news_anzahl_uebersicht_name"
+msgstr "Anzahl Blogbeiträge in der Übersicht"
+
+msgid "news_anzahl_uebersicht_desc"
+msgstr "Hier legen Sie fest, wie viele Beiträge in der Blogübersicht angezeigt werden sollen. Setzen Sie 0 für die Standardeinstellung."
+
+msgid "news_anzahl_content_name"
+msgstr "Anzahl Blogbeiträge auf Startseite"
+
+msgid "news_anzahl_content_desc"
+msgstr "Hier legen Sie fest, wie viele Blogbeiträge auf der Startseite Ihres JTL-Shops angezeigt werden sollen."
+
+msgid "news_anzahl_box_name"
+msgstr "Anzahl Monate in der Box"
+
+msgid "news_anzahl_box_desc"
+msgstr "Hier legen Sie fest, wie viele Monate in der Box „Blog (Monatsübersicht)“ angezeigt werden sollen."
+
+msgid "news_kommentare_freischalten_name"
+msgstr "Kommentare freischalten"
+
+msgid "news_kommentare_freischalten_desc"
+msgstr "Hier legen Sie fest, ob Kommentare immer erst von Ihnen freigeschaltet werden müssen, bevor sie unter Blogbeiträgen angezeigt werden."
+
+msgid "news_kommentare_anzahlproseite_name"
+msgstr "Anzahl Kommentare pro Seite"
+
+msgid "news_kommentare_anzahlproseite_desc"
+msgstr "Hier legen Sie fest, wie viele Kommentare auf einer Seite angezeigt werden."
+
+msgid "news_kommentare_anzahlprobesucher_name"
+msgstr "Maximale Anzahl Kommentare pro Beitrag"
+
+msgid "news_kommentare_anzahlprobesucher_desc"
+msgstr "Hier legen Sie fest, wie viele Kommentare ein Benutzer maximal zu einem Blogbeitrag schreiben darf. 0 bedeutet, dass es keine Begrenzung gibt."
+
+msgid "news_kategorie_unternewsanzeigen_name"
+msgstr "Blogkategorien unter dem Blog anzeigen"
+
+msgid "news_kategorie_unternewsanzeigen_desc"
+msgstr "Hier legen Sie fest, ob unter einem ausgewählten Blogbeitrag auch die Blogkategorien angezeigt werden."
+
+msgid "sitemap_seiten_anzeigen_name"
+msgstr "Alle eigenen Seiten anzeigen"
+
+msgid "sitemap_seiten_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob alle eigenen Seiten in der Sitemap erscheinen sollen."
+
+msgid "sitemap_kategorien_anzeigen_name"
+msgstr "Alle Kategorien anzeigen"
+
+msgid "sitemap_kategorien_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob alle Kategorie-Seiten in der Sitemap erscheinen sollen"
+
+msgid "sitemap_hersteller_anzeigen_name"
+msgstr "Hersteller anzeigen"
+
+msgid "sitemap_hersteller_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob alle Hersteller-Seiten in der Sitemap erscheinen sollen."
+
+msgid "sitemap_news_anzeigen_name"
+msgstr "Blog anzeigen"
+
+msgid "sitemap_news_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob alle Blogseiten in der Sitemap erscheinen sollen."
+
+msgid "sitemap_newskategorien_anzeigen_name"
+msgstr "Blogkategorien anzeigen"
+
+msgid "sitemap_newskategorien_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob alle Blogkategorieseiten in der Sitemap erscheinen sollen."
+
+msgid "sitemap_livesuche_anzeigen_name"
+msgstr "Suchanfragen anzeigen"
+
+msgid "sitemap_livesuche_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob alle Suchanfragen-Seiten in der Sitemap erscheinen sollen."
+
+msgid "sitemap_googleimage_anzeigen_name"
+msgstr "Artikelbilder in der Sitemap anzeigen"
+
+msgid "sitemap_googleimage_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob Links auf Artikelbilder in der Sitemap erscheinen sollen."
+
+msgid "sitemap_images_categories_name"
+msgstr "Kategoriebilder anzeigen"
+
+msgid "sitemap_images_categories_desc"
+msgstr "Hier legen Sie fest, ob alle Kategoriebilder in der Sitemap erscheinen sollen."
+
+msgid "sitemap_images_manufacturers_name"
+msgstr "Herstellerbilder anzeigen"
+
+msgid "sitemap_images_manufacturers_desc"
+msgstr "Hier legen Sie fest, ob alle Herstellerbilder in der Sitemap erscheinen sollen."
+
+msgid "sitemap_images_newscategory_items_name"
+msgstr "Blogkategoriebilder anzeigen"
+
+msgid "sitemap_images_newscategory_items_desc"
+msgstr "Hier legen Sie fest, ob alle Blogkategoriebilder in der Sitemap erscheinen sollen."
+
+msgid "sitemap_images_news_items_name"
+msgstr "Blogbeitragsbilder anzeigen"
+
+msgid "sitemap_images_news_items_desc"
+msgstr "Hier legen Sie fest, ob alle Blogbeitragsbilder in der Sitemap erscheinen sollen."
+
+msgid "sitemap_images_attributes_name"
+msgstr "Merkmalbilder anzeigen"
+
+msgid "sitemap_images_attributes_desc"
+msgstr "Hier legen Sie fest, ob alle Merkmalbilder in der Sitemap erscheinen sollen."
+
+msgid "sitemap_wawiabgleich_name"
+msgstr "Sitemap beim Abgleich mit JTL-Wawi erstellen"
+
+msgid "sitemap_wawiabgleich_desc"
+msgstr "Hier legen Sie fest, ob bei jedem Abgleich mit JTL-Wawi die Sitemap neu erzeugt werden soll."
+
+msgid "sitemap_varkombi_children_export_name"
+msgstr "Export von Kindartikeln (Varkombis)"
+
+msgid "sitemap_varkombi_children_export_desc"
+msgstr "Hier legen Sie fest, ob Kindartikel von Varkombis in die Exportdatei geschrieben werden sollen."
+
+msgid "sitemap_insert_changefreq_name"
+msgstr "Changefreq in Sitemap einfügen"
+
+msgid "sitemap_insert_changefreq_desc"
+msgstr ""
+
+msgid "sitemap_insert_priority_name"
+msgstr "Priority in Sitemap einfügen"
+
+msgid "sitemap_insert_priority_desc"
+msgstr ""
+
+msgid "sitemap_insert_lastmod_name"
+msgstr "Lastmod in Sitemap einfügen"
+
+msgid "sitemap_insert_lastmod_desc"
+msgstr ""
+
+msgid "sitemap_google_ping_name"
+msgstr "Sitemap nach Export an Google und Bing übermitteln"
+
+msgid "sitemap_google_ping_desc"
+msgstr "Hier legen Sie fest, ob nach dem Export der Dateien sitemap.xml und sitemap_index.xml eine Mitteilung an Google und Bing erfolgt, damit diese die Sitemap erneut einlesen."
+
+msgid "suchspecials_sortierung_bestseller_name"
+msgstr "Sortierung für Bestseller"
+
+msgid "suchspecials_sortierung_bestseller_desc"
+msgstr "Hier legen Sie die Standardsortierung für Bestseller fest."
+
+msgid "suchspecials_sortierung_sonderangebote_name"
+msgstr "Sortierung für Sonderangebote"
+
+msgid "suchspecials_sortierung_sonderangebote_desc"
+msgstr "Hier legen Sie die Standardsortierung für Sonderangebote fest."
+
+msgid "suchspecials_sortierung_neuimsortiment_name"
+msgstr "Sortierung für Neu im Sortiment"
+
+msgid "suchspecials_sortierung_neuimsortiment_desc"
+msgstr "Hier legen Sie die Standardsortierung für Artikel mit der Kennzeichnung „Neu im Sortiment“ fest."
+
+msgid "suchspecials_sortierung_topangebote_name"
+msgstr "Sortierung für Top-Artikel"
+
+msgid "suchspecials_sortierung_topangebote_desc"
+msgstr "Hier legen Sie die Standardsortierung für Top-Artikel fest."
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_name"
+msgstr "Sortierung für In Kürze verfügbar"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_desc"
+msgstr "Hier legen Sie die Standardsortierung für Artikel mit der Kennzeichnung „In Kürze verfügbar“ fest."
+
+msgid "suchspecials_sortierung_topbewertet_name"
+msgstr "Sortierung für Top bewertet"
+
+msgid "suchspecials_sortierung_topbewertet_desc"
+msgstr "Hier legen Sie die Standardsortierung für Artikel mit der Kennzeichnung „Top bewertet“ fest."
+
+msgid "auswahlassistent_nutzen_name"
+msgstr "Auswahlassistent nutzen"
+
+msgid "auswahlassistent_nutzen_desc"
+msgstr "Hier aktivieren Sie den Auswahlassistenten für Ihren JTL-Shop. Bitte beachten Sie, dass Sie zusätzlich eine Lizenz für den Auswahlassistenten in der Onlineshop-Anbindung von JTL-Wawi hinterlegen müssen."
+
+msgid "auswahlassistent_anzeigeformat_name"
+msgstr "Anzeigeformat der Antworten"
+
+msgid "auswahlassistent_anzeigeformat_desc"
+msgstr "Hier legen Sie fest, wie die Antwortmöglichkeiten angezeigt werden sollen. Damit Bilder angezeigt werden können, müssen diese in den Merkmalen in JTL-Wawi hinterlegt sein."
+
+msgid "auswahlassistent_allefragen_name"
+msgstr "Alle Fragen direkt anzeigen"
+
+msgid "auswahlassistent_allefragen_desc"
+msgstr "Hier legen Sie fest, ob alle Fragen direkt zu sehen sind (Ja) oder nach und nach angezeigt werden sollen (Nein)."
+
+msgid "auswahlassistent_anzahl_anzeigen_name"
+msgstr "Artikelanzahl hinter jeder Antwort"
+
+msgid "auswahlassistent_anzahl_anzeigen_desc"
+msgstr "Hier legen Sie fest, ob hinter jeder Antwortmöglichkeit die Anzahl an Artikeln stehen soll, für die die Antwort zutrifft."
+
+msgid "rma_number_gen_name"
+msgstr "Rücksendenummern-Generierung"
+
+msgid "rma_number_gen_desc"
+msgstr "Hier legen Sie fest, wie die Rücksendenummer generiert werden soll."
+
+msgid "rma_number_incr_name"
+msgstr "Erhöhung der fortlaufenden Nummer um"
+
+msgid "rma_number_incr_desc"
+msgstr "Hier legen Sie fest, um welchen Wert die fortlaufende Nummer bei einer Warenrücksendung erhöht wird."
+
+msgid "rma_number_startvalue_name"
+msgstr "Startwert für fortlaufende Nummer"
+
+msgid "caching_types_disabled_name"
+msgstr "caching_types_disabled"
+
+msgid "caching_types_disabled_desc"
+msgstr ""
+
+msgid "caching_activated_name"
+msgstr "Objekt-Cache aktivieren"
+
+msgid "caching_activated_desc"
+msgstr "Hier legen Sie fest, ob der Objekt-Cache von JTL-Shop genutzt werden soll."
+
+msgid "caching_method_name"
+msgstr "Methode"
+
+msgid "caching_method_desc"
+msgstr "Hier legen Sie fest, welche Methode für den Cache verwendet werden soll. Diese wird teilweise von der Konfiguration Ihres Webservers vorgegeben. Klicken Sie auf „Erweiterte Optionen anzeigen“, um die einzelnen Methoden genauer zu konfigurieren."
+
+msgid "caching_redis_host_name"
+msgstr "Redis-Host"
+
+msgid "caching_redis_host_desc"
+msgstr "Falls Sie die Methode Redis eingestellt haben, legen Sie hier den Host / Socket fest."
+
+msgid "caching_redis_port_name"
+msgstr "Redis-Port"
+
+msgid "caching_redis_port_desc"
+msgstr "Falls Sie die Methode Redis eingestellt haben, legen Sie hier den Port fest. Falls Sie einen Socket verwenden, lassen Sie das Feld leer."
+
+msgid "caching_redis_db_name"
+msgstr "Redis-DB"
+
+msgid "caching_redis_db_desc"
+msgstr "Falls Sie die Methode Redis eingestellt haben, legen Sie hier die Datenbank-Nummer fest. Lassen Sie das Feld leer für Standard."
+
+msgid "caching_redis_pass_name"
+msgstr "Redis-Passwort"
+
+msgid "caching_redis_pass_desc"
+msgstr "Falls Sie die Methode Redis eingestellt haben, geben Sie hier ein optional verwendetes Passwort ein."
+
+msgid "caching_redis_persistent_name"
+msgstr "Redis-Persistenz"
+
+msgid "caching_redis_persistent_desc"
+msgstr "Falls Sie die Methode Redis eingestellt haben, legen Sie hier fest, ob eine persistente Verbindung bevorzugt werden soll."
+
+msgid "caching_memcache_port_name"
+msgstr "Memcache(d)-Port"
+
+msgid "caching_memcache_port_desc"
+msgstr "Falls Sie die Methode Memcache(d) eingestellt haben, legen Sie hier den Port fest."
+
+msgid "caching_memcache_host_name"
+msgstr "Memcache(d)-Host"
+
+msgid "caching_memcache_host_desc"
+msgstr "Falls Sie die Methode Memcache(d) eingestellt haben, legen Sie hier den Host fest."
+
+msgid "caching_lifetime_name"
+msgstr "Lifetime"
+
+msgid "caching_lifetime_desc"
+msgstr "Hier legen Sie fest, wie lange in Sekunden der Cache Daten vorhält."
+
+msgid "caching_debug_name"
+msgstr "Debugging"
+
+msgid "caching_debug_desc"
+msgstr "Hier legen Sie fest, ob Debugging aktiviert sein soll."
+
+msgid "caching_debug_method_name"
+msgstr "Debug-Methode"
+
+msgid "caching_debug_method_desc"
+msgstr "Hier legen Sie fest, welche Debugging-Methode verwendet werden soll."
+
+msgid "caching_rediscluster_hosts_name"
+msgstr "Cluster-Hosts"
+
+msgid "caching_rediscluster_hosts_desc"
+msgstr "Cluster-Hosts (Name:Port, mit Komma getrennt)"
+
+msgid "caching_rediscluster_strategy_name"
+msgstr "Strategie"
+
+msgid "caching_rediscluster_strategy_desc"
+msgstr "Strategie"
+
+msgid "compile_check_name"
+msgstr "Compile-Check aktivieren"
+
+msgid "compile_check_desc"
+msgstr "Hier aktivieren Sie den Compile-Check. Änderungen an Templates werden nicht sichtbar, wenn der Compile-Check deaktiviert ist."
+
+msgid "shop_logo_name"
+msgstr "shop_logo"
+
+msgid "shop_logo_desc"
+msgstr ""
+
+msgid "ftp_hostname_name"
+msgstr "Hostname"
+
+msgid "ftp_port_name"
+msgstr "Port"
+
+msgid "ftp_user_name"
+msgstr "Benutzername"
+
+msgid "ftp_pass_name"
+msgstr "Passwort"
+
+msgid "ftp_ssl_name"
+msgstr "Verschlüsselt (SSL)"
+
+msgid "ftp_path_name"
+msgstr "Pfad zum Onlineshop"
+
+msgid "sftp_hostname_name"
+msgstr "Hostname"
+
+msgid "sftp_port_name"
+msgstr "Port"
+
+msgid "sftp_user_name"
+msgstr "Benutzername"
+
+msgid "sftp_pass_name"
+msgstr "Passwort"
+
+msgid "sftp_privkey_name"
+msgstr "Private key-Pfad"
+
+msgid "sftp_path_name"
+msgstr "Pfad zum Onlineshop"
+
+msgid "fs_timeout_name"
+msgstr "Timeout (Sekunden)"
+
+msgid "fs_adapter_name"
+msgstr "Adapter"
+
+msgid "fs_adapter_value(local)"
+msgstr "Lokal"
+
+msgid "fs_adapter_value(ftp)"
+msgstr "FTP"
+
+msgid "fs_adapter_value(sftp)"
+msgstr "SFTP"
+
+msgid "methodTest"
+msgstr "Testen"
+
+msgid "cron_type_name"
+msgstr "Pseudo-Cron-Methode"
+
+msgid "cron_freq_name"
+msgstr "Server-to-Server jeden X-ten Aufruf starten"
+
+msgid "cron_type_desc"
+msgstr "Legt fest, ob eine Pseudo-Cron-Methode aktiv sein soll."
+
+msgid "cron_freq_desc"
+msgstr "Startet bei jedem x-ten Seitenaufruf den Pseudo-Cron"
+
+msgid "hersteller_anzeigen_als_name"
+msgstr "Hersteller anzeigen als"
+
+msgid "hersteller_anzeigen_als_desc"
+msgstr "Hier legen Sie fest, wie die Hersteller angezeigt werden sollen."
+
+msgid "general_child_item_bulk_pricing_name"
+msgstr "Variationsübergreifende Staffelpreise"
+
+msgid "general_child_item_bulk_pricing_desc"
+msgstr "Bei der Berechnung von Staffelpreisen im Warenkorb werden alle Kindartikel eines Artikels berücksichtigt."
+
+msgid "gtin_display_name"
+msgstr "GTIN anzeigen"
+
+msgid "gtin_display_desc"
+msgstr "Hier legen Sie fest, ob die GTIN angezeigt wird."
+
+msgid "consent_manager_active_name"
+msgstr "Consent-Manager aktivieren"
+
+msgid "consent_manager_active_desc"
+msgstr "Hier legen Sie fest, ob der Consent-Manager genutzt werden soll."
+
+msgid "bewertung_sortierung_name"
+msgstr "Standardsortierung"
+
+msgid "bewertung_sortierung_desc"
+msgstr "Hier legen Sie fest, wie Bewertungen standardmäßig sortiert werden."
+
+msgid "direct_advertising_name"
+msgstr "Hinweis auf Direktwerbung bei Erhebung der E-Mail-Adresse anzeigen"
+
+msgid "direct_advertising_desc"
+msgstr "Der Hinweis wird bei der Registrierung unter dem Eingabefeld für die E-Mail-Adresse angezeigt."
+
+msgid "upload_modul_limit_name"
+msgstr "Erlaubte Datei-Uploads pro Stunde"
+
+msgid "upload_modul_limit_desc"
+msgstr "Hier legen Sie fest, wie viele Dateien ein Benutzer bei aktiviertem Uploadmodul pro Stunde maximal hochladen darf."
+
+msgid "consent_manager_show_banner_name"
+msgstr "Cookie-Banner anzeigen"
+
+msgid "consent_manager_show_banner_desc"
+msgstr "Legen Sie fest, wann das Banner zum Erteilen oder Ablehnen einer globalen Einwilligung dem Besucher im Onlineshop angezeigt werden soll."

@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "slider"
+msgstr "Sliders"
+
+msgid "sliderURL"
+msgstr "https://jtl-url.de/uy8kn"
+
+msgid "sliderDesc"
+msgstr "Here you can add a slider to any page of your online shop."
+
+msgid "errorSliderSave"
+msgstr "Could not save slider to the database. Please contact the Support team."
+
+msgid "successSliderSave"
+msgstr "Changes saved successfully."
+
+msgid "errorSliderNotFound"
+msgstr "Could not find slider."
+
+msgid "errorSliderRemove"
+msgstr "Could not remove slider."
+
+msgid "sliderCreate"
+msgstr "Create slider"
+
+msgid "slides"
+msgstr "Slides"
+
+msgid "pauseOnHover"
+msgstr "Pause when hovering"
+
+msgid "kenBurnsEffect"
+msgstr "Ken Burns effect"
+
+msgid "overrideDescription"
+msgstr "When this option is enabled, it overwrites other <a href=\"#\" data-toggle=\"tooltip\" title=\"The following settings will be overwritten: random start, pause when hovering, navigation, thumbnail navigation (direction) and effects\">settings</a>."
+
+msgid "randomEffects"
+msgstr "Random effects"
+
+msgid "selectedEffects"
+msgstr "Selected effects"
+
+msgid "availableEffects"
+msgstr "Available effects"
+
+msgid "animationSliceDownLeft"
+msgstr "sliceDownLeft"
+
+msgid "animationSliceUp"
+msgstr "sliceUp"
+
+msgid "animationSliceUpLeft"
+msgstr "sliceUpLeft"
+
+msgid "animationSliceUpDown"
+msgstr "sliceUpDown"
+
+msgid "animationSliceUpDownLeft"
+msgstr "sliceUpDownLeft"
+
+msgid "animationFold"
+msgstr "fold"
+
+msgid "animationSlideInRight"
+msgstr "slideInRight"
+
+msgid "animationSlideInLeft"
+msgstr "slideInLeft"
+
+msgid "animationBoxRandom"
+msgstr "boxRandom"
+
+msgid "animationBoxRain"
+msgstr "boxRain"
+
+msgid "animationBoxRainReverse"
+msgstr "boxRainReverse"
+
+msgid "animationBoxRainGrow"
+msgstr "boxRainGrow"
+
+msgid "animationBoxRainGrowReverse"
+msgstr "boxRainGrowReverse"
+
+msgid "themeDefault"
+msgstr "default"
+
+msgid "themeBar"
+msgstr "bar"
+
+msgid "themeLight"
+msgstr "light"
+
+msgid "themeDark"
+msgstr "dark"
+
+msgid "warningAnimationTimeLower"
+msgstr "The value for \"Animation speed\" must not exceed the value for \"Pause between animations\"."
+
+msgid "pauseTime"
+msgstr "Pause between animations (ms)"
+
+msgid "dotNavigation"
+msgstr "Dot navigation"
+
+msgid "thumbnailNavigation"
+msgstr "Thumbnail navigation"
+
+msgid "directionNavigation"
+msgstr "Arrow navigation"
+
+msgid "animationSpeed"
+msgstr "Animation speed"

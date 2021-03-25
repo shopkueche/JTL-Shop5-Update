@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "dbManager"
+msgstr "Datenbank-Manager"
+
+msgid "tableViews"
+msgstr "Tabellen und Views"
+
+msgid "sqlCommand"
+msgstr "SQL-Befehl"
+
+msgid "codeCompletion"
+msgstr "Code-Vervollständigung via <span class=\"label label-default\">STRG+Leertaste</span> ausführen"
+
+msgid "searchTable"
+msgstr "Tabelle suchen"

@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Banner"
+msgstr "Banners"
+
+msgid "Zones"
+msgstr "Zones"
+
+msgid "CSS class"
+msgstr "CSS class"
+
+msgid "Altenativ text"
+msgstr "Alternative text"
+
+msgid "Title"
+msgstr "Name"
+
+msgid "bannerAreas"
+msgstr "Banner zones"
+
+msgid "altTextDesc"
+msgstr "\"alt\" attribute of image"

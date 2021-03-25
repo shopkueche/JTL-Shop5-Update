@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "shopsitemap"
+msgstr "Sitemap structure"
+
+msgid "shopsitemapURL"
+msgstr "https://jtl-url.de/n6x4-"
+
+msgid "shopsitemapDesc"
+msgstr "Specify which pages are to be displayed on an automatically generated sitemap. You can then have the sitemap (automatically) crawled by search engines."

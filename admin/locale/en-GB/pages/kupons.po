@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "coupons"
+msgstr "Coupons"
+
+msgid "couponsURL"
+msgstr "https://jtl-url.de/t6pug"
+
+msgid "couponsDesc"
+msgstr "Here you create new coupons and manage already existing ones."
+
+msgid "emptySetMessage1"
+msgstr "No"
+
+msgid "emptySetMessage2"
+msgstr "have been created yet."
+
+msgid "validityPeriod"
+msgstr "Validity period"
+
+msgid "restrictions"
+msgstr "Restrictions"
+
+msgid "codeHint"
+msgstr "Please enter a code here. If no code is entered, one is created automatically."
+
+msgid "mbw"
+msgstr "Minimum order value"
+
+msgid "curmaxusage"
+msgstr "Number of claimed coupons"
+
+msgid "validFrom"
+msgstr "Valid from"
+
+msgid "validUntil"
+msgstr "Valid until"
+
+msgid "buttonNewCoupon"
+msgstr "Create new coupon"
+
+msgid "newCouponDesc"
+msgstr "Please complete all fields to create a new coupon.<br/>If no code is entered, one is created automatically.<br/>If you want to limit the coupon to a small number of items, enter their SKUs (separated by a semicolon).<br/>If you want the coupon to be valid for all items in the online shop, leave this field empty."
+
+msgid "buttonModifyCoupon"
+msgstr "Edit coupon"
+
+msgid "minOrderValue"
+msgstr "Minimum order value"
+
+msgid "uses"
+msgstr "Maximum number of claims possible"
+
+msgid "usesPerCustomer"
+msgstr "Maximum number of claims possible per customer"
+
+msgid "productRestrictions"
+msgstr "Limited to SKUs"
+
+msgid "restrictionToCustomerGroup"
+msgstr "Limited to customer groups:"
+
+msgid "restrictedToManufacturers"
+msgstr "Limited to manufacturers"
+
+msgid "restrictedToCategories"
+msgstr "Limited to categories"
+
+msgid "restrictedToCustomers"
+msgstr "Limited to customers"
+
+msgid "allCategories"
+msgstr "All categories"
+
+msgid "allCustomers"
+msgstr "All customers"
+
+msgid "informCustomers"
+msgstr "Tell selected customers about coupon via email"
+
+msgid "emailPreview"
+msgstr "Email preview"
+
+msgid "couponType"
+msgstr "Coupon type"
+
+msgid "standardCoupon"
+msgstr "Standard coupon"
+
+msgid "standardCouponCreate"
+msgstr "Create standard coupon"
+
+msgid "shippingCoupon"
+msgstr "Free shipping coupon"
+
+msgid "shippingCouponCreate"
+msgstr "Create free shipping coupon"
+
+msgid "newCustomerCoupon"
+msgstr "New customer coupon/Welcome coupon"
+
+msgid "newCustomerCouponCreate"
+msgstr "Create new customer coupon/Welcome coupon"
+
+msgid "additionalShippingCosts"
+msgstr "Valid for COD charges"
+
+msgid "additionalShippingCostsHint"
+msgstr "Here you can specify whether the coupon is also valid for cash on delivery charges."
+
+msgid "taxClass"
+msgstr "Tax class"
+
+msgid "shippingCountries"
+msgstr "Valid for the following destination countries"
+
+msgid "shippingCountriesHint"
+msgstr "Enter the ISO codes of the countries for which the coupon is valid separated by a semicolon."
+
+msgid "wholeWKDiscount"
+msgstr "Apply discount to total order value"
+
+msgid "wholeWKDiscountHint"
+msgstr "The setting \"Apply discount to total order value\" only works with discounts in percent. If the setting is set to \"Yes\", the discount is applied to the total order value.<br/>If this setting is set to \"No\", the discount will be detracted separately from each valid line item."
+
+msgid "gross"
+msgstr "Gross"
+
+msgid "couponsCreation"
+msgstr " Mass generation of coupons"
+
+msgid "numberCouponsDesc"
+msgstr "Number of coupons"
+
+msgid "lowerCaseDesc"
+msgstr "Random code with lowercase letters a–z"
+
+msgid "upperCaseDesc"
+msgstr "Random code with uppercase letters A–Z"
+
+msgid "numbersHashDesc"
+msgstr "Random code with numbers 0–9"
+
+msgid "hashLengthDesc"
+msgstr "Length of random code"
+
+msgid "prefixHashDesc"
+msgstr "Prefix of random code"
+
+msgid "suffixHashDesc"
+msgstr "Suffix of random code"
+
+msgid "openEnd"
+msgstr "Open end"
+
+msgid "periodOfValidity"
+msgstr "Validity period (days)"
+
+msgid "validFromHelp"
+msgstr "Specify from when on the coupon is valid. The default setting is always the current time."
+
+msgid "validUntilHelp"
+msgstr "Specify until when the coupon is valid. If you leave the field empty, the coupon either has unlimited validity or the setting \"Validity period (days)\" will be used."
+
+msgid "periodOfValidityHelp"
+msgstr "Specify how many seconds the coupon will be valid. This option can be used alternatively to the option \"Valid until\". If both fields remain empty, the coupon has unlimited validity."
+
+msgid "errorImportCSV"
+msgstr "Could not completely import CSV file."
+
+msgid "successImportCSV"
+msgstr "CSV file imported successfully."
+
+msgid "errorImportRow"
+msgstr "rows cannot be imported."
+
+msgid "successCouponSave"
+msgstr "Coupon saved successfully."
+
+msgid "errorCouponSave"
+msgstr "Could not save coupon."
+
+msgid "successCouponDelete"
+msgstr "Selected coupons deleted successfully."
+
+msgid "errorCouponDelete"
+msgstr "Could not delete one or more coupons."
+
+msgid "errorAtLeastOneCoupon"
+msgstr "Please select at least one coupon."
+
+msgid "errorCouponNameMissing"
+msgstr "No coupon name entered. Please enter a name."
+
+msgid "errorCouponValueNegative"
+msgstr "Please enter a positive coupon value."
+
+msgid "errorCouponMinOrderValueNegative"
+msgstr "Please enter a minimum order value of 0 or higher."
+
+msgid "errorCouponISOMissing"
+msgstr "Please enter the country codes (ISO codes) for which this free shipping coupon is valid into \"Destination countries\"."
+
+msgid "errorCouponCodeLong"
+msgstr "The code to be generated exceeds 32 characters. Please reduce the number of characters in the prefix and/or suffix or enter a smaller number for the length of the random code."
+
+msgid "errorCouponCodeShort"
+msgstr "The code to be generated has less than 2 characters. Please increase the number of characters in the prefix and/or suffix or enter a higher number for the length of the random code."
+
+msgid "errorCouponCodeOptionSelect"
+msgstr "Please select at least one&nbsp;option for \"Random code with…\"."
+
+msgid "errorCouponCodeDuplicate"
+msgstr "The entered code is already in use for a different coupon. Please select a different code."
+
+msgid "errorProductNumberNotFound"
+msgstr "SKU %s is not assigned to a valid item and will be removed."
+
+msgid "errorISOInvalid"
+msgstr "ISO code %s does not belong to a valid country."
+
+msgid "errorPeriodBeginFormat"
+msgstr "Please enter the start date of the validity period in the format <strong>DD.MM.YYYY hh:mm</strong>."
+
+msgid "errorPeriodEndFormat"
+msgstr "Please enter the end date of the validity period in the format <strong>DD.MM.YYYY hh:mm</strong>."
+
+msgid "errorPeriodEndAfterBegin"
+msgstr "The end date of the validity period must be after the start date of the validity period."
+
+msgid "searchNameZipEmail"
+msgstr "Search for first name, email address, place of residence or postal code"
+
+msgid "lastUsed"
+msgstr "Last used"

@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "dbupdater"
+msgstr "Database update"
+
+msgid "dbupdaterURL"
+msgstr "https://jtl-url.de/3ajp1"
+
+msgid "dbupdaterDesc"
+msgstr "Here you can update the database of your JTL-Shop. The target version of the database update matches the currently installed version of JTL-Shop."
+
+msgid "buttonUpdateNow"
+msgstr "Start database update"
+
+msgid "nextStep"
+msgstr "Continue"
+
+msgid "fromVersion"
+msgstr "From version"
+
+msgid "toVersion"
+msgstr "To version"
+
+msgid "errorSqlUpdate"
+msgstr "An SQL command in the update could not be run. Please try again."
+
+msgid "successUpdate"
+msgstr "Update completed successfully."
+
+msgid "errorUpdate"
+msgstr "An SQL command in the update could not be run 3 times. The update has been cancelled. Please contact the Support team."
+
+msgid "eventProtocol"
+msgstr "Event log"
+
+msgid "isDownloaded"
+msgstr " is being downloaded"
+
+msgid "createSuccess"
+msgstr " created successfully."
+
+msgid "errorSaveCopy"
+msgstr "Could not create backup copy."
+
+msgid "infoUpdatePause"
+msgstr "Update cancelled: "
+
+msgid "successMigrations"
+msgstr "Migrations completed successfully."
+
+msgid "successMigration"
+msgstr "Migration completed successfully."
+
+msgid "updateTosuccessfull"
+msgstr "Successfully updated to %s."
+
+msgid "sessionExpired"
+msgstr "Session expired."
+
+msgid "redirectToLogin"
+msgstr "You will shortly be forwarded to the login page."
+
+msgid "dbUpToDate"
+msgstr "Your database corresponds to the current system version (%s)."
+
+msgid "successfullMigrations"
+msgstr "Successful migrations"
+
+msgid "openMigrations"
+msgstr "Missed migrations"
+
+msgid "putOnServer"
+msgstr "Save on server"
+
+msgid "infoUpdateNow"
+msgstr "Click on \"Start database update\" to perform the database update."
+
+msgid "dbUpdate"
+msgstr "Database update"
+
+msgid "required"
+msgstr "required"
+
+msgid "errorMinShopVersionRequired"
+msgstr "Your online shop does not have the minimum version required to update to version %s. Please update to version $s first and then to version %s. Please visit our <a href=\"%s\" target=\"_blank\">Guide</a> for further instructions."

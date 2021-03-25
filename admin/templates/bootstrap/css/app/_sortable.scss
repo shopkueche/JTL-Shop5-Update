@@ -1,0 +1,35 @@
+
+[data-draggable-ignore] { cursor: auto; }
+
+.sortable { transition: padding .2s;
+	&::before { content: ''; display: flex; align-items: center; justify-content: center; position: absolute; top: 0; bottom: 0; left: 0; right: 0; margin-left: $grid-gutter-width / 2; margin-right: $grid-gutter-width / 2; color: $white; background-color: darken($light-gray, 2%); border: rem(2px) dashed darken($light-gray, 6%); border-radius: $border-radius; opacity: 0; visibility: hidden; transition: opacity .2s, visibility .2s; }
+	&:focus { outline: 0; }
+}
+
+.sortitem { transition: box-shadow .2s, border .2s; cursor: grab; user-select: none;
+	&:hover, &:focus { box-shadow: $box-shadow; outline: 0; }
+}
+
+.draggable--show-grid {
+	.sortable { padding: ($grid-gutter-width / 4) ($grid-gutter-width / 4 * 3); min-height: $spacer * 2; outline: 0;
+		&::before { opacity: 1; visibility: visible; }
+	}
+
+	.sortable-container {
+		> .col, > [class*='col-'] {
+			> .row { margin-bottom: map-get($spacers, 5); }
+		}
+	}
+}
+
+.draggable--is-dragging { cursor: grabbing;
+	.sortitem { cursor: grabbing; }
+}
+
+.draggable-source--is-dragging { border: rem(2px) solid lighten($warning, 20%); background-color: lighten($warning, 40%); }
+
+.draggable-container--over {
+	&::before { border-color: $primary; background-color: lighten($primary, 30%); }
+}
+
+.draggable-mirror { z-index: $zindex-fixed; }

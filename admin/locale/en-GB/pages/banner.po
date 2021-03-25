@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "banner"
+msgstr "Banners"
+
+msgid "bannerURL"
+msgstr "https://jtl-url.de/38zl5"
+
+msgid "bannerDesc"
+msgstr "Here you can configure clickable banners for any page of your online shop. The clickable areas can be freely positioned within a graphic banner and can be linked with items or URLs.<br/><strong>Please note:</strong> If you are having problems with this page, please deactivate your adblocker."
+
+msgid "successSave"
+msgstr "Banner saved successfully."
+
+msgid "errorSave"
+msgstr "Could not create banner."
+
+msgid "errrorBannerNotFound"
+msgstr "Could not find banner."
+
+msgid "successDeleted"
+msgstr "Banner deleted successfully."
+
+msgid "errorDeleted"
+msgstr "Could not delete banner."
+
+msgid "errorDate"
+msgstr "Could not process the input for the field \"Active from\"."
+
+msgid "errorDateActiveToGreater"
+msgstr "The date in the field \"Active until\" must be after the date in the field \"Active from\"."
+
+msgid "chooseBanner"
+msgstr "Select banner"
+
+msgid "warningNoBannerInDir"
+msgstr "No banners in folder <strong>%s</strong>."
+
+msgid "viewingOptions"
+msgstr "Display options"
+
+msgid "availableBanner"
+msgstr "Existing banners"
+
+msgid "saveBanner"
+msgstr "Save banner"
+
+msgid "addBanner"
+msgstr "Create banner"
+
+msgid "actionLink"
+msgstr "Link"

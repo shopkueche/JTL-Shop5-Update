@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "yourAdvantages"
+msgstr "Your advantages"
+
+msgid "installationGuide"
+msgstr "Installation guide"
+
+msgid "noRecommendationFound"
+msgstr "No recommendation for id found."
+
+msgid "successInstallPaymentPlugin"
+msgstr "The plug-in has been successfully installed and is now ready to be set up under \"Administration > Payments > Payment methods\" and \"Plug-ins > Installed plug-ins\"."
+
+msgid "successInstallLegalPlugin"
+msgstr "The plug-in has been successfully installed and is now ready to be set up under \"Plug-ins > Installed plug-ins\"."
+
+msgid "installPlugin"
+msgstr "Install plugin"
+
+msgid "pluginHasLicense"
+msgstr "License already available"
+
+msgid "authenticate"
+msgstr "To install this plugin, you must authenticate your online shop by logging in via the central JTL login once."

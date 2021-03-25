@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "pluginprofiler"
+msgstr "Plugin-Profiler"
+
+msgid "pluginprofilerDesc"
+msgstr "Hier finden Sie als Entwickler von Plugins Profiling-Daten für Plugins."
+
+msgid "pluginprofilerURL"
+msgstr "https://jtl-url.de/nr1q4"
+
+msgid "successEntryDelete"
+msgstr "Eintrag wurde erfolgreich gelöscht."
+
+msgid "errorEntryDelete"
+msgstr "Eintrag konnte nicht gelöscht werden."
+
+msgid "successEntriesDelete"
+msgstr "Einträge wurden erfolgreich gelöscht."
+
+msgid "errorEntriesDelete"
+msgstr "Einträge konnten nicht gelöscht werden."

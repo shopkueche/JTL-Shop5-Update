@@ -1,0 +1,2418 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "artikel_artikelanzeigefilter_value(1)"
+msgstr "Alle Artikel anzeigen"
+
+msgid "artikel_artikelanzeigefilter_value(2)"
+msgstr "Nur Artikel mit verfügbarem Lagerbestand anzeigen"
+
+msgid "artikel_artikelanzeigefilter_value(3)"
+msgstr "Nur Artikel mit verfügbarem Lagerbestand oder Option „Überverkäufe möglich“ anzeigen"
+
+msgid "artikel_artikelanzeigefilter_seo_value(404)"
+msgstr "Seite nicht gefunden (404 - Not Found)"
+
+msgid "artikel_artikelanzeigefilter_seo_value(seo)"
+msgstr "Artikeldetailseite bleibt erreichbar"
+
+msgid "artikel_ampel_lagernull_gruen_value(N)"
+msgstr "Nein"
+
+msgid "artikel_ampel_lagernull_gruen_value(Y)"
+msgstr "Ja"
+
+msgid "global_preis0_value(Y)"
+msgstr "Preis anzeigen und Artikel käuflich"
+
+msgid "global_preis0_value(N)"
+msgstr "Preis auf Anfrage und Artikel nicht käuflich"
+
+msgid "artikeldetails_variationswertlager_value(1)"
+msgstr "Zur Auswahl stellen"
+
+msgid "artikeldetails_variationswertlager_value(2)"
+msgstr "(ausverkauft) anhängen"
+
+msgid "artikeldetails_variationswertlager_value(3)"
+msgstr "Nicht zur Auswahl stellen"
+
+msgid "global_versandfrei_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "global_versandfrei_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "global_warenkorb_weiterleitung_value(N)"
+msgstr "Nein"
+
+msgid "global_warenkorb_weiterleitung_value(Y)"
+msgstr "Ja"
+
+msgid "global_versandklasse_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "global_lieferverzoegerung_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "global_versandklasse_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "global_lieferverzoegerung_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "global_versandkostenfrei_darstellung_value(M)"
+msgstr "Mouseover zeigt Länder"
+
+msgid "global_versandkostenfrei_darstellung_value(D)"
+msgstr "Länder direkt sichtbar"
+
+msgid "kategorien_anzeigefilter_value(1)"
+msgstr "Alle Kategorien anzeigen"
+
+msgid "kategorien_anzeigefilter_value(2)"
+msgstr "Leere Kategorien ausblenden"
+
+msgid "artikel_lagerampel_keinlager_value(2)"
+msgstr "Ampel grün"
+
+msgid "artikel_lagerampel_keinlager_value(1)"
+msgstr "Ampel gelb"
+
+msgid "artikel_lagerampel_keinlager_value(0)"
+msgstr "Ampel rot"
+
+msgid "global_sichtbarkeit_value(1)"
+msgstr "Alles ist sichtbar"
+
+msgid "global_sichtbarkeit_value(2)"
+msgstr "Preise erst nach Anmeldung sichtbar"
+
+msgid "global_sichtbarkeit_value(3)"
+msgstr "Artikel / Kategorien erst nach Anmeldung sichtbar"
+
+msgid "global_kundenkonto_aktiv_value(S)"
+msgstr "Sofort aktiv und nutzbar"
+
+msgid "global_kundenkonto_aktiv_value(A)"
+msgstr "Muss in JTL-Wawi aktiviert werden"
+
+msgid "kaufabwicklung_ssl_nutzen_value(N)"
+msgstr "Kein automatischer Wechsel"
+
+msgid "kaufabwicklung_ssl_nutzen_value(P)"
+msgstr "Automatischer Wechsel zu https"
+
+msgid "global_versandhinweis_value(zzgl)"
+msgstr "Zzgl. Versand"
+
+msgid "global_versandhinweis_value(inkl)"
+msgstr "Inkl. Versand"
+
+msgid "global_versandhinweis_value(kein)"
+msgstr "Kein Hinweis auf Versand"
+
+msgid "global_erscheinende_kaeuflich_value(Y)"
+msgstr "Sind käuflich"
+
+msgid "global_erscheinende_kaeuflich_value(N)"
+msgstr "Sind nicht käuflich"
+
+msgid "global_zaehler_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "global_zaehler_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "global_dezimaltrennzeichen_sonstigeangaben_value(,)"
+msgstr "Komma"
+
+msgid "global_dezimaltrennzeichen_sonstigeangaben_value(.)"
+msgstr "Punkt"
+
+msgid "garbagecollector_wawiabgleich_value(Y)"
+msgstr "Ja"
+
+msgid "garbagecollector_wawiabgleich_value(N)"
+msgstr "Nein"
+
+msgid "global_merkmalwert_url_indexierung_value(Y)"
+msgstr "index"
+
+msgid "global_merkmalwert_url_indexierung_value(N)"
+msgstr "noindex"
+
+msgid "redirect_save_404_value(Y)"
+msgstr "Ja"
+
+msgid "redirect_save_404_value(N)"
+msgstr "Nein"
+
+msgid "global_ust_auszeichnung_value(auto)"
+msgstr "automatisch „inkl. / exkl. USt“ einfügen"
+
+msgid "global_ust_auszeichnung_value(endpreis)"
+msgstr "„Endpreis*“ einfügen"
+
+msgid "global_steuerpos_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "global_steuerpos_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "warenkorbpers_nutzen_value(Y)"
+msgstr "Ja"
+
+msgid "warenkorbpers_nutzen_value(N)"
+msgstr "Nein"
+
+msgid "global_wunschliste_weiterleitung_value(Y)"
+msgstr "Ja"
+
+msgid "global_wunschliste_weiterleitung_value(N)"
+msgstr "Nein"
+
+msgid "global_wunschliste_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "global_wunschliste_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "global_wunschliste_freunde_aktiv_value(Y)"
+msgstr "Ja"
+
+msgid "global_wunschliste_freunde_aktiv_value(N)"
+msgstr "Nein"
+
+msgid "global_wunschliste_artikel_loeschen_nach_kauf_value(Y)"
+msgstr "Ja"
+
+msgid "global_wunschliste_artikel_loeschen_nach_kauf_value(N)"
+msgstr "Nein"
+
+msgid "wartungsmodus_aktiviert_value(N)"
+msgstr "Nein"
+
+msgid "wartungsmodus_aktiviert_value(Y)"
+msgstr "Ja"
+
+msgid "global_versandermittlung_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "global_versandermittlung_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "global_versandermittlung_lieferdauer_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "global_versandermittlung_lieferdauer_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "admin_ckeditor_mode_value(N)"
+msgstr "Normal"
+
+msgid "admin_ckeditor_mode_value(Q)"
+msgstr "Quellcode"
+
+msgid "admin_login_logger_mode_value(db)"
+msgstr "in Datenbank"
+
+msgid "admin_login_logger_mode_value(file)"
+msgstr "in Textdatei"
+
+msgid "global_cookie_secure_value(S)"
+msgstr "Standard"
+
+msgid "global_cookie_secure_value(N)"
+msgstr "Nein"
+
+msgid "global_cookie_secure_value(Y)"
+msgstr "Ja"
+
+msgid "global_cookie_httponly_value(S)"
+msgstr "Standard"
+
+msgid "global_cookie_httponly_value(N)"
+msgstr "Nein"
+
+msgid "global_cookie_httponly_value(Y)"
+msgstr "Ja"
+
+msgid "global_cookie_samesite_value(S)"
+msgstr "Standard"
+
+msgid "global_cookie_samesite_value(N)"
+msgstr "Deaktiviert"
+
+msgid "global_cookie_samesite_value(Lax)"
+msgstr "Lax"
+
+msgid "global_cookie_samesite_value(Strict)"
+msgstr "Strict"
+
+msgid "global_cookie_samesite_value(None)"
+msgstr "None"
+
+msgid "email_methode_value(mail)"
+msgstr "PHP mail()"
+
+msgid "email_methode_value(sendmail)"
+msgstr "Sendmail"
+
+msgid "email_methode_value(qmail)"
+msgstr "qmail"
+
+msgid "email_methode_value(smtp)"
+msgstr "SMTP"
+
+msgid "email_smtp_auth_value(1)"
+msgstr "Ja"
+
+msgid "email_smtp_auth_value(0)"
+msgstr "Nein"
+
+msgid "email_smtp_verschluesselung_value()"
+msgstr "Keine"
+
+msgid "email_smtp_verschluesselung_value(ssl)"
+msgstr "SSL"
+
+msgid "email_smtp_verschluesselung_value(tls)"
+msgstr "TLS"
+
+msgid "suche_fulltext_value(N)"
+msgstr "Standardsuche verwenden"
+
+msgid "suche_fulltext_value(Y)"
+msgstr "Volltextsuche verwenden"
+
+msgid "suche_fulltext_value(B)"
+msgstr "Volltextsuche (Boolean Mode)"
+
+msgid "artikeluebersicht_lagerbestandsanzeige_value(verfuegbarkeit)"
+msgstr "nur anzeigen, ob verfügbar"
+
+msgid "artikeluebersicht_lagerbestandsanzeige_value(genau)"
+msgstr "Genauen Lagerbestand anzeigen"
+
+msgid "artikeluebersicht_lagerbestandsanzeige_value(ampel)"
+msgstr "Lagerbestandsanzeige in grün, gelb und rot"
+
+msgid "artikeluebersicht_lagerbestandsanzeige_value(nichts)"
+msgstr "Keine Lagerbestandsanzeige"
+
+msgid "artikeluebersicht_kurzbeschreibung_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeluebersicht_kurzbeschreibung_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeluebersicht_lagerbestandanzeige_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeluebersicht_lagerbestandanzeige_anzeigen_value(U)"
+msgstr "Ja, wenn Artikel ausverkauft und Überverkäufe möglich sind."
+
+msgid "artikeluebersicht_lagerbestandanzeige_anzeigen_value(I)"
+msgstr "Ja, wenn Artikel ausverkauft und keine Überverkäufe möglich sind."
+
+msgid "artikeluebersicht_hersteller_anzeigen_value(Y)"
+msgstr "Ja, als Text"
+
+msgid "artikeluebersicht_hersteller_anzeigen_value(BT)"
+msgstr "Ja, als Text und Bild"
+
+msgid "artikeluebersicht_hersteller_anzeigen_value(B)"
+msgstr "Ja, als Bild"
+
+msgid "artikeluebersicht_hersteller_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeluebersicht_artikelsortierung_value(100)"
+msgstr "Standard"
+
+msgid "artikeluebersicht_artikelsortierung_value(1)"
+msgstr "Artikelname von A bis Z"
+
+msgid "artikeluebersicht_artikelsortierung_value(2)"
+msgstr "Artikelname von Z bis A"
+
+msgid "artikeluebersicht_artikelsortierung_value(3)"
+msgstr "Preis aufsteigend"
+
+msgid "artikeluebersicht_artikelsortierung_value(4)"
+msgstr "Preis absteigend"
+
+msgid "artikeluebersicht_artikelsortierung_value(5)"
+msgstr "GTIN"
+
+msgid "artikeluebersicht_artikelsortierung_value(6)"
+msgstr "Neueste zuerst"
+
+msgid "artikeluebersicht_artikelsortierung_value(7)"
+msgstr "Artikelnummer"
+
+msgid "artikeluebersicht_artikelsortierung_value(8)"
+msgstr "Verfügbarkeit"
+
+msgid "artikeluebersicht_artikelsortierung_value(9)"
+msgstr "Gewicht"
+
+msgid "artikeluebersicht_artikelsortierung_value(10)"
+msgstr "Erscheinungsdatum"
+
+msgid "artikeluebersicht_artikelsortierung_value(11)"
+msgstr "Bestseller"
+
+msgid "artikeluebersicht_artikelsortierung_value(12)"
+msgstr "Bewertungen"
+
+msgid "artikeluebersicht_max_seitenzahl_value(3)"
+msgstr "3"
+
+msgid "artikeluebersicht_max_seitenzahl_value(5)"
+msgstr "5"
+
+msgid "artikeluebersicht_max_seitenzahl_value(7)"
+msgstr "7"
+
+msgid "artikeluebersicht_max_seitenzahl_value(9)"
+msgstr "9"
+
+msgid "artikeluebersicht_max_seitenzahl_value(11)"
+msgstr "11"
+
+msgid "artikeluebersicht_max_seitenzahl_value(13)"
+msgstr "13"
+
+msgid "artikeluebersicht_max_seitenzahl_value(15)"
+msgstr "15"
+
+msgid "artikeluebersicht_rabattanzeige_value(1)"
+msgstr "Nur Endpreis anzeigen"
+
+msgid "artikeluebersicht_rabattanzeige_value(2)"
+msgstr "Rabatt zusätzlich anzeigen"
+
+msgid "artikeluebersicht_rabattanzeige_value(3)"
+msgstr "Alten Preis zusätzlich anzeigen"
+
+msgid "artikeluebersicht_rabattanzeige_value(4)"
+msgstr "Alten Preis und Rabatt zusätzlich anzeigen"
+
+msgid "artikeluebersicht_sonderpreisanzeige_value(1)"
+msgstr "Nur den Sonderpreis anzeigen"
+
+msgid "artikeluebersicht_sonderpreisanzeige_value(2)"
+msgstr "Zusätzlich den alten Preis anzeigen"
+
+msgid "topbest_anzeigen_value(Top)"
+msgstr "Nur Top-Artikel anzeigen"
+
+msgid "topbest_anzeigen_value(Bestseller)"
+msgstr "Nur Bestseller anzeigen"
+
+msgid "topbest_anzeigen_value(TopBest)"
+msgstr "Top-Artikel und Bestseller anzeigen"
+
+msgid "topbest_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikelubersicht_bestseller_gruppieren_value(Y)"
+msgstr "Ja"
+
+msgid "artikelubersicht_bestseller_gruppieren_value(N)"
+msgstr "Nein"
+
+msgid "artikeluebersicht_gewicht_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeluebersicht_gewicht_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeluebersicht_artikelgewicht_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeluebersicht_artikelgewicht_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeluebersicht_vergleichsliste_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeluebersicht_vergleichsliste_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeluebersicht_wunschzettel_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeluebersicht_wunschzettel_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeluebersicht_artikelintervall_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeluebersicht_artikelintervall_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeluebersicht_erw_darstellung_value(Y)"
+msgstr "Ja"
+
+msgid "artikeluebersicht_erw_darstellung_value(N)"
+msgstr "Nein"
+
+msgid "artikeluebersicht_erw_darstellung_stdansicht_value(1)"
+msgstr "Liste"
+
+msgid "artikeluebersicht_erw_darstellung_stdansicht_value(2)"
+msgstr "Galerie"
+
+msgid "artikeldetails_xselling_standard_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_xselling_standard_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_xselling_kauf_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_xselling_kauf_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_xselling_kauf_parent_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_xselling_kauf_parent_value(N)"
+msgstr "Nein"
+
+msgid "artikel_variationspreisanzeige_value(1)"
+msgstr "Aufpreise / Rabatte anzeigen"
+
+msgid "artikel_variationspreisanzeige_value(2)"
+msgstr "Artikelpreis inkl. Aufpreis / Rabatt"
+
+msgid "artikel_variationspreisanzeige_value(0)"
+msgstr "Keine Variationsaufpreise anzeigen"
+
+msgid "artikel_lagerbestandsanzeige_value(verfuegbarkeit)"
+msgstr "nur anzeigen, ob verfügbar"
+
+msgid "artikel_lagerbestandsanzeige_value(genau)"
+msgstr "Genauen Lagerbestand anzeigen"
+
+msgid "artikel_lagerbestandsanzeige_value(ampel)"
+msgstr "Lagerbestandsanzeige in grün, gelb und rot"
+
+msgid "artikel_lagerbestandsanzeige_value(nichts)"
+msgstr "Keine Lagerbestandsanzeige"
+
+msgid "artikeldetails_lieferantenbestand_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_lieferantenbestand_anzeigen_value(U)"
+msgstr "Ja, wenn Artikel ausverkauft und Überverkäufe möglich sind."
+
+msgid "artikeldetails_lieferantenbestand_anzeigen_value(I)"
+msgstr "Ja, wenn Artikel ausverkauft und keine Überverkäufe möglich sind."
+
+msgid "artikeldetails_kurzbeschreibung_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_kurzbeschreibung_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_uvp_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_uvp_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_hersteller_anzeigen_value(Y)"
+msgstr "Ja, als Text"
+
+msgid "artikeldetails_lieferstatus_anzeigen_value(L)"
+msgstr "Nur, wenn Lagerbestand 0 ist"
+
+msgid "artikeldetails_hersteller_anzeigen_value(BT)"
+msgstr "Ja, als Text und Bild"
+
+msgid "artikeldetails_lieferstatus_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_lieferstatus_anzeigen_value(Y)"
+msgstr "Immer anzeigen"
+
+msgid "artikeldetails_hersteller_anzeigen_value(B)"
+msgstr "Ja, als Bild"
+
+msgid "artikeldetails_hersteller_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_lieferstatus_anzeigen_value(A)"
+msgstr "Ja, aber ausblenden bei nicht verfügbaren Artikeln"
+
+msgid "artikeldetails_artikelintervall_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_artikelintervall_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikel_weitere_artikel_hersteller_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikel_weitere_artikel_hersteller_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_rabattanzeige_value(1)"
+msgstr "Nur Endpreis anzeigen"
+
+msgid "artikeldetails_rabattanzeige_value(2)"
+msgstr "Rabatt zusätzlich anzeigen"
+
+msgid "artikeldetails_rabattanzeige_value(3)"
+msgstr "Alten Preis zusätzlich anzeigen"
+
+msgid "artikeldetails_rabattanzeige_value(4)"
+msgstr "Alten Preis und Rabatt zusätzlich anzeigen"
+
+msgid "artikeldetails_sonderpreisanzeige_value(1)"
+msgstr "Nur den Sonderpreis anzeigen"
+
+msgid "artikeldetails_sonderpreisanzeige_value(2)"
+msgstr "Zusätzlich den alten Preis anzeigen"
+
+msgid "artikeldetails_kategorie_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_kategorie_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_tabs_nutzen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_tabs_nutzen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_navi_blaettern_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_navi_blaettern_value(N)"
+msgstr "Nein"
+
+msgid "sie_sparen_x_anzeigen_value(1)"
+msgstr "Ja"
+
+msgid "sie_sparen_x_anzeigen_value(0)"
+msgstr "Nein"
+
+msgid "artikeldetails_canonicalurl_varkombikind_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_canonicalurl_varkombikind_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_warenkorbmatrix_anzeigeformat_value(H)"
+msgstr "Hochformat (nur bis zu 2 Variationen möglich)"
+
+msgid "artikeldetails_warenkorbmatrix_anzeige_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_warenkorbmatrix_anzeigeformat_value(Q)"
+msgstr "Querformat (nur bis zu 2 Variationen möglich)"
+
+msgid "artikeldetails_warenkorbmatrix_anzeige_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_warenkorbmatrix_anzeigeformat_value(L)"
+msgstr "Liste (nur bei Varkombis möglich)"
+
+msgid "artikeldetails_warenkorbmatrix_lagerbeachten_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_warenkorbmatrix_lagerbeachten_value(N)"
+msgstr "Nein"
+
+msgid "isbn_display_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_variationskombikind_bildvorschau_value(Y)"
+msgstr "Ja"
+
+msgid "adr_hazard_display_value(N)"
+msgstr "Nein"
+
+msgid "isbn_display_value(D)"
+msgstr "Ja, auf der Artikeldetailseite"
+
+msgid "artikeldetails_variationskombikind_bildvorschau_value(N)"
+msgstr "Nein"
+
+msgid "adr_hazard_display_value(D)"
+msgstr "Ja, auf der Artikeldetailseite"
+
+msgid "isbn_display_value(L)"
+msgstr "Ja, in Listen"
+
+msgid "adr_hazard_display_value(L)"
+msgstr "Ja, in Listen"
+
+msgid "isbn_display_value(DL)"
+msgstr "Ja, auf der Artikeldetailseite und in den Listen"
+
+msgid "adr_hazard_display_value(DL)"
+msgstr "Ja, auf der Artikeldetailseite und in den Listen"
+
+msgid "artikeldetails_fragezumprodukt_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_fragezumprodukt_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_fragezumprodukt_anzeigen_value(P)"
+msgstr "Ja, als Dialogfenster"
+
+msgid "produktfrage_abfragen_anrede_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "produktfrage_abfragen_anrede_value(N)"
+msgstr "Nein"
+
+msgid "produktfrage_abfragen_anrede_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "produktfrage_abfragen_vorname_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "produktfrage_abfragen_vorname_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "produktfrage_abfragen_vorname_value(N)"
+msgstr "Nein"
+
+msgid "produktfrage_abfragen_nachname_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "produktfrage_abfragen_nachname_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "produktfrage_abfragen_nachname_value(N)"
+msgstr "Nein"
+
+msgid "produktfrage_abfragen_firma_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "produktfrage_abfragen_firma_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "produktfrage_abfragen_firma_value(N)"
+msgstr "Nein"
+
+msgid "produktfrage_abfragen_tel_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "produktfrage_abfragen_tel_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "produktfrage_abfragen_tel_value(N)"
+msgstr "Nein"
+
+msgid "produktfrage_abfragen_fax_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "produktfrage_abfragen_fax_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "produktfrage_abfragen_fax_value(N)"
+msgstr "Nein"
+
+msgid "produktfrage_abfragen_mobil_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "produktfrage_abfragen_mobil_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "produktfrage_abfragen_mobil_value(N)"
+msgstr "Nein"
+
+msgid "produktfrage_kopiekunde_value(N)"
+msgstr "Nein"
+
+msgid "produktfrage_kopiekunde_value(Y)"
+msgstr "Ja"
+
+msgid "produktfrage_abfragen_captcha_value(Y)"
+msgstr "Ja"
+
+msgid "produktfrage_abfragen_captcha_value(N)"
+msgstr "Nein"
+
+msgid "benachrichtigung_nutzen_value(Y)"
+msgstr "Ja"
+
+msgid "benachrichtigung_nutzen_value(N)"
+msgstr "Nein"
+
+msgid "benachrichtigung_nutzen_value(P)"
+msgstr "Ja, als Dialogfenster"
+
+msgid "benachrichtigung_nutzen_value(L)"
+msgstr "Ja, als Dialogfenster (und in allen Listenansichten)"
+
+msgid "benachrichtigung_abfragen_vorname_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "benachrichtigung_abfragen_vorname_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "benachrichtigung_abfragen_vorname_value(N)"
+msgstr "Nein"
+
+msgid "benachrichtigung_abfragen_nachname_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "benachrichtigung_abfragen_nachname_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "benachrichtigung_abfragen_nachname_value(N)"
+msgstr "Nein"
+
+msgid "benachrichtigung_abfragen_captcha_value(Y)"
+msgstr "Ja"
+
+msgid "benachrichtigung_abfragen_captcha_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_vergleichsliste_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_vergleichsliste_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "mediendatei_anzeigen_value(YM)"
+msgstr "Ja, als neue Registerkarten pro Mediengruppe"
+
+msgid "mediendatei_anzeigen_value(YA)"
+msgstr "Ja, unter der Artikelbeschreibung"
+
+msgid "mediendatei_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_stueckliste_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_stueckliste_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_produktbundle_nutzen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_produktbundle_nutzen_value(N)"
+msgstr "Nein"
+
+msgid "merkmale_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "merkmale_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_gewicht_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_gewicht_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_artikelgewicht_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_artikelgewicht_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_abmessungen_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeldetails_abmessungen_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_attribute_anhaengen_value(Y)"
+msgstr "Ja"
+
+msgid "artikeldetails_attribute_anhaengen_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abfragen_titel_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_abfragen_titel_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_abfragen_titel_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abfragen_anrede_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_abfragen_anrede_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abfragen_anrede_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_pflicht_vorname_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_pflicht_vorname_value(N)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_abfragen_firma_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_abfragen_firma_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_abfragen_firma_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abfragen_firmazusatz_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_abfragen_firmazusatz_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_abfragen_firmazusatz_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abfragen_adresszusatz_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_abfragen_adresszusatz_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_abfragen_adresszusatz_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abfragen_mobil_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_abfragen_mobil_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_abfragen_mobil_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abfragen_fax_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_abfragen_fax_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_abfragen_fax_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abfragen_tel_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_abfragen_tel_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_abfragen_tel_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abfragen_ustid_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_abfragen_ustid_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_abfragen_ustid_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abfragen_www_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_abfragen_www_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_abfragen_www_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abfragen_geburtstag_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_abfragen_geburtstag_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_abfragen_geburtstag_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abfragen_bundesland_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kundenregistrierung_abfragen_bundesland_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kundenregistrierung_abfragen_bundesland_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_pruefen_ort_value(Y)"
+msgstr "Ja"
+
+msgid "kundenregistrierung_pruefen_ort_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_pruefen_name_value(Y)"
+msgstr "Ja"
+
+msgid "kundenregistrierung_pruefen_name_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_pruefen_zeit_value(Y)"
+msgstr "Ja"
+
+msgid "kundenregistrierung_pruefen_zeit_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_pruefen_email_value(Y)"
+msgstr "Ja"
+
+msgid "kundenregistrierung_pruefen_email_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_nur_lieferlaender_value(Y)"
+msgstr "Ja, nur belieferbare"
+
+msgid "kundenregistrierung_nur_lieferlaender_value(N)"
+msgstr "Alle Länder anzeigen"
+
+msgid "kundenregistrierung_abgleichen_plz_value(N)"
+msgstr "Nein"
+
+msgid "kundenregistrierung_abgleichen_plz_value(Y)"
+msgstr "Ja"
+
+msgid "registrieren_captcha_value(Y)"
+msgstr "Ja"
+
+msgid "registrieren_captcha_value(N)"
+msgstr "Nein"
+
+msgid "lieferadresse_abfragen_anrede_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "lieferadresse_abfragen_anrede_value(N)"
+msgstr "Nein"
+
+msgid "lieferadresse_abfragen_anrede_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "lieferadresse_abfragen_titel_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "lieferadresse_abfragen_titel_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "lieferadresse_abfragen_titel_value(N)"
+msgstr "Nein"
+
+msgid "lieferadresse_abfragen_adresszusatz_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "lieferadresse_abfragen_adresszusatz_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "lieferadresse_abfragen_adresszusatz_value(N)"
+msgstr "Nein"
+
+msgid "lieferadresse_abfragen_bundesland_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "lieferadresse_abfragen_bundesland_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "lieferadresse_abfragen_bundesland_value(N)"
+msgstr "Nein"
+
+msgid "lieferadresse_abfragen_tel_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "lieferadresse_abfragen_tel_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "lieferadresse_abfragen_tel_value(N)"
+msgstr "Nein"
+
+msgid "lieferadresse_abfragen_mobil_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "lieferadresse_abfragen_email_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "lieferadresse_abfragen_email_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "lieferadresse_abfragen_mobil_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "lieferadresse_abfragen_email_value(N)"
+msgstr "Nein"
+
+msgid "lieferadresse_abfragen_mobil_value(N)"
+msgstr "Nein"
+
+msgid "lieferadresse_abfragen_fax_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "lieferadresse_abfragen_fax_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "lieferadresse_abfragen_fax_value(N)"
+msgstr "Nein"
+
+msgid "lieferadresse_abfragen_standardland_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "lieferadresse_abfragen_standardland_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "lieferadresse_abfragen_standardland_value(N)"
+msgstr "Nein"
+
+msgid "shop_ustid_bzstpruefung_value(Y)"
+msgstr "Ja"
+
+msgid "shop_ustid_bzstpruefung_value(N)"
+msgstr "Nein"
+
+msgid "shop_ustid_force_remote_check_value(Y)"
+msgstr "Ja"
+
+msgid "shop_ustid_force_remote_check_value(N)"
+msgstr "Nein"
+
+msgid "warenkorb_produktbilder_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "warenkorb_produktbilder_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "warenkorb_versandermittlung_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "warenkorb_versandermittlung_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "warenkorb_kupon_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "warenkorb_kupon_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "warenkorb_xselling_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "warenkorb_xselling_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "warenkorb_varianten_varikombi_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "warenkorb_varianten_varikombi_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "warenkorb_warenkorb2pers_merge_value(Y)"
+msgstr "Ja"
+
+msgid "warenkorb_warenkorb2pers_merge_value(N)"
+msgstr "Nein"
+
+msgid "warenkorb_warenkorb2pers_merge_value(P)"
+msgstr "Kunde entscheidet via Dialogfenster"
+
+msgid "bestellvorgang_kaufabwicklungsmethode_value(N)"
+msgstr "Normale Kaufabwicklung"
+
+msgid "bestellvorgang_kaufabwicklungsmethode_value(NO)"
+msgstr "Normale Kaufabwicklung, Ein-Klick-Methode wenn möglich"
+
+msgid "bestellvorgang_wrb_anzeigen_value(1)"
+msgstr "Ja"
+
+msgid "bestellvorgang_wrb_anzeigen_value(0)"
+msgstr "Nein"
+
+msgid "bestellvorgang_einzelpreise_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "bestellvorgang_einzelpreise_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "bestellvorgang_lieferstatus_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "bestellvorgang_lieferstatus_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "bestellvorgang_unregistriert_value(Y)"
+msgstr "Ja"
+
+msgid "bestellvorgang_unregistriert_value(N)"
+msgstr "Nein"
+
+msgid "bestellvorgang_unregneukundenkupon_zulassen_value(Y)"
+msgstr "Ja"
+
+msgid "bestellvorgang_unregneukundenkupon_zulassen_value(N)"
+msgstr "Nein"
+
+msgid "bestellvorgang_versand_steuersatz_value(HS)"
+msgstr "Höchster Steuersatz"
+
+msgid "bestellvorgang_versand_steuersatz_value(US)"
+msgstr "Steuersatz, der im Warenkorb überwiegt"
+
+msgid "bestellvorgang_artikelmerkmale_value(Y)"
+msgstr "Ja"
+
+msgid "bestellvorgang_artikelmerkmale_value(N)"
+msgstr "Nein"
+
+msgid "bestellvorgang_artikelattribute_value(Y)"
+msgstr "Ja"
+
+msgid "bestellvorgang_artikelattribute_value(N)"
+msgstr "Nein"
+
+msgid "bestellvorgang_artikelkurzbeschreibung_value(Y)"
+msgstr "Ja"
+
+msgid "bestellvorgang_artikelkurzbeschreibung_value(N)"
+msgstr "Nein"
+
+msgid "bestellabschluss_runden5_value(0)"
+msgstr "Nein"
+
+msgid "bestellabschluss_runden5_value(1)"
+msgstr "Ja"
+
+msgid "bestellabschluss_spamschutz_nutzen_value(N)"
+msgstr "Nein"
+
+msgid "bestellabschluss_spamschutz_nutzen_value(Y)"
+msgstr "Ja"
+
+msgid "bestellabschluss_abschlussseite_value(S)"
+msgstr "Statusseite"
+
+msgid "bestellabschluss_abschlussseite_value(A)"
+msgstr "Abschluss-Seite"
+
+msgid "boxen_livesuche_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "boxen_livesuche_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "boxen_wunschzettel_bilder_value(Y)"
+msgstr "Ja"
+
+msgid "boxen_wunschzettel_bilder_value(N)"
+msgstr "Nein"
+
+msgid "boxen_vergleichsliste_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "boxen_vergleichsliste_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "bilder_artikel_namen_value(0)"
+msgstr "Primärschlüssel (Vorgabe von JTL-Wawi)"
+
+msgid "bilder_artikel_namen_value(1)"
+msgstr "Artikelnummer"
+
+msgid "bilder_artikel_namen_value(2)"
+msgstr "Artikelname (URL-Pfad)"
+
+msgid "bilder_artikel_namen_value(3)"
+msgstr "Artikelnummer_Artikelname (URL-Pfad)"
+
+msgid "bilder_artikel_namen_value(4)"
+msgstr "GTIN"
+
+msgid "bilder_kategorie_namen_value(0)"
+msgstr "Primärschlüssel (Vorgabe von JTL-Wawi)"
+
+msgid "bilder_kategorie_namen_value(1)"
+msgstr "Kategoriename (URL-Pfad)"
+
+msgid "bilder_variation_namen_value(0)"
+msgstr "Primärschlüssel (Vorgabe von JTL-Wawi)"
+
+msgid "bilder_variation_namen_value(1)"
+msgstr "Artikelnummer (falls nicht vorhanden, Primärschlüssel)"
+
+msgid "bilder_variation_namen_value(2)"
+msgstr "Artikelnummer(Artikel)_Artikelnummer(Variationswert)"
+
+msgid "bilder_variation_namen_value(3)"
+msgstr "Artikelname_Variationsname_Variationswertname"
+
+msgid "bilder_hersteller_namen_value(0)"
+msgstr "Primärschlüssel (Vorgabe von JTL-Wawi)"
+
+msgid "bilder_hersteller_namen_value(1)"
+msgstr "Herstellername (URL-Pfad) (falls nicht vorhanden, Primärschlüssel)"
+
+msgid "bilder_hersteller_namen_value(2)"
+msgstr "Dateiname aus JTL-Wawi"
+
+msgid "bilder_merkmal_namen_value(0)"
+msgstr "Primärschlüssel (Vorgabe von JTL-Wawi)"
+
+msgid "bilder_merkmal_namen_value(1)"
+msgstr "Merkmalname (falls nicht vorhanden, Primärschlüssel)"
+
+msgid "bilder_merkmal_namen_value(2)"
+msgstr "Dateiname aus JTL-Wawi"
+
+msgid "bilder_merkmalwert_namen_value(0)"
+msgstr "Primärschlüssel (Vorgabe von JTL-Wawi)"
+
+msgid "bilder_merkmalwert_namen_value(1)"
+msgstr "Merkmalwertname (URL-Pfad) (falls nicht vorhanden, Primärschlüssel)"
+
+msgid "bilder_merkmalwert_namen_value(2)"
+msgstr "Dateiname aus JTL-Wawi"
+
+msgid "bilder_externe_bildschnittstelle_value(A)"
+msgstr "Jeder hat Zugriff"
+
+msgid "bilder_externe_bildschnittstelle_value(W)"
+msgstr "Nur JTL-Wawi hat Zugriff"
+
+msgid "bilder_externe_bildschnittstelle_value(N)"
+msgstr "Deaktivieren"
+
+msgid "bilder_dateiformat_value(JPG)"
+msgstr "JPEG"
+
+msgid "container_verwenden_value(Y)"
+msgstr "Ja"
+
+msgid "bilder_dateiformat_value(PNG)"
+msgstr "PNG"
+
+msgid "bilder_dateiformat_value(AUTO)"
+msgstr "Automatisch, zusätzlich .webp anlegen"
+
+msgid "container_verwenden_value(N)"
+msgstr "Nein"
+
+msgid "sonstiges_gratisgeschenk_nutzen_value(Y)"
+msgstr "Ja"
+
+msgid "sonstiges_gratisgeschenk_nutzen_value(N)"
+msgstr "Nein"
+
+msgid "sonstiges_gratisgeschenk_sortierung_value(B)"
+msgstr "Bestellwert"
+
+msgid "sonstiges_gratisgeschenk_sortierung_value(N)"
+msgstr "Name"
+
+msgid "sonstiges_gratisgeschenk_sortierung_value(L)"
+msgstr "Lagerbestand"
+
+msgid "zahlungsart_lastschrift_bic_abfrage_value(N)"
+msgstr "Nicht abfragen"
+
+msgid "zahlungsart_lastschrift_bic_abfrage_value(O)"
+msgstr "Optional"
+
+msgid "zahlungsart_lastschrift_bic_abfrage_value(Y)"
+msgstr "Pflichtangabe"
+
+msgid "zahlungsart_lastschrift_kontoinhaber_abfrage_value(N)"
+msgstr "Nicht abfragen"
+
+msgid "zahlungsart_lastschrift_kontoinhaber_abfrage_value(O)"
+msgstr "Optional"
+
+msgid "zahlungsart_lastschrift_kontoinhaber_abfrage_value(Y)"
+msgstr "Pflichtangabe"
+
+msgid "zahlungsart_lastschrift_kreditinstitut_abfrage_value(N)"
+msgstr "Nicht abfragen"
+
+msgid "zahlungsart_lastschrift_kreditinstitut_abfrage_value(O)"
+msgstr "Optional"
+
+msgid "zahlungsart_lastschrift_kreditinstitut_abfrage_value(Y)"
+msgstr "Pflichtangabe"
+
+msgid "exportformate_lager_ueber_null_value(N)"
+msgstr "Nein"
+
+msgid "exportformate_lager_ueber_null_value(Y)"
+msgstr "Ja"
+
+msgid "exportformate_lager_ueber_null_value(O)"
+msgstr "Ja (mit Überverkäufen)"
+
+msgid "exportformate_preis_ueber_null_value(N)"
+msgstr "Nein"
+
+msgid "exportformate_preis_ueber_null_value(Y)"
+msgstr "Ja"
+
+msgid "exportformate_beschreibung_value(N)"
+msgstr "Nein"
+
+msgid "exportformate_beschreibung_value(Y)"
+msgstr "Ja"
+
+msgid "exportformate_quot_value(N)"
+msgstr "Nicht maskieren"
+
+msgid "exportformate_quot_value( )"
+msgstr "Mit Leerzeichen maskieren"
+
+msgid "exportformate_quot_value(qq)"
+msgstr "Mit \"\" maskieren"
+
+msgid "exportformate_quot_value(q)"
+msgstr "Mit \\\" maskieren"
+
+msgid "exportformate_quot_value(')"
+msgstr "Mit ' maskieren"
+
+msgid "exportformate_equot_value(N)"
+msgstr "Nicht maskieren"
+
+msgid "exportformate_equot_value(\\')"
+msgstr "maskieren mit \\'"
+
+msgid "exportformate_equot_value(bq)"
+msgstr "Mit \" maskieren"
+
+msgid "exportformate_equot_value( )"
+msgstr "Mit Leerzeichen maskieren"
+
+msgid "exportformate_equot_value('')"
+msgstr "Mit '' maskieren"
+
+msgid "exportformate_semikolon_value(N)"
+msgstr "Nicht maskieren"
+
+msgid "exportformate_semikolon_value(,)"
+msgstr "Mit Komma maskieren"
+
+msgid "exportformate_semikolon_value( )"
+msgstr "Mit Leerzeichen maskieren"
+
+msgid "kontakt_abfragen_anrede_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kontakt_abfragen_anrede_value(N)"
+msgstr "Nein"
+
+msgid "kontakt_abfragen_anrede_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kontakt_abfragen_vorname_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kontakt_abfragen_vorname_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kontakt_abfragen_vorname_value(N)"
+msgstr "Nein"
+
+msgid "kontakt_abfragen_nachname_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kontakt_abfragen_nachname_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kontakt_abfragen_nachname_value(N)"
+msgstr "Nein"
+
+msgid "kontakt_abfragen_firma_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kontakt_abfragen_firma_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kontakt_abfragen_firma_value(N)"
+msgstr "Nein"
+
+msgid "kontakt_abfragen_tel_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kontakt_abfragen_tel_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kontakt_abfragen_tel_value(N)"
+msgstr "Nein"
+
+msgid "kontakt_abfragen_fax_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kontakt_abfragen_fax_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kontakt_abfragen_fax_value(N)"
+msgstr "Nein"
+
+msgid "kontakt_abfragen_mobil_value(O)"
+msgstr "Ja, optionale Angabe"
+
+msgid "kontakt_abfragen_mobil_value(Y)"
+msgstr "Ja, erforderliche Angabe"
+
+msgid "kontakt_abfragen_mobil_value(N)"
+msgstr "Nein"
+
+msgid "kontakt_kopiekunde_value(N)"
+msgstr "Nein"
+
+msgid "kontakt_kopiekunde_value(Y)"
+msgstr "Ja"
+
+msgid "kontakt_abfragen_captcha_value(Y)"
+msgstr "Ja"
+
+msgid "kontakt_abfragen_captcha_value(N)"
+msgstr "Nein"
+
+msgid "rss_nutzen_value(Y)"
+msgstr "Ja"
+
+msgid "rss_nutzen_value(N)"
+msgstr "Nein"
+
+msgid "rss_artikel_beachten_value(Y)"
+msgstr "Ja"
+
+msgid "rss_artikel_beachten_value(N)"
+msgstr "Nein"
+
+msgid "rss_news_beachten_value(Y)"
+msgstr "Ja"
+
+msgid "rss_news_beachten_value(N)"
+msgstr "Nein"
+
+msgid "rss_bewertungen_beachten_value(Y)"
+msgstr "Ja"
+
+msgid "rss_bewertungen_beachten_value(N)"
+msgstr "Nein"
+
+msgid "rss_wawiabgleich_value(Y)"
+msgstr "Ja"
+
+msgid "rss_wawiabgleich_value(N)"
+msgstr "Nein"
+
+msgid "preisverlauf_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "preisverlauf_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "vergleichsliste_target_value(parent)"
+msgstr "Im selben Fenster"
+
+msgid "vergleichsliste_target_value(blank)"
+msgstr "In einem neuen Fenster"
+
+msgid "vergleichsliste_target_value(popup)"
+msgstr "Als Dialogfenster"
+
+msgid "bewertung_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "bewertung_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "bewertung_freischalten_value(Y)"
+msgstr "Ja"
+
+msgid "bewertung_freischalten_value(N)"
+msgstr "Nein"
+
+msgid "bewertung_hilfreich_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "bewertung_hilfreich_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "bewertungserinnerung_nutzen_value(Y)"
+msgstr "Ja"
+
+msgid "bewertungserinnerung_nutzen_value(N)"
+msgstr "Nie"
+
+msgid "bewertungserinnerung_nutzen_value(B)"
+msgstr "An Newsletter-Einwilligung koppeln"
+
+msgid "bewertung_guthaben_nutzen_value(Y)"
+msgstr "Ja"
+
+msgid "bewertung_guthaben_nutzen_value(N)"
+msgstr "Nein"
+
+msgid "bewertung_artikel_gekauft_value(Y)"
+msgstr "Ja"
+
+msgid "bewertung_artikel_gekauft_value(N)"
+msgstr "Nein"
+
+msgid "newsletter_active_value(N)"
+msgstr "Nein"
+
+msgid "newsletter_active_value(Y)"
+msgstr "Ja"
+
+msgid "newsletter_emailmethode_value(mail)"
+msgstr "PHP mail()"
+
+msgid "newsletter_emailmethode_value(sendmail)"
+msgstr "Sendmail"
+
+msgid "newsletter_emailmethode_value(qmail)"
+msgstr "qmail"
+
+msgid "newsletter_emailmethode_value(smtp)"
+msgstr "SMTP"
+
+msgid "newsletter_smtp_authnutzen_value(1)"
+msgstr "Ja"
+
+msgid "newsletter_smtp_authnutzen_value(0)"
+msgstr "Nein"
+
+msgid "newsletter_smtp_verschluesselung_value()"
+msgstr "Keine"
+
+msgid "newsletter_smtp_verschluesselung_value(ssl)"
+msgstr "SSL"
+
+msgid "newsletter_smtp_verschluesselung_value(tls)"
+msgstr "TLS"
+
+msgid "newsletter_doubleopt_value(A)"
+msgstr "Alle"
+
+msgid "newsletter_doubleopt_value(U)"
+msgstr "Nur nicht registrierte"
+
+msgid "newsletter_sicherheitscode_value(Y)"
+msgstr "Ja"
+
+msgid "newsletter_sicherheitscode_value(N)"
+msgstr "Nein"
+
+msgid "kundenfeld_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "kundenfeld_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "allgemein_weiterleitung_value(Y)"
+msgstr "Ja"
+
+msgid "allgemein_weiterleitung_value(N)"
+msgstr "Nein"
+
+msgid "allgemein_herstellerfilter_benutzen_value(content)"
+msgstr "Ja, im Content-Bereich"
+
+msgid "allgemein_herstellerfilter_benutzen_value(box)"
+msgstr "Ja, in Navigationsbox"
+
+msgid "allgemein_herstellerfilter_benutzen_value(Y)"
+msgstr "Ja, im Content-Bereich und der Navigationsbox"
+
+msgid "allgemein_herstellerfilter_benutzen_value(N)"
+msgstr "Nein"
+
+msgid "manufacturer_filter_type_value(A)"
+msgstr "Keine Mehrfachauswahl (nur Einschränkung der Ergebnisse)"
+
+msgid "manufacturer_filter_type_value(O)"
+msgstr "Mehrfachauswahl"
+
+msgid "allgemein_suchspecialfilter_benutzen_value(content)"
+msgstr "Ja, im Content-Bereich"
+
+msgid "allgemein_suchspecialfilter_benutzen_value(box)"
+msgstr "Ja, in Navigationsbox"
+
+msgid "allgemein_suchspecialfilter_benutzen_value(Y)"
+msgstr "Ja, im Content-Bereich und der Navigationsbox"
+
+msgid "allgemein_suchspecialfilter_benutzen_value(N)"
+msgstr "Nein"
+
+msgid "search_special_filter_type_value(A)"
+msgstr "Keine Mehrfachauswahl (nur Einschränkung der Ergebnisse)"
+
+msgid "search_special_filter_type_value(O)"
+msgstr "Mehrfachauswahl"
+
+msgid "allgemein_kategoriefilter_benutzen_value(content)"
+msgstr "Ja, im Content-Bereich"
+
+msgid "allgemein_kategoriefilter_benutzen_value(box)"
+msgstr "Ja, in Navigationsbox"
+
+msgid "allgemein_kategoriefilter_benutzen_value(Y)"
+msgstr "Ja, im Content-Bereich und der Navigationsbox"
+
+msgid "allgemein_kategoriefilter_benutzen_value(N)"
+msgstr "Nein"
+
+msgid "allgemein_availabilityfilter_benutzen_value(content)"
+msgstr "Ja, im Content-Bereich"
+
+msgid "allgemein_availabilityfilter_benutzen_value(box)"
+msgstr "Ja, in Navigationsbox"
+
+msgid "allgemein_availabilityfilter_benutzen_value(Y)"
+msgstr "Ja, im Content-Bereich und der Navigationsbox"
+
+msgid "allgemein_availabilityfilter_benutzen_value(N)"
+msgstr "Nein"
+
+msgid "kategoriefilter_anzeigen_als_value(KA)"
+msgstr "Kategorien der Artikel"
+
+msgid "kategoriefilter_anzeigen_als_value(KP)"
+msgstr "Kategoriepfad"
+
+msgid "kategoriefilter_anzeigen_als_value(HF)"
+msgstr "Hierarchische Filterung"
+
+msgid "category_filter_type_value(A)"
+msgstr "Keine Mehrfachauswahl (nur Einschränkung der Ergebnisse)"
+
+msgid "category_filter_type_value(O)"
+msgstr "Mehrfachauswahl"
+
+msgid "bewertungsfilter_benutzen_value(content)"
+msgstr "Ja, im Content-Bereich"
+
+msgid "bewertungsfilter_benutzen_value(box)"
+msgstr "Ja, in Navigationsbox"
+
+msgid "bewertungsfilter_benutzen_value(Y)"
+msgstr "Ja, im Content-Bereich und der Navigationsbox"
+
+msgid "bewertungsfilter_benutzen_value(N)"
+msgstr "Nein"
+
+msgid "suchtrefferfilter_nutzen_value(Y)"
+msgstr "Ja"
+
+msgid "suchtrefferfilter_nutzen_value(N)"
+msgstr "Nein"
+
+msgid "merkmalfilter_verwenden_value(content)"
+msgstr "Ja, im Content-Bereich"
+
+msgid "merkmalfilter_verwenden_value(box)"
+msgstr "Ja, in Navigationsbox"
+
+msgid "merkmalfilter_verwenden_value(Y)"
+msgstr "Ja, im Content-Bereich und der Navigationsbox"
+
+msgid "merkmalfilter_verwenden_value(N)"
+msgstr "Nein"
+
+msgid "merkmal_anzeigen_als_value(T)"
+msgstr "Text"
+
+msgid "merkmal_anzeigen_als_value(BT)"
+msgstr "Bild und Text"
+
+msgid "merkmal_anzeigen_als_value(B)"
+msgstr "Bild"
+
+msgid "preisspannenfilter_benutzen_value(content)"
+msgstr "Ja, im Content-Bereich"
+
+msgid "preisspannenfilter_benutzen_value(box)"
+msgstr "Ja, in Navigationsbox"
+
+msgid "preisspannenfilter_benutzen_value(Y)"
+msgstr "Ja, im Content-Bereich und der Navigationsbox"
+
+msgid "preisspannenfilter_benutzen_value(N)"
+msgstr "Nein"
+
+msgid "preisspannenfilter_spannen_ausblenden_value(Y)"
+msgstr "Ja"
+
+msgid "preisspannenfilter_spannen_ausblenden_value(N)"
+msgstr "Nein"
+
+msgid "preisspannenfilter_anzeige_berechnung_value(A)"
+msgstr "automatisch"
+
+msgid "preisspannenfilter_anzeige_berechnung_value(M)"
+msgstr "manuell"
+
+msgid "hersteller_bild_anzeigen_value(Y)"
+msgstr "Ja, als Text"
+
+msgid "hersteller_bild_anzeigen_value(BT)"
+msgstr "Ja, als Text und Bild"
+
+msgid "hersteller_bild_anzeigen_value(B)"
+msgstr "Ja, als Bild"
+
+msgid "hersteller_bild_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "hersteller_beschreibung_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "hersteller_beschreibung_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "merkmalwert_bild_anzeigen_value(Y)"
+msgstr "Ja, als Text"
+
+msgid "merkmalwert_bild_anzeigen_value(BT)"
+msgstr "Ja, als Text und Bild"
+
+msgid "merkmalwert_bild_anzeigen_value(B)"
+msgstr "Ja, als Bild"
+
+msgid "merkmalwert_bild_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "merkmalwert_beschreibung_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "merkmalwert_beschreibung_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "kategorie_bild_anzeigen_value(Y)"
+msgstr "Ja, als Text"
+
+msgid "kategorie_bild_anzeigen_value(BT)"
+msgstr "Ja, als Text und Bild"
+
+msgid "kategorie_bild_anzeigen_value(B)"
+msgstr "Ja, als Bild"
+
+msgid "kategorie_bild_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "kategorie_beschreibung_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "kategorie_beschreibung_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "artikeluebersicht_bild_anzeigen_value(Y)"
+msgstr "Ja, als Text"
+
+msgid "artikeluebersicht_bild_anzeigen_value(BT)"
+msgstr "Ja, als Text und Bild"
+
+msgid "artikeluebersicht_bild_anzeigen_value(B)"
+msgstr "Ja, als Bild"
+
+msgid "artikeluebersicht_bild_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "unterkategorien_lvl2_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "unterkategorien_lvl2_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "unterkategorien_beschreibung_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "unterkategorien_beschreibung_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "blacklist_benutzen_value(Y)"
+msgstr "Ja"
+
+msgid "blacklist_benutzen_value(N)"
+msgstr "Nein"
+
+msgid "global_meta_title_anhaengen_value(Y)"
+msgstr "Ja"
+
+msgid "global_meta_title_anhaengen_value(N)"
+msgstr "Nein"
+
+msgid "global_meta_title_preis_value(Y)"
+msgstr "Ja"
+
+msgid "global_meta_title_preis_value(N)"
+msgstr "Nein"
+
+msgid "news_benutzen_value(Y)"
+msgstr "Ja"
+
+msgid "news_benutzen_value(N)"
+msgstr "Nein"
+
+msgid "news_kommentare_nutzen_value(Y)"
+msgstr "Ja"
+
+msgid "news_kommentare_nutzen_value(N)"
+msgstr "Nein"
+
+msgid "news_kommentare_freischalten_value(Y)"
+msgstr "Ja"
+
+msgid "news_kommentare_freischalten_value(N)"
+msgstr "Nein"
+
+msgid "news_kategorie_unternewsanzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "news_kategorie_unternewsanzeigen_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_seiten_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_seiten_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_kategorien_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_kategorien_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_hersteller_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_hersteller_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_news_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_news_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_newskategorien_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_newskategorien_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_livesuche_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_livesuche_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_googleimage_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_googleimage_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_images_categories_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_images_categories_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_images_manufacturers_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_images_manufacturers_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_images_newscategory_items_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_images_newscategory_items_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_images_news_items_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_images_news_items_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_images_attributes_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_images_attributes_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_wawiabgleich_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_wawiabgleich_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_varkombi_children_export_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_varkombi_children_export_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_insert_changefreq_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_insert_changefreq_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_insert_priority_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_insert_priority_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_insert_lastmod_value(N)"
+msgstr "Nein"
+
+msgid "sitemap_insert_lastmod_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_google_ping_value(Y)"
+msgstr "Ja"
+
+msgid "sitemap_google_ping_value(N)"
+msgstr "Nein"
+
+msgid "suchspecials_sortierung_bestseller_value(-1)"
+msgstr "Keine spezielle Sortierung nutzen"
+
+msgid "suchspecials_sortierung_bestseller_value(1)"
+msgstr "Name von A bis Z"
+
+msgid "suchspecials_sortierung_bestseller_value(2)"
+msgstr "Name von Z bis A"
+
+msgid "suchspecials_sortierung_bestseller_value(3)"
+msgstr "Preis aufsteigend"
+
+msgid "suchspecials_sortierung_bestseller_value(4)"
+msgstr "Preis absteigend"
+
+msgid "suchspecials_sortierung_bestseller_value(5)"
+msgstr "GTIN"
+
+msgid "suchspecials_sortierung_bestseller_value(6)"
+msgstr "Neueste zuerst"
+
+msgid "suchspecials_sortierung_bestseller_value(7)"
+msgstr "Artikelnummer"
+
+msgid "suchspecials_sortierung_bestseller_value(8)"
+msgstr "Verfügbarkeit"
+
+msgid "suchspecials_sortierung_bestseller_value(9)"
+msgstr "Gewicht"
+
+msgid "suchspecials_sortierung_bestseller_value(10)"
+msgstr "Erscheinungsdatum"
+
+msgid "suchspecials_sortierung_bestseller_value(11)"
+msgstr "Bestseller"
+
+msgid "suchspecials_sortierung_bestseller_value(12)"
+msgstr "Bewertungen"
+
+msgid "suchspecials_sortierung_sonderangebote_value(-1)"
+msgstr "Keine spezielle Sortierung nutzen"
+
+msgid "suchspecials_sortierung_sonderangebote_value(1)"
+msgstr "Name von A bis Z"
+
+msgid "suchspecials_sortierung_sonderangebote_value(2)"
+msgstr "Name von Z bis A"
+
+msgid "suchspecials_sortierung_sonderangebote_value(3)"
+msgstr "Preis aufsteigend"
+
+msgid "suchspecials_sortierung_sonderangebote_value(4)"
+msgstr "Preis absteigend"
+
+msgid "suchspecials_sortierung_sonderangebote_value(5)"
+msgstr "GTIN"
+
+msgid "suchspecials_sortierung_sonderangebote_value(6)"
+msgstr "Neueste zuerst"
+
+msgid "suchspecials_sortierung_sonderangebote_value(7)"
+msgstr "Artikelnummer"
+
+msgid "suchspecials_sortierung_sonderangebote_value(8)"
+msgstr "Verfügbarkeit"
+
+msgid "suchspecials_sortierung_sonderangebote_value(9)"
+msgstr "Gewicht"
+
+msgid "suchspecials_sortierung_sonderangebote_value(10)"
+msgstr "Erscheinungsdatum"
+
+msgid "suchspecials_sortierung_sonderangebote_value(11)"
+msgstr "Bestseller"
+
+msgid "suchspecials_sortierung_sonderangebote_value(12)"
+msgstr "Bewertungen"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(-1)"
+msgstr "Keine spezielle Sortierung nutzen"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(1)"
+msgstr "Name von A bis Z"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(2)"
+msgstr "Name von Z bis A"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(3)"
+msgstr "Preis aufsteigend"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(4)"
+msgstr "Preis absteigend"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(5)"
+msgstr "GTIN"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(6)"
+msgstr "Neueste zuerst"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(7)"
+msgstr "Artikelnummer"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(8)"
+msgstr "Verfügbarkeit"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(9)"
+msgstr "Gewicht"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(10)"
+msgstr "Erscheinungsdatum"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(11)"
+msgstr "Bestseller"
+
+msgid "suchspecials_sortierung_neuimsortiment_value(12)"
+msgstr "Bewertungen"
+
+msgid "suchspecials_sortierung_topangebote_value(-1)"
+msgstr "Keine spezielle Sortierung nutzen"
+
+msgid "suchspecials_sortierung_topangebote_value(1)"
+msgstr "Name von A bis Z"
+
+msgid "suchspecials_sortierung_topangebote_value(2)"
+msgstr "Name von Z bis A"
+
+msgid "suchspecials_sortierung_topangebote_value(3)"
+msgstr "Preis aufsteigend"
+
+msgid "suchspecials_sortierung_topangebote_value(4)"
+msgstr "Preis absteigend"
+
+msgid "suchspecials_sortierung_topangebote_value(5)"
+msgstr "GTIN"
+
+msgid "suchspecials_sortierung_topangebote_value(6)"
+msgstr "Neueste zuerst"
+
+msgid "suchspecials_sortierung_topangebote_value(7)"
+msgstr "Artikelnummer"
+
+msgid "suchspecials_sortierung_topangebote_value(8)"
+msgstr "Verfügbarkeit"
+
+msgid "suchspecials_sortierung_topangebote_value(9)"
+msgstr "Gewicht"
+
+msgid "suchspecials_sortierung_topangebote_value(10)"
+msgstr "Erscheinungsdatum"
+
+msgid "suchspecials_sortierung_topangebote_value(11)"
+msgstr "Bestseller"
+
+msgid "suchspecials_sortierung_topangebote_value(12)"
+msgstr "Bewertungen"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(-1)"
+msgstr "Keine spezielle Sortierung nutzen"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(1)"
+msgstr "Name von A bis Z"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(2)"
+msgstr "Name von Z bis A"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(3)"
+msgstr "Preis aufsteigend"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(4)"
+msgstr "Preis absteigend"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(5)"
+msgstr "GTIN"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(6)"
+msgstr "Neueste zuerst"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(7)"
+msgstr "Artikelnummer"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(8)"
+msgstr "Verfügbarkeit"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(9)"
+msgstr "Gewicht"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(10)"
+msgstr "Erscheinungsdatum"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(11)"
+msgstr "Bestseller"
+
+msgid "suchspecials_sortierung_inkuerzeverfuegbar_value(12)"
+msgstr "Bewertungen"
+
+msgid "suchspecials_sortierung_topbewertet_value(-1)"
+msgstr "Keine spezielle Sortierung nutzen"
+
+msgid "suchspecials_sortierung_topbewertet_value(1)"
+msgstr "Name von A bis Z"
+
+msgid "suchspecials_sortierung_topbewertet_value(2)"
+msgstr "Name von Z bis A"
+
+msgid "suchspecials_sortierung_topbewertet_value(3)"
+msgstr "Preis aufsteigend"
+
+msgid "suchspecials_sortierung_topbewertet_value(4)"
+msgstr "Preis absteigend"
+
+msgid "suchspecials_sortierung_topbewertet_value(5)"
+msgstr "GTIN"
+
+msgid "suchspecials_sortierung_topbewertet_value(6)"
+msgstr "Neueste zuerst"
+
+msgid "suchspecials_sortierung_topbewertet_value(7)"
+msgstr "Artikelnummer"
+
+msgid "suchspecials_sortierung_topbewertet_value(8)"
+msgstr "Verfügbarkeit"
+
+msgid "suchspecials_sortierung_topbewertet_value(9)"
+msgstr "Gewicht"
+
+msgid "suchspecials_sortierung_topbewertet_value(10)"
+msgstr "Erscheinungsdatum"
+
+msgid "suchspecials_sortierung_topbewertet_value(11)"
+msgstr "Bestseller"
+
+msgid "suchspecials_sortierung_topbewertet_value(12)"
+msgstr "Bewertungen"
+
+msgid "auswahlassistent_nutzen_value(Y)"
+msgstr "Ja"
+
+msgid "auswahlassistent_nutzen_value(N)"
+msgstr "Nein"
+
+msgid "auswahlassistent_anzeigeformat_value(T)"
+msgstr "Text"
+
+msgid "auswahlassistent_anzeigeformat_value(B)"
+msgstr "Bild"
+
+msgid "auswahlassistent_anzeigeformat_value(BT)"
+msgstr "Bild und Text"
+
+msgid "auswahlassistent_anzeigeformat_value(S)"
+msgstr "Drop-down-Menü"
+
+msgid "auswahlassistent_allefragen_value(Y)"
+msgstr "Ja"
+
+msgid "auswahlassistent_allefragen_value(N)"
+msgstr "Nein"
+
+msgid "auswahlassistent_anzahl_anzeigen_value(Y)"
+msgstr "Ja"
+
+msgid "auswahlassistent_anzahl_anzeigen_value(N)"
+msgstr "Nein"
+
+msgid "rma_number_gen_value(F)"
+msgstr "Fortlaufende Nummer"
+
+msgid "rma_number_gen_value(K)"
+msgstr "Kundennummer - Datum - Fortlaufende Nummer"
+
+msgid "rma_number_gen_value(B)"
+msgstr "Bestellnummer - Fortlaufende Nummer"
+
+msgid "caching_activated_value(N)"
+msgstr "Nein"
+
+msgid "caching_activated_value(Y)"
+msgstr "Ja"
+
+msgid "caching_method_value(auto)"
+msgstr "beste"
+
+msgid "caching_method_value(null)"
+msgstr "Keine"
+
+msgid "caching_method_value(apc)"
+msgstr "APC"
+
+msgid "caching_method_value(redis)"
+msgstr "Redis"
+
+msgid "caching_method_value(memcached)"
+msgstr "Memcached"
+
+msgid "caching_method_value(memcache)"
+msgstr "Memcache"
+
+msgid "caching_method_value(xcache)"
+msgstr "XCache"
+
+msgid "caching_method_value(file)"
+msgstr "Dateien"
+
+msgid "caching_method_value(advancedfile)"
+msgstr "Dateien (erweitert)"
+
+msgid "caching_method_value(redisCluster)"
+msgstr "RedisCluster"
+
+msgid "caching_redis_persistent_value(N)"
+msgstr "Nein"
+
+msgid "caching_redis_persistent_value(Y)"
+msgstr "Ja"
+
+msgid "caching_debug_value(N)"
+msgstr "Nein"
+
+msgid "caching_debug_value(Y)"
+msgstr "Ja"
+
+msgid "caching_debug_method_value(echo)"
+msgstr "Echo"
+
+msgid "caching_debug_method_value(ssd)"
+msgstr "JTLDebug"
+
+msgid "caching_rediscluster_strategy_value(1)"
+msgstr "Alle Anfragen nur an Master"
+
+msgid "caching_rediscluster_strategy_value(2)"
+msgstr "Failover für Leseanfragen an Slaves"
+
+msgid "caching_rediscluster_strategy_value(3)"
+msgstr "Leseanfragen zwischen Mastern und Slaves zufällig verteilen"
+
+msgid "caching_rediscluster_strategy_value(4)"
+msgstr "Leseanfragen zwischen Slaves zufällig verteilen"
+
+msgid "compile_check_value(Y)"
+msgstr "Ja"
+
+msgid "compile_check_value(N)"
+msgstr "Nein"
+
+msgid "ftp_ssl_value(1)"
+msgstr "Ja"
+
+msgid "ftp_ssl_value(0)"
+msgstr "Nein"
+
+msgid "cron_type_value(N)"
+msgstr "deaktiviert"
+
+msgid "cron_type_value(tpl)"
+msgstr "Templategesteuert"
+
+msgid "cron_type_value(s2s)"
+msgstr "Curl Server-to-Server"
+
+msgid "hersteller_anzeigen_als_value(T)"
+msgstr "Text"
+
+msgid "hersteller_anzeigen_als_value(BT)"
+msgstr "Bild und Text"
+
+msgid "hersteller_anzeigen_als_value(B)"
+msgstr "Bild"
+
+msgid "general_child_item_bulk_pricing_value(Y)"
+msgstr "Ja"
+
+msgid "general_child_item_bulk_pricing_value(N)"
+msgstr "Nein"
+
+msgid "gtin_display_value(N)"
+msgstr "Nein"
+
+msgid "gtin_display_value(details)"
+msgstr "Ja, auf der Artikeldetailseite"
+
+msgid "gtin_display_value(lists)"
+msgstr "Ja, in Listen"
+
+msgid "gtin_display_value(always)"
+msgstr "Ja, auf der Artikeldetailseite und in den Listen"
+
+msgid "consent_manager_active_value(N)"
+msgstr "Nein"
+
+msgid "consent_manager_active_value(Y)"
+msgstr "Ja"
+
+msgid "bewertung_sortierung_value(0)"
+msgstr "Datum aufsteigend"
+
+msgid "bewertung_sortierung_value(1)"
+msgstr "Datum absteigend"
+
+msgid "bewertung_sortierung_value(2)"
+msgstr "Bewertung aufsteigend"
+
+msgid "bewertung_sortierung_value(3)"
+msgstr "Bewertung absteigend"
+
+msgid "bewertung_sortierung_value(4)"
+msgstr "Hilfreichste zuerst"
+
+msgid "bewertung_sortierung_value(5)"
+msgstr "Am wenigsten hiflreiche zuerst"
+
+msgid "direct_advertising_value(N)"
+msgstr "Nein"
+
+msgid "direct_advertising_value(Y)"
+msgstr "Ja"
+
+msgid "consent_manager_show_banner_value(1)"
+msgstr "Beim ersten Seitenaufruf (1)"
+
+msgid "consent_manager_show_banner_value(2)"
+msgstr "Beim zweiten Seitenaufruf (2)"
+
+msgid "consent_manager_show_banner_value(3)"
+msgstr "Beim dritten Seitenaufruf (3)"

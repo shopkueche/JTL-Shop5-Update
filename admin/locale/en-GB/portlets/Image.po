@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "shape"
+msgstr "Form"
+
+msgid "shapeNormal"
+msgstr "normal"
+
+msgid "shapeRoundedCorners"
+msgstr "rounded corners"
+
+msgid "shapeCircle"
+msgstr "circle"
+
+msgid "shapeThumbnail"
+msgstr "as thumbnail"
+
+msgid "imageResponsive"
+msgstr "Responsive image"
+
+msgid "alignmentDesc"
+msgstr "Specifies whether the image is to be displayed on the right or left side or in the centre of the page."
+
+msgid "imgUrlDesc"
+msgstr "If you want to hyperlink this image you can enter a destination URL here."
+
+msgid "isLink"
+msgstr "Hyperlink image"
+
+msgid "linkTitle"
+msgstr "Link title"
+
+msgid "openInNewTab"
+msgstr "Open in new tab"
+
+msgid "openInNewTabDesc"
+msgstr "Specifies whether clicking on the button opens a new browser tab."

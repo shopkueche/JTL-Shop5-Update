@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "benutzer"
+msgstr "Users and rights"
+
+msgid "benutzerDesc"
+msgstr "Here you manage the user and group rights for the backend of JTL-Shop. You can add new users and assign them to a group. In the tab \"User groups\" you can set the permissions for specific areas of the back end."
+
+msgid "benutzerURL"
+msgstr "https://jtl-url.de/tw0dn"
+
+msgid "benutzerTab"
+msgstr "Users"
+
+msgid "benutzerKategorie"
+msgstr "Managing users"
+
+msgid "benutzer2FA"
+msgstr "Two-factor authentication"
+
+msgid "benutzerLoginVersuche"
+msgstr "Failed login attempts"
+
+msgid "benutzerLetzterLogin"
+msgstr "Last login"
+
+msgid "benutzerGueltigBis"
+msgstr "Valid until"
+
+msgid "benutzerSperren"
+msgstr "Block access"
+
+msgid "benutzerBearbeiten"
+msgstr "Editing a user"
+
+msgid "benutzerLoeschen"
+msgstr "Delete user"
+
+msgid "benutzerNeu"
+msgstr "Creating a user"
+
+msgid "sperrenLabel"
+msgstr "Block user"
+
+msgid "entsperrenLabel"
+msgstr "Unblock user"
+
+msgid "loeschenLabelDeaktiviert"
+msgstr "Cannot be deleted. The user group still has members."
+
+msgid "gruppenTab"
+msgstr "User groups"
+
+msgid "gruppenKategorie"
+msgstr "Managing user groups"
+
+msgid "gruppeNeu"
+msgstr "Creating a user group"
+
+msgid "gruppeBearbeiten"
+msgstr "Editing a user group"
+
+msgid "stateON"
+msgstr "Enabled"
+
+msgid "stateOFF"
+msgstr "Disabled"
+
+msgid "errorSelfLock"
+msgstr "You cannot block your own account."
+
+msgid "errorLockAdmin"
+msgstr "Administrators cannot be blocked."
+
+msgid "successLock"
+msgstr "User blocked successfully."
+
+msgid "errorUserNotFound"
+msgstr "User not found."
+
+msgid "successUnlocked"
+msgstr "User unblocked successfully."
+
+msgid "errorAtLeastOneAdmin"
+msgstr "At least one administrator must exist."
+
+msgid "successUserSave"
+msgstr "User data edited successfully."
+
+msgid "errorUserSave"
+msgstr "Could not save user."
+
+msgid "successUserAdd"
+msgstr "User created successfully."
+
+msgid "errorUserAdd"
+msgstr "Could not create user."
+
+msgid "errorSelfDelete"
+msgstr "You cannot delete your own account."
+
+msgid "successUserDelete"
+msgstr "User deleted successfully."
+
+msgid "errorUserDelete"
+msgstr "Could not delete user."
+
+msgid "errorAtLeastOneRight"
+msgstr "You must select at least one permission."
+
+msgid "successGroupEdit"
+msgstr "User group edited successfully."
+
+msgid "successGroupCreate"
+msgstr "User group created successfully."
+
+msgid "successGroupDelete"
+msgstr "User group deleted successfully."
+
+msgid "errorGroupDelete"
+msgstr "Could not delete user group."
+
+msgid "errorGroupDeleteCustomer"
+msgstr "The user group cannot be deleted because it has at least one member."
+
+msgid "errorKeyChange"
+msgstr " %s could not be edited!"
+
+msgid "sureDeleteGroup"
+msgstr "Delete group?"
+
+msgid "usernameNotAvailable"
+msgstr "User name <strong>%s</strong> is already assigned."
+
+msgid "temporaryAccess"
+msgstr "Temporary access"
+
+msgid "tillInclusive"
+msgstr "Up to and including"
+
+msgid "errorUsernameMissing"
+msgstr "Please specify a user name in the login data first."
+
+msgid "warningAuthSecretOverwrite"
+msgstr "The former \"Authentication Secret\" will be replaced. Continue?"
+
+msgid "warningNoPermissionToBackendAfter"
+msgstr "Please note that after saving, you can no longer access the backend of JTL-Shop with this user account if you do not have access to the Google Authenticator App via a mobile device."
+
+msgid "infoScanQR"
+msgstr "Scan the displayed QR code using the Google Authenticator App on your phone."
+
+msgid "emergencyCode"
+msgstr "Emergency codes"
+
+msgid "codeCreateAgain"
+msgstr "Create new codes"
+
+msgid "clickHereToCreateQR"
+msgstr "To generate a new QR code, please click here:"
+
+msgid "codeCreate"
+msgstr "Generate new code"
+
+msgid "emergencyCodeCreate"
+msgstr "Generate new emergency codes"
+
+msgid "shopEmergencyCodes"
+msgstr "Emergency codes for the back end of JTL-Shop"
+
+msgid "permission_SETTINGS_META_KEYWORD_BLACKLIST_VIEW"
+msgstr "Blacklist for meta keywords"
+
+msgid "permission_EXPORT_SHOPINFO_VIEW"
+msgstr "Export file shopinfo.xml (elm@ar)"
+
+msgid "permission_DASHBOARD_VIEW"
+msgstr "Dashboard"
+
+msgid "permission_SETTINGS_SEARCH_VIEW"
+msgstr "Search settings"
+
+msgid "permission_FILECHECK_VIEW"
+msgstr "Check online shop files"
+
+msgid "permission_DBCHECK_VIEW"
+msgstr "Check database"
+
+msgid "permission_PERMISSIONCHECK_VIEW"
+msgstr "Directory check"
+
+msgid "permission_WIZARD_VIEW"
+msgstr "Set up"
+
+msgid "permission_IMAGE_UPLOAD"
+msgstr "Image upload (for sliders and in OPC)"
+
+# description of admin group (tadminlogingruppe)
+msgid "Voller Zugriff auf den Administrationsbereich."
+msgstr "Full access to administration area"
+
+msgid "resume"
+msgstr "About the author (for example displayed with blog posts)"
+
+msgid "personalInformation"
+msgstr "Author"
+
+msgid "avatar"
+msgstr "User image"
+
+msgid "errorImageMissing"
+msgstr "Please select an image."
+
+msgid "errorImageUpload"
+msgstr "Error uploading the image."
+
+msgid "noMenuItem"
+msgstr "Other"
+
+msgid "sureDeleteUser"
+msgstr "Delete user?"
+
+msgid "newUserTitle"
+msgstr "Creating a user"

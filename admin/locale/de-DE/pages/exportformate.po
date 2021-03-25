@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "exportformats"
+msgstr "Exportformate"
+
+msgid "exportformatsURL"
+msgstr "https://jtl-url.de/ycaxd"
+
+msgid "exportformatsDesc"
+msgstr "Hier können Sie Formate zum Exportieren Ihrer Artikeldaten definieren."
+
+msgid "campaigns"
+msgstr "Kampagne"
+
+msgid "lastModified"
+msgstr "Zuletzt erstellt"
+
+msgid "markedElement"
+msgstr "Markiertes Element"
+
+msgid "createExportFile"
+msgstr "Exportdatei erstellen"
+
+msgid "createExportFileAsync"
+msgstr "Exportdatei asynchron erstellen"
+
+msgid "newExportformat"
+msgstr "Neues Exportformat erstellen"
+
+msgid "modifyExportformat"
+msgstr "Exportformat bearbeiten"
+
+msgid "newExportformatSave"
+msgstr "Neues Exportformat speichern"
+
+msgid "modifyExportformatSave"
+msgstr "Überarbeitetes Exportformat speichern"
+
+msgid "onlyIfNeeded"
+msgstr "Nur ausfüllen, wenn Exportdatei die Kopfzeile enthalten soll."
+
+msgid "template"
+msgstr "Exportvorlage"
+
+msgid "smartyRules"
+msgstr "Smarty wird genutzt. Achtung: PHP-Tags und -Inhalte sind nicht erlaubt."
+
+msgid "download"
+msgstr "Datei herunterladen"
+
+msgid "onlyIfNeededFooter"
+msgstr "Nur ausfüllen, wenn eine Fußzeile angehängt werden soll."
+
+msgid "saveSettings"
+msgstr "Einstellungen speichern"
+
+msgid "StartTime"
+msgstr "Startdatum (nur beim Erstellen)"
+
+msgid "encoding"
+msgstr "Zeichenkodierung"
+
+msgid "varikombiOption"
+msgstr "Export von Varkombis"
+
+msgid "varikombiOption1"
+msgstr "Vater- und Kindartikel exportieren"
+
+msgid "varikombiOption2"
+msgstr "Nur Vaterartikel exportieren"
+
+msgid "varikombiOption3"
+msgstr "Nur Kindartikel exportieren"
+
+msgid "splitSize"
+msgstr "Größe pro Datei (MB)"
+
+msgid "successFormatEdit"
+msgstr "Exportformat %s wurde erfolgreich geändert."
+
+msgid "successFormatCreate"
+msgstr "Exportformat %s wurde erfolgreich erstellt."
+
+msgid "successFormatDelete"
+msgstr "Exportformat wurde erfolgreich gelöscht."
+
+msgid "errorFormatDelete"
+msgstr "Exportformat konnte nicht gelöscht werden."
+
+msgid "errorFormatCreate"
+msgstr "Exportformat %s konnte nicht erstellt werden. Überprüfen Sie die Schreibrechte."
+
+msgid "errorExport"
+msgstr "Exportdatei konnte nicht erstellt werden."
+
+msgid "availableFormats"
+msgstr "Vorhandene Exportformate"
+
+msgid "exportAll"
+msgstr "Alle exportieren"
+
+msgid "sureDeleteFormat"
+msgstr "Möchten Sie das Exportformat wirklich löschen?"
+
+msgid "useCache"
+msgstr "Cache nutzen"
+
+msgid "Check syntax"
+msgstr "E-Mail-Sytnax prüfen"
+
+msgid "Syntax check fail"
+msgstr "E-Mail Syntaxprüfung fehlgeschlagen"

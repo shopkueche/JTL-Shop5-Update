@@ -1,0 +1,396 @@
+@import "variables";
+
+#opc {
+  font-family: $main-font;
+  height: 100%;
+
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    background-color: transparent;
+  }
+
+  ::-webkit-scrollbar-track {
+    border-radius: 0;
+    background-color: transparent;
+    border: none;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background: $gray-light;
+    border: 0;
+
+    &:hover, &:active {
+      background: $gray-light;
+      border: 1px solid $gray-dark;
+    }
+  }
+
+  a {
+    outline: none;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+  }
+
+  button {
+    background: none;
+    border: none;
+    padding: 0;
+    color: inherit;
+    font-size: 14px;
+    cursor: pointer;
+
+    &.opc-btn-primary,
+    &.opc-btn-secondary {
+      border-radius: 1000px;
+      background-color: $primary-color;
+      border: 1px solid $primary-color;
+      color: $bg-color;
+      text-align: center;
+      padding: 12px;
+      box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.125);
+
+      &.opc-full-width {
+        width: 100%;
+      }
+
+      &[disabled] {
+        background-color: $muted-text;
+        color: $light-bg;
+        border: 1px solid $muted-text;
+
+        &:hover {
+          background-color: $muted-text;
+          color: $light-bg;
+        }
+      }
+    }
+
+    &.opc-btn-primary {
+      &:hover {
+        background-color: $primary-darker;
+      }
+    }
+
+    &.opc-btn-secondary {
+      background-color: $bg-color;
+      border: 1px solid $primary-color;
+      color: $primary-color;
+
+      &:hover {
+        color: $primary-darker;
+      }
+    }
+
+    &.opc-mini-btn {
+      padding: 6px 12px;
+    }
+
+    &.opc-small-btn {
+      padding: 8px 10px;
+    }
+
+    &.opc-medium-btn {
+      padding: 8px 18px;
+      margin-right: 8px;
+    }
+
+    &.opc-btn-link {
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  button, input {
+    outline: none;
+  }
+
+  input[type=checkbox] ,
+  input[type=radio] {
+    display: none;
+
+    + label {
+      cursor: pointer;
+      margin: 0;
+      font-weight: 500;
+      display: inline-block;
+
+      &:before {
+        content: "\f0c8";
+        font-family: $fontawesome-mixed;
+        margin-right: 4px;
+      }
+    }
+
+    &:checked + label:before {
+      content: "\f14a";
+      font-weight: 900;
+    }
+
+    &:disabled + label {
+      color: $muted-text;
+
+      &:before {
+        color: $muted-text;
+      }
+    }
+  }
+
+  .fas, .fa {
+    vertical-align: middle;
+    //vertical-align: initial;
+  }
+
+  .opc-public {
+    color: #0F9D48;
+  }
+  .opc-planned {
+    color: #F68B25;
+  }
+  .opc-status-draft {
+    color: $muted-text;
+  }
+  .opc-backdate {
+    color: #0B6AA2;
+  }
+
+  .tooltip {
+    border: none;
+    padding: 0;
+
+    .arrow {
+      display: none;
+    }
+
+    .tooltip-inner {
+      background-color: $text-color;
+      color: $light-bg;
+      font-size: 14px;
+      border-radius: 5px;
+    }
+  }
+
+  .opc-float-right {
+    float: right;
+  }
+
+  .opc-control ,
+  .opc-filter-control ,
+  .form-control {
+    border: 1px solid $text-color;
+    border-radius: 5px;
+    display: block;
+    height: 38px;
+    color: inherit;
+    padding: 8px;
+    text-align: left;
+    font-size: 14px;
+
+    &:disabled {
+      background-color: $light-bg;
+      color: $muted-text;
+      border-color: $muted-text;
+    }
+  }
+
+  .float-left {
+    float: left;
+  }
+
+  .opc-filter-control {
+    margin-bottom: 24px;
+  }
+
+  .toggle-switch {
+    cursor: pointer;
+    background-color: inherit;
+
+    input {
+      display: none;
+    }
+  }
+
+  .toggle-slider {
+    margin-left: 8px;
+    display: inline-block;
+    height: 20px;
+    width: 38px;
+    border: 2px solid $muted-text;
+    border-radius: 20px;
+    vertical-align: middle;
+    position: relative;
+    transition: 0.125s;
+
+    &:before {
+      position: absolute;
+      left: 1px;
+      top: 1px;
+      content: "";
+      width: 14px;
+      height: 14px;
+      border-radius: 16px;
+      background: $muted-text;
+      transition: 0.125s;
+    }
+  }
+
+  input:checked + .toggle-slider {
+    border-color: $text-color;
+    background: $text-color;
+
+    &:before {
+      transform: translateX(18px);
+      background: $light-bg;
+    }
+  }
+
+  ::placeholder {
+    color: $muted-text;
+    font-family: $fontawesome-mixed;
+    font-weight: 900;
+  }
+
+  .opc-dropdown {
+    padding: 0;
+    position: relative;
+
+    .opc-dropdown-btn {
+      padding: 8px;
+      text-align: left;
+      width: 100%;
+
+      &:after {
+        display: block;
+        float: right;
+        content: "\f078";
+        font-family: $fontawesome-mixed;
+        font-weight: 900;
+      }
+    }
+
+    .opc-dropdown-menu {
+      border: none;
+      margin: 0;
+      padding: 0;
+      box-shadow: 0 0 8px 4px rgba(0, 0, 0, 0.125);
+      border-radius: 2px;
+      min-width: 0;
+      width: 100%;
+      color: $text-color;
+
+      .opc-dropdown-item {
+        display: block;
+        width: 100%;
+        padding: 8px 12px;
+        border-radius: 2px;
+        text-align: left;
+
+        &:hover {
+          text-decoration: none;
+          background-color: $light-bg;
+        }
+      }
+    }
+  }
+
+  #opcSidebar {
+    position: fixed;
+    top: 0;
+    width: 380px;
+    height: 100vh;
+    background-color: $bg-color;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.125);
+    font-size: 14px;
+    color: $text-color;
+
+    #opcMenuBtn {
+      margin-right: 8px;
+    }
+  }
+
+  #opcHeader {
+    padding: 16px;
+    background-color: $primary-color;
+    color: $bg-color;
+
+    #opc-sidebar-title {
+      display: inline-block;
+      margin: 0;
+      font-size: 17px;
+      color: inherit;
+      //font-weight: 600;
+    }
+
+    .opc-header-btn {
+      padding: 0 4px;
+
+      &:hover {
+        color: $primary-lighter;
+      }
+    }
+
+    #opcMenuBtnDropdown {
+      display: inline;
+
+      .opc-dropdown-menu {
+        width: 200px;
+      }
+    }
+  }
+
+  .nav-tabs {
+    border: none;
+    background-color: $light-bg;
+    box-shadow: -4px 3px 6px rgba(0, 0, 0, 0.16);
+    position: relative;
+
+    .nav-item {
+      margin: 0;
+      background-color: inherit;
+
+      .nav-link {
+        border: none;
+        border-bottom: 2px solid transparent;
+        border-radius: 0;
+        padding: 14px 2px 12px;
+        margin: 0 0 0 17px;
+        color: $muted-text;
+        background-color: inherit;
+
+        &:hover {
+          color: $text-color;
+        }
+
+        &.active {
+          border-color: $text-color;
+          color: $text-color;
+        }
+      }
+    }
+
+    #btnPagetree {
+      &.has-unmapped {
+        .nav-link {
+          position: relative;
+          color: #f68b25;
+
+          &:after {
+            display: block;
+            position: absolute;
+            content: "";
+            background-color: #f68b25;
+            width: 8px;
+            height: 8px;
+            right: -6px;
+            top: 12px;
+            border-radius: 100%;
+          }
+        }
+      }
+    }
+  }
+}

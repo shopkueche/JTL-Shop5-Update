@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "queueEntries"
+msgstr "Queue-Einträge"
+
+msgid "headingType"
+msgstr "Typ"
+
+msgid "headingStartTime"
+msgstr "Startzeit"
+
+msgid "headingStartDate"
+msgstr "Startdatum"
+
+msgid "headingLastStarted"
+msgstr "zuletzt gestartet"
+
+msgid "headingFrequency"
+msgstr "Frequenz"
+
+msgid "headingRunning"
+msgstr "Läuft aktuell"
+
+msgid "createQueueEntry"
+msgstr "Queue-Eintrag erstellen"
+
+msgid "msgCreated"
+msgstr "Erfolgreich erstellt."
+
+msgid "msgUpdated"
+msgstr "Erfolgreich aktualisiert."
+
+msgid "msgDeleted"
+msgstr "Erfolgreich gelöscht."
+
+msgid "imagecache"
+msgstr "Bilder-Cache"
+
+msgid "licensecheck"
+msgstr "Lizenzprüfungen"
+
+msgid "statusemail"
+msgstr "Status-E-Mails"
+
+msgid "dataprotection"
+msgstr "Kundendatenanonymisierung"

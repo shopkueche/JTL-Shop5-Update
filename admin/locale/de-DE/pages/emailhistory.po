@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "emailhistory"
+msgstr "E-Mail-Logbuch"
+
+msgid "emailhistoryURL"
+msgstr "https://jtl-url.de/koyfj"
+
+msgid "emailhistoryDesc"
+msgstr "Hier sehen Sie alle E-Mails, die von Ihrem Onlineshop versendet wurden."
+
+msgid "fromname"
+msgstr "Absender: Name"
+
+msgid "fromemail"
+msgstr "Absender: E-Mail"
+
+msgid "toname"
+msgstr "Empfänger: Name"
+
+msgid "toemail"
+msgstr "Empfänger: E-Mail"
+
+msgid "date"
+msgstr "Versendet am"
+
+msgid "errorHistoryDelete"
+msgstr "E-Mail-Logbuch konnte nicht gelöscht werden."
+
+msgid "successHistoryDelete"
+msgstr "Markierte Logbucheinträge wurden erfolgreich gelöscht."
+
+msgid "errorSelectEntry"
+msgstr "Bitte markieren Sie mindestens einen Logbucheintrag."
+
+msgid "sureEmailDelete"
+msgstr "Möchten Sie das komplette E-Mail-Logbuch wirklich löschen?"

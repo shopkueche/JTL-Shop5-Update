@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "zusatzverpackung"
+msgstr "Additional packaging"
+
+msgid "zusatzverpackungURL"
+msgstr "https://jtl-url.de/5no62"
+
+msgid "zusatzverpackungDesc"
+msgstr "Here you can manage fee-based packaging options such as gift wrapping or insurance. Additional packaging options are displayed during the checkout in the shipping method selection step."
+
+msgid "zusatzverpackungExemptFromCharge"
+msgstr "Free from"
+
+msgid "zusatzverpackungTaxClass"
+msgstr "Tax class"
+
+msgid "zusatzverpackungAutoTax"
+msgstr "Calculate automatically"
+
+msgid "zusatzverpackungCreate"
+msgstr "Create additional packaging"
+
+msgid "zusatzverpackungCreateTitle"
+msgstr "Creating additional packaging"
+
+msgid "zusatzverpackungEdit"
+msgstr "Editing additional packaging"
+
+msgid "zusatzverpackungAddedNone"
+msgstr "No additional packaging available yet"
+
+msgid "errorNameMissing"
+msgstr "Please enter a name for the packaging."
+
+msgid "errorCustomerGroupMissing"
+msgstr "Please select at least one customer group."
+
+msgid "successPackagingSave"
+msgstr "Packaging %s saved successfully."
+
+msgid "successPackagingDelete"
+msgstr "Selected packaging options deleted successfully."
+
+msgid "errorAtLeastOnePackaging"
+msgstr "Please select at least one packaging."
+
+msgid "successPackagingSaveMultiple"
+msgstr "Selected packaging options updated successfully."

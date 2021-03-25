@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "yourAdvantages"
+msgstr "Ihre Vorteile"
+
+msgid "installationGuide"
+msgstr "Installationsanleitung"
+
+msgid "noRecommendationFound"
+msgstr "Keine zur ID passende Plugin-Empfehlung gefunden."
+
+msgid "successInstallPaymentPlugin"
+msgstr "Das Plugin wurde erfolgreich installiert. Sie müssen es nun noch unter „Administration > Zahlungen > Zahlungsarten“ und „Plugins > Installierte Plugins“ einrichten."
+
+msgid "successInstallLegalPlugin"
+msgstr "Das Plugin wurde erfolgreich installiert. Sie müssen es nun noch unter „Plugins > Installierte Plugins“ einrichten."
+
+msgid "installPlugin"
+msgstr "Plugin installieren"
+
+msgid "pluginHasLicense"
+msgstr "Lizenz bereits vorhanden"
+
+msgid "authenticate"
+msgstr "Bitte authentifizieren Sie Ihren Onlineshop einmalig über den zentralen Login von JTL, um dieses Plugin zu installieren"

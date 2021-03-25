@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "paymentmethods"
+msgstr "Payment methods"
+
+msgid "paymentmethodsURL"
+msgstr "https://jtl-url.de/vjrdl"
+
+msgid "paymentmethodName"
+msgstr "Name of the payment method"
+
+msgid "installedPaymentmethods"
+msgstr "Here you can see an overview of all installed payment methods."
+
+msgid "name"
+msgstr "Payment method"
+
+msgid "configurePaymentmethod"
+msgstr "Here you can adjust the settings for this payment method."
+
+msgid "restrictedToCustomerGroups"
+msgstr "Available to customer groups"
+
+msgid "feeName"
+msgstr "Fee name"
+
+msgid "pictureURL"
+msgstr "Image URL"
+
+msgid "pictureDesc"
+msgstr "Enter the path or URL of the image that is to be displayed instead of the name of the payment method during checkout."
+
+msgid "noticeText"
+msgstr "Note"
+
+msgid "noticeTextShop"
+msgstr "Note (online shop)"
+
+msgid "noticeTextEmail"
+msgstr "Note (email)"
+
+msgid "noticeTextEmailDesc"
+msgstr "This text is displayed in addition to the existing content of the email templates \"Order confirmation\" and \"Order was updated\"."
+
+msgid "paymentAckMail"
+msgstr "Email: Confirmation of payment"
+
+msgid "paymentCancelMail"
+msgstr "Email: Order cancellation"
+
+msgid "duringOrder"
+msgstr "Payment before order completion"
+
+msgid "paymentmethodsCheckAll"
+msgstr "Check requirements of all payment methods"
+
+msgid "log"
+msgstr "Log"
+
+msgid "viewLog"
+msgstr "View log"
+
+msgid "logText"
+msgstr "Text"
+
+msgid "logDate"
+msgstr "Date"
+
+msgid "logLevel"
+msgstr "Error level"
+
+msgid "logError"
+msgstr "Error"
+
+msgid "logNotice"
+msgstr "Notice"
+
+msgid "logDebug"
+msgstr "Debug"
+
+msgid "logReset"
+msgstr "Reset log"
+
+msgid "payments"
+msgstr "Payments received for "
+
+msgid "paymentsURL"
+msgstr "https://jtl-url.de/vjrdl"
+
+msgid "paymentsDesc"
+msgstr "Here you can view the payments received for a specific payment method and its synchronisation status with JTL-Wawi."
+
+msgid "successPaymentMethodCheck"
+msgstr "All payment methods are operable."
+
+msgid "successLogReset"
+msgstr "Error log for %s reset successfully."
+
+msgid "noLogs"
+msgstr "No logs available."
+
+msgid "amountPayed"
+msgstr "Amount paid"
+
+msgid "syncedWithWawi"
+msgstr "Already sent to JTL-Wawi"
+
+msgid "wawiSyncReset"
+msgstr "Schedule new transfer to JTL-Wawi during next synchronisation"
+
+msgid "installedPaymentTypes"
+msgstr "Installed payment methods"
+
+msgid "successPaymentMethodSave"
+msgstr "Payment method saved successfully."
+
+msgid "errorPaymentMethodNotFound"
+msgstr "Could not find payment method."
+
+msgid "feeNameHint"
+msgstr "Enter a name for a potential charge for the payment method. The name of the charge will be displayed during checkout. The amount of the charge is specified individually for each shipping method for which the payment method is available."
+
+msgid "paymentsReceived"
+msgstr "Payments received"
+
+msgid "Plugin for payment method not found"
+msgstr "The payment method %s belongs to a plugin for %s. However the associated plugin is not installed!"
+
+msgid "Payment method can not been deleted"
+msgstr "The payment method %s can not been deleted!"
+
+msgid "Payment method has been deleted"
+msgstr "The payment method %s has been deleted!"

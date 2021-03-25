@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Row"
+msgstr "Grid layout"
+
+msgid "Layout"
+msgstr "Segmentation"
+
+msgid "Column"
+msgstr "Column"
+
+msgid "Columns"
+msgstr "Columns"
+
+msgid "rowLayoutDesc"
+msgstr "Specifies the width of columns on devices of different sizes. 12 means that a column is displayed at full width."

@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "configureContactform"
+msgstr "Contact form"
+
+msgid "contanctformDesc"
+msgstr "Here you can configure the JTL-Shop contact form for general questions by customers. In order to view the contact form, you must at least create a subject line. You can add the form to, for example, the header of your online shop via \"View > Custom contents > Pages\"."
+
+msgid "contanctformSubjectDesc"
+msgstr "Using the subject line, you can control to which department emails are sent via the contact form. When the customer selects the subject in the contact form, the email is sent to the email address corresponding to the respective subject."
+
+msgid "mail"
+msgstr "Send email to"
+
+msgid "newSubject"
+msgstr "New subject"
+
+msgid "restrictedToCustomerGroups"
+msgstr "Visible for"
+
+msgid "contactformSubject"
+msgstr "Subject line of contact form"
+
+msgid "additionalContent"
+msgstr "Additional contents"
+
+msgid "topContent"
+msgstr "Content before the actual form"
+
+msgid "bottomContent"
+msgstr "Content after the actual form"
+
+msgid "title"
+msgstr "Contact form header"
+
+msgid "cURL"
+msgstr "https://jtl-url.de/7iwdu"
+
+msgid "successContentSave"
+msgstr "Content saved successfully."
+
+msgid "successSubjectCreate"
+msgstr "Subject added successfully."
+
+msgid "errorSubjectSave"
+msgstr "Could not save subject."
+
+msgid "successSubjectSave"
+msgstr "Subject %s edited successfully."
+
+msgid "successSubjectDelete"
+msgstr "Subject successfully deleted."

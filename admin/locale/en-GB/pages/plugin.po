@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "plugin"
+msgstr "Plug-in"
+
+msgid "pluginVersion"
+msgstr "Version"
+
+msgid "pluginAuthor"
+msgstr "Author"
+
+msgid "pluginHomepage"
+msgstr "Website"
+
+msgid "Lizenzvereinbarungen"
+msgstr "Licence agreements"
+
+msgid "Lizenz"
+msgstr "Licence"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Vendor"
+msgstr "Manufacturer"
+
+msgid "Date created"
+msgstr "Creation date"
+
+msgid "Valid until"
+msgstr "Valid until"
+
+msgid "License"
+msgstr "Licence"
+
+msgid "documentation"
+msgstr "Documentation"
+
+msgid "itemDetails"
+msgstr "Details"
+
+msgid "setBinding"
+msgstr "Bind to this online shop"
+
+msgid "extendSubscription"
+msgstr "Renew subscription"
+
+msgid "extendLicense"
+msgstr "Renew test licence"
+
+msgid "extendTestLicense"
+msgstr "Renew test licence"
+
+msgid "pluginIsDeactivated"
+msgstr "Plugin is disabled."
+
+msgid "pluginNotFound"
+msgstr "Could not find plugin."
+
+msgid "No license found."
+msgstr "No license found."

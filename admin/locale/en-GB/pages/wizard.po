@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "setupAssistant"
+msgstr "Setup wizard"
+
+msgid "setupAssistantDesc"
+msgstr " "
+
+msgid "setupAssistantURL"
+msgstr " "
+
+msgid "launchSetup"
+msgstr "Open Setup wizard"
+
+msgid "welcome"
+msgstr "Welcome!"
+
+msgid "welcomeDesc"
+msgstr "In this Setup wizard, we guide you through the most important steps of the configuration of JTL-Shop."
+
+msgid "beginSetup"
+msgstr "Start"
+
+msgid "stepOne"
+msgstr "Step 1 – Basic settings"
+
+msgid "stepOneDesc"
+msgstr "Here you can specify the most important settings of your online shop. You can edit all settings in the back end of JTL-Shop at any time."
+
+msgid "stepTwo"
+msgstr "Step 2 – Email settings"
+
+msgid "stepTwoDesc"
+msgstr "These are the most important email settings. Adjust the other email server settings as soon as possible after the initial setup under \"Administration > Email > Server\". For more information, please see the <a href=\"https://jtl-url.de/jnw83\" target=\"_blank\">JTL-Guide</a>."
+
+msgid "stepThree"
+msgstr "Step 3 – Legal texts"
+
+msgid "stepThreeDesc"
+msgstr "We offer plug-ins by our partners for the creation of legally relevant texts. With these plug-ins, you can easily add legally sound texts such as terms and conditions and withdrawals to your online shop. You can also write your own legal texts and use them in your shop. Please see the <a href=\"https://jtl-url.de/15ge9\" target=\"_blank\">JTL-Guide</a> for further instructions."
+
+msgid "stepFour"
+msgstr "Step 4 – Payment methods"
+
+msgid "stepFourDesc"
+msgstr "Get suitable plug-ins to offer a broad selection of payment methods to your customers. You can specify when customers see which payment method in the settings for each shipping method. For more information, please see the <a href=\"https://jtl-url.de/dlkpz\" target=\"_blank\">JTL-Guide</a>. By default, JTL-Shop offers the following payment methods: %s."
+
+msgid "stepFive"
+msgstr "Step 5 – Overview and confirmation"
+
+msgid "stepFiveDesc"
+msgstr "This is an overview of all the settings you have made. You can still edit each setting, if required. Then click \"Confirm\"."
+
+msgid "legalTexts"
+msgstr "Legal texts"
+
+msgid "vatSettings"
+msgstr "Tax settings"
+
+msgid "smallEntrepreneur"
+msgstr "Small-business regulation"
+
+msgid "vatSmallEntrepreneur"
+msgstr "Use small-business regulation (Art. 19 German VAT Act)"
+
+msgid "vatSmallEntrepreneurTitle"
+msgstr "If you activate this option, your online shop will note state VAT."
+
+msgid "customerGroupDesc"
+msgstr "The online shop addresses"
+
+msgid "customerGroupDescTitle"
+msgstr "B2B activates the mandatory fields Company and VAT ID in the customer registration form and deactivates the withdrawal instructions in the order process. B2C deactivates the fields Company and VAT ID in the customer registration form. B2B and B2C activates the optional fields Company and VAT ID in the customer registration form."
+
+msgid "customerGroupB2B"
+msgstr "Entrepreneurs/Business customers (B2B)"
+
+msgid "customerGroupB2C"
+msgstr "Users/Private customers (B2C)"
+
+msgid "vatIDCompany"
+msgstr "Company VAT ID"
+
+msgid "vatIDCompanyTitle"
+msgstr "Enter the VAT ID from the country in which your company is based."
+
+msgid "shopSettings"
+msgstr "Online shop settings"
+
+msgid "shopName"
+msgstr "Online shop name"
+
+msgid "shopNameDesc"
+msgstr "The name will be used in several places, e.g. meta titles, emails, and the pages of external payment methods."
+
+msgid "secureDefaultSettings"
+msgstr "Secure settings"
+
+msgid "secureDefaultSettingsDesc"
+msgstr "Activates permanent SSL encryption (https; SSL certificate needs to be provided by hosting provider), email encryption and the cookie flags Secure/HTTPOnly."
+
+msgid "weRecommend"
+msgstr "Our recommendation"
+
+msgid "weRecommendLegalDesc"
+msgstr "To use a plug-in, you need to make a separate contract with the respective partner. Click \"Learn more\" to get more information on the plug-ins of interest."
+
+msgid "weRecommendPaymentDesc"
+msgstr "To use a plug-in, you need to make a separate contract with the respective payment provider. Click \"Learn more\" to get more information on the plug-ins of interest."
+
+msgid "getToKnowMore"
+msgstr "Learn more"
+
+msgid "paymentPluginInstalled"
+msgstr "The plug-in has been successfully installed and is now ready to be set up under \"Administration > Payment methods\"."
+
+msgid "finalize"
+msgstr "Finish"
+
+msgid "thankYouText"
+msgstr "Thank you!"
+
+msgid "thankYouTextDesc"
+msgstr "You have completed the most important settings of JTL-Shop."
+
+msgid "thankYouTextPluginsInstalled"
+msgstr "Please note that you may need to configure the plug-ins under <span class=\"text-primary font-weight-bold\">Installed plug-ins</span> before you can use them."
+
+msgid "installedPlugins"
+msgstr "Installed plug-ins"
+
+msgid "finalizeHelpNotice"
+msgstr "Do you need help setting up the rest of JTL-Shop? Just click on one of the following links (German only):"
+
+msgid "recommendationGuideLink"
+msgstr "https://guide.jtl-software.de/jtl-shop/"
+
+msgid "recommendationGuide"
+msgstr "JTL-Guide"
+
+msgid "recommendationGuideDesc"
+msgstr "The JTL-Guide will help you learn how to set up JTL-Shop according to your requirements and preferences."
+
+msgid "recommendationSupportLink"
+msgstr "https://www.jtl-software.de/hilfecenter/support#preisuebersicht"
+
+msgid "recommendationSupport"
+msgstr "Support"
+
+msgid "recommendationSupportDesc"
+msgstr "In case of further questions, we recommend one of our support packages (included for 12 months after purchase of licence; not required with hosting by JTL)."
+
+msgid "recommendationExtensionStoreLink"
+msgstr "https://jtl-url.de/exs"
+
+msgid "recommendationExtensionStore"
+msgstr "JTL-Extension&nbsp;Store"
+
+msgid "recommendationExtensionStoreDesc"
+msgstr "Here you can find many plug-ins to customise your online shop as needed."
+
+msgid "recommendationIssuetrackerLink"
+msgstr "https://issues.jtl-software.de/issues?project=shop"
+
+msgid "recommendationIssuetracker"
+msgstr "JTL-IssueTracker"
+
+msgid "recommendationIssuetrackerDesc"
+msgstr "This is where you can find known bugs and feature requests."
+
+msgid "recommendationForumLink"
+msgstr "https://forum.jtl-software.de/#jtl-shop.250"
+
+msgid "recommendationForum"
+msgstr "JTL-Forum"
+
+msgid "recommendationForumDesc"
+msgstr "Use our forum to exchange practices and know-how with the entire JTL community."
+
+msgid "recommendationReleaseForumLink"
+msgstr "https://forum.jtl-software.de/forums/releaseforum.36/"
+
+msgid "recommendationReleaseForum"
+msgstr "JTL release forum"
+
+msgid "recommendationReleaseForumDesc"
+msgstr "Subscribe to the release forum to receive information about new software versions via email."
+
+msgid "recommendationBlogLink"
+msgstr "https://www.jtl-software.de/blog"
+
+msgid "recommendationBlog"
+msgstr "JTL-Blog"
+
+msgid "recommendationBlogDesc"
+msgstr "Have a look at our blog to stay up to date in the world of JTL-Software."
+
+msgid "recommendationJTLSearchLink"
+msgstr "https://www.jtl-software.de/online-shopsystem/fehlertolerante-suche"
+
+msgid "recommendationJTLSearch"
+msgstr "JTL-Search"
+
+msgid "recommendationJTLSearchDesc"
+msgstr "JTL-Search is a fee-based add-on module for JTL-Shop and allows your customers to perform error-tolerant searches."
+
+msgid "orderNumberSettings"
+msgstr "Order ID settings"
+
+msgid "orderConfirmationBCC"
+msgstr "Copy of order confirmation (BCC)"
+
+msgid "orderConfirmationBCCDesc"
+msgstr "For documentation purposes, we highly recommend setting up an email address to which copies of all order confirmations will be sent. You can sort them into different folders in your personal inbox to reference them more easily."
+
+msgid "adminUserEmail"
+msgstr "Email address for lost password"
+
+msgid "adminUserEmailDesc"
+msgstr "This email address will be used to reset the password in case you have lost or forgotten it."
+
+msgid "validationErrorRequired"
+msgstr "Mandatory field. Please complete."
+
+msgid "validationErrorIncorrectEmail"
+msgstr "Please enter a valid email address."
+
+msgid "followUs"
+msgstr "Also follow us on:"
+
+msgid "validationErrorSSL"
+msgstr "SSL not possible."
+
+msgid "validationErrorSSLPlugin"
+msgstr "You need a valid SSL certificate to install plug-ins using the Setup wizard."
+
+msgid "errorVATPattern"
+msgstr "Invalid VAT ID. Please enter a valid VAT ID."
+
+msgid "oAuthValid"
+msgstr "Your online shop has been authenticated successfully."
+
+msgid "oAuthInvalid"
+msgstr "You have selected some plug-ins for installation. To install them, an initial authentication of your online shop is required. To do this, click \"Go to central login\". Once you have logged in with your user account data, you will automatically be taken back to this Setup wizard to complete the setup."
+
+msgid "oAuthInformation"
+msgstr "Why should I log in"
+
+msgid "beginAuth"
+msgstr "Log in now via central login"
+
+msgid "beginNoAuth"
+msgstr "Start wizard without login"
+
+msgid "oAuthDesc"
+msgstr "You can directly install and manage plug-ins bought in the JTL-Extension&nbsp;Store in the back end of JTL-Shop&nbsp;5. To do this, you need to authenticate your online shop by logging in via the central JTL login once. Simply log in with your user account data and that's it! If you do not want to log in now, you can do so later in the back end under \"My purchases\"."

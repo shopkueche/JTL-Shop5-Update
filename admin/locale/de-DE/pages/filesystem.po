@@ -1,0 +1,20 @@
+msgid "fs"
+msgstr "Dateisystem"
+
+msgid "fsDesc"
+msgstr " "
+
+msgid "fsURL"
+msgstr " "
+
+msgid "fsSave"
+msgstr "Speichern"
+
+msgid "fsTest"
+msgstr "Testen"
+
+msgid "fsValidConnection"
+msgstr "Die Verbindung war erfolgreich."
+
+msgid "fsInvalidShopRoot"
+msgstr "Es konnte keine gültige Installation von JTL-Shop gefunden werden. Bitte prüfen Sie den Pfad."

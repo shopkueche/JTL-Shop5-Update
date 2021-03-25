@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "rssURL"
+msgstr "https://jtl-url.de/xo5rt"
+
+msgid "rssSettings"
+msgstr "RSS-Einstellungen"
+
+msgid "rssDescription"
+msgstr "Sie können automatisch einen RSS-Feed für Ihren JTL-Shop erstellen lassen. In diesem Feed können neue Artikel, Blogbeiträge und Bewertungen angezeigt werden. Sie können den RSS-Feed manuell erstellen oder mit jedem Abgleich mit JTL-Wawi generieren lassen."
+
+msgid "successRSSCreate"
+msgstr "RSS-Feed wurde erfolgreich erstellt."
+
+msgid "errorRSSCreate"
+msgstr "RSS-Feed konnte nicht erstellt werden."
+
+msgid "errorRSSCreatePermissions"
+msgstr "Datei %s kann nicht geschrieben werden. Die Datei besitzt keine ausreichenden Schreibrechte, um eine XML-Datei für den RSS-Feed zu erstellen. Bitte überprüfen Sie die Schreibrechte."
+
+msgid "xmlCreate"
+msgstr "XML-Datei für RSS-Feed erstellen"

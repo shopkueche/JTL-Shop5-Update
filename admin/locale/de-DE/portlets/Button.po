@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Button"
+msgstr "Schaltfläche"
+
+msgid "defaultText"
+msgstr "Klick mich!"
+
+msgid "openInNewTab"
+msgstr "In neuer Registerkarte öffnen"
+
+msgid "linkTitle"
+msgstr "Linktitel"
+
+msgid "useFullWidth"
+msgstr "gesamte Breite nutzen"
+
+msgid "iconForButton"
+msgstr "Schaltfläche mit Icon versehen"
+
+msgid "iconAlignment"
+msgstr "Ausrichtung"
+
+msgid "alignmentDesc"
+msgstr "Legt fest, ob die Schaltfläche links, rechts, mittig oder über die gesamte Seitenbreite angezeigt wird."
+
+msgid "openInNewTabDesc"
+msgstr "Legt fest, ob beim Klicken auf die Schaltfläche eine neue Registerkarte im Browser geöffnet wird."

@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "systemlog"
+msgstr "Logbuch"
+
+msgid "systemlogDesc"
+msgstr "Im Logbuch finden Sie sämtliche Fehlermeldungen und Hinweise, die JTL-Shop produziert. In der Registerkarte „Einstellungen“ legen Sie fest, was genau festgehalten werden soll."
+
+msgid "systemlogURL"
+msgstr "https://jtl-url.de/3tvdu"
+
+msgid "systemlogLog"
+msgstr "Log"
+
+msgid "systemlogConfig"
+msgstr "Einstellungen"
+
+msgid "systemlogLevel"
+msgstr "Log-Typen"
+
+msgid "systemlogLevelDesc"
+msgstr "Hier legen Sie fest, welche Log-Typen im Logbuch gespeichert werden sollen."
+
+msgid "systemlogWarning"
+msgstr "Warnung"
+
+msgid "systemlogError"
+msgstr "Fehler"
+
+msgid "systemlogNotice"
+msgstr "Hinweis"
+
+msgid "systemlogDebug"
+msgstr "Debug"
+
+msgid "systemlogBTNSearch"
+msgstr "Suchen"
+
+msgid "systemlogSearch"
+msgstr "Suchtext"
+
+msgid "systemlogEntry"
+msgstr "Eintrag"
+
+msgid "systemlogReset"
+msgstr "Log zurücksetzen"
+
+msgid "successSystemLogReset"
+msgstr "Logbuch wurde erfolgreich zurückgesetzt."
+
+msgid "successEntriesDelete"
+msgstr " Markierte Log-Einträge wurden erfolgreich gelöscht."
+
+msgid "minLogLevel"
+msgstr "Log-Eintrag erstellen ab Level"
+
+msgid "logLevelError"
+msgstr "Error"
+
+msgid "logLevelWarning"
+msgstr "Warning"
+
+msgid "logLevelNotice"
+msgstr "Notice"
+
+msgid "logLevelDebug"
+msgstr "Debug"

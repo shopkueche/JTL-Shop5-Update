@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "newsletterqueue"
+msgstr "Queue"
+
+msgid "newsletterNewSubscriber"
+msgstr "Adding subscribers"
+
+msgid "newsletterURL"
+msgstr "https://jtl-url.de/95cyw"
+
+msgid "newsletterqueuedate"
+msgstr "Start"
+
+msgid "newsletterdraft"
+msgstr "Custom templates"
+
+msgid "newsletterlastsubscriber"
+msgstr "Last 20 newsletter subscribers"
+
+msgid "newsletterSubscriber"
+msgstr "Subscribers"
+
+msgid "newsletterAllSubscriber"
+msgstr "All subscribers"
+
+msgid "newsletterSubscripterNotActive"
+msgstr "Inactive subscribers"
+
+msgid "newslettersubscribername"
+msgstr "Subscriber"
+
+msgid "newslettersubscriberanrede"
+msgstr "Title"
+
+msgid "newsletterhistory"
+msgstr "History"
+
+msgid "newsletterhistorysubject"
+msgstr "Subject"
+
+msgid "newsletterhistorydate"
+msgstr "Start"
+
+msgid "newsletterdraftcreate"
+msgstr "Create template"
+
+msgid "newsletterNewSearch"
+msgstr "New search"
+
+msgid "newsletteredit"
+msgstr "Edit"
+
+msgid "newsletterprepare"
+msgstr "Prepare for sending"
+
+msgid "newslettersend"
+msgstr "Send newsletter"
+
+msgid "newsletterHtml"
+msgstr "Content (HTML)"
+
+msgid "newsletterText"
+msgstr "Content (text)"
+
+msgid "newsletteroverview"
+msgstr "Newsletter"
+
+msgid "newsletteroverviewdesc"
+msgstr " "
+
+msgid "newsletterdraftdesc"
+msgstr "Here you can create templates for your newsletters, which you can then test and approve for being sent. "
+
+msgid "newsletterdraftname"
+msgstr "Template name"
+
+msgid "newsletterdraftcharacter"
+msgstr "Send this template as"
+
+msgid "newsletterconfigdesc"
+msgstr "These email settings refer to newsletters."
+
+msgid "newsletterartnr"
+msgstr "Promoted item"
+
+msgid "newslettercustomergrp"
+msgstr "Recipients"
+
+msgid "newsletterdraftsaveandsend"
+msgstr "Save and send newsletter"
+
+msgid "newsletterdraftsaveandtest"
+msgstr "Save and test newsletter"
+
+msgid "newsletterdraftdate"
+msgstr "Send on"
+
+msgid "newsletterdraftformat"
+msgstr "DD/MM/YYYY hh:mm"
+
+msgid "newsletterdesc"
+msgstr "Manage your newsletters and subscribers. Please note that newsletters are managed separately for each language."
+
+msgid "newslettersubscriberactive"
+msgstr "(*) = not activated"
+
+msgid "newslettersubscriberdate"
+msgstr "Entered on"
+
+msgid "newslettersubscriberLastNewsletter"
+msgstr "Last newsletter sent on"
+
+msgid "newsletterqueueimprovement"
+msgstr "Sent"
+
+msgid "newsletterhistorycount"
+msgstr "Number of recipients"
+
+msgid "newsletterqueuecount"
+msgstr "Number of recipients"
+
+msgid "newsletterqueuecustomergrp"
+msgstr "Customer groups"
+
+msgid "newsletterSubscriberList"
+msgstr "All subscribers"
+
+msgid "newsletterSubscriberListDesc"
+msgstr " "
+
+msgid "newslettersubscriberSearch"
+msgstr "Find subscribers"
+
+msgid "newsletterSendAuthentication"
+msgstr "Send newsletter?"
+
+msgid "newsletterSearchBTN"
+msgstr "Find"
+
+msgid "newsletterUnlock"
+msgstr "Activate"
+
+msgid "newsletterdraftStd"
+msgstr "Standard templates"
+
+msgid "newsletterdraftStdShort"
+msgstr "Standard template"
+
+msgid "newsletterdraftStdUse"
+msgstr "Use template"
+
+msgid "newsletterdraftFillOut"
+msgstr "Please complete"
+
+msgid "newsletterPicLink"
+msgstr "Optional link to image"
+
+msgid "newsletterAltTag"
+msgstr "Alt tag"
+
+msgid "newsletterOptInIp"
+msgstr "Opt-in IP"
+
+msgid "newsletterOptInDate"
+msgstr "Opt-in date"
+
+msgid "successNewsletterAboDelete"
+msgstr "Selected newsletter subscribers deleted successfully."
+
+msgid "errorAtLeastOneNewsletterAbo"
+msgstr "Please select at least one newsletter subscriber."
+
+msgid "successNewsletterAbounlock"
+msgstr "Selected newsletter subscribers activated successfully."
+
+msgid "successNewsletterAboAdd"
+msgstr "Newsletter recipient added successfully."
+
+msgid "errorFillEmail"
+msgstr "Please fill in the field \"Email\"."
+
+msgid "successNewsletterQueueDelete"
+msgstr "Newsletter queue(s) %s deleted successfully."
+
+msgid "successNewsletterHistoryDelete"
+msgstr "Newsletter history/ies %s deleted successfully."
+
+msgid "errorAtLeastOneNewsletter"
+msgstr "Please select at least one newsletter."
+
+msgid "errorAtLeastOneHistory"
+msgstr "Please select at least one history."
+
+msgid "successNewsletterTemplateEdit"
+msgstr "Newsletter template %s edited successfully."
+
+msgid "successNewsletterTemplateSave"
+msgstr "Newsletter template %s saved successfully."
+
+msgid "successNewsletterPrepared"
+msgstr "Newsletter %s is ready to be sent."
+
+msgid "newsletterCronjobNotFound"
+msgstr "Could not find newsletter cron job. Newsletter cannot be sent."
+
+msgid "errorTestTemplateEmpty"
+msgstr "Empty recipient address for the trial newsletter."
+
+msgid "successTestEmailTo"
+msgstr "Newsletter template %s for trial newsletter sent to %s."
+
+msgid "successNewsletterTemplateDelete"
+msgstr "Newsletter template deleted successfully."
+
+msgid "availableTemplates"
+msgstr "Available templates"
+
+msgid "newsletterNoAccount"
+msgstr "Newsletter recipient w/o customer account"
+
+msgid "errorEmailExists"
+msgstr "The email address already exists."

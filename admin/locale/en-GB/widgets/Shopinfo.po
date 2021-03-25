@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Shopinfo_title"
+msgstr "Information about online shop"
+
+msgid "Shopinfo_desc"
+msgstr "Information regarding JTL-Shop"

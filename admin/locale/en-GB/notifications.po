@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "hasPendingUpdatesTitle"
+msgstr "System update"
+
+msgid "hasPendingUpdatesMessage"
+msgstr "A database update is required."
+
+msgid "validFolderPermissionsTitle"
+msgstr "File system"
+
+msgid "validFolderPermissionsMessage"
+msgstr "Some directories are not writeable."
+
+msgid "hasInstallDirTitle"
+msgstr "System"
+
+msgid "hasInstallDirMessage"
+msgstr "Please delete the installation directory \"/install/\" in the root directory of your online shop."
+
+msgid "validDatabaseStructTitle"
+msgstr "Database structure"
+
+msgid "validDatabaseStructMessage"
+msgstr "Error in the database structure."
+
+msgid "validModifiedFileStructTitle"
+msgstr "File structure"
+
+msgid "validModifiedFileStructMessage"
+msgstr "Error in the database structure."
+
+msgid "hasMobileTemplateIssueTitle"
+msgstr "Template"
+
+msgid "hasMobileTemplateIssueMessage"
+msgstr "You are using a fully responsive template. It is not necessary to activate a separate mobile template."
+
+msgid "hasStandardTemplateIssueTitle"
+msgstr "Template"
+
+msgid "hasStandardTemplateIssueMessage"
+msgstr "No standard template enabled."
+
+msgid "hasActiveProfilerTitle"
+msgstr "Plug-in"
+
+msgid "hasActiveProfilerMessage"
+msgstr "The plug-in profiler is enabled. This can lead to severe performance issues."
+
+msgid "hasNewPluginVersionsTitle"
+msgstr "Plug-in"
+
+msgid "hasNewPluginVersionsMessage"
+msgstr "There are new plug-in versions available."
+
+msgid "hasLicenseExpirationsTitle"
+msgstr "Licences/Subscriptions"
+
+msgid "hasLicenseExpirationsMessage"
+msgstr "At least one subscription will expire shortly."
+
+msgid "hasFullTextIndexErrorTitle"
+msgstr "Full-text search"
+
+msgid "hasFullTextIndexErrorMessage"
+msgstr "No full-text index available."
+
+msgid "hasInvalidPasswordResetMailTemplateTitle"
+msgstr "Defective email template"
+
+msgid "hasInvalidPasswordResetMailTemplateMessage"
+msgstr "The email template \"Forgot password\" is outdated.<br/> The variable $neues_passwort is no longer available.<br/> Please replace it by $passwordResetLink or reset the template."
+
+msgid "hasInsecureMailConfigTitle"
+msgstr "Unsafe SMTP connection"
+
+msgid "hasInsecureMailConfigMessage"
+msgstr "You chose SMTP but did not select an SMTP security method.<br/> We urgently recommend adapting your email settings.<br/> You will find the option here: Administration > Emails > Server."
+
+msgid "needPasswordRehash2FATryTitle"
+msgstr "User management"
+
+msgid "needPasswordRehash2FATryMessage"
+msgstr "The algorithm for changing the password has changed.<br/> Please generate new emergency codes for the two-factor authentication."
+
+msgid "needPasswordRehash2FACatchTitle"
+msgstr "Database update"
+
+msgid "needPasswordRehash2FACatchMessage"
+msgstr "Method needPasswordRehash2FA has issued an error.<br/> Please carry out migration 20170306130802_create_emergency_code_table."
+
+msgid "getDuplicateLinkGroupTemplateNamesTitle"
+msgstr "Invalid link groups"
+
+#placeholder: comma separated list of the duplicate linkgroup template-names
+msgid "getDuplicateLinkGroupTemplateNamesMessage"
+msgstr "One or more link groups do not use unique template names: %s"
+
+msgid "getExportFormatErrorCountTitle"
+msgstr "Error in export template"
+
+msgid "getExportFormatUncheckedCountTitle"
+msgstr "Unchecked export template"
+
+#placeholder: number of affected export formats
+msgid "getExportFormatErrorCountMessage"
+msgstr "%d export template(s) contain(s) syntax errors."
+
+msgid "getExportFormatUncheckedCountMessage"
+msgstr "%d export template(s) are without syntax check."
+
+msgid "getEmailTemplateSyntaxErrorCountTitle"
+msgstr "Error in email template"
+
+#placeholder: number of affected email templates
+msgid "getEmailTemplateSyntaxErrorCountMessage"
+msgstr "%d email template(s) contain(s) syntax errors."
+
+#placeholder: number of affected email templates
+msgid "getEmailTemplateSyntaxUncheckedCountMessage"
+msgstr "%d email template(s) are without syntax check."
+
+msgid "getEmailTemplateSyntaxUncheckedCountTitle"
+msgstr "Unchecked email template"
+
+msgid "duplicateSpecialLinkTitle"
+msgstr "Special page created multiple times"
+
+msgid "duplicateSpecialLinkDesc"
+msgstr "At least one special page was created several times for the same customer group(s)."
+
+msgid "ustIdMiasCheckTitle"
+msgstr "VAT ID check"
+
+msgid "ustIdMiasCheckMessage"
+msgstr "If you want to use the European VAT check by the EU VAT Information Exchange System, please install the PHP module \"php_soap\"."
+
+msgid "Missing translations"
+msgstr "Missing translations"
+
+msgid "%d pages are not translated in all available languages."
+msgstr "%d pages are not translated in all available languages."

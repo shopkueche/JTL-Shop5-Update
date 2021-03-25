@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "SalesVolume_title"
+msgstr "Sales revenues"
+
+msgid "SalesVolume_desc"
+msgstr "Revenue reports"

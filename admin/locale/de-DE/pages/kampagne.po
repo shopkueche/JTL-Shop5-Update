@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "kampagne"
+msgstr "Kampagnen"
+
+msgid "kampagneDesc"
+msgstr " "
+
+msgid "kampagneURL"
+msgstr "https://jtl-url.de/v5kan"
+
+msgid "kampagneSingle"
+msgstr "Kampagne"
+
+msgid "kampagneIntern"
+msgstr "Interne JTL-Shop-Kampagnen"
+
+msgid "kampagneExtern"
+msgstr "Eigene Kampagnen"
+
+msgid "kampagneOverview"
+msgstr "Kampagnen"
+
+msgid "kampagneNewBTN"
+msgstr "Neue Kampagne erstellen"
+
+msgid "kampagneDetailStatsBTN"
+msgstr "Aktualisieren"
+
+msgid "kampagneDetailStats"
+msgstr "Detaillierte Statistiken zur Kampagne"
+
+msgid "kampagneDetailStatsDef"
+msgstr "Detaillierte Statistiken"
+
+msgid "kampagneDetailGraph"
+msgstr "Graphen"
+
+msgid "kampagneGlobalStats"
+msgstr "Globale Statistiken"
+
+msgid "kampagneDetailView"
+msgstr "Ansicht"
+
+msgid "kampagneOverall"
+msgstr "Gesamt"
+
+msgid "kampagnePeriod"
+msgstr "Zeitraum"
+
+msgid "kampagneView"
+msgstr "Ansicht"
+
+msgid "kampagneDateTill"
+msgstr "bis einschließlich"
+
+msgid "kampagneCreate"
+msgstr "Neue Kampagne"
+
+msgid "kampagneEdit"
+msgstr "Kampagne bearbeiten"
+
+msgid "kampagneName"
+msgstr "Kampagnenname"
+
+msgid "kampagneParam"
+msgstr "Kampagnenparameter (GET/POST)"
+
+msgid "kampagneValue"
+msgstr "Kampagnenwert"
+
+msgid "kampagneValueType"
+msgstr "Typ des Kampagnenwertes"
+
+msgid "kampagneValueStatic"
+msgstr "Fester Kampagnenwert"
+
+msgid "kampagneStatic"
+msgstr "Fester Wert"
+
+msgid "kampagnenDate"
+msgstr "Erstellt am"
+
+msgid "kampagnenNLInfo"
+msgstr "Anzahl Aufrufe von Newslettern, welche mit der Kampagne verknüpft sind. Standard: 0, wenn die Kampagne keinem Newsletter zugewiesen ist oder es keine Newsletter-Aufrufe gab"
+
+msgid "successCampaignSave"
+msgstr "Kampagne wurde erfolgreich gespeichert."
+
+msgid "successCampaignDelete"
+msgstr "Ausgewählte Kampagnen wurden erfolgreich gelöscht."
+
+msgid "errorAtLeastOneCampaign"
+msgstr "Bitte markieren Sie mindestens eine Kampagne."
+
+msgid "errorCampaignSave"
+msgstr "Kampagne konnte nicht gespeichert werden."
+
+msgid "errorCampaignNameMissing"
+msgstr "Bitte geben Sie einen Kampagnennamen ein."
+
+msgid "errorCampaignParameterMissing"
+msgstr "Bitte geben Sie einen Kampagnenparameter ein."
+
+msgid "errorCampaignValueMissing"
+msgstr "Bitte geben Sie einen Kampagnenwert ein."
+
+msgid "errorCampaignNameDuplicate"
+msgstr "Der angegebene Kampagnenname ist bereits vergeben."
+
+msgid "errorCampaignParameterDuplicate"
+msgstr "Der angegebene Kampagnenparameter ist bereits vergeben."
+
+msgid "Hit"
+msgstr "Hits"
+
+msgid "Verkauf"
+msgstr "Verkäufe"
+
+msgid "Anmeldung"
+msgstr "Anmeldungen"
+
+msgid "Verkaufssumme"
+msgstr "Verkaufssumme"
+
+msgid "Frage zum Produkt"
+msgstr "Fragen zum Artikel"
+
+msgid "Verfügbarkeits-Anfrage"
+msgstr "Verfügbarkeitsanfragen"
+
+msgid "Login"
+msgstr "Logins"
+
+msgid "Produkt auf Wunschliste"
+msgstr "Artikel auf Wunschzettel"
+
+msgid "Produkt in den Warenkorb"
+msgstr "Artikel in Warenkorb"
+
+msgid "Angeschaute Newsletter"
+msgstr "Gelesene Newsletter"
+
+msgid "kampagneParamDesc"
+msgstr "Kampagnen werden durch einen von Ihnen bestimmten URL-Parameter initiiert und werden im Anschluss in der Session gehalten, um Folgeaktionen (z. B. Käufe) auszuwerten. Bsp.: rv, http://demoshop.jtl-software.de/?rv=5"
+
+msgid "kampagneValueTypeDesc"
+msgstr "Wählen Sie hier, ob der Kampagnenwert ein fester Wert oder ein dynamischer Wert sein soll."
+
+msgid "kampagneValueStaticDesc"
+msgstr "Geben Sie hier den Kampagnenwert ein, wenn Sie vorher „Fester Wert“ ausgewählt haben. Bsp.: 5, http://demoshop.jtl-software.de/?rv=5"

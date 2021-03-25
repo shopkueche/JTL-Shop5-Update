@@ -1,0 +1,20 @@
+msgid "fs"
+msgstr "File system"
+
+msgid "fsDesc"
+msgstr " "
+
+msgid "fsURL"
+msgstr " "
+
+msgid "fsSave"
+msgstr "Save"
+
+msgid "fsTest"
+msgstr "Test"
+
+msgid "fsValidConnection"
+msgstr "Connection successful."
+
+msgid "fsInvalidShopRoot"
+msgstr "Could not find a valid online shop installation. Please check the path."

@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "auswahlassistent"
+msgstr "Auswahlassistent"
+
+msgid "auswahlassistentDesc"
+msgstr " "
+
+msgid "auswahlassistentURL"
+msgstr "https://jtl-url.de/usgio"
+
+msgid "aaOverview"
+msgstr "Fragengruppen"
+
+msgid "aaQuestion"
+msgstr "Frage erstellen"
+
+msgid "aaQuestionEdit"
+msgstr "Frage bearbeiten"
+
+msgid "aaGroup"
+msgstr "Fragengruppe erstellen"
+
+msgid "aaGroupEdit"
+msgstr "Fragengruppe bearbeiten"
+
+msgid "aaSpecialSite"
+msgstr "CMS (Eigene Seite)"
+
+msgid "aaLocation"
+msgstr "Anzeigeorte"
+
+msgid "aaChoose"
+msgstr "Bitte auswählen"
+
+msgid "aaStartseiteTaken"
+msgstr "Es wird bereits eine andere Gruppe auf der Startseite angezeigt."
+
+msgid "aaKatSyntax"
+msgstr "Bitte achten Sie auf die korrekte Syntax (z. B.: 57;58)."
+
+msgid "aaKatTaken"
+msgstr "Es wird bereits eine andere Gruppe für eine ausgewählte Kategorie angezeigt."
+
+msgid "aaLinkTaken"
+msgstr "Es wird bereits eine andere Gruppe auf einer ausgewählten Spezialseite angezeigt."
+
+msgid "aaMerkmalTaken"
+msgstr "Das ausgewählte Merkmal wurde bereits für eine andere Frage in dieser Gruppe gewählt."
+
+msgid "successGroupSaved"
+msgstr "Gruppe wurde erfolgreich gespeichert."
+
+msgid "successGroupDeleted"
+msgstr "Ausgewählte Gruppen wurden erfolgreich gelöscht."
+
+msgid "errorGroupDeleted"
+msgstr "Ausgewählte Gruppen konnten nicht gelöscht werden."
+
+msgid "successQuestionSaved"
+msgstr "Frage wurde erfolgreich gespeichert."
+
+msgid "successQuestionDeleted"
+msgstr "Ausgewählte Frage wurde erfolgreich gelöscht."
+
+msgid "errorQuestionDeleted"
+msgstr "Ausgewählte Frage konnte nicht gelöscht werden."
+
+msgid "hintName"
+msgstr "Hier geben Sie den Namen für die Fragengruppe an. Dieser wird nur intern verwendet."
+
+msgid "hintDesc"
+msgstr "Hier können Sie einer Fragengruppe eine Beschreibung geben, die über der Fragengruppe angezeigt wird."
+
+msgid "questionCatInGroup"
+msgstr "Hier legen Sie fest, für welche Kategorien die Fragengruppe angezeigt werden soll."
+
+msgid "noSpecialPageAvailable"
+msgstr "Keine Spezialseite „Auswahlassistent“ vorhanden."
+
+msgid "hintSpecialPage"
+msgstr "Hier legen Sie fest, auf welcher Spezialseite die Gruppe angezeigt werden soll. Sie können mit gehaltener Strg-Taste mehrere Seiten gleichzeitig wählen."
+
+msgid "hintGroupOnHome"
+msgstr "Hier legen Sie fest, ob die Gruppe auf der Startseite Ihres JTL-Shops aktiv sein soll. Diese Einstellung ist immer nur für eine Fragengruppe gleichzeitig möglich."
+
+msgid "hintShowCheckbox"
+msgstr "Hier legen Sie fest, ob die Fragengruppe aktiv ist. Nur aktivierte Fragengruppen werden angezeigt."
+
+msgid "hintQuestionName"
+msgstr "Hier geben Sie den Text der Frage ein, der Ihren Kunden angezeigt werden soll."
+
+msgid "hintQuestionGroup"
+msgstr "Hier legen Sie fest, welcher Fragengruppe die Frage zugeordnet werden soll."
+
+msgid "hintQuestionAttribute"
+msgstr "Hier legen Sie fest, welches Merkmal von der Frage abgefragt werden soll."
+
+msgid "hintQuestionPosition"
+msgstr "Hier legen Sie fest, wie weit oben die Frage erscheinen soll. Je kleiner die eingegebene Zahl, desto weiter oben wird die Frage angezeigt."
+
+msgid "hintQuestionActive"
+msgstr "Hier legen Sie fest, ob die Frage aktiv ist und somit angezeigt wird."

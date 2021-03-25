@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "emailhistory"
+msgstr "Email log"
+
+msgid "emailhistoryURL"
+msgstr "https://jtl-url.de/j9k53"
+
+msgid "emailhistoryDesc"
+msgstr "Here you can view all emails sent from your online shop."
+
+msgid "fromname"
+msgstr "Sender: Name"
+
+msgid "fromemail"
+msgstr "Sender: Email"
+
+msgid "toname"
+msgstr "Recipient: Name"
+
+msgid "toemail"
+msgstr "Recipient: Email"
+
+msgid "date"
+msgstr "Sent on"
+
+msgid "errorHistoryDelete"
+msgstr "Could not delete email log."
+
+msgid "successHistoryDelete"
+msgstr "Selected log entries deleted successfully."
+
+msgid "errorSelectEntry"
+msgstr "Please select at least one log entry."
+
+msgid "sureEmailDelete"
+msgstr "Delete entire email log?"

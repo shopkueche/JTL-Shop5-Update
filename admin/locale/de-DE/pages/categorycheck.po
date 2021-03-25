@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "categorycheck"
+msgstr "Verwaiste Kategorien"
+
+msgid "categorycheckURL"
+msgstr "https://jtl-url.de/njc39"
+
+msgid "categorycheckDesc"
+msgstr "Hier finden Sie eine Auflistung aller Unterkategorien, die keine Oberkategorie haben."
+
+msgid "errorCatsWithoutParents"
+msgstr "Es wurden Kategorien ohne Oberkategorie gefunden."
+
+msgid "infoNoOrphanedCats"
+msgstr "Keine verwaisten Kategorien gefunden."

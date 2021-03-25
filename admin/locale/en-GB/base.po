@@ -1,0 +1,2079 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Wrong XSRF token."
+msgstr "Wrong XSRF token."
+
+msgid "dashboard"
+msgstr "Dashboard"
+
+msgid "settingspath"
+msgstr "Path"
+
+msgid "add"
+msgstr "Add"
+
+msgid "add_force"
+msgstr "Force Add"
+
+msgid "modify"
+msgstr "Edit"
+
+msgid "edit"
+msgstr "Edit"
+
+msgid "delete"
+msgstr "Delete"
+
+msgid "deleteSelected"
+msgstr "Delete selected"
+
+msgid "refresh"
+msgstr "Refresh"
+
+msgid "deleteAll"
+msgstr "Delete all"
+
+msgid "showedName"
+msgstr "Displayed name"
+
+msgid "multipleChoice"
+msgstr "Multiple selection is possible"
+
+msgid "save"
+msgstr "Save"
+
+msgid "saveAndContinue"
+msgstr "Save and keep editing"
+
+msgid "settings"
+msgstr "Settings"
+
+msgid "logout"
+msgstr "Log out"
+
+msgid "docu"
+msgstr "Documentation"
+
+msgid "sortNo"
+msgstr "Sort number"
+
+msgid "allCustomerGroups"
+msgstr "All customer groups"
+
+msgid "goShop"
+msgstr "Go to online shop"
+
+msgid "help"
+msgstr "Help"
+
+msgid "startPage"
+msgstr "Start page"
+
+msgid "sitemap"
+msgstr "Sitemap"
+
+msgid "yes"
+msgstr "Yes"
+
+msgid "no"
+msgstr "No"
+
+msgid "update"
+msgstr "Update"
+
+msgid "from"
+msgstr "from"
+
+msgid "next"
+msgstr "Next"
+
+msgid "previous"
+msgstr "Previous"
+
+msgid "changeLanguage"
+msgstr "Language"
+
+msgid "goBack"
+msgstr "Back"
+
+msgid "enterResult"
+msgstr "Enter displayed text"
+
+msgid "invalidCode"
+msgstr "Invalid code"
+
+msgid "invalidResult"
+msgstr "Invalid entry"
+
+msgid "enterCode"
+msgstr "Enter code"
+
+msgid "code"
+msgstr "Code"
+
+msgid "globalSelectAll"
+msgstr "Select all"
+
+msgid "noDataAvailable"
+msgstr "No data currently available."
+
+msgid "noFilterResults"
+msgstr "Filtering without results."
+
+msgid "noPluginDataAvailable"
+msgstr "There are no adjustable settings for this plug-in."
+
+msgid "confSearch"
+msgstr "Find"
+
+msgid "confSearchWord"
+msgstr "Settings search"
+
+msgid "searchHeadline"
+msgstr "Setting"
+
+msgid "noSearchResult"
+msgstr "No results found for your search term."
+
+msgid "NotAvailable"
+msgstr "not available"
+
+msgid "page"
+msgstr "Page"
+
+msgid "FillOut"
+msgstr "Please complete"
+
+msgid "nofopenError"
+msgstr "The PHP stream configuration option \"<b>allow_url_fopen</b>\" is not enabled. Please contact your server administrator to set the option to 1."
+
+msgid "noCURLError"
+msgstr "The program \"<b>CURL (curl_init)</b>\" is not available. Please contact your server administrator to install the program."
+
+msgid "noCURLAndFopenError"
+msgstr "The PHP stream configuration option \"<b>allow_url_fopen</b>\" is not enabled, and the program \"<b>CURL (curl_init)</b>\" is not available. Please contact the server administrator to enable at least one of them."
+
+msgid "noSOAPError"
+msgstr "The network protocol \"<b>SOAP</b>\" is not available. Please ask the server administrator to provide it."
+
+msgid "noModuleAvailable"
+msgstr "You do not have a valid licence for this module. It can be purchased at <a href=\"https://www.jtl-software.de/JTL-Shop-Onlineshop-und-Erweiterungen\">jtl-software.de</a>."
+
+msgid "pageBack"
+msgstr "Back"
+
+msgid "submit"
+msgstr "Send"
+
+msgid "cancel"
+msgstr "Cancel"
+
+msgid "apply"
+msgstr "Apply"
+
+msgid "exportCsv"
+msgstr "Export entries"
+
+msgid "importCsv"
+msgstr "Import entries"
+
+msgid "importCsvChooseType"
+msgstr "How should the import be executed?"
+
+msgid "importCsvType0"
+msgstr "Delete existing entries, import new ones afterwards"
+
+msgid "importCsvType1"
+msgstr "Overwrite existing entries and import new ones"
+
+msgid "importCsvType2"
+msgstr "Keep existing entries and import new ones"
+
+msgid "selectAllShown"
+msgstr "Select all"
+
+msgid "unselectAllShown"
+msgstr "Deselect all"
+
+msgid "file"
+msgstr "File"
+
+msgid "import"
+msgstr "Import"
+
+msgid "noAccount"
+msgstr "- No customer account -"
+
+msgid "confirm"
+msgstr "Confirm"
+
+msgid "wantToConfirm"
+msgstr "Would you like to continue?"
+
+msgid "reloadCaptcha"
+msgstr "Reload Captcha"
+
+msgid "invalidToken"
+msgstr "An invalid security code was transmitted."
+
+msgid "allPages"
+msgstr "All pages"
+
+msgid "errorFillRequired"
+msgstr "Please complete all mandatory fields."
+
+msgid "successConfigSave"
+msgstr "Settings saved successfully."
+
+msgid "errorConfigSave"
+msgstr "Could not save settings."
+
+msgid "errorIsNoDir"
+msgstr " is not a directory."
+
+msgid "contactSupport"
+msgstr "Please contact Support"
+
+msgid "errorUnknown"
+msgstr "Unknown error"
+
+msgid "errorUnknownLong"
+msgstr "An unknown error occurred."
+
+msgid "year"
+msgstr " Year"
+
+msgid "years"
+msgstr " Years"
+
+msgid "month"
+msgstr " Month"
+
+msgid "months"
+msgstr " Months"
+
+msgid "day"
+msgstr " Day"
+
+msgid "days"
+msgstr " Days"
+
+msgid "hour"
+msgstr " Hour"
+
+msgid "hours"
+msgstr " Hours"
+
+msgid "seconds"
+msgstr "Seconds"
+
+msgid "errorEnterValidDate"
+msgstr "Please enter a valid date."
+
+msgid "smartySyntaxError"
+msgstr "Smarty syntax error"
+
+msgid "Smarty syntax ok"
+msgstr "Smarty Syntax is correct."
+
+msgid "errorCheckInput"
+msgstr "Please check your inputs."
+
+msgid "lockForMinutes"
+msgstr "Blocked for %s minutes"
+
+msgid "errorWrongPasswordUser"
+msgstr "Invalid user name or password"
+
+msgid "errorTwoFactorExpired"
+msgstr "Code for two-factor authentication expired"
+
+msgid "errorTwoFactorFaultyExpired"
+msgstr "Invalid or expired code for two-factor authentication"
+
+msgid "errorNoPermission"
+msgstr "Missing rights"
+
+msgid "errorCSRF"
+msgstr "Cross-site request forgery! Are cookies enabled?"
+
+msgid "errorCookieSettings"
+msgstr "Faulty cookie settings: login not possible. Please contact the Support team."
+
+msgid "errorSessionExpired"
+msgstr "Your session has been reset. Please log in again."
+
+msgid "row"
+msgstr "Row"
+
+msgid "errorLangVarNotFound"
+msgstr "Could not find the selected language variable."
+
+msgid "successChangesSave"
+msgstr "Changes applied successfully."
+
+msgid "errorChooseOption"
+msgstr "Please select at least one option."
+
+msgid "all"
+msgstr "All"
+
+msgid "both"
+msgstr "Both"
+
+msgid "successEmailSend"
+msgstr "An email with further instructions has been sent to the indicated email address."
+
+msgid "errorEmailNotFound"
+msgstr "Could not find email address."
+
+msgid "successPasswordChange"
+msgstr "Password changed successfully."
+
+msgid "errorPasswordChange"
+msgstr "Could not change password."
+
+msgid "errorHashInvalid"
+msgstr "Invalid hash passed."
+
+msgid "errorPasswordMismatch"
+msgstr "Passwords do not match."
+
+msgid "action"
+msgstr "Action"
+
+msgid "available"
+msgstr "Available"
+
+msgid "html"
+msgstr "HTML"
+
+msgid "text"
+msgstr "Text"
+
+msgid "forCustomerGroup"
+msgstr "for customer group"
+
+msgid "customerGroup"
+msgstr "Customer group"
+
+msgid "titleChooseCategory"
+msgstr "Select categories"
+
+msgid "labelSearchCategory"
+msgstr "Search for categories"
+
+msgid "category"
+msgstr "Category"
+
+msgid "characteristic"
+msgstr "Characteristic"
+
+msgid "characteristic value"
+msgstr "Characteristic value"
+
+msgid "variation"
+msgstr "Variation"
+
+msgid "showQuestions"
+msgstr "Show questions"
+
+msgid "errorImageSizeTooLarge"
+msgstr "The image file is too large."
+
+msgid "errorUploadSizeLimit"
+msgstr "The image size exceeds the server upload limit."
+
+msgid "general"
+msgstr "General"
+
+msgid "chooseAvailableFile"
+msgstr "Select existing file"
+
+msgid "pageType"
+msgstr "Page type"
+
+msgid "tag"
+msgstr "Day"
+
+msgid "attribute"
+msgstr "Characteristic"
+
+msgid "attributes"
+msgstr "Characteristics"
+
+msgid "attributeValues"
+msgstr "Characteristic values"
+
+msgid "searchTerm"
+msgstr "Search term"
+
+msgid "runTime"
+msgstr "Duration"
+
+msgid "status"
+msgstr "Status"
+
+msgid "manufacturer"
+msgstr "Manufacturer"
+
+msgid "pageSelf"
+msgstr "Custom page"
+
+msgid "product"
+msgstr "Item"
+
+msgid "titleChooseProducts"
+msgstr "Selecting items"
+
+msgid "chooseProduct"
+msgstr "Select items"
+
+msgid "deleteProduct"
+msgstr "Delete items"
+
+msgid "filter"
+msgstr "Filters"
+
+msgid "noFilter"
+msgstr "No filter"
+
+msgid "to"
+msgstr "to"
+
+msgid "zones"
+msgstr "Zones"
+
+msgid "zone"
+msgstr "Zone"
+
+msgid "newZone"
+msgstr "New zone"
+
+msgid "saveZones"
+msgstr "Save zones"
+
+msgid "deleteZone"
+msgstr "Delete zone"
+
+msgid "title"
+msgstr "Name"
+
+msgid "description"
+msgstr "Description"
+
+msgid "url"
+msgstr "URL"
+
+msgid "cssClass"
+msgstr "CSS class"
+
+msgid "new"
+msgstr "new"
+
+msgid "active"
+msgstr "Active"
+
+msgid "inactive"
+msgstr "Inactive"
+
+msgid "emailAddress"
+msgstr "Email address"
+
+msgid "preSurName"
+msgstr "First and last name"
+
+msgid "language"
+msgstr "Language"
+
+msgid "username"
+msgstr "User name"
+
+msgid "logindata"
+msgstr "Login data"
+
+msgid "password"
+msgstr "Password"
+
+msgid "twoFactorAuth"
+msgstr "Two-factor authentication"
+
+msgid "activate"
+msgstr "Enable"
+
+msgid "permissions"
+msgstr "Permissions"
+
+msgid "permissionDenied"
+msgstr "Access denied"
+
+msgid "userGroup"
+msgstr "User group"
+
+msgid "noPermissionForPage"
+msgstr "No permission to view page."
+
+msgid "contactAdminForPermission"
+msgstr "If you need to access this area, please ask your administrator to assign the required rights to you."
+
+msgid "imageSizes"
+msgstr "Image sizes"
+
+msgid "variations"
+msgstr "Variations"
+
+msgid "configGroup"
+msgstr "Configuration group"
+
+msgid "type"
+msgstr "Type"
+
+msgid "xs"
+msgstr "Mini"
+
+msgid "sm"
+msgstr "Small"
+
+msgid "md"
+msgstr "Normal"
+
+msgid "lg"
+msgstr "Large"
+
+msgid "widthXHeight"
+msgstr "(width x height)"
+
+msgid "notice"
+msgstr "Notification"
+
+msgid "name"
+msgstr "Name"
+
+msgid "street"
+msgstr "Street name"
+
+msgid "city"
+msgstr "City"
+
+msgid "email"
+msgstr "Email"
+
+msgid "customerNumberShort"
+msgstr "Customer ID"
+
+msgid "minOrderValue"
+msgstr "Minimum order value"
+
+msgid "maxOrderValue"
+msgstr "Maximum order value"
+
+msgid "directDebit"
+msgstr "Direct debit"
+
+msgid "top"
+msgstr "at the top"
+
+msgid "topRight"
+msgstr "top right corner"
+
+msgid "topLeft"
+msgstr "top left corner"
+
+msgid "bottom"
+msgstr "at the bottom"
+
+msgid "bottomRight"
+msgstr "bottom right corner"
+
+msgid "bottomLeft"
+msgstr "bottom left corner"
+
+msgid "left"
+msgstr "left"
+
+msgid "right"
+msgstr "right"
+
+msgid "centered"
+msgstr "centred"
+
+msgid "activated"
+msgstr "Active"
+
+msgid "modified"
+msgstr "Modified"
+
+msgid "unmodified"
+msgstr "Unmodified"
+
+msgid "tplChecksums"
+msgstr "Template file check sums"
+
+msgid "modifiedFiles"
+msgstr "Modified files"
+
+msgid "lastModified"
+msgstr "Last edited"
+
+msgid "files"
+msgstr "Files"
+
+msgid "frontend"
+msgstr "Front end"
+
+msgid "backend"
+msgstr "Back end"
+
+msgid "methods"
+msgstr "Methods"
+
+msgid "entries"
+msgstr "Entries"
+
+msgid "extended"
+msgstr "Extended"
+
+msgid "requiredEntry"
+msgstr "Mandatory"
+
+msgid "noMoreInfo"
+msgstr "No further information available."
+
+msgid "structure"
+msgstr "Structure"
+
+msgid "show"
+msgstr "Show"
+
+msgid "table"
+msgstr "Table"
+
+msgid "any"
+msgstr "any"
+
+msgid "overview"
+msgstr "Overview"
+
+msgid "consistency"
+msgstr "Consistency"
+
+msgid "execute"
+msgstr "Run"
+
+msgid "collation"
+msgstr "Collation"
+
+msgid "dataEntries"
+msgstr "Data sets"
+
+msgid "autoIncrement"
+msgstr "Auto increment"
+
+msgid "column"
+msgstr "Column"
+
+msgid "indices"
+msgstr "Indices"
+
+msgid "count"
+msgstr "Number"
+
+msgid "showData"
+msgstr "View data"
+
+msgid "noData"
+msgstr "No data available"
+
+msgid "database"
+msgstr "Database"
+
+msgid "saveCopy"
+msgstr "Backup copy"
+
+msgid "migration"
+msgstr "Migration"
+
+msgid "executed"
+msgstr "Executed"
+
+msgid "download"
+msgstr "Download"
+
+msgid "buttonUpdateNow"
+msgstr "Update now"
+
+msgid "danger"
+msgstr "Caution"
+
+msgid "ok"
+msgstr "OK"
+
+msgid "placeholder"
+msgstr "Placeholder"
+
+msgid "example"
+msgstr "Example"
+
+msgid "mister"
+msgstr "Mr"
+
+msgid "maleShort"
+msgstr "m"
+
+msgid "madame"
+msgstr "Ms"
+
+msgid "femaleShort"
+msgstr "f"
+
+msgid "content"
+msgstr "Contents"
+
+msgid "firstNameStub"
+msgstr "John"
+
+msgid "lastNameStub"
+msgstr "Smith"
+
+msgid "companyStub"
+msgstr "Company Ltd."
+
+msgid "faulty"
+msgstr "Faulty"
+
+msgid "untested"
+msgstr "Untested"
+
+msgid "week"
+msgstr "Week"
+
+msgid "weeks"
+msgstr "Weeks"
+
+msgid "own"
+msgstr "Custom"
+
+msgid "questionUseCache"
+msgstr "Use cache?"
+
+msgid "link"
+msgstr "Link"
+
+msgid "startsWith"
+msgstr "Begins with"
+
+msgid "endsWith"
+msgstr "Ends with"
+
+msgid "isEqual"
+msgstr "Equals"
+
+msgid "isNotEqual"
+msgstr "Does not equal"
+
+msgid "contains"
+msgstr "Contains"
+
+msgid "firstSteps"
+msgstr "First steps"
+
+msgid "jtlGuide"
+msgstr "JTL-Guide"
+
+msgid "jtlForum"
+msgstr "JTL-Forum"
+
+msgid "training"
+msgstr "Training"
+
+msgid "servicePartners"
+msgstr "Service partners"
+
+msgid "actions"
+msgstr "Actions"
+
+msgid "linkVerb"
+msgstr "Link"
+
+msgid "old"
+msgstr "old"
+
+msgid "january"
+msgstr "January"
+
+msgid "february"
+msgstr "February"
+
+msgid "march"
+msgstr "March"
+
+msgid "april"
+msgstr "April"
+
+msgid "may"
+msgstr "May"
+
+msgid "june"
+msgstr "June"
+
+msgid "july"
+msgstr "July"
+
+msgid "august"
+msgstr "August"
+
+msgid "september"
+msgstr "September"
+
+msgid "october"
+msgstr "October"
+
+msgid "november"
+msgstr "November"
+
+msgid "december"
+msgstr "December"
+
+msgid "dynamic"
+msgstr "dynamic"
+
+msgid "fixedValue"
+msgstr "Fixed value"
+
+msgid "earlier"
+msgstr "Previous"
+
+msgid "later"
+msgstr "Next"
+
+msgid "value"
+msgstr "Value"
+
+msgid "values"
+msgstr "Values"
+
+msgid "number"
+msgstr "Number"
+
+msgid "selection"
+msgstr "Selection"
+
+msgid "addValue"
+msgstr "Add value"
+
+msgid "sortShort"
+msgstr "Sort."
+
+msgid "remove"
+msgstr "Remove"
+
+msgid "amount"
+msgstr "Amount"
+
+msgid "chooseCustomer"
+msgstr "Select customers"
+
+msgid "customers"
+msgstr "Customers"
+
+msgid "products"
+msgstr "Item"
+
+msgid "only"
+msgstr "only"
+
+msgid "deactivated"
+msgstr "Disabled"
+
+msgid "standard"
+msgstr "Default"
+
+msgid "forced"
+msgstr "Forced"
+
+msgid "images"
+msgstr "Images"
+
+msgid "plugin"
+msgstr "Plug-in"
+
+msgid "missingTranslations"
+msgstr "Missing translations"
+
+msgid "login"
+msgstr "Log in"
+
+msgid "forgotPassword"
+msgstr "Forgot your password?"
+
+msgid "metaSeo"
+msgstr "Meta/SEO"
+
+msgid "id"
+msgstr "ID"
+
+msgid "marked"
+msgstr "selected"
+
+msgid "textHtml"
+msgstr "text/html"
+
+msgid "labelSearchProduct"
+msgstr "Search for item names"
+
+msgid "labelSearchManufacturer"
+msgstr "Search for manufacturer names"
+
+msgid "titleChooseManufacturer"
+msgstr "Selecting a manufacturer"
+
+msgid "chooseCatgeory"
+msgstr "Select category"
+
+msgid "entriesPerPage"
+msgstr "Entries per page"
+
+msgid "sorting"
+msgstr "Sorting"
+
+msgid "ascending"
+msgstr "in ascending order"
+
+msgid "descending"
+msgstr "in descending order"
+
+msgid "allEntries"
+msgstr "Total entries"
+
+msgid "templates"
+msgstr "Templates"
+
+msgid "draft"
+msgstr "Draft"
+
+msgid "replaced"
+msgstr "Replaced"
+
+msgid "group"
+msgstr "Group"
+
+msgid "portlet"
+msgstr "Portlet"
+
+msgid "preview"
+msgstr "Preview"
+
+msgid "pageID"
+msgstr "Page ID"
+
+msgid "entry"
+msgstr "Entry"
+
+msgid "resetPassword"
+msgstr "Reset password"
+
+msgid "newPassword"
+msgstr "New password"
+
+msgid "confirmNewPassword"
+msgstr "Confirm new password"
+
+msgid "showAll"
+msgstr "View all"
+
+msgid "problems"
+msgstr "Issues"
+
+msgid "upload"
+msgstr "Upload"
+
+msgid "selected"
+msgstr "Selected"
+
+msgid "found"
+msgstr "Found"
+
+msgid "categories"
+msgstr "Categories"
+
+msgid "revisions"
+msgstr "Revisions"
+
+msgid "noRevisions"
+msgstr "No revisions found"
+
+msgid "revisionDelete"
+msgstr "Delete revision"
+
+msgid "revisionRestore"
+msgstr "Restore revision"
+
+msgid "hook"
+msgstr "Hook"
+
+msgid "calls"
+msgstr "Calls"
+
+msgid "plugins"
+msgstr "Plug-in"
+
+msgid "sql"
+msgstr "SQL"
+
+msgid "deleteEntry"
+msgstr "Delete entry"
+
+msgid "tables"
+msgstr "Tables"
+
+msgid "totalQueries"
+msgstr "Total queries"
+
+msgid "errorMessage"
+msgstr "Error message"
+
+msgid "backtrace"
+msgstr "Backtrace"
+
+msgid "statement"
+msgstr "Statement"
+
+msgid "internalName"
+msgstr "Internal name "
+
+msgid "randomStart"
+msgstr "Random start"
+
+msgid "searchThrough"
+msgstr "Browse"
+
+msgid "options"
+msgstr "Options"
+
+msgid "presentation"
+msgstr "View"
+
+msgid "navigation"
+msgstr "Navigation"
+
+msgid "hide"
+msgstr "Hide"
+
+msgid "thumbnail"
+msgstr "Thumbnail"
+
+msgid "direction"
+msgstr "Direction"
+
+msgid "effects"
+msgstr "Effects"
+
+msgid "theme"
+msgstr "Theme"
+
+msgid "displayOptions"
+msgstr "Display options"
+
+msgid "mobile"
+msgstr "Mobile device"
+
+msgid "version"
+msgstr "Version"
+
+msgid "shopversion"
+msgstr "Online shop version"
+
+msgid "create"
+msgstr "Create"
+
+msgid "visitors"
+msgstr "Visitors"
+
+msgid "visitor"
+msgstr "Visitor"
+
+msgid "customerHeritage"
+msgstr "Origins of shop visitors"
+
+msgid "searchEngines"
+msgstr "Search engines"
+
+msgid "sales"
+msgstr "Sales revenues"
+
+msgid "entryPages"
+msgstr "Start pages"
+
+msgid "details"
+msgstr "Details"
+
+msgid "server"
+msgstr "Server"
+
+msgid "subscription"
+msgstr "Subscription"
+
+msgid "valid"
+msgstr "valid"
+
+msgid "expired"
+msgstr "expired"
+
+msgid "domain"
+msgstr "Domain"
+
+msgid "paymentTypes"
+msgstr "Payment methods"
+
+msgid "paymentType"
+msgstr "Payment method"
+
+msgid "cache"
+msgstr "Cache"
+
+msgid "settingNumberShort"
+msgstr "Setting number"
+
+msgid "shippingTypesOverview"
+msgstr "Shipping methods overview"
+
+msgid "paymentTypesOverview"
+msgstr "Payment methods overview"
+
+msgid "yourSystem"
+msgstr "Your system"
+
+msgid "installedSoftware"
+msgstr "Installed software"
+
+msgid "software"
+msgstr "Software"
+
+msgid "requirements"
+msgstr "Requirement"
+
+msgid "designation"
+msgstr "Name"
+
+msgid "setting"
+msgstr "Setting"
+
+msgid "divider"
+msgstr "Separator"
+
+msgid "unit"
+msgstr "Unit"
+
+msgid "quantity"
+msgstr "Quantity"
+
+msgid "weight"
+msgstr "Weight"
+
+msgid "option"
+msgstr "Option"
+
+msgid "last"
+msgstr "last"
+
+msgid "lastYear"
+msgstr "previous year"
+
+msgid "duplicate"
+msgstr "Duplicate"
+
+msgid "user"
+msgstr "User"
+
+msgid "change"
+msgstr "change"
+
+msgid "noMoreWidgets"
+msgstr "No other widgets available."
+
+msgid "note"
+msgstr "Note"
+
+msgid "level"
+msgstr "Level"
+
+msgid "orderNumberShort"
+msgstr "Order ID"
+
+msgid "currency"
+msgstr "Currency"
+
+msgid "paymentDue"
+msgstr "Payment fee"
+
+msgid "rows"
+msgstr "Rows"
+
+msgid "engine"
+msgstr "Engine"
+
+msgid "databaseStructure"
+msgstr "Database structure"
+
+msgid "showModified"
+msgstr "Show modified"
+
+msgid "markAll"
+msgstr "Select all"
+
+msgid "optimize"
+msgstr "optimise"
+
+msgid "repair"
+msgstr "repair"
+
+msgid "check"
+msgstr "review"
+
+msgid "analyse"
+msgstr "analyse"
+
+msgid "send"
+msgstr "send"
+
+msgid "step"
+msgstr "Step"
+
+msgid "automatic"
+msgstr "Automatically"
+
+msgid "approximately"
+msgstr "approx."
+
+msgid "minute"
+msgstr "minute"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "continueQuestion"
+msgstr "Continue?"
+
+msgid "reset"
+msgstr "Reset"
+
+msgid "question"
+msgstr "Question"
+
+msgid "orderNumber"
+msgstr "Order ID"
+
+msgid "customer"
+msgstr "Customer"
+
+msgid "search"
+msgstr "Search"
+
+msgid "more"
+msgstr "More"
+
+msgid "insert"
+msgstr "Add"
+
+msgid "pages"
+msgstr "Pages"
+
+msgid "manufacturers"
+msgstr "Manufacturer"
+
+msgid "transparency"
+msgstr "Transparency"
+
+msgid "size"
+msgstr "Size"
+
+msgid "position"
+msgstr "Position"
+
+msgid "deactivate"
+msgstr "disable"
+
+msgid "newsletter"
+msgstr "Newsletter"
+
+msgid "exportformat"
+msgstr "Export format"
+
+msgid "exportformats"
+msgstr "Export formats"
+
+msgid "progress"
+msgstr "Progress"
+
+msgid "configure"
+msgstr "configure"
+
+msgid "subject"
+msgstr "Subject"
+
+msgid "subjects"
+msgstr "Subjects"
+
+msgid "filename"
+msgstr "File name"
+
+msgid "module"
+msgstr "Module"
+
+msgid "template"
+msgstr "Template"
+
+msgid "repetition"
+msgstr "Repetition"
+
+msgid "header"
+msgstr "Header"
+
+msgid "footer"
+msgstr "Footer"
+
+msgid "firstName"
+msgstr "First name"
+
+msgid "lastName"
+msgstr "Last name"
+
+msgid "reviews"
+msgstr "Customer reviews"
+
+msgid "stars"
+msgstr "Stars"
+
+msgid "productName"
+msgstr "Item name"
+
+msgid "back"
+msgstr "Back"
+
+msgid "annual"
+msgstr "Yearly"
+
+msgid "monthly"
+msgstr "Monthly"
+
+msgid "weekly"
+msgstr "Weekly"
+
+msgid "daily"
+msgstr "Daily"
+
+msgid "contents"
+msgstr "Contents"
+
+msgid "format"
+msgstr "Format"
+
+msgid "credit"
+msgstr "Credit"
+
+msgid "newCustomer"
+msgstr "New customer"
+
+msgid "registered"
+msgstr "Registered"
+
+msgid "names"
+msgstr "Names"
+
+msgid "optional"
+msgstr "optional"
+
+msgid "coupon"
+msgstr "Coupon"
+
+msgid "coupons"
+msgstr "Coupons"
+
+msgid "orderValue"
+msgstr "Order value"
+
+msgid "order"
+msgstr "Order"
+
+msgid "orders"
+msgstr "Orders"
+
+msgid "unitPrice"
+msgstr "Unit price"
+
+msgid "totalPrice"
+msgstr "Total price"
+
+msgid "totalAmount"
+msgstr "Total sum"
+
+msgid "linkGroup"
+msgstr "Link group"
+
+msgid "register"
+msgstr "Register"
+
+msgid "basket"
+msgstr "Basket"
+
+msgid "contact"
+msgstr "Contact"
+
+msgid "news"
+msgstr "Blog"
+
+msgid "mapping"
+msgstr "Mapping"
+
+msgid "blacklist"
+msgstr "Blacklist"
+
+msgid "headline"
+msgstr "Headline"
+
+msgid "campaign"
+msgstr "Campaign"
+
+msgid "error"
+msgstr "Error"
+
+msgid "selectAll"
+msgstr "Select all"
+
+msgid "continent"
+msgstr "Continent"
+
+msgid "country"
+msgstr "Country"
+
+msgid "iso"
+msgstr "ISO"
+
+msgid "areas"
+msgstr "Areas"
+
+msgid "current"
+msgstr "Current"
+
+msgid "bestseller"
+msgstr "Bestsellers"
+
+msgid "seo"
+msgstr "SEO"
+
+msgid "read"
+msgstr "read"
+
+msgid "net"
+msgstr "Net"
+
+msgid "gross"
+msgstr "Gross"
+
+msgid "price"
+msgstr "Price"
+
+msgid "favorites"
+msgstr "Favourites"
+
+msgid "manageFavorites"
+msgstr "Manage your favourites."
+
+msgid "account"
+msgstr "Account"
+
+msgid "shop"
+msgstr "Online shop"
+
+# page type (tspezialseite)
+msgid "Startseite"
+msgstr "Start page"
+
+# page type (tspezialseite)
+msgid "Informationen zum Versand"
+msgstr "Shipping information"
+
+# page type (tspezialseite)
+msgid "WRB"
+msgstr "Withdrawal"
+
+# page type (tspezialseite)
+msgid "AGB"
+msgstr "Terms and conditions"
+
+# page type (tspezialseite)
+msgid "Tagging Übersicht"
+msgstr "Tagging"
+
+# page type (tspezialseite)
+msgid "Livesuche"
+msgstr "Search queries"
+
+# page type (tspezialseite)
+msgid "Datenschutz"
+msgstr "Data privacy"
+
+# page type (tspezialseite)
+msgid "Hersteller Übersicht"
+msgstr "Manufacturer"
+
+# page type (tspezialseite)
+msgid "Sitemap"
+msgstr "Sitemap"
+
+# page type (tspezialseite)
+msgid "Gratis Geschenk"
+msgstr "Free gifts"
+
+# page type (tspezialseite)
+msgid "Auswahlassistent"
+msgstr "Selection Wizard"
+
+msgid "pageCustom"
+msgstr "Custom page"
+
+msgid "pageAccount"
+msgstr "My account"
+
+# page type (tspezialseite)
+msgid "Login"
+msgstr "Login"
+
+# page type (tspezialseite)
+msgid "Registrieren"
+msgstr "Register"
+
+# page type (tspezialseite)
+msgid "Warenkorb"
+msgstr "Basket"
+
+# page type (tspezialseite)
+msgid "Passwort vergessen"
+msgstr "Forgot password"
+
+# page type (tspezialseite)
+msgid "Kontakt"
+msgstr "Contact"
+
+# page type (tspezialseite)
+msgid "Newsletter"
+msgstr "Newsletter"
+
+# page type (tspezialseite)
+msgid "Newsletterarchiv"
+msgstr "Newsletter archive"
+
+# page type (tspezialseite)
+msgid "News"
+msgstr "Blog"
+
+msgid "pageNewsMonth"
+msgstr "Monthly overview of blog posts"
+
+msgid "pageNewsCategory"
+msgstr "Blog category"
+
+msgid "pageNewsDetail"
+msgstr "Detailed blog post page"
+
+msgid "pagePlugin"
+msgstr "Plug-in"
+
+# page type (tspezialseite)
+msgid "404"
+msgstr "404"
+
+# page type (tspezialseite)
+msgid "Bestellvorgang"
+msgstr "Order process"
+
+# page type (tspezialseite)
+msgid "Bestellabschluss"
+msgstr "Order completion"
+
+# page type (tspezialseite)
+msgid "Wunschliste"
+msgstr "Wish list"
+
+# page type (tspezialseite)
+msgid "Vergleichsliste"
+msgstr "Comparison list"
+
+msgid "pageProduct"
+msgstr "Item"
+
+msgid "pageProductList"
+msgstr "Item overview"
+
+msgid "pageRating"
+msgstr "Review"
+
+msgid "pageMaintenance"
+msgstr "Maintenance"
+
+msgid "pageOrderStatus"
+msgstr "Order status"
+
+msgid "pageUnknown"
+msgstr "Unknown"
+
+# page type (tspezialseite)
+msgid "Impressum"
+msgstr "Legal notice"
+
+# page type (tspezialseite)
+msgid "Batteriegesetzhinweise"
+msgstr "Note on battery law"
+
+# page type (tspezialseite)
+msgid "WRB-Formular"
+msgstr "Withdrawal form"
+
+msgid "exception"
+msgstr "Exception"
+
+msgid "errorDirCreate"
+msgstr "Could not create directory: "
+
+msgid "unknown"
+msgstr "Unknown"
+
+msgid "userAgent"
+msgstr "User agent"
+
+msgid "host"
+msgstr "Host"
+
+msgid "warning"
+msgstr "Warning"
+
+msgid "moreInfo"
+msgstr "Further information"
+
+msgid "info"
+msgstr "Info"
+
+msgid "guests"
+msgstr "Guests"
+
+msgid "overall"
+msgstr "Total number"
+
+msgid "entryPage"
+msgstr "Start page"
+
+msgid "origin"
+msgstr "Origin"
+
+msgid "errorFileUploadGeneral"
+msgstr "Could not upload file."
+
+msgid "Europa"
+msgstr "Europe"
+
+msgid "Asien"
+msgstr "Asia"
+
+msgid "Nordamerika"
+msgstr "North America"
+
+msgid "Suedamerika"
+msgstr "South America"
+
+msgid "Ozeanien"
+msgstr "Oceania"
+
+msgid "Afrika"
+msgstr "Africa"
+
+msgid "Antarktis"
+msgstr "Antarctica"
+
+msgid "date"
+msgstr "Date"
+
+msgid "europeanUnion"
+msgstr "European Union"
+
+msgid "notEuropeanUnionEurope"
+msgstr "Non-European Union in Europe"
+
+msgid "countries"
+msgstr "Countries"
+
+msgid "syntax"
+msgstr "Syntax"
+
+msgid "typeAheadCategory"
+msgstr "Enter the name of the category. You will shortly be offered different suggestions from which you can choose one."
+
+msgid "typeAheadPage"
+msgstr "Enter the name of the page. You will shortly be offered different suggestions from which you can choose one."
+
+msgid "typeAheadTag"
+msgstr "Enter the name of the tag. You will shortly be offered different suggestions from which you can choose one."
+
+msgid "typeAheadManufacturer"
+msgstr "Enter the name of the manufacturer. You will shortly be offered different suggestions from which you can choose one."
+
+msgid "typeAheadAttribute"
+msgstr "Enter the name of the characteristic. You will shortly be offered different suggestions from which you can choose one."
+
+msgid "typeAheadProduct"
+msgstr "Enter the name of the item. You will shortly be offered different suggestions from which you can choose one."
+
+msgid "enterSearchTerm"
+msgstr "Please enter a search term."
+
+msgid "errorKeyMissing"
+msgstr "The input field with the key \"%s\" could not be created."
+
+msgid "statisticNoData"
+msgstr "No reports available."
+
+msgid "of"
+msgstr "of"
+
+msgid "activeFrom"
+msgstr "Active from"
+
+msgid "activeTo"
+msgstr "Active until"
+
+msgid "validUntil"
+msgstr "Valid until"
+
+msgid "miscellaneous"
+msgstr "Other"
+
+msgid "system"
+msgstr "System"
+
+msgid "labelSearchPage"
+msgstr "Search for page names"
+
+msgid "titleChoosePage"
+msgstr "Selecting custom pages"
+
+msgid "datepickerCustom"
+msgstr "User-defined"
+
+msgid "datepickerToday"
+msgstr "Today"
+
+msgid "datepickerYesterday"
+msgstr "Yesterday"
+
+msgid "datepickerThisWeek"
+msgstr "This week"
+
+msgid "datepickerLastWeek"
+msgstr "Last week"
+
+msgid "datepickerThisMonth"
+msgstr "This month"
+
+msgid "datepickerLastMonth"
+msgstr "Last month"
+
+msgid "datepickerThisYear"
+msgstr "This year"
+
+msgid "datepickerLastYear"
+msgstr "Last year"
+
+msgid "datepickerSeparator"
+msgstr " - "
+
+msgid "mondayShort"
+msgstr "Mon"
+
+msgid "tuesdayShort"
+msgstr "Tue"
+
+msgid "wednesdayShort"
+msgstr "Wed"
+
+msgid "thursdayShort"
+msgstr "Thu"
+
+msgid "fridayShort"
+msgstr "Fri"
+
+msgid "saturdayShort"
+msgstr "Sat"
+
+msgid "sundayShort"
+msgstr "Sun"
+
+msgid "Zeitraum"
+msgstr "Period"
+
+msgid "directEntry"
+msgstr "Direct entry"
+
+msgid "color"
+msgstr "Colour"
+
+msgid "white"
+msgstr "white"
+
+msgid "red"
+msgstr "red"
+
+msgid "goToDocu"
+msgstr "Go to help pages"
+
+msgid "addToFavourites"
+msgstr "Add to favourites"
+
+msgid "length"
+msgstr "Length"
+
+msgid "foundEntries"
+msgstr "Found entries: "
+
+msgid "noEntriesSelected"
+msgstr "No entries selected yet. Please use the search function."
+
+msgid "allSelectedEntries"
+msgstr "All selected entries: "
+
+msgid "deleteInput"
+msgstr "Delete input"
+
+msgid "searchPending"
+msgstr "Searching…"
+
+msgid "searchResultsFor"
+msgstr "Search results for: %s"
+
+msgid "pagesMenu"
+msgstr "Pages/Menu items"
+
+msgid "redirection"
+msgstr "Forwarding"
+
+msgid "missing"
+msgstr "Missing"
+
+msgid "useFilter"
+msgstr "Apply filter"
+
+msgid "resetFilter"
+msgstr "Reset filter"
+
+msgid "passwordGenerate"
+msgstr "Generate password"
+
+msgid "shopTitle"
+msgstr "Administration of JTL-Shop"
+
+msgid "fileSelect"
+msgstr "Select file"
+
+msgid "helpCenterHeader"
+msgstr "Help Centre"
+
+msgid "notificationsHeader"
+msgstr "Notifications"
+
+msgid "Refresh all notifications"
+msgstr "Refresh all notifications"
+
+msgid "Mark notification as read"
+msgstr "Hide notification as read"
+
+msgid "Mark all notifications as unread"
+msgstr "Show all hidden notifications"
+
+msgid "favouritesHeader"
+msgstr "Favourites"
+
+msgid "saveWithIcon"
+msgstr "<i class=\"fal fa-save\"></i> Save"
+
+msgid "cancelWithIcon"
+msgstr "<i class=\"fas fa-exclamation\"></i> Cancel"
+
+msgid "selectPickerNoneSelectedText"
+msgstr "No selection"
+
+msgid "selectPickerNoneResultsText"
+msgstr "{0} without results"
+
+msgid "selectPickerCountSelectedText"
+msgstr "{0} selected"
+
+msgid "selectPickerLimitReached"
+msgstr "Limit reached (max. of {n})"
+
+msgid "selectPickerGroupLimitReached"
+msgstr "Group limit reached (max. of {n})"
+
+msgid "selectPickerSelectAllText"
+msgstr "Activate all"
+
+msgid "selectPickerDeselectAllText"
+msgstr "Deactivate all"
+
+msgid "close"
+msgstr "Close"
+
+msgid "none"
+msgstr "None"
+
+msgid "successSave"
+msgstr "Saved successfully"
+
+msgid "errorSave"
+msgstr "Save failed"
+
+msgid "successDelete"
+msgstr "Deleted successfully"
+
+msgid "errorDelete"
+msgstr "Deletion failed"
+
+msgid "filterManufacturers"
+msgstr "All manufacturers"
+
+msgid "filterPriceRange"
+msgstr "Price range"
+
+msgid "filterRatings"
+msgstr "Customer reviews"
+
+msgid "filterSearch"
+msgstr "Search filter"
+
+msgid "filterSearchSpecial"
+msgstr "Special items"
+
+msgid "filterCategory"
+msgstr "All categories"
+
+msgid "filterCharacteristics"
+msgstr "Characteristics"
+
+msgid "filterAvailability"
+msgstr "Availability"
+
+msgid "za_ueberweisung_jtl"
+msgstr "Bank transfer"
+
+msgid "za_nachnahme_jtl"
+msgstr "Cash on Delivery"
+
+msgid "za_kreditkarte_jtl"
+msgstr "Creditcard"
+
+msgid "za_rechnung_jtl"
+msgstr "Invoice Payment"
+
+msgid "za_lastschrift_jtl"
+msgstr "Direct debit"
+
+msgid "za_barzahlung_jtl"
+msgstr "Cash on Pickup"
+
+msgid "getToKnowMore"
+msgstr "More"
+
+msgid "Updates available"
+msgstr "Available updates"
+
+msgid "validationErrorIncorrectEmail"
+msgstr "Please enter a valid email address."
+
+msgid "Licenses expired"
+msgstr "Licence expired."
+
+msgid "I understood this notice."
+msgstr "Yes, I have read this message."
+
+msgid "No valid licence found for the following installed and active extensions:"
+msgstr "No valid licence found for the following installed and active extensions:"
+
+msgid "Possible reasons:"
+msgstr "Possible reasons:"
+
+msgid "The extension was obtained from a different source than the JTL-Extension Store"
+msgstr "The extension was obtained from a different source than the JTL-Extension Store"
+
+msgid "The licence is not bound to this shop yet (check licence in \"My purchases\")"
+msgstr "The licence is not bound to this shop yet (check licence in \"My purchases\")"
+
+msgid "The licence is bound to a different customer account that is not connected to this shop (check connected account in \"My purchases\")"
+msgstr "The licence is bound to a different customer account that is not connected to this shop (check connected account in \"My purchases\")"
+
+msgid "The manufacturer disabled the licence"
+msgstr "The manufacturer disabled the licence"
+
+msgid "Further use of the extension may constitute a licence violation!"
+msgstr "Further use of the extension may constitute a licence violation!"
+
+msgid "Please purchase a licence in the JTL-Extension Store or contact the manufacturer of the extension for information on rights of use."
+msgstr "Please purchase a licence in the JTL-Extension Store or contact the manufacturer of the extension for information on rights of use."
+
+msgid "Licensing problem detected"
+msgstr "Licensing problem detected"
+
+msgid "Understood"
+msgstr "Understood"
+
+msgid "Disable plugins"
+msgstr "Disable plugins"
+
+msgid "Disable template"
+msgstr "Disable template"
+
+msgid "Smarty syntax error"
+msgstr "Smarty syntax error"
+
+msgid "weRecommend"
+msgstr "We recommend:"
+
+msgid "somethingHappend"
+msgstr "An unknown error occurred."
+
+msgid "warningPasswordResetAuth"
+msgstr "If this account is connected to the JTL-Extension Store, the connection must be renewed once the password has been changed (Plug-ins > My purchases > Connect account). This does not affect your purchased extensions."
+
+msgid "errrorNumberRange"
+msgstr "The setting \"%s\" must have a value between %d and %d."
+
+msgid "csvImportInvalidMime"
+msgstr "The selected file has an invalid MIME type"
+
+msgid "csvImportNoArtNrOrDestUrl"
+msgstr "CSV file does not contain an article number or a destination URL."
+
+msgid "csvImportArtNrAndDestUrlError"
+msgstr "CSV file contains an article number and a destination URL at the same time where only one of which must be present."
+
+msgid "csvImportArtNrNotFound"
+msgstr "Article number %s could not be found in this shop."
+
+msgid "csvImportSaveError"
+msgstr "Line %s could not be saved."
+
+msgid "extensionStoreURL"
+msgstr "https://jtl-url.de/exs"
+
+msgid "Safe mode"
+msgstr "Safe mode"
+
+msgid "Safe mode enabled."
+msgstr "Safe mode active. Functionality might be impaired."

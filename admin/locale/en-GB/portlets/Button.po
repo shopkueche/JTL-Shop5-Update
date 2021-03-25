@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Button"
+msgstr "Button"
+
+msgid "defaultText"
+msgstr "Hey there!"
+
+msgid "openInNewTab"
+msgstr "Open in new tab"
+
+msgid "linkTitle"
+msgstr "Link title"
+
+msgid "useFullWidth"
+msgstr "full width"
+
+msgid "iconForButton"
+msgstr "Add icon to button"
+
+msgid "iconAlignment"
+msgstr "Alignment"
+
+msgid "alignmentDesc"
+msgstr "Specifies whether the button is to be displayed on the right or left side, in the centre, or extends over the entire width of the page."
+
+msgid "openInNewTabDesc"
+msgstr "Specifies whether clicking on the button opens a new browser tab."

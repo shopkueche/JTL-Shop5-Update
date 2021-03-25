@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "globalemetaangaben"
+msgstr "Global meta data"
+
+msgid "globalemetaangabenDesc"
+msgstr "Here you can define the global meta data for each language."
+
+msgid "globalemetaangabenMetaDesc"
+msgstr "Meta description"
+
+msgid "globalemetaangabenKeywords"
+msgstr "Meta keywords"
+
+msgid "globalemetaangabenMetaDescPraefix"
+msgstr "Prefix for meta description"
+
+msgid "globalemetaangabenUrl"
+msgstr "https://jtl-url.de/u8y4z"
+
+msgid "keywordingDesc"
+msgstr "If no meta keywords have been explicitly assigned to an item in JTL-Wawi, the meta keywords will be automatically generated from the data on the item detail page. Here you can specify which words are not to be used as keywords. "
+
+msgid "keywordingURL"
+msgstr "https://jtl-url.de/fg041"
+
+msgid "excludeKeywords"
+msgstr "Words exempt from meta keywords"
+
+msgid "spaceSeparated"
+msgstr "separated by blank space"

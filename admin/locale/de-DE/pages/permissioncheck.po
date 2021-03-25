@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "permissioncheck"
+msgstr "Verzeichnisprüfung"
+
+msgid "permissioncheckDesc"
+msgstr "Mit der Verzeichnisprüfung können Sie die Konsistenz Ihrer Verzeichnisse überprüfen."
+
+msgid "permissioncheckURL"
+msgstr "https://jtl-url.de/5j48f"
+
+msgid "dirCount"
+msgstr "Anzahl Verzeichnisse:"
+
+msgid "dirCountNotWriteable"
+msgstr "Anzahl nicht beschreibbarer Verzeichnisse:"

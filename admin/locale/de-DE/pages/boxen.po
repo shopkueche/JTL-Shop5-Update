@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "boxen"
+msgstr "Footer / Boxen"
+
+msgid "boxenURL"
+msgstr "https://jtl-url.de/2uknw"
+
+msgid "boxenDesc"
+msgstr "Hier können Sie Boxen in verschiedenen Boxen-Containern verwalten und den Footer pflegen. Für jeden Container können Sie festlegen, auf welchen Seiten er sichtbar sein soll. Je nach Template sind verschiedene Container verfügbar. Einige Boxen können Sie über die Bearbeiten-Schaltfläche weiter konfigurieren."
+
+msgid "showContainer"
+msgstr "Container aktivieren"
+
+msgid "boxTitle"
+msgstr "Titel"
+
+msgid "boxType"
+msgstr "Typ"
+
+msgid "boxLabel"
+msgstr "Bezeichnung"
+
+msgid "boxTemplate"
+msgstr "Template"
+
+msgid "catBoxNum"
+msgstr "Kategoriebox-Nummer"
+
+msgid "catBoxNumTooltip"
+msgstr "Listet nur die Kategorien mit dem Kategorieattribut „kategoriebox“ aus JTL-Wawi und der gesetzten Nummer auf. Standard=0 für alle Kategorien mit oder ohne Funktionsattribut."
+
+msgid "linkgroup"
+msgstr "Linkgruppe"
+
+msgid "remove"
+msgstr "Aus Liste entfernen"
+
+msgid "confirmDeleteBox"
+msgstr "Sind Sie sicher, dass Sie die Box „%s“ löschen möchten? Wenn Sie einen Container löschen, werden alle im Container enthaltenen Boxen ebenfalls entfernt."
+
+msgid "new"
+msgstr "Neue Box"
+
+msgid "inContainer"
+msgstr "In Container"
+
+msgid "newContainer"
+msgstr "Neuer Container"
+
+msgid "pleaseSelect"
+msgstr "Bitte auswählen"
+
+msgid "noTemplateConfig"
+msgstr "Konfigurationsdatei (template.xml) wurde nicht gefunden."
+
+msgid "noBoxActivated"
+msgstr "Es wurde keine Box aktiviert."
+
+msgid "boxEdit"
+msgstr "Box bearbeiten"
+
+msgid "warningInvisibleBoxes"
+msgstr "Es existieren Boxen, die aktuell nicht angezeigt werden können."
+
+msgid "noBoxesAvailableFor"
+msgstr "Momentan sind noch keine Boxen für „%s“ vorhanden."
+
+msgid "showBoxOnlyFor"
+msgstr "Box „%s“ nur anzeigen für:"
+
+msgid "invisibleBoxes"
+msgstr "Nicht sichtbare Boxen"
+
+msgid "deleteSelected"
+msgstr "Markierte löschen"
+
+msgid "sectionLeft"
+msgstr "Linke Seitenleiste"
+
+msgid "sectionRight"
+msgstr "Rechte Seitenleiste"
+
+msgid "sectionTop"
+msgstr "Header"
+
+msgid "sectionBottom"
+msgstr "Footer"
+
+msgid "successBoxDelete"
+msgstr " Box(en) wurde(n) erfolgreich gelöscht."
+
+msgid "successContainerCreate"
+msgstr "Container wurde erfolgreich angelegt."
+
+msgid "errorContainerCreate"
+msgstr "Container konnte nicht angelegt werden."
+
+msgid "successBoxCreate"
+msgstr "Box wurde erfolgreich hinzugefügt."
+
+msgid "errorBoxCreate"
+msgstr "Box konnte nicht hinzugefügt werden."
+
+msgid "errorBoxDelete"
+msgstr "Box konnte nicht entfernt werden."
+
+msgid "successBoxEdit"
+msgstr "Box wurde erfolgreich bearbeitet."
+
+msgid "errorBoxEdit"
+msgstr "Box konnte nicht bearbeitet werden."
+
+msgid "successBoxRefresh"
+msgstr "Boxen wurden erfolgreich aktualisiert."
+
+msgid "visibleOnAllPages"
+msgstr "sichtbar auf allen Seiten"
+
+msgid "visibleOnSomePages"
+msgstr "sichtbar auf ausgewählten Seiten"
+
+msgid "deactivatedOnAllPages"
+msgstr "auf allen Seiten deaktiviert"
+
+msgid "warningChangesForAllPages"
+msgstr "Die Auswahl „Alle Seiten“ überschreibt entsprechende Änderungen an den Boxen, die vorher für einzelne Seiten vorgenommen wurden."
+
+msgid "errorBoxesVisibilityEdit"
+msgstr "Sichtbarkeit der Boxen konnte nicht gesetzt werden. Es ist ein MySQL-Fehler aufgetreten. Bitte wenden Sie sich an den Support."
+
+#box name
+msgid "Bestseller"
+msgstr "Bestseller"
+
+#box name
+msgid "Kategorien"
+msgstr "Kategorien"
+
+#box name
+msgid "Vergleichsliste"
+msgstr "Vergleichsliste"
+
+#box name
+msgid "Wunschliste"
+msgstr "Wunschzettel"
+
+#box name
+msgid "Login"
+msgstr "Anmeldung"
+
+#box name
+msgid "Zuletzt angesehen"
+msgstr "Zuletzt angesehen"
+
+#box name
+msgid "Hersteller"
+msgstr "Hersteller"
+
+#box name
+msgid "Neue im Sortiment"
+msgstr "Neu im Sortiment"
+
+#box name
+msgid "News Kategorien"
+msgstr "Blog: Kategorien des Blogsystems"
+
+#box name
+msgid "News (Monatsübersicht)"
+msgstr "Blog: Monate mit Beiträgen"
+
+#box name
+msgid "Schnellkauf"
+msgstr "Schnellkauf"
+
+#box name
+msgid "Suchwolke"
+msgstr "Suchwolke"
+
+#box name
+msgid "Sonderangebot"
+msgstr "Sonderangebot"
+
+#box name
+msgid "Top Angebot"
+msgstr "Top-Artikel"
+
+#box name
+msgid "Top bewertet"
+msgstr "Top bewertet"
+
+#box name
+msgid "In Kürze Verfügbar"
+msgstr "In Kürze verfügbar"
+
+#box name
+msgid "Globale Merkmale"
+msgstr "Globale Merkmale"
+
+#box name
+msgid "Warenkorb"
+msgstr "Warenkorb"
+
+#box name
+msgid "Linkgruppe"
+msgstr "Linkgruppe"
+
+#box name
+msgid "Filter (Tag)"
+msgstr "Filter (Tag)"
+
+#box name
+msgid "Filter (Preisspanne)"
+msgstr "Filter (Preisspanne)"
+
+#box name
+msgid "Filter (Bewertung)"
+msgstr "Filter (Bewertung)"
+
+#box name
+msgid "Filter (Merkmale)"
+msgstr "Filter (Merkmale)"
+
+#box name
+msgid "Filter (Suche)"
+msgstr "Filter (Suche)"
+
+#box name
+msgid "Filter (Suchspecial)"
+msgstr "Filter (Artikelsticker)"
+
+#box name
+msgid "Eigene Box (Ohne Rahmen)"
+msgstr "Eigene Box (ohne Rahmen)"
+
+#box name
+msgid "Eigene Box (Mit Rahmen)"
+msgstr "Eigene Box (mit Rahmen)"
+
+
+#box name
+msgid "Konfigurator"
+msgstr "Konfigurator"
+
+#box name
+msgid "Filter (Hersteller)"
+msgstr "Filter (Hersteller)"
+
+#box name
+msgid "Filter (Kategorie)"
+msgstr "Filter (Kategorie)"
+
+msgid "templateTypeTemplate"
+msgstr "Vorlage"
+
+msgid "templateTypeContent"
+msgstr "Inhalt"
+
+msgid "templateTypeLinkList"
+msgstr "Linkliste"
+
+msgid "templateTypePlugin"
+msgstr "Plugin"
+
+msgid "templateTypeCategory"
+msgstr "Kategorie"
+
+msgid "templateTypeExtension"
+msgstr "Plugin"
+
+msgid "warningNovaSidebar"
+msgstr "Boxen in der linken Seitenleiste werden bei aktiviertem NOVA-Template nur für den Seitentyp „Artikelübersicht“ unterstützt. Nutzen Sie ein individuell angepasstes Template, wenn Sie Boxen auch auf anderen Seiten in der linken Seitenleiste anzeigen möchten."

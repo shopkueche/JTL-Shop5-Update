@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "permissioncheck"
+msgstr "Directory check"
+
+msgid "permissioncheckDesc"
+msgstr "With the directory check you can review the consistency of your directories."
+
+msgid "permissioncheckURL"
+msgstr "https://jtl-url.de/hzn92"
+
+msgid "dirCount"
+msgstr "Number of directories:"
+
+msgid "dirCountNotWriteable"
+msgstr "Number of unwritable directories:"

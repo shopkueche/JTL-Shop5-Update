@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "configurePriceFlow"
+msgstr "Price history"
+
+msgid "configurePriceFlowURL"
+msgstr "https://jtl-url.de/ydv6n"
+
+msgid "configurePriceFlowDesc"
+msgstr "Here you can specify whether a separate tab with information on the item price history is added to the item detail page."
+
+msgid "errorColorCode"
+msgstr "Please enter the colour code as a hexadecimal value, e.g. #FFFFFF for white."

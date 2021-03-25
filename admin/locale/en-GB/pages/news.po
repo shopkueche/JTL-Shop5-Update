@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "news"
+msgstr "Blog"
+
+msgid "newsURL"
+msgstr "https://jtl-url.de/7vfnm"
+
+msgid "newsDesc"
+msgstr "Use the JTL-Shop blog to keep your customers up to date. Create new blog posts and specify how posts are to be displayed."
+
+msgid "newAdd"
+msgstr "Create new post"
+
+msgid "newEdit"
+msgstr "Edit post"
+
+msgid "newsPreviewText"
+msgstr "Preview text"
+
+msgid "newsValidation"
+msgstr "Created on"
+
+msgid "newsDate"
+msgstr "Created on"
+
+msgid "newsArchive"
+msgstr "Archive"
+
+msgid "newsArchiveLast"
+msgstr "Archived posts"
+
+msgid "newsPicAdd"
+msgstr "Add another image"
+
+msgid "newsPics"
+msgstr "Available images"
+
+msgid "newsActivate"
+msgstr "Activate"
+
+msgid "newsCommentActivate"
+msgstr "Unactivated comments"
+
+msgid "newsComments"
+msgstr "Comments"
+
+msgid "newsSeo"
+msgstr "SEO"
+
+msgid "newsPraefix"
+msgstr "Prefix for monthly overview"
+
+msgid "newsCatCreate"
+msgstr "Create new category"
+
+msgid "newsCatEdit"
+msgstr "Edit category"
+
+msgid "newsCatSort"
+msgstr "Category sorting"
+
+msgid "newsCatParent"
+msgstr "Parent category"
+
+msgid "newsCatLastUpdate"
+msgstr "Last update"
+
+msgid "newsOverview"
+msgstr "Posts"
+
+msgid "newsCatOverview"
+msgstr "Categories"
+
+msgid "newsInfinite"
+msgstr "always"
+
+msgid "newsCommentEdit"
+msgstr "Editing comments"
+
+msgid "newsMetaTitle"
+msgstr "Meta title"
+
+msgid "newsMetaDescription"
+msgstr "Meta description"
+
+msgid "newsMetaKeywords"
+msgstr "Meta keywords"
+
+msgid "newsAuthor"
+msgstr "Author"
+
+msgid "newsMandatoryFields"
+msgstr "(*) mandatory field"
+
+msgid "newsAlreadyExists"
+msgstr "already exists."
+
+msgid "newsDeleteCat"
+msgstr "The following blog categories and their subcategories will be deleted:"
+
+msgid "newsDeleteNews"
+msgstr "Delete blog post"
+
+msgid "newsDeleteComment"
+msgstr "Delete comment"
+
+msgid "errorNewsCatFirst"
+msgstr "Please enter a blog category first."
+
+msgid "successNewsCommmentEdit"
+msgstr "Blog comment edited successfully."
+
+msgid "successNewsDelete"
+msgstr "Selected blog posts deleted successfully."
+
+msgid "errorAtLeastOneNews"
+msgstr "Please select at least one blog post."
+
+msgid "successNewsCatDelete"
+msgstr "Selected blog categories deleted successfully."
+
+msgid "errorAtLeastOneNewsCat"
+msgstr "Please select at least one blog category."
+
+msgid "successNewsImageDelete"
+msgstr "Selected blog image deleted successfully."
+
+msgid "errorNewsImageDelete"
+msgstr "Could not delete selected blog image."
+
+msgid "errorNewsCatNotFound"
+msgstr "Could not find blog category with ID %d."
+
+msgid "successNewsCommentUnlock"
+msgstr "Selected blog comments activated successfully."
+
+msgid "goOnEdit"
+msgstr " and continue editing"
+
+msgid "mainCategory"
+msgstr "Main category"
+
+msgid "deleteComment"
+msgstr "Delete comments?"
+
+msgid "successNewsSave"
+msgstr "Blog post saved successfully."
+
+msgid "successNewsCatSave"
+msgstr "Blog category added successfully."
+
+msgid "successNewsCommentDelete"
+msgstr "Selected blog comments deleted successfully."
+
+msgid "commentReply"
+msgstr "Reply"
+
+msgid "answerComment"
+msgstr "Reply to comment"
+
+msgid "newsCommentAnswerEdit"
+msgstr "Edit reply"
+
+msgid "displayedName"
+msgstr "Displayed name"
+
+msgid "selectAuthor"
+msgstr "Select author"
+
+msgid "authorNotAvailable"
+msgstr "Not available"
+
+msgid "noNewsAuthor"
+msgstr "No author available. No author available. If you want to enter an author responsible for this blog post, please create a user with the required rights first."

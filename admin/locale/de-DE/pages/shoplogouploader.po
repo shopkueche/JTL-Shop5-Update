@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "shoplogouploader"
+msgstr "Logo"
+
+msgid "shoplogouploaderURL"
+msgstr "https://jtl-url.de/5f7iy"
+
+msgid "shoplogouploaderDesc"
+msgstr "Hier können Sie ein eigenes Logo für Ihren JTL-Shop hochladen. Das Logo steht Ihnen als Variable {$ShopLogoURL} zur Verfügung und wird automatisch im Standard-Template von JTL-Shop ausgetauscht. Wir empfehlen eine Logogröße von 180 x 50 Pixeln. Größere Logos werden vom Template automatisch skaliert."
+
+msgid "shoplogouploaderPicture"
+msgstr "Logo"
+
+msgid "successLogoDelete"
+msgstr "Logo wurde erfolgreich gelöscht."
+
+msgid "errorLogoDelete"
+msgstr "Das Logo konnte nicht gelöscht werden. Es konnte kein Logo unter dem Pfad %s gefunden werden."
+
+msgid "successLogoUpload"
+msgstr "Logo wurde erfolgreich hochgeladen."
+
+msgid "errorFileName"
+msgstr "Dateiname fehlt oder entspricht nicht der Konvention."
+
+msgid "errorFileType"
+msgstr "Dateityp fehlt oder wird nicht unterstützt (nur jpg/gif/png/bmp)."
+
+msgid "errorFileMove"
+msgstr "Das Logo konnte nicht verschoben werden. Bitte überprüfen Sie die Schreibrechte des Ordners „%s“."
+
+msgid "yourLogo"
+msgstr "Ihr Logo"
+
+msgid "errorLogoUpload"
+msgstr "Das Logo konnte nicht hochgeladen werden. Bitte laden Sie nur Dateien des Typs %s hoch. Prüfen Sie, ob die Datei einen Namen hat und prüfen Sie die Schreibrechte des Ordners „%s“."

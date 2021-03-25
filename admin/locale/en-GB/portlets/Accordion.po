@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Accordion"
+msgstr "Accordion"
+
+msgid "groupName"
+msgstr "Group name"
+
+msgid "unfoldFirstGroup"
+msgstr "Already show first group"

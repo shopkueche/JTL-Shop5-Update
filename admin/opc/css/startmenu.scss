@@ -1,0 +1,318 @@
+@import "base";
+
+#opc {
+  #opc-startmenu {
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1050;
+    padding: 8px;
+    transition: $transition;
+
+    &.opc-close {
+      left: -380px;
+    }
+
+    button {
+      width: 48px;
+      height: 48px;
+      overflow: hidden;
+      transition: 0.25s;
+      white-space: nowrap;
+      text-align: left;
+
+      &:hover {
+        width: 182px;
+        background-color: $primary-color;
+
+        #opc-start-label {
+          opacity: 1.0;
+        }
+      }
+
+      #opc-start-icon {
+        width: 24px;
+        height: 24px;
+      }
+
+      #opc-start-label {
+        margin-left: 4px;
+        margin-right: 4px;
+        opacity: 0.0;
+        transition: 0.25s;
+      }
+    }
+  }
+
+  #opcSidebar {
+    left: -380px;
+    z-index: 1050;
+    transition: $transition;
+
+    a {
+      color: inherit;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    .alert-danger {
+      margin: 1em;
+
+      a {
+        color: #f00;
+        font-weight: bold;
+      }
+    }
+
+    &.opc-open {
+      left: 0;
+    }
+
+    input[type=checkbox] + label:before {
+      margin-right: 10px;
+    }
+
+    #opc-sidebar-tools {
+      margin: 24px;
+      margin-bottom: 16px;
+
+      #opc-sidebar-second-title {
+        margin: 0;
+        margin-bottom: 16px;
+        font-size: 14px;
+        font-weight: 600;
+        color: inherit;
+      }
+
+      .opc-group {
+        &:after {
+          display: block;
+          content: " ";
+          clear: both;
+        }
+      }
+
+      #opc-filter-search {
+        width: 191px;
+        margin-right: 16px;
+      }
+
+      #opc-filter-status {
+        width: 125px;
+      }
+
+      #opc-bulk-actions-dropdown {
+        float: right;
+        width: 50%;
+      }
+
+      #opc-bulk-actions {
+        width: 100%;
+        text-align: right;
+
+        &:disabled {
+          color: $muted-text;
+        }
+
+        #opc-bulk-actions-label {
+          margin-right: 8px;
+        }
+      }
+    }
+
+    #opc-sidebar-content {
+      margin: 0;
+      margin-top: 16px;
+      padding: 0 24px;
+      overflow: auto;
+      max-height: calc(100vh - 208px);
+      color: $text-color;
+
+      #opc-draft-list {
+        margin: 0;
+        margin-bottom: 90px;
+        padding: 0;
+        list-style: none;
+
+        .opc-draft {
+          background-color: $light-bg;
+          border-radius: 5px;
+          padding: 16px;
+          margin: 0;
+          margin-bottom: 16px;
+
+          &:last-child {
+            margin-bottom: 0;
+          }
+
+          &:hover {
+            .opc-draft-info .opc-draft-actions {
+              visibility: visible;
+            }
+
+            .opc-draft-info .opc-draft-info-line {
+              visibility: hidden;
+            }
+          }
+
+          .opc-draft-name {
+            max-width: 204px;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+          }
+
+          .opc-draft-status {
+            font-size: 12px;
+            float: right;
+            width: 84px;
+            white-space: nowrap;
+            text-transform: uppercase;
+          }
+
+          .opc-draft-info {
+            position: relative;
+            margin-left: 26px;
+
+            .opc-draft-info-line {
+              font-size: 12px;
+              color: $muted-text;
+
+              &:first-child {
+                margin-top: 14px;
+                margin-bottom: 8px;
+              }
+
+              &:last-child {
+                margin-top: 8px;
+                margin-bottom: 0;
+              }
+            }
+
+            .opc-draft-actions {
+              position: absolute;
+              top: -4px;
+              left: -16px;
+              visibility: hidden;
+
+              > * {
+                width: 34px;
+                height: 34px;
+                margin-right: 6px;
+                display: inline-block;
+
+                &:hover {
+                  background-color: $hover-btn-bg;
+                  border-radius: 100%;
+                }
+              }
+
+              > form {
+                > button {
+                  width: 34px;
+                  height: 34px;
+                }
+              }
+
+              .opc-dropdown {
+                > button {
+                  width: 34px;
+                  height: 34px;
+                }
+
+                .opc-dropdown-menu {
+                  width: auto;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+
+    #opc-sidebar-footer {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      padding: 24px;
+      padding-top: 0;
+    }
+  }
+
+  #opcDeleteModal {
+    font-size: 14px;
+    color: $text-color;
+
+    .modal-dialog {
+      max-width: 550px;
+    }
+
+    .modal-content {
+      border: none;
+      border-radius: 0;
+      padding: 0;
+    }
+
+    .modal-header {
+      padding: 12px 24px;
+      background-color: $primary-color;
+      color: $bg-color;
+      border: none;
+      border-radius: 0;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+
+      &:before ,
+      &:after {
+        display: none;
+      }
+
+      h5 {
+        font-size: 16px;
+        font-weight: normal;
+        color: $bg-color;
+      }
+
+      .opc-header-btn {
+        font-size: 16px;
+
+        &:hover {
+          color: $primary-lighter;
+        }
+      }
+    }
+
+    .modal-body {
+      padding: 0;
+      margin: 24px;
+    }
+
+    .modal-footer {
+      border: none;
+      padding: 24px;
+      padding-top: 0;
+      margin-top: 24px;
+
+      button {
+        padding: 8px 32px;
+      }
+
+      > :not(:last-child) {
+        margin-right: 16px;
+      }
+    }
+  }
+}
+
+#opc-page-wrapper {
+  padding-left: 0;
+  transition: $transition;
+
+  &.opc-shifted {
+    padding-left: 380px;
+  }
+}

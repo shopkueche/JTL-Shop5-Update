@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "preferencesURL"
+msgstr "https://jtl-url.de/b1-ot"
+
+msgid "preferencesDesc"
+msgstr "Click on the settings you want to change."
+
+msgid "savePreferences"
+msgstr "Save settings"
+
+msgid "backToOverview"
+msgstr "Back to overview"
+
+msgid "settingsSaved"
+msgstr "Settings saved successfully."
+
+msgid "prefDesc5"
+msgstr " "
+
+msgid "prefURL5"
+msgstr "https://jtl-url.de/nlb2u"
+
+msgid "prefDesc4"
+msgstr " "
+
+msgid "prefURL4"
+msgstr "https://jtl-url.de/nzk8x"
+
+msgid "prefDesc9"
+msgstr " "
+
+msgid "prefURL9"
+msgstr "https://jtl-url.de/6jdo7"
+
+msgid "prefDesc8"
+msgstr " "
+
+msgid "prefURL8"
+msgstr "https://jtl-url.de/fubg2"
+
+msgid "prefDesc3"
+msgstr " "
+
+msgid "prefURL3"
+msgstr "https://jtl-url.de/hj1pz"
+
+msgid "prefDesc1"
+msgstr " "
+
+msgid "prefURL1"
+msgstr "https://jtl-url.de/emqy1"
+
+msgid "prefDesc6"
+msgstr " "
+
+msgid "prefURL6"
+msgstr "https://jtl-url.de/7rvme"
+
+msgid "prefDesc7"
+msgstr " "
+
+msgid "prefURL7"
+msgstr "https://jtl-url.de/c0h2b"
+
+msgid "prefDesc2"
+msgstr " "
+
+msgid "prefURL2"
+msgstr "https://jtl-url.de/8qj9i"
+
+msgid "prefDesc5ProductQuestion"
+msgstr "Here you can adjust the settings regarding questions that customers ask about specific items. Customers can open the respective window via the item detail page."
+
+msgid "searchForID"
+msgstr "Search for ID: %s"
+
+msgid "searchForIDRange"
+msgstr "Search for ID Range: %s"
+
+msgid "searchForName"
+msgstr "Search for Name: %s"
+
+msgid "prefDesc0"
+msgstr " "

@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "objectcache"
+msgstr "Cache"
+
+msgid "objectcacheDesc"
+msgstr "Here you can set the cache used by JTL-Shop. The object cache buffers data to allow for faster loading times. For each type of object, you can enable or disable it being saved in the cache."
+
+msgid "cacheURL"
+msgstr "https://jtl-url.de/r-j4i"
+
+msgid "cg_article_description"
+msgstr "Contains item data"
+
+msgid "cg_category_description"
+msgstr "Contains category data"
+
+msgid "cg_language_description"
+msgstr "Contains language variables and translations"
+
+msgid "cg_template_description"
+msgstr "Contains template settings"
+
+msgid "cg_option_description"
+msgstr "Contains general settings"
+
+msgid "cg_plugin_description"
+msgstr "Contains plug-in data"
+
+msgid "cg_core_description"
+msgstr "Contains proprietary JTL data"
+
+msgid "cg_object_description"
+msgstr "Contains general objects"
+
+msgid "cg_box_description"
+msgstr "Contains boxes and their settings"
+
+msgid "cg_news_description"
+msgstr "Contains blog posts and categories"
+
+msgid "cg_attribute_description"
+msgstr "Contains attribute data"
+
+msgid "cg_manufacturer_description"
+msgstr "Contains manufacturer data"
+
+msgid "cg_filter_description"
+msgstr "Contains filter data"
+
+msgid "cg_status_description"
+msgstr "Contains status for notifications"
+
+msgid "cg_article_nicename"
+msgstr "Items"
+
+msgid "cg_category_nicename"
+msgstr "Categories"
+
+msgid "cg_language_nicename"
+msgstr "Language"
+
+msgid "cg_template_nicename"
+msgstr "Templates"
+
+msgid "cg_option_nicename"
+msgstr "Options"
+
+msgid "cg_plugin_nicename"
+msgstr "Plug-ins"
+
+msgid "cg_core_nicename"
+msgstr "Core"
+
+msgid "cg_object_nicename"
+msgstr "Objects"
+
+msgid "cg_box_nicename"
+msgstr "Boxes"
+
+msgid "cg_news_nicename"
+msgstr "Blog"
+
+msgid "cg_attribute_nicename"
+msgstr "Attributes"
+
+msgid "cg_manufacturer_nicename"
+msgstr "Manufacturers"
+
+msgid "cg_filter_nicename"
+msgstr "Item filter"
+
+msgid "cg_status_nicename"
+msgstr "Status"
+
+msgid "entries"
+msgstr "Entries"
+
+msgid "management"
+msgstr "Administration"
+
+msgid "stats"
+msgstr "Statistics"
+
+msgid "benchmark"
+msgstr "Benchmark"
+
+msgid "status"
+msgstr "Status"
+
+msgid "type"
+msgstr "Type"
+
+msgid "description"
+msgstr "Description"
+
+msgid "empty"
+msgstr "empty"
+
+msgid "clearObjectCache"
+msgstr "Empty whole object cache"
+
+msgid "clearPageCache"
+msgstr "Empty whole page cache"
+
+msgid "clearTemplateCache"
+msgstr "Empty whole template cache"
+
+msgid "startBenchmark"
+msgstr "Start benchmark"
+
+msgid "showAdvanced"
+msgstr "Show advanced settings"
+
+msgid "configurationError"
+msgstr "(faulty configuration)"
+
+msgid "successCacheEmptied"
+msgstr " Caches emptied successfully."
+
+msgid "errorNoCacheType"
+msgstr "Please select a cache type."
+
+msgid "errorCacheTypeDelete"
+msgstr "Could not empty cache %s (might already be empty)."
+
+msgid "successCacheTypeActivate"
+msgstr "Selected types activated successfully."
+
+msgid "successCacheTypeDeactivate"
+msgstr "Selected types deactivated successfully."
+
+msgid "successCacheDelete"
+msgstr "Object cash deleted successfully."
+
+msgid "errorCacheDelete"
+msgstr "Could not empty cache."
+
+msgid "successCacheMethodSave"
+msgstr " saved as cache method."
+
+msgid "errorCacheMethodSelect"
+msgstr "Could not select a working cache method."
+
+msgid "errorFileDelete"
+msgstr "Could not delete file %s."
+
+msgid "errorDirDelete"
+msgstr "Could not delete directory %s."
+
+msgid "successTemplateCacheDelete"
+msgstr "%d files deleted from the template cache."
+
+msgid "uptime"
+msgstr "Uptime"
+
+msgid "fullSize"
+msgstr "Total size"
+
+msgid "entriesCount"
+msgstr "Number of entries"
+
+msgid "misses"
+msgstr "Misses"
+
+msgid "hits"
+msgstr "Hits"
+
+msgid "inserts"
+msgstr "Inserts"
+
+msgid "slowlog"
+msgstr "Slowlog"
+
+msgid "hitRate"
+msgstr "Hit rate"
+
+msgid "emptySpace"
+msgstr "Free memory"
+
+msgid "busySpace"
+msgstr "Used memory"
+
+msgid "scriptCountInCache"
+msgstr "Number of scripts in cache"
+
+msgid "keyCountInCache"
+msgstr "Number of keys in cache"
+
+msgid "templateCache"
+msgstr "Template cache"
+
+msgid "filesFrontend"
+msgstr "Front end files"
+
+msgid "runs"
+msgstr "Runs"
+
+msgid "repeats"
+msgstr "Repetitions"
+
+msgid "testData"
+msgstr "Test data"
+
+msgid "time"
+msgstr "Times"
+
+msgid "errorBenchmark"
+msgstr "Could not run benchmark."
+
+msgid "errorMethodNotFound"
+msgstr "No methods found."
+
+msgid "typeArray"
+msgstr "Array"
+
+msgid "typeObject"
+msgstr "Object"
+
+msgid "typeString"
+msgstr "String"

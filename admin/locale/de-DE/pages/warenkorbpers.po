@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "warenkorbpers"
+msgstr "Gespeicherte Warenkörbe"
+
+msgid "warenkorbpersURL"
+msgstr "https://jtl-url.de/mntv5"
+
+msgid "warenkorbpersDesc"
+msgstr "Hier finden Sie alle Warenkörbe, die von angemeldeten Kunden gefüllt, aber (noch) nicht bestellt wurden. Unter „Einstellungen“ schalten Sie die Option, Warenkörbe zu speichern, aus."
+
+msgid "warenkorbpersCompany"
+msgstr "Firma"
+
+msgid "warenkorbpersClientName"
+msgstr "Kunde (Kundennr. E-Mail oder Vorname)"
+
+msgid "warenkorbpersClient"
+msgstr "Gespeicherter Warenkorb von"
+
+msgid "warenkorbpersProduct"
+msgstr "Artikel"
+
+msgid "warenkorbpersCount"
+msgstr "Anzahl"
+
+msgid "warenkorbpersDate"
+msgstr "Datum"
+
+msgid "warenkorbpersBack"
+msgstr "Zurück"
+
+msgid "warenkorbpersShow"
+msgstr "Anzeigen"
+
+msgid "warenkorbpersDel"
+msgstr "Löschen"
+
+msgid "warenkorbpersSettings"
+msgstr "Einstellungen"
+
+msgid "warenkorbpersSearch"
+msgstr "Suche"
+
+msgid "warenkorbpersSearchBTN"
+msgstr "Suchen"
+
+msgid "warenkorbpersAction"
+msgstr "Aktion"
+
+msgid "successCartPersPosDelete"
+msgstr "Markierter Warenkorb wurde erfolgreich gelöscht."

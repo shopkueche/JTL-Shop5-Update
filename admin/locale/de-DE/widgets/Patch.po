@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Patch_title"
+msgstr "Patches"
+
+msgid "Patch_desc"
+msgstr "Aktuelle Patches für JTL-Shop"

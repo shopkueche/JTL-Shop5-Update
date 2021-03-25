@@ -1,0 +1,13 @@
+
+.accordion-row { border-bottom: rem(1px) solid $light-gray; transition: background-color .2s;
+	&:last-child { border: 0; }
+
+	&.active { background-color: $light-gray;
+		.accordion-title { font-weight: $font-weight-bold; }
+		.accordion-body { padding-bottom: map-get($spacers, 4); }
+	}
+}
+
+.accordion-header { padding: map-get($spacers, 4) $spacer; }
+
+.accordion-body { padding: 0 $spacer; transition: padding .2s; }

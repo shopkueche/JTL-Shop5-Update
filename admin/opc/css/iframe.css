@@ -1,0 +1,249 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "Open Sans";
+  src: local("OpenSans-Regular"), local("OpenSans-Regular"), url("../../../templates/NOVA/themes/base/fonts/opensans/open-sans-regular.eot?") format("eot"), url("../../../templates/NOVA/themes/base/fonts/opensans/open-sans-regular.woff2") format("woff2"), url("../../../templates/NOVA/themes/base/fonts/opensans/open-sans-regular.woff") format("woff"), url("../../../templates/NOVA/themes/base/fonts/opensans/open-sans-regular.ttf") format("truetype"), url("../../../templates/NOVA/themes/base/fonts/opensans/open-sans-regular.svg#Open_Sans") format("svg");
+  font-style: normal;
+  font-weight: 400;
+}
+#tutBackdrop2.active {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.5;
+  pointer-events: all;
+  transition: opacity 0.5s ease;
+  z-index: 9999 !important;
+}
+
+#tutBackdrop3.active {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0;
+  pointer-events: all;
+  z-index: 1051 !important;
+}
+
+#tutorials #tutboxPrev {
+  margin-right: 12px;
+}
+#tutorials .button .fa-chevron-right {
+  margin-left: 4px;
+}
+#tutorials .button .fa-chevron-left {
+  margin-right: 4px;
+}
+#tutorials #tutBackdrop {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.5s ease;
+  z-index: 1049 !important;
+}
+#tutorials #tutBox {
+  display: none;
+  width: 300px;
+  background-color: white;
+  position: absolute;
+  box-shadow: 0 0 4px 4px rgba(0, 0, 0, 0.125);
+  z-index: 99999 !important;
+  font-size: 14px;
+  color: #435A6B;
+  border-radius: 4px;
+  overflow: hidden;
+}
+#tutorials #tutBox.centered-c {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+#tutorials #tutBox.centered-v {
+  top: 50%;
+  transform: translate(0, -50%);
+}
+#tutorials #tutBox.centered-h {
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+#tutorials #tutBox #tutboxHeader {
+  padding: 10px 14px;
+  background-color: #5cbcf6;
+  color: #fff;
+}
+#tutorials #tutBox #tutboxHeader h5 {
+  font-size: 16px;
+  font-weight: normal;
+  margin: 0;
+}
+#tutorials #tutBox #tutboxContent {
+  padding: 0;
+  margin: 12px;
+}
+#tutorials #tutBox #tutboxFooter {
+  padding: 0;
+  margin: 12px;
+}
+#tutorials #tutBox #tutboxFooter:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+#tutorials.active #tutBackdrop {
+  opacity: 0.5;
+  pointer-events: all;
+}
+#tutorials.active #tutBox {
+  display: block;
+}
+
+.hightlighted-element {
+  z-index: 99999 !important;
+  position: relative;
+}
+
+.hightlighted-modal {
+  z-index: 99999 !important;
+}
+
+.fa {
+  font-family: FontAwesome !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+}
+.fa.fa-youtube-square:before {
+  content: "" !important;
+}
+
+[data-portlet] {
+  margin: 8px;
+  min-height: 2em;
+  border: 1px solid #5cbcf6 !important;
+  border-radius: 5px;
+  position: relative;
+  z-index: 19;
+}
+
+.opc-rootarea > .opc-droptarget {
+  margin: 16px;
+}
+.opc-rootarea > [data-portlet] {
+  margin: 16px;
+}
+
+.opc-area {
+  min-height: 2em;
+  padding: 0;
+}
+
+.opc-dragged {
+  opacity: 0.5;
+  box-shadow: 4px 4px 4px #000;
+  position: relative;
+  top: -4px;
+  left: -4px;
+}
+
+.opc-hovered {
+  cursor: pointer;
+}
+
+.opc-selected {
+  cursor: pointer;
+}
+
+.opc-droptarget {
+  margin: 8px;
+  color: #5cbcf6;
+  border: 1px dashed #5cbcf6;
+  border-radius: 5px;
+  background-color: #f7fcff;
+  height: 38px;
+  position: relative;
+  z-index: 0;
+  transition: background-color 0.25s;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  opacity: 0.75;
+  cursor: default;
+}
+.opc-droptarget:hover .opc-droptarget-hover, .opc-droptarget.opc-active-droptarget .opc-droptarget-hover {
+  display: block;
+}
+.opc-droptarget .opc-droptarget-hover {
+  display: none;
+}
+.opc-droptarget .opc-droptarget-info {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+  cursor: pointer;
+}
+
+.opc-active-droptarget {
+  background-color: rgba(92, 188, 246, 0.35);
+}
+
+.opc-droptarget-icon {
+  width: 20px;
+  margin-right: 10px;
+  margin-top: -2px;
+}
+
+.opc-portlet-toolbar {
+  z-index: 19;
+  display: flex;
+  font-size: 12px;
+}
+.opc-portlet-toolbar .opc-toolbar-btn {
+  border: none;
+  background: #fff;
+  padding: 4px 12px;
+  border-top: 1px solid #5cbcf6;
+  border-bottom: 1px solid #5cbcf6;
+  color: #435A6B;
+}
+.opc-portlet-toolbar .opc-toolbar-btn:first-child {
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.opc-portlet-toolbar .opc-toolbar-btn:last-child {
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-right: 1px solid #5cbcf6;
+}
+.opc-portlet-toolbar .opc-label {
+  background: #5cbcf6;
+  color: #fff;
+  padding: 4px 12px;
+  background-color: #5cbcf6;
+}
+.opc-label {
+  z-index: 19;
+  background-color: #abd1f6;
+  color: #fff;
+  font-size: 12px;
+  padding: 4px 12px;
+  border-radius: 4px;
+}
+
+/*# sourceMappingURL=iframe.css.map */

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "sitemapExport"
+msgstr "Sitemap-Export"
+
+msgid "sitemapExportURL"
+msgstr "https://jtl-url.de/z84ny"
+
+msgid "sitemapDownload"
+msgstr "Sitemap-Download"
+
+msgid "sitemapExportDesc"
+msgstr "Hier können Sie die zum Onlineshop gehörende Sitemap im Sitemap Protocol 0.9 herunterladen. Sie können die Sitemap in allen Suchmaschinen hochladen, die diesen Standard unterstützen.<br/>Durch einen Abgleich mit JTL-Wawi oder durch das manuelle Herunterladen der Sitemap werden die Datei export/sitemap_index.xml und weitere Inhaltsdateien Ihres Onlineshops neu generiert, so dass auch externe Dienste darauf zugreifen können."
+
+msgid "searchEnginesHint"
+msgstr "Unter anderem unterstützen auch <a class=\"externURL\" href=\"http://www.google.de\" rel=\"external\">Google</a>, <a class=\"externURL\" href=\"http://www.yahoo.de\" rel=\"external\">Yahoo!</a> und <a class=\"externURL\" href=\"http://www.msn.de\" rel=\"external\">Microsoft</a> diesen Standard."
+
+msgid "sitemapExportSubmit"
+msgstr "Sitemap jetzt neu erstellen"
+
+msgid "download"
+msgstr "Download-Link:"
+
+msgid "xml"
+msgstr "sitemap_index.xml"
+
+msgid "sitemapName"
+msgstr "Datei"
+
+msgid "sitemapSize"
+msgstr "Größe"
+
+msgid "sitemapBot"
+msgstr "Bot"
+
+msgid "sitemapIP"
+msgstr "IP"
+
+msgid "sitemapUserAgent"
+msgstr "User Agent"
+
+msgid "sitemapDate"
+msgstr "Erstellt"
+
+msgid "sitemapSelectAll"
+msgstr "Alle auswählen"
+
+msgid "sitemapReport"
+msgstr "Sitemap-Reports"
+
+msgid "sitemapProcessTime"
+msgstr "Verarbeitungszeit"
+
+msgid "sitemapTotalURL"
+msgstr "Gesamtanzahl URLs"
+
+msgid "sitemapCountURL"
+msgstr "Anzahl URLs"
+
+msgid "errorSitemapCreatePermission"
+msgstr "%s kann nicht geschrieben werden. Die Datei besitzt keine ausreichenden Schreibrechte, um eine Sitemap zu erstellen. Bitte überprüfen Sie die Schreibrechte."
+
+msgid "successSave"
+msgstr "%s wurde erfolgreich aktualisiert."
+
+msgid "successSitemapDLDelete"
+msgstr "Markierte Sitemap-Downloads wurden erfolgreich gelöscht."
+
+msgid "successSitemapReportDelete"
+msgstr "Markierte Sitemap-Reports wurden erfolgreich gelöscht."
+
+msgid "successSitemapDLDeleteByYear"
+msgstr "Markierte Sitemap-Downloads für %s wurden erfolgreich gelöscht."
+
+msgid "successSitemapReportDeleteByYear"
+msgstr "Sitemap-Reports für %s wurden erfolgreich gelöscht."
+
+msgid "sureDeleteEntries"
+msgstr "Möchten Sie wirklich alle Einträge für das ausgewählte Jahr löschen?"

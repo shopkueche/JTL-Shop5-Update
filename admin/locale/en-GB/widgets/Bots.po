@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Bots_title"
+msgstr "Web crawlers (Top 10 of the month)"
+
+msgid "Bots_desc"
+msgstr "The Top 10 crawlers of the month"

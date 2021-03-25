@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "newsletterMail"
+msgstr "Import newsletter recipients"
+
+msgid "newsletterMailDesc"
+msgstr "Here you can import newsletter recipients by using a csv file."
+
+msgid "newsletterURL"
+msgstr "https://jtl-url.de/r8nef"
+
+msgid "language"
+msgstr "Assign this language to customers"
+
+msgid "csvFile"
+msgstr "CSV file with customer data"
+
+msgid "checkHead"
+msgstr "Checking header…"
+
+msgid "errorFormatUnknown"
+msgstr "Format not recognised."
+
+msgid "importPending"
+msgstr "Importing…"
+
+msgid "errorEmailInvalid"
+msgstr "Invalid email address: (%s)! Data set was skipped."
+
+msgid "errorEmailInvalidBlacklist"
+msgstr "Invalid email address: (%s)! Customer is on blacklist. Data set was skipped."
+
+msgid "errorSurnameMissing"
+msgstr "No last name. Data set was skipped."
+
+msgid "errorEmailExists"
+msgstr "A newsletter recipient with this email address already exists: %s. Data set was skipped."
+
+msgid "successImport"
+msgstr "Data set OK. Import of: "
+
+msgid "errorImportRow"
+msgstr "The row could not be imported."

@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "link"
+msgstr "Page"
+
+msgid "links"
+msgstr "Link groups and custom pages"
+
+msgid "linksDesc"
+msgstr "Here you can adjust the settings for link groups, which you can display via the box administration in JTL-Shop. In every link group, you can create custom pages with contents, links to other URLs or special pages."
+
+msgid "linksUrl"
+msgstr "https://jtl-url.de/w8rpi"
+
+msgid "linkGroupMove"
+msgstr "Move to link group"
+
+msgid "linkModificationOnlyRoot"
+msgstr "only available on root level"
+
+msgid "linkMove"
+msgstr "Sort under link"
+
+msgid "linkGroupCopy"
+msgstr "Copy to link group"
+
+msgid "linkGroupRemove"
+msgstr "Remove from link group"
+
+msgid "newLinkGroup"
+msgstr "Create new link group"
+
+msgid "editLinkGroup"
+msgstr "Edit link group"
+
+msgid "saveLinkGroup"
+msgstr "Save link group"
+
+msgid "deleteLinkGroup"
+msgstr "Delete link group"
+
+msgid "linkGroupTemplatename"
+msgstr "Template name"
+
+msgid "addLink"
+msgstr "Add page"
+
+msgid "newLinks"
+msgstr "Creating and editing pages"
+
+msgid "newLinksSave"
+msgstr "Save page"
+
+msgid "linkType"
+msgstr "Page type"
+
+msgid "linkWithOwnContent"
+msgstr "Page with user-generated content"
+
+msgid "linkToExternalURL"
+msgstr "Link to external address"
+
+msgid "linkToSpecalPage"
+msgstr "Special page"
+
+msgid "url"
+msgstr "Target URL"
+
+msgid "urlDesc"
+msgstr "Only fill out this field if the page type is a <em>link to an external address</em>."
+
+msgid "titleDesc"
+msgstr "Enter the name of the page. You only have to fill it in if the page is a <em>page with user-generated content</em>."
+
+msgid "restrictedToCustomerGroups"
+msgstr "Visible for"
+
+msgid "linkTitle"
+msgstr "Headline"
+
+msgid "linkSeo"
+msgstr "Name for search engines"
+
+msgid "choose"
+msgstr "Please select"
+
+msgid "shipping"
+msgstr "Shipping information"
+
+msgid "forgotPassword"
+msgstr "Forgot password"
+
+msgid "metaTitle"
+msgstr "Meta title"
+
+msgid "metaKeywords"
+msgstr "Meta keywords"
+
+msgid "metaDescription"
+msgstr "Meta description"
+
+msgid "metaTitleDesc"
+msgstr "Search engines use the meta title as a page headline. It should be as precise as possible and should not be longer than 69 characters. "
+
+msgid "metaKeywordsDesc"
+msgstr "Into Meta Keywords, enter important keywords for this page. The most important keywords should be right in the front. If the online shop language is German, umlauts are possible. (Note: the Google search engine does not consider the meta keywords of a page.) "
+
+msgid "metaDescriptionDesc"
+msgstr "The meta description provides a summary of the page contents and is displayed as a text snippet under the page's URL in search engines. The description should mirror the page content as short and precise as possible (156 characters max). "
+
+msgid "agb"
+msgstr "Terms and conditions"
+
+msgid "privacy"
+msgstr "Data privacy"
+
+msgid "visibleAfterLogin"
+msgstr "Visible only after login"
+
+msgid "showPrintButton"
+msgstr "Show Print button"
+
+msgid "noFollow"
+msgstr "Set attribute \"nofollow\" or \"noindex\" to prevent the indexation of the page by search engines"
+
+msgid "livesearch"
+msgstr "Search queries"
+
+msgid "manufacturer"
+msgstr "Manufacturer overview"
+
+msgid "newsletterArchive"
+msgstr "Newsletter archive"
+
+msgid "newsArchive"
+msgstr "Blog archive"
+
+msgid "gratisGeschenk"
+msgstr "Free gift"
+
+msgid "wrb"
+msgstr "Withdrawal"
+
+msgid "linkPicAdd"
+msgstr "Add another image"
+
+msgid "linkPics"
+msgstr "Available images"
+
+msgid "cIdentifierText"
+msgstr "Unique page ID"
+
+msgid "bIsFluidText"
+msgstr "Container layout \"Fluid\" active"
+
+msgid "noData"
+msgstr "No links available"
+
+msgid "successLinkFromLinkGroupDelete"
+msgstr "Link successfully removed from link group."
+
+msgid "errorLinkFromLinkGroupDelete"
+msgstr "Could not remove link from link group."
+
+msgid "successLinkDelete"
+msgstr "Link deleted successfully."
+
+msgid "errorLinkDelete"
+msgstr "Could not delete link."
+
+msgid "errorLinkGroupDelete"
+msgstr "Could not delete link group."
+
+msgid "successLinkGroupDelete"
+msgstr "Link group deleted successfully."
+
+msgid "successLinkCreate"
+msgstr "Link added successfully."
+
+msgid "successLinkEdit"
+msgstr "Link <strong>%s</strong> edited successfully."
+
+msgid "errorTemplateNameDuplicate"
+msgstr "Please select a unique template name."
+
+msgid "successLinkGroupCreate"
+msgstr "Link group created successfully."
+
+msgid "successLinkGroupEdit"
+msgstr "Link group <strong>%s</strong> edited successfully."
+
+msgid "errorLinkMoveDuplicate"
+msgstr "Could not move link. It is already part of the target link group."
+
+msgid "errorLinkKeyNotFound"
+msgstr "Could not find a link with this key."
+
+msgid "errorLinkGroupKeyNotFound"
+msgstr "Could not find a link group with this key."
+
+msgid "successLinkMove"
+msgstr "Link %s moved successfully."
+
+msgid "errorLinkMove"
+msgstr "Could not move link."
+
+msgid "errorLinkCopyDuplicate"
+msgstr "Could not copy link. It is already part of the target link group."
+
+msgid "successLinkCopy"
+msgstr "Link %s copied successfully."
+
+msgid "dangerDeleteAllLinksInLinkGroup"
+msgstr "All links in this link group will also be deleted."
+
+msgid "dangerDeleteLinksAlso"
+msgstr "The following links are referenced in other link groups and will also be deleted from those groups."
+
+msgid "sureDeleteLinkGroup"
+msgstr "Delete link group \"<strong>%s</strong>\"?"
+
+msgid "newLinksSaveContinueEdit"
+msgstr "Save page and keep editing"
+
+msgid "createWithSearchEngineName"
+msgstr "(create under \"Name for search engines\")"
+
+msgid "sureDeleteLink"
+msgstr "Delete link?\nAll subordinate links and copies will also be deleted!"
+
+msgid "linksWithoutLinkGroup"
+msgstr "Links without link groups"
+
+msgid "dangerLinkWillGetDeleted"
+msgstr "Caution: The link is part of %s link groups and will be deleted from all of them."
+
+msgid "isDuplicateSpecialLink"
+msgstr "Special page already exists for the selected customer group(s)."
+
+msgid "hasDuplicateSpecialLink"
+msgstr "Special page %s exists several times for the same customer group(s)."
+
+msgid "Referenz"
+msgstr "Reference"
+
+msgid "hasAtLeastOneDuplicateSpecialLink"
+msgstr "In this link group, at least one special page exists several times for the same customer group(s)."
+
+msgid "newLinkGroupTitle"
+msgstr "Create new link group"

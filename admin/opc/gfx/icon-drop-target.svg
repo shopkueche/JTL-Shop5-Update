@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.459" height="25.822" viewBox="0 0 25.459 25.822">
+  <g id="Icon-DragDrop" transform="translate(1 2)">
+    <g id="Ellipse_16" data-name="Ellipse 16" transform="translate(18.459 7.911)" fill="none" stroke="#5cbcf6" stroke-width="1">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.5" fill="none"/>
+    </g>
+    <g id="Ellipse_19" data-name="Ellipse 19" transform="translate(18.459 -2)" fill="none" stroke="#5cbcf6" stroke-width="1">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_17" data-name="Ellipse 17" cx="3" cy="3" r="3" transform="translate(18.459 17.822)" fill="#5cbcf6"/>
+    <circle id="Ellipse_18" data-name="Ellipse 18" cx="4" cy="4" r="4" transform="translate(-1 7.275)" fill="#5cbcf6"/>
+    <path id="Pfad_862" data-name="Pfad 862" d="M1008,264s1.928,8.85,10.775,10.071a14.02,14.02,0,0,0,1.756.113c10.326.061,8.354,0,8.354,0" transform="translate(-1005.848 -253.179)" fill="none" stroke="#5cbcf6" stroke-width="1" stroke-dasharray="2"/>
+  </g>
+</svg>

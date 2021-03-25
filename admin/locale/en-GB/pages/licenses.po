@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "docURL"
+msgstr ""
+
+msgid "errorFetchLicenseAPI"
+msgstr "Could not establish connection to API of JTL-Extension Store."
+
+msgid "Error code: %d"
+msgstr "Error code: %d"
+
+msgid "Licenses"
+msgstr "Licences"
+
+msgid "(disabled)"
+msgstr "(disabled)"
+
+msgid "Bound licenses"
+msgstr "Bound licenses"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Update all"
+msgstr "Update all extensions"
+
+msgid "Install"
+msgstr "Install"
+
+msgid "Install all"
+msgstr "Install all"
+
+msgid "Refresh"
+msgstr "Check licences again"
+
+msgid "Unbound licenses"
+msgstr "Unbound licences"
+
+msgid "free"
+msgstr "free"
+
+msgid "prod"
+msgstr "productive"
+
+msgid "test"
+msgstr "test"
+
+msgid "dev"
+msgstr "develop"
+
+msgid "License expired"
+msgstr "Licence expired"
+
+msgid "Subscription expired on %s"
+msgstr "Subscription expired on %s"
+
+msgid "License expired on %s"
+msgstr "Licence expired on %s"
+
+msgid "Version %s available"
+msgstr "Version %s available"
+
+msgid "No version available"
+msgstr "No version currently available"
+
+msgid "Valid"
+msgstr "valid"
+
+msgid "Valid until %s"
+msgstr "valid until %s"
+
+msgid "Subscription valid until %s"
+msgstr "Subscription valid until %s"
+
+msgid "License valid until %s"
+msgstr "Licence valid until %s"
+
+msgid "Warning: License only valid until %s"
+msgstr "Caution: licence only valid until %s"
+
+msgid "Warning: Subscription only valid until %s"
+msgstr "Caution: subscription only valid until %s"
+
+msgid "Warning: only valid until %s"
+msgstr "Caution: only valid until %s"
+
+msgid "pageDesc"
+msgstr "On this page you can view your purchased licences and subscriptions. Visit the <a href=\"https://jtl-url.de/exs\" target=\"_blank\">JTL-Extension Store</a> to explore our range of extensions."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Installed"
+msgstr "Installed"
+
+msgid "State"
+msgstr "Status"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Subscription"
+msgstr "Subscription"
+
+msgid "Developer"
+msgstr "Developed by"
+
+msgid "documentation"
+msgstr "Documentation"
+
+msgid "extendSubscription"
+msgstr "Renew subscription"
+
+msgid "extendLicense"
+msgstr "Renew test licence"
+
+msgid "extendTestLicense"
+msgstr "Renew test licence"
+
+msgid "itemDetails"
+msgstr "Details"
+
+msgid "setBinding"
+msgstr "Bind to this online shop"
+
+msgid "upgradeLicense"
+msgstr "Buy license"
+
+msgid "Update to version %s available"
+msgstr "Update to version %s available"
+
+msgid "storeNotLinkedDesc"
+msgstr "In order to access contents of JTL-Extension Store, connect your JTL account to the online shop first."
+
+msgid "storeLink"
+msgstr "Connect account"
+
+msgid "unlink"
+msgstr "Cancel connection"
+
+msgid "Validity"
+msgstr "Validity"
+
+msgid "updates available"
+msgstr "available update(s)"
+
+msgid "last update"
+msgstr "last updated"
+
+msgid "Archive checksum validation failed"
+msgstr "Could not validate checksum. Please contact the Support team."
+
+msgid "Could not validate archive"
+msgstr "Could not validate archive. Please contact the Support team."
+
+msgid "Managed by %s"
+msgstr "Is managed by %s"
+
+msgid "Successfully extended."
+msgstr "Renewed successfully."
+
+msgid "Successfully executed."
+msgstr "Successfully executed."
+
+msgid "Enter token"
+msgstr "Enter token"
+
+msgid "Manually enter token"
+msgstr "Manually enter token"
+
+msgid "License for extension already bound to domain"
+msgstr "License for extension already bound to domain"
+
+msgid "btnExploreExtensionStore"
+msgstr "Go to JTL-Extension Store"

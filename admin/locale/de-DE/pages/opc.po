@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "opcNotInstalled"
+msgstr "Das Update für den OnPage Composer wurde nicht ordnungsgemäß installiert. Bitte aktualisieren Sie die Migrationen."
+
+msgid "dbUpdateNeeded"
+msgstr "Ein Datenbank-Update Ihres JTL-Shops ist erforderlich, um den OnPage Composer nutzen zu können.<br><br>Bitte führen Sie das Update im <a href=\"%s/admin/dbupdater.php\" target=\"_blank\">Admin-Backend</a> durch!"
+
+# OPC GUI
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+msgid "Save page"
+msgstr "Seite speichern"
+
+msgid "Close OnPage-Composer"
+msgstr "OnPage Composer schließen"
+
+msgid "Portlets"
+msgstr "Portlets"
+
+msgid "Blueprints"
+msgstr "Blueprints"
+
+msgid "Revisions"
+msgstr "Versionen"
+
+msgid "Page structure"
+msgstr "Seitenstruktur"
+
+msgid "Import blueprint"
+msgstr "Blueprints importieren"
+
+msgid "Unsaved revision"
+msgstr "Nicht gespeicherte Version"
+
+msgid "Current revision"
+msgstr "Aktuelle Version"
+
+msgid "Please wait..."
+msgstr "Bitte warten…"
+
+msgid "editPortletPrefix"
+msgstr " "
+
+msgid "editPortletPostfix"
+msgstr " bearbeiten"
+
+msgid "Save this Portlet as a blueprint"
+msgstr "Portlet als Blueprint speichern"
+
+msgid "Blueprint name"
+msgstr "Blueprint-Name"
+
+msgid "Delete Blueprint?"
+msgstr "Blueprint löschen?"
+
+# Config Tabs
+
+msgid "Styles"
+msgstr "Layout"
+
+msgid "Animation"
+msgstr "Animation"
+
+# Styles tab
+
+msgid "Font colour"
+msgstr "Schriftfarbe"
+
+msgid "Visibility"
+msgstr "Sichtbarkeit"
+
+msgid "hide"
+msgstr "ausblenden"
+
+msgid "Background colour"
+msgstr "Hintergrundfarbe"
+
+msgid "Font size"
+msgstr "Schriftgröße"
+
+msgid "Default colour"
+msgstr "Standardfarbe"
+
+msgid "Border style"
+msgstr "Rahmenstil"
+
+msgid "Border colour"
+msgstr "Rahmenfarbe"
+
+msgid "Border radius"
+msgstr "Rahmenabrundung"
+
+msgid "Custom css class"
+msgstr "Benutzerdefinierte Klasse(n)"
+
+msgid "CustomCssClassDesc"
+msgstr "Listen Sie hier Klassennamen auf, die dem \"class\"-Attribut des Portlets zusätzlich angefügt werden sollen."
+
+msgid "CustomCssClassPlaceholder"
+msgstr "first-custom-class second-custom-class"
+
+msgid "Hidden on XS"
+msgstr "Portlet verstecken bei XS"
+
+msgid "Hidden on SM"
+msgstr "Portlet verstecken bei SM"
+
+msgid "Hidden on MD"
+msgstr "Portlet verstecken bei MD"
+
+msgid "Hidden on LG"
+msgstr "Portlet verstecken bei LG"
+
+msgid "cssNumericDesc"
+msgstr "Geben Sie den gewünschten Wert ohne Leerzeichen und mit Punkt als Dezimaltrennzeichen ein "
+"(z.B. 5px, 0.5em, 50%)."
+
+# Animations tab
+
+msgid "Animation style"
+msgstr "Animationstyp"
+
+msgid "Duration"
+msgstr "Dauer"
+
+msgid "Delay"
+msgstr "Verzögerung"
+
+msgid "Offset (px)"
+msgstr "Abstand (Pixel)"
+
+msgid "Iteration"
+msgstr "Wiederholung"
+
+msgid "Change the animation duration (e.g. 2s)"
+msgstr "Dauer der Animation (z.&nbsp;B. 2&nbsp;s)"
+
+msgid "Delay before the animation starts"
+msgstr "Wartezeit, bis die Animation beginnt"
+
+msgid "Distance to start the animation (related to the browser bottom)"
+msgstr "Die Animation beginnt erst, wenn zwischen der Oberkante des entsprechenden Elements und der Unterkante des aktuellen Browserfensters der angegebene Scroll-Abstand in Pixeln erreicht ist. Somit lässt sich z.&nbsp;B. verhindern, dass eine Animation schon startet, obwohl das Element noch nicht ganz sichtbar ist."
+
+msgid "Number of times the animation is repeated"
+msgstr "Anzahl Wiederholungen"
+
+msgid "onPageComposer"
+msgstr "OnPage Composer"
+
+msgid "toggleNavigation"
+msgstr "Navigation ein-/ausschalten"
+
+msgid "noteInfoInGuide"
+msgstr "Sie finden neben den nachfolgend aufgelisteten Touren auch ausführliche Informationen in unserem Guide."
+
+msgid "generalIntroduction"
+msgstr "Allgemeine Einführung"
+
+msgid "getToKnowComposer"
+msgstr "Lernen Sie den OnPage Composer kennen und legen Sie Ihr erstes Portlet an."
+
+msgid "animation"
+msgstr "Animation"
+
+msgid "noteMovementOnPage"
+msgstr "Sie hätten gern etwas mehr Bewegung auf Ihren Seiten?"
+
+msgid "noteSaveAsTemplate"
+msgstr "Sie haben eine tolle Ansicht angelegt, die Sie häufiger verwenden möchten?<br> Legen Sie sie doch als Blueprint an und greifen Sie so einfach immer wieder darauf zu."
+
+msgid "settingsMore"
+msgstr "Einstellungen (Vertiefung)"
+
+msgid "noteTricks"
+msgstr "Lernen Sie hier ein paar Tricks, um Ihre Seiten für die verschiedenen Display-Formate fit zu machen."
+
+msgid "startTour"
+msgstr "Tour starten"
+
+msgid "draftPublic"
+msgstr "Diesen Entwurf veröffentlichen"
+
+msgid "draftName"
+msgstr "Interner Name"
+
+msgid "restoreChanges"
+msgstr "Lokale Änderungen wiederherstellen"
+
+msgid "restoreUnsaved"
+msgstr "Dieser Entwurf wurde während der letzten Sitzung nicht gespeichert. Letzte Änderung weiterbearbeiten?"
+
+msgid "noCurrent"
+msgstr "Nein, Änderungen verwerfen"
+
+msgid "yesRestore"
+msgstr "Ja, weiterbearbeiten"
+
+msgid "editSettings"
+msgstr "Einstellungen bearbeiten"
+
+msgid "copySelect"
+msgstr "Auswahl kopieren"
+
+msgid "saveTemplate"
+msgstr "Auswahl als Blueprint speichern"
+
+msgid "goUp"
+msgstr "Nächsthöhere Ebene auswählen"
+
+msgid "deleteSelect"
+msgstr "Auswahl löschen [Entf]"
+
+msgid "templateTitle"
+msgstr "Name des Blueprints"
+
+msgid "availableFilters"
+msgstr "Verfügbare Filter"
+
+msgid "activeFilters"
+msgstr "Aktive Filter"
+
+msgid "noMoreFilters"
+msgstr "Keine weiteren Filter vorhanden."
+
+msgid "entryMove"
+msgstr "Eintrag verschieben"
+
+msgid "entryDelete"
+msgstr "Eintrag löschen"
+
+msgid "imageSelect"
+msgstr "Bild auswählen"
+
+msgid "alternativeText"
+msgstr "Alternativtext"
+
+msgid "imageAdd"
+msgstr "Bild hinzufügen"
+
+msgid "videoTagNotSupported"
+msgstr "Ihr Browser unterstützt das Video-Tag nicht."
+
+msgid "zoneNew"
+msgstr "Neue Zone"
+
+msgid "zoneDelete"
+msgstr "Zone löschen"
+
+msgid "templateDeleteSure"
+msgstr "Blueprint wirklich löschen?"
+
+msgid "publishNot"
+msgstr "Nicht veröffentlichen"
+
+msgid "publishImmediately"
+msgstr "Sofort veröffentlichen"
+
+msgid "selectDate"
+msgstr "Zeitraum auswählen"
+
+msgid "indefinitePeriodOfTime"
+msgstr "Auf unbestimmte Zeit"
+
+msgid "draftUpper"
+msgstr "ENTWURF"
+
+msgid "publicUpper"
+msgstr "ÖFFENTLICH"
+
+msgid "plannedUpper"
+msgstr "GEPLANT"
+
+msgid "pastUpper"
+msgstr "VERGANGEN"
+
+msgid "publicSince"
+msgstr "veröffentlicht am"
+
+msgid "publicUntil"
+msgstr "öffentlich bis"
+
+msgid "plannedFrom"
+msgstr "geplant ab"
+
+msgid "publicFrom"
+msgstr "von"
+
+msgid "publicTill"
+msgstr "bis"
+
+msgid "noPublicationPlanned"
+msgstr "keine Veröffentlichung geplant"
+
+msgid "duplicate"
+msgstr "Duplizieren"
+
+msgid "useForOtherLang"
+msgstr "Für andere Sprachen übernehmen"
+
+msgid "editPage"
+msgstr "Seite bearbeiten"
+
+msgid "opcNotSupportedPage"
+msgstr "Leider kann diese Seite nicht mit dem OnPage Composer bearbeitet werden!"
+
+msgid "newDraft"
+msgstr "Neuer Entwurf"
+
+msgid "allDrafts"
+msgstr "Alle Entwürfe"
+
+msgid "deleteDraftsContinue"
+msgstr "Entwürfe werden gelöscht! Fortfahren?"
+
+msgid "draftDeleteSure"
+msgstr "Möchten Sie diesen Entwurf wirklich löschen?"
+
+msgid "label"
+msgstr "Beschriftung"
+
+msgid "style"
+msgstr "Farbschema"
+
+msgid "stylePrimary"
+msgstr "Primär"
+
+msgid "styleSuccess"
+msgstr "Erfolg"
+
+msgid "styleInfo"
+msgstr "Info"
+
+msgid "styleWarning"
+msgstr "Warnung"
+
+msgid "styleDanger"
+msgstr "Gefahr"
+
+msgid "Icon"
+msgstr "Icon"
+
+msgid "background"
+msgstr "Hintergrund"
+
+msgid "backgroundImage"
+msgstr "Hintergrundbild"
+
+msgid "video"
+msgstr "Video"
+
+msgid "vertical"
+msgstr "vertikal"
+
+msgid "horizontal"
+msgstr "horizontal"
+
+msgid "grid"
+msgstr "Gitter"
+
+msgid "alternate"
+msgstr "Abwechselnd"
+
+msgid "columns"
+msgstr "Spalten"
+
+msgid "margin"
+msgstr "Außenabstand"
+
+msgid "border"
+msgstr "Rahmen"
+
+msgid "padding"
+msgstr "Innenabstand"
+
+msgid "noAction"
+msgstr "Keine Aktion"
+
+msgid "lightbox"
+msgstr "Lightbox"
+
+msgid "linked"
+msgstr "Verlinkung"
+
+msgid "unset"
+msgstr "nicht gesetzt"
+
+msgid "dotted"
+msgstr "gepunktet"
+
+msgid "dashed"
+msgstr "gestrichelt"
+
+msgid "solid"
+msgstr "durchgezogen"
+
+msgid "mobileXS"
+msgstr "Mobil (XS)"
+
+msgid "tabletSM"
+msgstr "Tablet (SM)"
+
+msgid "desktopMD"
+msgstr "Desktop (MD)"
+
+msgid "desktopLG"
+msgstr "Großer Desktop (LG)"
+
+msgid "Custom"
+msgstr "Benutzerdefiniert"
+
+
+msgid "active"
+msgstr "aktiv"
+
+msgid "planned"
+msgstr "geplant"
+
+msgid "draft"
+msgstr "Entwurf"
+
+msgid "past"
+msgstr "vergangen"
+
+msgid "activeSince"
+msgstr "Aktiv seit"
+
+msgid "activeUntil"
+msgstr "Aktiv bis"
+
+msgid "scheduledFor"
+msgstr "Geplant ab"
+
+msgid "notScheduled"
+msgstr "Unveröffentlicht"
+
+msgid "expiredOn"
+msgstr "Abgelaufen am"
+
+msgid "dropPortletHere"
+msgstr "Portlet hier einfügen"
+
+# Messages
+
+msgid "opcImportSuccess"
+msgstr "Der Entwurf wurde erfolgreich importiert."
+
+msgid "opcImportUnmappedS"
+msgstr "Ein Bereich konnte nicht abgebildet werden, da dessen ID auf der aktuellen Seite nicht auftaucht."
+
+msgid "opcImportUnmappedP"
+msgstr "%s Bereiche konnten nicht abgebildet werden, da deren IDs auf der aktuellen Seite nicht auftauchen."
+
+msgid "opcImportSuccessTitle"
+msgstr "Import erfolgreich."
+
+msgid "btnTitleCopyArea"
+msgstr "Inhalt in sichtbaren Bereich übertragen"
+
+msgid "offscreenAreasDivider"
+msgstr "Nicht abgebildete Bereiche"
+
+msgid "yesDeleteArea"
+msgstr "Diesen Bereich verwerfen"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "opcPageLocked"
+msgstr "Dieser Entwurf ist zurzeit durch einen anderen Benutzer für die Bearbeitung gesperrt."
+
+msgid "Next"
+msgstr "Weiter"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "Done"
+msgstr "Fertig"
+
+# MISC
+
+msgid "alignment"
+msgstr "Ausrichtung"
+
+msgid "targetBlank"
+msgstr "Link in neuem Tab öffnen"

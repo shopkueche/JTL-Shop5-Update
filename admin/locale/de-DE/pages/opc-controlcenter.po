@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "opcNoticePageReset"
+msgstr "Der Inhalt des OnPage Composers für die Seite wurde zurückgesetzt."
+
+msgid "opcNoticeDraftDelete"
+msgstr "Entwurf wurde erfolgreich gelöscht."
+
+msgid "opc"
+msgstr "OnPage Composer"
+
+msgid "opcDesc"
+msgstr "Hier finden Sie alle mit dem OnPage Composer bearbeiteten Seiten und verfügbaren Portlets."
+
+msgid "opcUrl"
+msgstr "https://jtl-url.de/6br8s"
+
+msgid "opcPages"
+msgstr "Bearbeitete Seiten"
+
+msgid "opcPortlets"
+msgstr "Verfügbare Portlets"
+
+msgid "opcBlueprints"
+msgstr "Verfügbare Blueprints"
+
+msgid "sureDeleteAll"
+msgstr "Möchten Sie wirklich alle Entwürfe für die Seite löschen?"
+
+msgid "sureDelete"
+msgstr "Möchten Sie diesen Entwurf wirklich löschen?"
+
+msgid "lastChange"
+msgstr "Letzte Änderung am"
+
+msgid "changedNow"
+msgstr "Gerade bearbeitet von"
+
+msgid "tillUnknown"
+msgstr "Auf unbestimmte Zeit"
+
+msgid "deleteDraft"
+msgstr "Entwurf löschen"
+
+msgid "deleteDraftAll"
+msgstr "Alle Entwürfe löschen"
+
+msgid "unpublished"
+msgstr "Unveröffentlicht"

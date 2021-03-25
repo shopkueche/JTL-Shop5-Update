@@ -1,0 +1,13 @@
+
+.modal-content { padding: ($modal-inner-padding / 2) 0 $modal-inner-padding $modal-inner-padding; }
+
+.modal-header { padding: 0 ($modal-inner-padding / 2) 0 0; }
+
+.modal-body {
+  padding: ($modal-inner-padding / 2) ($modal-inner-padding / 2) ($modal-inner-padding / 2) 0;
+  margin: 0 ($modal-inner-padding / 2) 0 0;
+
+  border-top: 1px solid $hr-border-color-light;
+}
+
+.modal-footer { display: block; padding: 0 $modal-inner-padding 0 0; }

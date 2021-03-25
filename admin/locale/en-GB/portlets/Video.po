@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "embedResponsive"
+msgstr "Embed video responsively"
+
+msgid "source"
+msgstr "Platform"
+
+msgid "localVideo"
+msgstr "Locally stored video"
+
+msgid "youtubeNote"
+msgstr "In your data privacy notice, point out the following:<br/>- YouTube videos are embedded in your pages in the \"Extended data privacy mode\".- Opening the pages establishes a connection with YouTube and DoubleClick.- Clicking on the video can lead to further data processing that cannot be influenced by the website owner."
+
+msgid "videoID"
+msgstr "Video ID"
+
+msgid "videoIDHelpYoutube"
+msgstr "The video ID forms the last part of the YouTube URL after the characters \"?v=\": "
+"https://www.youtube.com/watch?v=[Video-ID]."
+
+msgid "showControls"
+msgstr "Show control elements"
+
+msgid "showSimilarVideos"
+msgstr "Show similar videos"
+
+msgid "playlist"
+msgstr "Video IDs for playlist"
+
+msgid "playlistHelp"
+msgstr "Enter the video&nbsp;IDs separated by commas; e.g. xITQHgJ3RRo,sNYv0JgrUlw."
+
+msgid "videoIDHelpVimeo"
+msgstr "The video ID forms the last part of the Vimeo URL after the character \"/\": https://vimeo.com/[Video-ID]."
+
+msgid "repeatVideo"
+msgstr "Repeat video once it has finished"
+
+msgid "muteVideo"
+msgstr "mute Video"
+
+msgid "autoplayVideo"
+msgstr "start playing as soon as video is ready"
+
+msgid "showImage"
+msgstr "Show image"
+
+msgid "showTitle"
+msgstr "Show name"
+
+msgid "showAuthorInformation"
+msgstr "Show channel information"
+
+msgid "videoURL"
+msgstr "Video URL"
+
+msgid "colorYtDesc"
+msgstr "Colour of control elements"
+
+msgid "widthPx"
+msgstr "Width (px)"
+
+msgid "heightPx"
+msgstr "Height (px)"
+
+msgid "startSec"
+msgstr "Starts at second"
+
+msgid "endSec"
+msgstr "Ends at second"

@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "dbcheck"
+msgstr "Database check"
+
+msgid "dbcheckDesc"
+msgstr "Use the database check to verify the consistency of your online shop database."
+
+msgid "dbcheckURL"
+msgstr "https://jtl-url.de/nv3x4"
+
+msgid "errorReadStructureFile"
+msgstr "Could not read structure file."
+
+msgid "errorNoInnoTable"
+msgstr "is no InnoDB table"
+
+msgid "errorWrongCollation"
+msgstr "has a wrong collation"
+
+msgid "errorDataTypeTextInRow"
+msgstr "Data type text in column %s"
+
+msgid "errorDataTypeTinyInRow"
+msgstr "Data type tinyint in column %s"
+
+msgid "errorNoTable"
+msgstr "Missing table"
+
+msgid "errorRowMissing"
+msgstr "Missing column %s in %s"
+
+msgid "errorWrongCollationRow"
+msgstr "Inconsistent collation in column %s"
+
+msgid "errorEmptyCache"
+msgstr "Error emptying the object cache. (%s)"
+
+msgid "countTables"
+msgstr "Number of tables"
+
+msgid "showModifiedTables"
+msgstr "Number of modified tables"
+
+msgid "errorDoAction"
+msgstr "Could not run action."
+
+msgid "migrationCancel"
+msgstr "Cancel migration"
+
+msgid "errorMigrationTable"
+msgstr "Migration error for table %s!"
+
+msgid "errorMigrationTableContinue"
+msgstr "Migration error for table %s! Continue?"
+
+msgid "migrationOf"
+msgstr "Migration of %s – Step %s"
+
+msgid "structureMigrationNeeded"
+msgstr "Structure migration required!"
+
+msgid "structureMigrationNeededLong"
+msgstr "%s tables require a migration to the InnoDB tablespace and, if applicable, a conversion to a UTF-8 character set. Approx. %s of data are affected by this migration."
+
+msgid "warningOldDBVersion"
+msgstr "Outdated database version"
+
+msgid "warningOldDBVersionLong"
+msgstr "The used database version %s does not support all possibilities of this version of JTL-Shop. Therefore, some functions will not be available after the migration."
+
+msgid "fullTextDeactivate"
+msgstr "The full-text search will be disabled."
+
+msgid "fullTextDelete"
+msgstr "Full text index %s for %s will be deleted."
+
+msgid "notEnoughTableSpace"
+msgstr "Not enough space in InnoDB tablespace."
+
+msgid "notEnoughTableSpaceLong"
+msgstr "In the InnoDB tablespace of your database, only %s are available for storing data. This might not be enough for the amount of data to be migrated. Please make sure that enough space is available in the InnoDB tablespace."
+
+msgid "structureMigration"
+msgstr "Structure migration of %s tables"
+
+msgid "soloStructureTable"
+msgstr "Individually via the structure table"
+
+msgid "viaScriptConsole"
+msgstr "Via a script on the DB console"
+
+msgid "noteSoloMigration"
+msgstr "Individual migration is recommended if only few tables must be edited or if some tables cannot be changed via automatic migration or migration via a script."
+
+msgid "noteSoloMigrationClick"
+msgstr "With a click on the <i class=\"fa fa-cogs\"></i>symbol, you can perform the migration individually for every table in the list."
+
+msgid "warningDoBackupSingle"
+msgstr "<strong>BEFORE</strong> conducting the migration, we highly recommend performing a backup of the entire database or at least a backup of every table you wish to edit."
+
+msgid "noteRecommendMigration"
+msgstr "Automatic migration is recommended for cases in which you want to completely remodel the online shop database and the data is within the <a title=\"Software constraints and limits of JTL products\" href=\"https://jtl-url.de/9thc8\">Specifications</a> for JTL-Shop."
+
+msgid "notePatienceOne"
+msgstr "Please wait. %s tables and a data volume of approx. %s are being"
+
+msgid "notePatienceTwo"
+msgstr " migrated. During the migration process, important tables of the online shop will be locked. This might lead to significant limitations in the front end. We therefore recommend activating the <a title=\"Global settings - Maintenance mode\" href=\"%s/%s/einstellungen.php?kSektion=1#wartungsmodus_aktiviert\">Maintenance mode</a> while performing the migration.<br/> Every table is migrated in two individual steps. The first step consists of moving the InnoDB tablespace. The second step consists of the conversion of data into the character set UTF-8."
+
+msgid "lessThanOneMinute"
+msgstr "less than one minute"
+
+msgid "oneMinute"
+msgstr "one minute"
+
+msgid "ifNecessaryUpTo"
+msgstr "if necessary up to"
+
+msgid "warningDoBackup"
+msgstr "<strong>BEFORE</strong> the migration, a backup of the entire database must be performed."
+
+msgid "yesBackup"
+msgstr "I created a backup of the entire online shop database."
+
+msgid "maintenanceActive"
+msgstr "Maintenance mode active."
+
+msgid "noMaintenance"
+msgstr "I do not want to activate the maintenance mode."
+
+msgid "yesEnoughSpace"
+msgstr "I made sure that there is enough space in the InnoDB tablespace."
+
+msgid "buttonMigrationStart"
+msgstr "Start migration"
+
+msgid "noteMigrationScript"
+msgstr "The migration via script using the MySQL Console is recommended if you have administrative access to your database server and want to migrate a great amount of data."
+
+msgid "noteMigrationScriptClick"
+msgstr "By clicking on \"Create script\", you can generate a script for carrying out the required migration. This script can then be executed completely or in part on the console of your database server. For this you require administrative access (e.g. via SSH) to your database server. A web interface such as phpMyAdmin is <strong>not</strong> suited for running the script."
+
+msgid "noteMigrationScriptDesc"
+msgstr "The script is based on the current situation and contains only changes that are necessary for this JTL-Shop. You cannot use the script to perform a migration for a different JTL-Shop."
+
+msgid "noteMigrationScriptMaintenance"
+msgstr "Please note that it might take some time to perform a complete run of the script. During that time, important tables in the online shop remain inaccessible. We therefore recommend activating the <a title=\"Global settings - Maintenance mode\" href=\"%s/%s/einstellungen.php?kSektion=1#wartungsmodus_aktiviert\">Maintenance mode</a> while performing the migration."
+
+msgid "warningDoBackupScript"
+msgstr "<strong>BEFORE</strong> running the script, you absolutely need to create a backup of the entire database."
+
+msgid "warningUseConsoleScript"
+msgstr "Use a server console and do <strong>NOT</strong> use phpMyAdmin to run the script."
+
+msgid "warningUseThisShopScript"
+msgstr "Only use the script for running the migration of <strong>THIS</strong> JTL-Shop."
+
+msgid "buttonCreateScript"
+msgstr "Create script"
+
+msgid "sureCancelStructureMigration"
+msgstr "Cancel structure migration?"
+
+msgid "cancelMigration"
+msgstr "Cancelling migration…"
+
+msgid "migrateOf"
+msgstr "Running migration of "
+
+msgid "notApproveMaintenance"
+msgstr "Please confirm the maintenance mode and the backup."
+
+msgid "errorNoInnoDBSupport"
+msgstr "InnoDB is not supported!"
+
+msgid "errorNoUTF8Support"
+msgstr "UTF-8 collation <strong>utf8_unicode_ci</strong> is not supported!"
+
+msgid "errorNoInnoDBSupportDesc"
+msgstr "Your current database version %s does not support InnoDB tables—a structure migration is not possible.<br/> Please contact the database administrator or host to activate the InnoDB support."
+
+msgid "errorNoUTF8SupportDesc"
+msgstr "Your current database version {$DB_Version->server} does not support collation \"utf8_unicode_ci\"—a structure migration is not possible.<br/> Please contact the database administrator or host to activate collation \"utf8_unicode_ci\"."
+
+msgid "startAutomaticMigration"
+msgstr "Starting automatic migration…"
+
+msgid "clearCache"
+msgstr "Clearing cache…"
+
+msgid "errorTableInUse"
+msgstr " is currently being used and cannot be migrated! Continue?"

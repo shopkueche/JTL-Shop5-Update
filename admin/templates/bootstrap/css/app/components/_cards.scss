@@ -1,0 +1,12 @@
+
+.card { box-shadow: $card-box-shadow; margin-bottom: map-get($spacers, 5); }
+
+.card-header { font-size: $font-size-base * 1.125;
+	@include hover {
+		.card-options { opacity: 1; visibility: visible; }
+	}
+}
+
+.card-options { opacity: 0; visibility: hidden; transition: $transition-base; margin-top: -$input-btn-padding-y; margin-bottom: -$input-btn-padding-y; }
+
+.card-collapse > :first-child { margin-top: 0; padding-top: 0; }

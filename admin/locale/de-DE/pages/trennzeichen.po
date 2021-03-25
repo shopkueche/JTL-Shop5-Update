@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Trennzeichen"
+msgstr "Zahlenformate"
+
+msgid "trennzeichenURL"
+msgstr "https://jtl-url.de/xiepq"
+
+msgid "trennzeichenDesc"
+msgstr " "
+
+msgid "errorWeightDecimals"
+msgstr "Das Gewicht darf maximal mit 4 Nachkommastellen angegeben werden."
+
+msgid "errorAmountDecimals"
+msgstr "Die Menge darf maximal mit 2 Nachkommastellen angegeben werden."
+
+msgid "countDecimals"
+msgstr "Anzahl der Nachkommastellen"
+
+msgid "thousandDivider"
+msgstr "Tausendertrennzeichen"
+
+msgid "decimalsDivider"
+msgstr "Dezimaltrennzeichen"

@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "wawisync"
+msgstr "Data for the synchronisation with JTL-Wawi"
+
+msgid "wawisyncDesc"
+msgstr "Enter a user name and a password for the synchronisation with JTL-Wawi. You need to enter the same data in JTL-Wawi into the dialogue box \"Onlineshop-Anbindung\" (Online shop connection). User name and password may contain uppercase and lowercase letters, numbers, and the following special characters: !\"#$%&'()*+,-./:;=>?@[\\]^_`|}~"
+
+msgid "wawisyncURL"
+msgstr "https://jtl-url.de/vdh3z"
+
+msgid "errorInvalidPassword"
+msgstr "User name and password may contain uppercase and lowercase letters, numbers, and the following special characters: !\"#$%&'()*+,-./:;=>?@[\\]^_`|}~"

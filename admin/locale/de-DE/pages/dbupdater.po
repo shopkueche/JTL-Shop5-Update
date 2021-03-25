@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "dbupdater"
+msgstr "Datenbank-Update"
+
+msgid "dbupdaterURL"
+msgstr "https://jtl-url.de/8qef4"
+
+msgid "dbupdaterDesc"
+msgstr "Hier können Sie Ihre JTL-Shop-Datenbank aktualisieren. Die Zielversion für das Datenbank-Update entspricht der derzeit installierten Version von JTL-Shop."
+
+msgid "buttonUpdateNow"
+msgstr "Datenbank-Update starten"
+
+msgid "nextStep"
+msgstr "Fortfahren"
+
+msgid "fromVersion"
+msgstr "Von Version"
+
+msgid "toVersion"
+msgstr "Nach Version"
+
+msgid "errorSqlUpdate"
+msgstr "Ein SQL-Befehl im Update konnte nicht ausgeführt werden. Bitte versuchen Sie es erneut."
+
+msgid "successUpdate"
+msgstr "Update wurde erfolgreich abgeschlossen."
+
+msgid "errorUpdate"
+msgstr "Ein SQL-Befehl im Update konnte 3-mal nicht ausgeführt werden. Das Update wurde abgebrochen. Bitte kontaktieren Sie den Support."
+
+msgid "eventProtocol"
+msgstr "Ereignisprotokoll"
+
+msgid "isDownloaded"
+msgstr " wird heruntergeladen"
+
+msgid "createSuccess"
+msgstr " wurde erfolgreich erstellt"
+
+msgid "errorSaveCopy"
+msgstr "Sicherungskopie konnte nicht erstellt werden."
+
+msgid "infoUpdatePause"
+msgstr "Update wurde angehalten: "
+
+msgid "successMigrations"
+msgstr "Migrationen wurden erfolgreich ausgeführt."
+
+msgid "successMigration"
+msgstr "Migration wurde erfolgreich ausgeführt."
+
+msgid "updateTosuccessfull"
+msgstr "Update auf %s erfolgreich"
+
+msgid "sessionExpired"
+msgstr "Sitzung abgelaufen"
+
+msgid "redirectToLogin"
+msgstr "Sie werden zum Anmeldefenster weitergeleitet…"
+
+msgid "dbUpToDate"
+msgstr "Ihre Datenbank entspricht dem aktuellen Systemstand (Version %s)."
+
+msgid "successfullMigrations"
+msgstr "Erfolgreiche Migrationen"
+
+msgid "openMigrations"
+msgstr "Nicht ausgeführte Migrationen"
+
+msgid "putOnServer"
+msgstr "Auf Server ablegen"
+
+msgid "infoUpdateNow"
+msgstr "Klicken Sie auf „Datenbank-Update starten“, um die Datenbankaktualisierung durchzuführen."
+
+msgid "dbUpdate"
+msgstr "Datenbankaktualisierung"
+
+msgid "required"
+msgstr "erforderlich"
+
+msgid "currentShopVersion"
+msgstr "Ihre aktuelle Version von JTL-Shop"
+
+msgid "currentTemplateVersion"
+msgstr "Ihre aktuelle Template-Version"
+
+msgid "errorMinShopVersionRequired"
+msgstr "Ihr Onlineshop verfügt nicht über die benötigte Mindestversion für das Update auf Version %s. Sie benötigen mindestens die Version %s, um das Update auf die Version %s durchführen zu können. Folgen Sie dazu bitte der entsprechenden Anleitung in unserem <a href=\"%s\" target=\"_blank\">Guide</a>."

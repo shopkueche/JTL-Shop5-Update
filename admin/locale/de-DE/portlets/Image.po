@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "shape"
+msgstr "Form"
+
+msgid "shapeNormal"
+msgstr "normal"
+
+msgid "shapeRoundedCorners"
+msgstr "abgerundete Ecken"
+
+msgid "shapeCircle"
+msgstr "Kreis"
+
+msgid "shapeThumbnail"
+msgstr "als Vorschaubild"
+
+msgid "imageResponsive"
+msgstr "Responsives Bild"
+
+msgid "alignmentDesc"
+msgstr "Legt fest, ob das Bild links, rechts oder mittig angezeigt wird."
+
+msgid "imgUrlDesc"
+msgstr "Falls Sie das Bild verlinken wollen, können Sie hier eine Ziel-URL eintragen."
+
+msgid "isLink"
+msgstr "Bild verlinken"
+
+msgid "linkTitle"
+msgstr "Linktitel"
+
+msgid "openInNewTab"
+msgstr "In neuer Registerkarte öffnen"
+
+msgid "openInNewTabDesc"
+msgstr "Legt fest, ob beim Klicken auf die Schaltfläche eine neue Registerkarte im Browser geöffnet wird."

@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "bearbeiteBewertung"
+msgstr "Editing customer reviews"
+
+msgid "votesystem"
+msgstr "Review system"
+
+msgid "votesystemURL"
+msgstr "https://jtl-url.de/cknmv"
+
+msgid "votesystemDesc"
+msgstr "Here you can specify whether customers can write a review of your items. You can also search all existing active and inactive reviews and edit them if required."
+
+msgid "clearVotes"
+msgstr "Reset all reviews"
+
+msgid "removeReply"
+msgstr "Delete reply"
+
+msgid "options"
+msgstr "Selection"
+
+msgid "ratings"
+msgstr "Customer reviews"
+
+msgid "ratingsInaktive"
+msgstr "Inactive customer reviews"
+
+msgid "productName"
+msgstr "Item"
+
+msgid "customerName"
+msgstr "Customer name"
+
+msgid "ratingText"
+msgstr "Review text"
+
+msgid "ratingReply"
+msgstr "Reply:"
+
+msgid "ratingStars"
+msgstr "Stars"
+
+msgid "ratingForProduct"
+msgstr "Customer reviews for a particular item"
+
+msgid "ratingcArtNr"
+msgstr "SKU/item name"
+
+msgid "ratingSearchedFor"
+msgstr "Searched for"
+
+msgid "ratingLast50"
+msgstr "Active customer reviews"
+
+msgid "successRatingEdit"
+msgstr "Review edited successfully."
+
+msgid "errorCreditUnlock"
+msgstr "In order to grant a credit bonus, the option \"Activate customer review\" must be activated."
+
+msgid "successRatingUnlock"
+msgstr " Review(s) enabled successfully."
+
+msgid "successRatingDelete"
+msgstr " Review(s) deleted successfully."
+
+msgid "successRatingCommentDelete"
+msgstr "Answer deleted successfully."
+
+msgid "linkItemShop"
+msgstr "View item in online shop"

@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "suchspecialoverlay"
+msgstr "Artikelsticker für besondere Artikel"
+
+msgid "suchspecialoverlayDesc"
+msgstr "Besondere Artikel können in JTL-Shop optisch mit einem Sticker auf ihrem Artikelbild hervorgehoben werden. Hier stellen Sie die einzelnen Sticker für die verschiedenen Arten an besonderen Artikeln ein. Beachten Sie, dass bei Verwendung des NOVA-Templates nur die Einstellungen „Sticker-Funktion aktiv“ und „Priorität“ die Darstellung der Sticker beeinflussen. Die Texte der Artikelsticker können Sie für das NOVA-Template in den Sprachvariablen ändern (Suche nach „ribbon“); die Darstellung der Sticker ist über CSS-Anweisungen beeinflussbar."
+
+msgid "suchspecialoverlayUrl"
+msgstr "https://jtl-url.de/538df"
+
+msgid "suchspecial"
+msgstr "Sticker für Artikeltyp"
+
+msgid "suchspecialoverlayActive"
+msgstr "Sticker-Funktion aktiv"
+
+msgid "suchspecialoverlayActiveDesc"
+msgstr "Hier legen Sie fest, ob der Sticker für den unter „Sticker für Artikeltyp“ ausgewählten Artikeltyp angezeigt werden soll."
+
+msgid "suchspecialoverlayFileName"
+msgstr "Sticker-Grafik"
+
+msgid "suchspecialoverlayFileNameDesc"
+msgstr "Hier wählen Sie die Grafik aus, die als Artikelsticker angezeigt werden soll. Diese Einstellung gilt nur für das EVO-Template und hat im NOVA-Template keine Auswirkung."
+
+msgid "suchspecialoverlayPrio"
+msgstr "Priorität (1 = niedrige Priorität)"
+
+msgid "suchspecialoverlayClarityDesc"
+msgstr "Hier legen Sie fest, wie transparent der Sticker sein soll. Die Angabe bezieht sich auf Prozent. Falls Sie das EVO-Template verwenden, wird diese Einstellung über eine Template-Anpassung realisiert. Bei Verwendung des NOVA-Templates hat diese Einstellung keine Auswirkung."
+
+msgid "suchspecialoverlaySize"
+msgstr "Größe des Stickers in Pixel (px)"
+
+msgid "suchspecialoverlaySizeDesc"
+msgstr "Hier legen Sie fest, wie groß der Sticker im Vergleich zum Artikelbild sein soll. Falls Sie das EVO-Template verwenden, wird diese Einstellung über eine Template-Anpassung realisiert. Bei Verwendung des NOVA-Templates hat diese Einstellung keine Auswirkung."
+
+msgid "suchspecialoverlayPositionDesc"
+msgstr "Hier legen Sie fest, wo sich der Sticker im Artikelbild befinden soll. Falls Sie das EVO-Template verwenden, wird diese Einstellung über eine Template-Anpassung realisiert. Bei Verwendung des NOVA-Templates hat diese Einstellung keine Auswirkung."
+
+msgid "suchspecialoverlayPrioDesc"
+msgstr "Falls auf einen Artikel mehrere Sticker zutreffen, können Sie hier bestimmen, welcher Sticker angezeigt werden soll. Dabei wird der Sticker mit der höchsten Priorität angezeigt."
+
+msgid "errorOverlayWritePermissions"
+msgstr "Der Sticker konnte nicht gespeichert werden. Bitte prüfen Sie die Schreibrechte des Ordners „%s“."
+
+msgid "invalidOverlay"
+msgstr "Unbekannter Artikelsticker"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Bestseller"
+msgstr "Bestseller"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Sonderangebote"
+msgstr "Sonderangebote"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Neu im Sortiment"
+msgstr "Neu im Sortiment"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Top Angebote"
+msgstr "Top-Artikel"
+
+#overlay name (tsuchspecialoverlay)
+msgid "In kürze Verfügbar"
+msgstr "In Kürze verfügbar"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Top bewertet"
+msgstr "Top bewertet"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Lagerbestand 0"
+msgstr "Lagerbestand 0"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Auf Lager"
+msgstr "Auf Lager"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Vorbestellbar"
+msgstr "Vorbestellbar"

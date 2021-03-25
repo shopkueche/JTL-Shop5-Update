@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Panel"
+msgstr "Panel"
+
+msgid "showHeader"
+msgstr "Kopf anzeigen"
+
+msgid "showFooter"
+msgstr "Fuß anzeigen"
+
+msgid "panelType"
+msgstr "Farbschema"

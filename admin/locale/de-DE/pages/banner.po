@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "banner"
+msgstr "Banner"
+
+msgid "bannerURL"
+msgstr "https://jtl-url.de/kf5vr"
+
+msgid "bannerDesc"
+msgstr "Hier pflegen Sie für beliebige Seiten in Ihrem Onlineshop anklickbare Grafikbanner ein. Die anklickbaren Flächen lassen sich innerhalb des Grafikbanners frei positionieren und mit Artikeln oder beliebigen URLs verknüpfen.<br/><strong>Achtung:</strong> Deaktivieren Sie Ihren Adblocker, falls Sie Probleme auf dieser Seite feststellen."
+
+msgid "successSave"
+msgstr "Banner wurde erfolgreich gespeichert."
+
+msgid "errorSave"
+msgstr "Banner konnte nicht angelegt werden."
+
+msgid "errrorBannerNotFound"
+msgstr "Banner wurde nicht gefunden."
+
+msgid "successDeleted"
+msgstr "Banner wurde erfolgreich gelöscht."
+
+msgid "errorDeleted"
+msgstr "Banner konnte nicht gelöscht werden."
+
+msgid "errorDate"
+msgstr "Eingabe für das Feld „Aktiv von “ konnte nicht verarbeitet werden."
+
+msgid "errorDateActiveToGreater"
+msgstr "Das Datum im Feld „Aktiv bis“ muss nach dem Datum im Feld „Aktiv von“ liegen."
+
+msgid "chooseBanner"
+msgstr "Banner wählen"
+
+msgid "warningNoBannerInDir"
+msgstr "Kein Banner im Ordner <strong>%s</strong> vorhanden."
+
+msgid "viewingOptions"
+msgstr "Anzeigeoptionen"
+
+msgid "availableBanner"
+msgstr "Vorhandene Banner"
+
+msgid "saveBanner"
+msgstr "Banner speichern"
+
+msgid "addBanner"
+msgstr "Banner anlegen"
+
+msgid "actionLink"
+msgstr "Verlinken"

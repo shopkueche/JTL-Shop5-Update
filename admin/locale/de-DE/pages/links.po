@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "link"
+msgstr "Seite"
+
+msgid "links"
+msgstr "Linkgruppen und eigene Seiten"
+
+msgid "linksDesc"
+msgstr "Hier konfigurieren Sie die verschiedenen Linkgruppen, die Sie über die Boxenverwaltung in JTL-Shop anzeigen lassen können. Sie können in jeder der Linkgruppen eigene Seiten mit Inhalt, Links zu anderen URLs oder Spezialseiten erstellen."
+
+msgid "linksUrl"
+msgstr "https://jtl-url.de/rcl9g"
+
+msgid "linkGroupMove"
+msgstr "In Linkgruppe verschieben"
+
+msgid "linkModificationOnlyRoot"
+msgstr "nur für Elemente des Root-Levels möglich"
+
+msgid "linkMove"
+msgstr "Unter Link einordnen"
+
+msgid "linkGroupCopy"
+msgstr "In Linkgruppe kopieren"
+
+msgid "linkGroupRemove"
+msgstr "Aus Linkgruppe entfernen"
+
+msgid "newLinkGroup"
+msgstr "Neue Linkgruppe erstellen"
+
+msgid "editLinkGroup"
+msgstr "Linkgruppe bearbeiten"
+
+msgid "saveLinkGroup"
+msgstr "Linkgruppe speichern"
+
+msgid "deleteLinkGroup"
+msgstr "Linkgruppe löschen"
+
+msgid "linkGroupTemplatename"
+msgstr "Template-Name"
+
+msgid "addLink"
+msgstr "Seite hinzufügen"
+
+msgid "newLinks"
+msgstr "Seite erstellen und bearbeiten"
+
+msgid "newLinksSave"
+msgstr "Seite speichern"
+
+msgid "linkType"
+msgstr "Seitentyp"
+
+msgid "linkWithOwnContent"
+msgstr "Seite mit frei erstelltem Inhalt"
+
+msgid "linkToExternalURL"
+msgstr "Link zu einer externen Adresse"
+
+msgid "linkToSpecalPage"
+msgstr "Spezialseite"
+
+msgid "url"
+msgstr "Ziel-URL"
+
+msgid "urlDesc"
+msgstr "Füllen Sie dieses Feld nur aus, wenn der Seitentyp <em>Link zu einer externen Adresse</em> lautet."
+
+msgid "titleDesc"
+msgstr "Hier hinterlegen Sie den Namen der Seite. Sie müssen diesen nur ausfüllen, wenn es sich um eine <em>Seite mit frei erstelltem Inhalt</em> handelt."
+
+msgid "restrictedToCustomerGroups"
+msgstr "Sichtbar für"
+
+msgid "linkTitle"
+msgstr "Überschrift"
+
+msgid "linkSeo"
+msgstr "Name für Suchmaschinen"
+
+msgid "choose"
+msgstr "Bitte wählen"
+
+msgid "shipping"
+msgstr "Informationen zum Versand"
+
+msgid "forgotPassword"
+msgstr "Passwort vergessen"
+
+msgid "metaTitle"
+msgstr "Meta Title"
+
+msgid "metaKeywords"
+msgstr "Meta Keywords"
+
+msgid "metaDescription"
+msgstr "Meta Description"
+
+msgid "metaTitleDesc"
+msgstr "Der Meta Title wird von Suchmaschinen als Überschrift der Seite verwendet. Dieser sollte möglichst aussagekräftig und maximal 69 Zeichen lang sein. "
+
+msgid "metaKeywordsDesc"
+msgstr "In den Meta Keywords tragen Sie Schlüsselwörter zur Seite ein. Wichtige Schlüsselwörter sollten vorne stehen. Handelt es sich um einen deutschsprachigen Onlineshop, sind Umlaute erlaubt. (Hinweis: Die Suchmaschine Google ignoriert Meta Keywords einer Seite.) "
+
+msgid "metaDescriptionDesc"
+msgstr "Die Meta Description gibt einen Überblick über den Inhalt einer Seite und wird als Textausschnitt in Suchmaschinen angezeigt. Die Beschreibung sollte den Inhalt der Seite so genau wie möglich und in kurzer Form wiedergeben (max. 156 Zeichen). "
+
+msgid "agb"
+msgstr "AGB"
+
+msgid "privacy"
+msgstr "Datenschutz"
+
+msgid "visibleAfterLogin"
+msgstr "Sichtbar nur nach Anmeldung"
+
+msgid "showPrintButton"
+msgstr "Drucken-Schaltfläche anzeigen"
+
+msgid "noFollow"
+msgstr "„nofollow“- bzw. „noindex“-Attribut setzen, um Suchmaschinen von der Indexierung der Seite abzuhalten"
+
+msgid "livesearch"
+msgstr "Suchanfragen"
+
+msgid "manufacturer"
+msgstr "Hersteller-Übersicht"
+
+msgid "newsletterArchive"
+msgstr "Newsletter-Archiv"
+
+msgid "newsArchive"
+msgstr "Blogarchiv"
+
+msgid "gratisGeschenk"
+msgstr "Gratisgeschenk"
+
+msgid "wrb"
+msgstr "Widerrufsbelehrung"
+
+msgid "linkPicAdd"
+msgstr "Weiteres Bild hinzufügen"
+
+msgid "linkPics"
+msgstr "Verfügbare Bilder"
+
+msgid "cIdentifierText"
+msgstr "Eindeutige Seiten-ID"
+
+msgid "bIsFluidText"
+msgstr "Container-Layout „Fluid“ aktiv"
+
+msgid "noData"
+msgstr "Keine Links vorhanden"
+
+msgid "successLinkFromLinkGroupDelete"
+msgstr "Link wurde erfolgreich aus Linkgruppe entfernt."
+
+msgid "errorLinkFromLinkGroupDelete"
+msgstr "Link konnte nicht aus Linkgruppe entfernt werden."
+
+msgid "successLinkDelete"
+msgstr "Link wurde erfolgreich gelöscht."
+
+msgid "errorLinkDelete"
+msgstr "Link konnte nicht gelöscht werden."
+
+msgid "errorLinkGroupDelete"
+msgstr "Linkgruppe konnte nicht gelöscht werden."
+
+msgid "successLinkGroupDelete"
+msgstr "Linkgruppe wurde erfolgreich gelöscht."
+
+msgid "successLinkCreate"
+msgstr "Link wurde erfolgreich hinzugefügt."
+
+msgid "successLinkEdit"
+msgstr "Link <strong>%s</strong> wurde erfolgreich geändert."
+
+msgid "errorTemplateNameDuplicate"
+msgstr "Bitte wählen Sie einen eindeutigen Template-Namen."
+
+msgid "successLinkGroupCreate"
+msgstr "Linkgruppe wurde erfolgreich erstellt."
+
+msgid "successLinkGroupEdit"
+msgstr "Linkgruppe <strong>%s</strong> wurde erfolgreich geändert."
+
+msgid "errorLinkMoveDuplicate"
+msgstr "Der Link konnte nicht verschoben werden, da er bereits in der Zielgruppe existiert."
+
+msgid "errorLinkKeyNotFound"
+msgstr "Es konnte kein Link mit diesem Key gefunden werden."
+
+msgid "errorLinkGroupKeyNotFound"
+msgstr "Es konnte keine Linkgruppe mit diesem Key gefunden werden."
+
+msgid "successLinkMove"
+msgstr "Link %s wurde erfolgreich verschoben."
+
+msgid "errorLinkMove"
+msgstr "Link konnte nicht verschoben werden."
+
+msgid "errorLinkCopyDuplicate"
+msgstr "Der Link konnte nicht kopiert werden, da er bereits in der Zielgruppe existiert."
+
+msgid "successLinkCopy"
+msgstr "Link %s wurde erfolgreich kopiert."
+
+msgid "dangerDeleteAllLinksInLinkGroup"
+msgstr "Alle Links innerhalb dieser Linkgruppe werden ebenfalls gelöscht."
+
+msgid "dangerDeleteLinksAlso"
+msgstr "Die folgenden Links werden in anderen Linkgruppen referenziert und werden dort ebenfalls gelöscht."
+
+msgid "sureDeleteLinkGroup"
+msgstr "Möchten Sie die Linkgruppe „<strong>%s</strong>“ wirklich löschen?"
+
+msgid "newLinksSaveContinueEdit"
+msgstr "Seite speichern und weiterbearbeiten"
+
+msgid "createWithSearchEngineName"
+msgstr "(anlegen unter „Name für Suchmaschinen“)"
+
+msgid "sureDeleteLink"
+msgstr "Möchten Sie den Link wirklich löschen?\nBitte beachten Sie, dass auch untergeordnete Links und alle Kopien gelöscht werden!"
+
+msgid "linksWithoutLinkGroup"
+msgstr "Links ohne Linkgruppe"
+
+msgid "dangerLinkWillGetDeleted"
+msgstr "Achtung: Der Link ist in %s Linkgruppen vorhanden und wird aus allen gelöscht."
+
+msgid "isDuplicateSpecialLink"
+msgstr "Die Spezialseite existiert bereits für die gewählte(n) Kundengruppe(n)."
+
+msgid "hasDuplicateSpecialLink"
+msgstr "Die Spezialseite %s existiert mehrmals für die gleiche(n) Kundengruppe(n)."
+
+msgid "Referenz"
+msgstr "Referenz"
+
+msgid "hasAtLeastOneDuplicateSpecialLink"
+msgstr "In dieser Linkgruppe existiert mindestens eine Spezialseite mehrmals, für die gleiche(n) Kundengruppe(n)."
+
+msgid "newLinkGroupTitle"
+msgstr "Neue Linkgruppe erstellen"

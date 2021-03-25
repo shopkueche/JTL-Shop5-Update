@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "categorycheck"
+msgstr "Orphan categories"
+
+msgid "categorycheckURL"
+msgstr "https://jtl-url.de/og4rq"
+
+msgid "categorycheckDesc"
+msgstr "This is a list of all subcategories without parent categories."
+
+msgid "errorCatsWithoutParents"
+msgstr "Categories without parent categories found."
+
+msgid "infoNoOrphanedCats"
+msgstr "No orphan categories found."

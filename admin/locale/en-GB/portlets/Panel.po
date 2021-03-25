@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Panel"
+msgstr "Panel"
+
+msgid "showHeader"
+msgstr "Show header"
+
+msgid "showFooter"
+msgstr "Show footer"
+
+msgid "panelType"
+msgstr "Colour scheme"

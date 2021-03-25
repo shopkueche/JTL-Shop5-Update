@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "plz_ort_import"
+msgstr "Importing postal codes/locations"
+
+msgid "plz_ort_importDesc"
+msgstr "On this page you can import current data concerning postal codes and locations from OpenGeoDB."
+
+msgid "plz_ort_available"
+msgstr "Existing postal codes and location data"
+
+msgid "plz_ort_size"
+msgstr "File size"
+
+msgid "plz_ort_import_new"
+msgstr "Import"
+
+msgid "plz_ort_import_select"
+msgstr "Select import data"
+
+msgid "plz_ort_import_select_failed"
+msgstr "Could not load the list of available imports."
+
+msgid "plz_ort_import_load"
+msgstr "Loading…"
+
+msgid "plz_ort_import_tmp_exists"
+msgstr "Temporary import found in the database. Delete import?"
+
+msgid "plz_ort_import_delete_no"
+msgstr "No, do not delete"
+
+msgid "plz_ort_import_delete_yes"
+msgstr "Yes, delete"
+
+msgid "plz_ort_import_refresh_desc"
+msgstr "Import new data"
+
+msgid "plz_ort_import_reset_desc"
+msgstr "Reset to state before update"
+
+msgid "plz_ort_import_help"
+msgstr "By selecting \"Import new files\", you can directly download a data file from <i>%s</i> and install it automatically.<br/>If no direct download is possible or if a direct download is cancelled due to a timeout, load the respective file into the <i>/uploads</i> directory of your web server using FTP. You can then import the file via the <i class=\"fa fa-download\"></i> symbol in the overview.<br/>Before the import, a backup is performed that can be restored if needed."
+
+msgid "errorImportInvalid"
+msgstr "Cannot read import file for %s!"
+
+msgid "importProgress"
+msgstr "Updating %s in database…"
+
+msgid "successImport"
+msgstr "Import completed successfully."
+
+msgid "errorParameterInvalid"
+msgstr "Invalid parameter!"
+
+msgid "errorDownload"
+msgstr "Cannot download %s."
+
+msgid "errorDownloadFileCreate"
+msgstr "Cannot create download file for %s. Page %s may be currently unavailable. Please try again later."
+
+msgid "errorDownloadTimeLong"
+msgstr "Cannot download %s because of timeout. Please contact the Support team."
+
+msgid "successDownload"
+msgstr "%s downloaded successfully."
+
+msgid "errorImportRunning"
+msgstr "Already running an import. Please wait until the import is finished."
+
+msgid "errorImportStart"
+msgstr "Cannot start import. Session expired. Please sign in again. In case the error occurs again, please contact the support team."
+
+msgid "successImportTempDelete"
+msgstr "Temporary import deleted successfully."
+
+msgid "importCancel"
+msgstr "Import was cancelled."
+
+msgid "importDataFrom"
+msgstr "Import data from %s"
+
+msgid "createBackupFrom"
+msgstr "Create backup from %s ..."
+
+msgid "downloadFrom"
+msgstr "Download from %s"
+
+msgid "importPending"
+msgstr "Importing %s …"

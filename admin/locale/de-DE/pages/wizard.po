@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "setupAssistant"
+msgstr "Einrichtungsassistent"
+
+msgid "setupAssistantDesc"
+msgstr " "
+
+msgid "setupAssistantURL"
+msgstr " "
+
+msgid "launchSetup"
+msgstr "Einrichtungsassistent öffnen"
+
+msgid "welcome"
+msgstr "Herzlich willkommen!"
+
+msgid "welcomeDesc"
+msgstr "In diesem Assistenten führen wir Sie durch die wichtigsten Schritte der Einrichtung von JTL-Shop."
+
+msgid "beginSetup"
+msgstr "Starten"
+
+msgid "stepOne"
+msgstr "Schritt 1 – Grundeinstellungen"
+
+msgid "stepOneDesc"
+msgstr "Hier legen Sie die wichtigsten Grundeinstellungen für Ihren Onlineshop fest. Sie können jederzeit alle Einstellungen im Backend von JTL-Shop ändern."
+
+msgid "stepThree"
+msgstr "Schritt 3 – Rechtstexte"
+
+msgid "stepThreeDesc"
+msgstr "Für rechtlich relevante Texte bieten wir passende Plugins von JTL-Partnern an. Diese Plugins erleichtern es Ihnen, rechtssichere Texte wie AGB, Widerrufsbelehrung usw. in Ihren Onlineshop einzupflegen. <br> Sie können Ihre Rechtstexte auch selbst formulieren und einrichten. Die Anleitung dazu finden Sie in unserem <a href=\"https://jtl-url.de/15ge9\" target=\"_blank\">JTL-Guide</a>."
+
+msgid "stepFour"
+msgstr "Schritt 4 – Zahlungsarten"
+
+msgid "stepFourDesc"
+msgstr "Wählen Sie passende Plugins, um Ihren Kunden diverse Zahlungsarten anzubieten. Welche Zahlungsarten Ihren Kunden wann angeboten werden, legen Sie in den einzelnen Versandarten fest. <br> Weitere Informationen dazu finden Sie im <a href=\"https://jtl-url.de/dlkpz\" target=\"_blank\">JTL-Guide</a>. Standardmäßig bietet JTL-Shop folgende Zahlungsarten: %s."
+
+msgid "stepTwo"
+msgstr "Schritt 2 – E-Mail-Einstellungen"
+
+msgid "stepTwoDesc"
+msgstr "Hier sehen Sie die wichtigsten E-Mail-Einstellungen. Nehmen Sie die übrigen Einstellungen zum E-Mail-Server möglichst zeitnah nach dieser Ersteinrichtung unter „Administration > E-Mail > Server“ vor. Weitere Informationen dazu finden Sie im <a href=\"https://jtl-url.de/jnw83\" target=\"_blank\">JTL-Guide</a>."
+
+msgid "stepFive"
+msgstr "Schritt 5 – Übersicht & Bestätigung"
+
+msgid "stepFiveDesc"
+msgstr "Hier sehen Sie einen Überblick der gerade vorgenommenen Einstellungen. Sie können jeden Punkt noch einmal bearbeiten. Klicken Sie anschließend auf „Bestätigen“."
+
+msgid "legalTexts"
+msgstr "Rechtstexte"
+
+msgid "vatSettings"
+msgstr "Steuereinstellungen"
+
+msgid "smallEntrepreneur"
+msgstr "Kleinunternehmerregelung"
+
+msgid "vatSmallEntrepreneur"
+msgstr "Kleinunternehmerregelung nach §19 UStG anwenden"
+
+msgid "vatSmallEntrepreneurTitle"
+msgstr "Wenn Sie diese Option aktivieren, wird in Ihrem Onlineshop keine Umsatzsteuer ausgewiesen."
+
+msgid "customerGroupDesc"
+msgstr "Der Onlineshop richtet sich an"
+
+msgid "customerGroupDescTitle"
+msgstr "B2B aktiviert die verpflichtende Abfrage von Firma und USt-IdNr. im Kundenformular und deaktiviert die Widerrufsbelehrung im Bestellvorgang. B2C deaktiviert die Abfrage von Firma und USt-IdNr. im Kundenformular. B2B und B2C aktiviert die optionale Abfrage von Firma und USt-IdNr. im Kundenformular."
+
+msgid "customerGroupB2B"
+msgstr "Unternehmer / gewerbliche Kunden (B2B)"
+
+msgid "customerGroupB2C"
+msgstr "Endverbraucher / private Kunden (B2C)"
+
+msgid "vatIDCompany"
+msgstr "USt-IdNr. der Firma"
+
+msgid "vatIDCompanyTitle"
+msgstr "Geben Sie hier die USt-IdNr. des Landes ein, in dem sich der Hauptsitz Ihres Unternehmens befindet."
+
+msgid "shopSettings"
+msgstr "Onlineshop-Einstellungen"
+
+msgid "shopName"
+msgstr "Name des Onlineshops"
+
+msgid "shopNameDesc"
+msgstr "Der angegebene Name wird an mehreren Stellen angezeigt. Beispiele: Meta-Titel, E-Mails, Seiten externer Zahlungsarten etc."
+
+msgid "secureDefaultSettings"
+msgstr "Sichere Voreinstellungen"
+
+msgid "secureDefaultSettingsDesc"
+msgstr "Aktiviert permanente SSL-Verschlüsselung (https, SSL-Zertifikat bei Ihrem Hosting-Provider erforderlich), E-Mail-Verschlüsselung via TLS und die Cookie-Flags Secure/HTTPOnly."
+
+msgid "weRecommend"
+msgstr "Wir empfehlen"
+
+msgid "weRecommendLegalDesc"
+msgstr "Um die Plugins verwenden zu können, müssen Sie mit dem jeweiligen Partner einen separaten Vertrag abschließen. Klicken Sie auf „Mehr erfahren“, um weitere Informationen zu den einzelnen Plugins zu erhalten."
+
+msgid "weRecommendPaymentDesc"
+msgstr "Um die Plugins verwenden zu können, müssen Sie mit dem jeweiligen Zahlungsanbieter einen Vertrag abschließen. Klicken Sie auf „Mehr erfahren“, um weitere Informationen zu den einzelnen Plugins zu erhalten."
+
+msgid "getToKnowMore"
+msgstr "Mehr erfahren"
+
+msgid "paymentPluginInstalled"
+msgstr "Das Plugin wurde erfolgreich installiert. Sie müssen es nun noch unter „Administration > Zahlungsarten“ einrichten."
+
+msgid "finalize"
+msgstr "Beenden"
+
+msgid "thankYouText"
+msgstr "Vielen Dank!"
+
+msgid "thankYouTextDesc"
+msgstr "Sie haben nun die wichtigsten Einstellungen für JTL-Shop getroffen."
+
+msgid "thankYouTextPluginsInstalled"
+msgstr "Bitte beachten Sie, dass Sie die Plugins ggfs. zunächst unter <span class=\"text-primary font-weight-bold\">Installierte Plugins</span> konfigurieren müssen, bevor Sie sie nutzen können."
+
+msgid "installedPlugins"
+msgstr "Installierte Plugins"
+
+msgid "finalizeHelpNotice"
+msgstr "Sie benötigen Hilfe bei der weiteren Einrichtung von JTL-Shop? Klicken Sie einfach auf einen der folgenden Links!"
+
+msgid "recommendationGuideLink"
+msgstr "https://guide.jtl-software.de/jtl-shop/"
+
+msgid "recommendationGuide"
+msgstr "JTL-Guide"
+
+msgid "recommendationGuideDesc"
+msgstr "Wie Sie JTL-Shop über die Grundkonfiguration hinaus individuell an Ihre Bedürfnisse anpassen, erfahren Sie im JTL-Guide."
+
+msgid "recommendationSupportLink"
+msgstr "https://www.jtl-software.de/hilfecenter/support#preisuebersicht"
+
+msgid "recommendationSupport"
+msgstr "Support"
+
+msgid "recommendationSupportDesc"
+msgstr "Haben Sie weitere Fragen, bieten wir Ihnen verschiedene Supportmodelle (ab Lizenzkauf für 12 Monate inklusive; wird nicht benötigt, wenn Sie bei JTL hosten)."
+
+msgid "recommendationExtensionStoreLink"
+msgstr "https://jtl-url.de/exs"
+
+msgid "recommendationExtensionStore"
+msgstr "JTL-Extension Store"
+
+msgid "recommendationExtensionStoreDesc"
+msgstr "Hier finden Sie viele Plugins, um Ihren JTL-Shop individuell nach Ihren Wünschen anzupassen."
+
+msgid "recommendationIssuetrackerLink"
+msgstr "https://issues.jtl-software.de/issues?project=shop"
+
+msgid "recommendationIssuetracker"
+msgstr "JTL-IssueTracker"
+
+msgid "recommendationIssuetrackerDesc"
+msgstr "Bekannte Fehler und Wünsche an unsere Software können Sie im JTL-IssueTracker finden."
+
+msgid "recommendationForumLink"
+msgstr "https://forum.jtl-software.de/#jtl-shop.250"
+
+msgid "recommendationForum"
+msgstr "JTL-Forum"
+
+msgid "recommendationForumDesc"
+msgstr "Für Diskussionen und Anregungen mit der gesamten JTL-Community steht Ihnen unser Forum zur Verfügung."
+
+msgid "recommendationReleaseForumLink"
+msgstr "https://forum.jtl-software.de/forums/releaseforum.36/"
+
+msgid "recommendationReleaseForum"
+msgstr "JTL-Releaseforum"
+
+msgid "recommendationReleaseForumDesc"
+msgstr "Abonnieren Sie unser Releaseforum, um über neue Versionen unserer Software via E-Mail informiert zu werden."
+
+msgid "recommendationBlogLink"
+msgstr "https://www.jtl-software.de/blog"
+
+msgid "recommendationBlog"
+msgstr "JTL-Blog"
+
+msgid "recommendationBlogDesc"
+msgstr "Unser Blog versorgt Sie stets mit den neuesten Informationen rund um die Welt von JTL."
+
+msgid "recommendationJTLSearchLink"
+msgstr "https://www.jtl-software.de/online-shopsystem/fehlertolerante-suche"
+
+msgid "recommendationJTLSearch"
+msgstr "JTL-Search"
+
+msgid "recommendationJTLSearchDesc"
+msgstr "JTL-Search ist ein kostenpflichtiges Zusatzmodul und ermöglicht Ihren Kunden eine fehlertolerante Suche."
+
+msgid "orderNumberSettings"
+msgstr "Bestellnummerneinstellungen"
+
+msgid "orderConfirmationBCC"
+msgstr "Bestellbestätigungskopie (BCC)"
+
+msgid "orderConfirmationBCCDesc"
+msgstr "Wir empfehlen dringend, zu Dokumentationszwecken eine E-Mail-Adresse für Bestellbestätigungskopien zu hinterlegen. Lassen Sie sich diese zur Übersichtlichkeit in Ihrem individuellen E-Mail-Postfach/-Client in separate Ordner filtern."
+
+msgid "adminUserEmail"
+msgstr "E-Mail-Adresse bei Passwortverlust"
+
+msgid "adminUserEmailDesc"
+msgstr "Diese E-Mail-Adresse wird verwendet, um beim Verlust eines Passwortes das Passwort zurückzusetzen."
+
+msgid "validationErrorRequired"
+msgstr "Pflichtfeld: Bitte füllen Sie dieses Feld aus."
+
+msgid "validationErrorIncorrectEmail"
+msgstr "Bitte geben Sie eine korrekte E-Mail-Adresse an."
+
+msgid "followUs"
+msgstr "Folgen Sie uns auch auf:"
+
+msgid "validationErrorSSL"
+msgstr "SSL nicht möglich."
+
+msgid "validationErrorSSLPlugin"
+msgstr "Sie benötigen ein gültiges SSL-Zertifikat, um Plugins über den Einrichtungsassistenten zu installieren."
+
+msgid "errorVATPattern"
+msgstr "Ungültige USt-IdNr. Bitte geben Sie eine gültige USt-IdNr. ein."
+
+msgid "oAuthValid"
+msgstr "Der Onlineshop wurde erfolgreich authentifiziert."
+
+msgid "oAuthInvalid"
+msgstr "Sie haben Plugins zur Installation vorgemerkt. Damit diese installiert werden, muss Ihr Onlineshop einmalig authentifiziert werden. Klicken Sie dazu auf „Zum zentralen Login“. Nach erfolgreicher Anmeldung mit den Daten Ihres Benutzerkontos werden Sie automatisch zu diesem Einrichtungsassistenten zurückgeleitet und können die Einrichtung abschließen."
+
+msgid "oAuthInformation"
+msgstr "Warum sollte ich mich anmelden"
+
+msgid "beginAuth"
+msgstr "Jetzt über zentralen Login anmelden"
+
+msgid "beginNoAuth"
+msgstr "Assistenten ohne Anmeldung starten"
+
+msgid "oAuthDesc"
+msgstr "Mit JTL-Shop 5 können Sie im JTL-Extension Store erworbene Plugins bequem direkt im Backend installieren und verwalten. Dazu muss Ihr Onlineshop einmalig über den zentralen Login von JTL authentifiziert werden. Eine einfache Anmeldung mit den Daten Ihres Benutzerkontos genügt. Sollten Sie diesen Schritt erst später durchführen wollen, können Sie ihn jederzeit im Backend unter „Meine Käufe“ nachholen."
+
+msgid "authButton"
+msgstr "Zum zentralen Login"

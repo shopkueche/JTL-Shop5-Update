@@ -1,0 +1,471 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "opcNotInstalled"
+msgstr "Could not properly install the OnPage Composer update. Please update the migrations."
+
+msgid "dbUpdateNeeded"
+msgstr "You need to update the database of JTL-Shop to use the OnPage&nbsp;Composer.<br><br>Please perform the update in the <a href=\"%s/admin/dbupdater.php\" target=\"_blank\">Admin back end</a>!"
+
+# OPC GUI
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Publish"
+msgstr "Publish"
+
+msgid "Save page"
+msgstr "Save page"
+
+msgid "Close OnPage-Composer"
+msgstr "Close OnPage Composer"
+
+msgid "Portlets"
+msgstr "Portlets"
+
+msgid "Blueprints"
+msgstr "Blueprints"
+
+msgid "Revisions"
+msgstr "Versions"
+
+msgid "Page structure"
+msgstr "Page structure"
+
+msgid "Import blueprint"
+msgstr "Import blueprints"
+
+msgid "Unsaved revision"
+msgstr "Unsaved version"
+
+msgid "Current revision"
+msgstr "Current version"
+
+msgid "Please wait..."
+msgstr "Please wait…"
+
+msgid "editPortletPrefix"
+msgstr "Edit "
+
+msgid "editPortletPostfix"
+msgstr " edit"
+
+msgid "Save this Portlet as a blueprint"
+msgstr "Save portlet as blueprint"
+
+msgid "Blueprint name"
+msgstr "Blueprint name"
+
+msgid "Delete Blueprint?"
+msgstr "Delete blueprint?"
+
+# Config Tabs
+
+msgid "Styles"
+msgstr "Layout"
+
+msgid "Animation"
+msgstr "Animation"
+
+# Styles tab
+
+msgid "Font colour"
+msgstr "Font colour"
+
+msgid "Visibility"
+msgstr "Visible for"
+
+msgid "hide"
+msgstr "hide"
+
+msgid "Background colour"
+msgstr "Background colour"
+
+msgid "Font size"
+msgstr "Font size"
+
+msgid "Default colour"
+msgstr "Default colour"
+
+msgid "Border style"
+msgstr "Border style"
+
+msgid "Border colour"
+msgstr "Border colour"
+
+msgid "Border radius"
+msgstr "Border rounding"
+
+msgid "Custom css class"
+msgstr "Custom class names"
+
+msgid "CustomCssClassDesc"
+msgstr "List one or more class names, separated by white spaces, that should be appended to the Portlets \"class\" attribute."
+
+msgid "CustomCssClassPlaceholder"
+msgstr "first-custom-class second-custom-class"
+
+msgid "Hidden on XS"
+msgstr "Hide portlet for XS"
+
+msgid "Hidden on SM"
+msgstr "Hide portlet for SM"
+
+msgid "Hidden on MD"
+msgstr "Hide portlet for MD"
+
+msgid "Hidden on LG"
+msgstr "Hide portlet for LG"
+
+msgid "cssNumericDesc"
+msgstr "Enter the desired value without spaces and with a decimal point as a decimal separator."
+
+# Animations tab
+
+msgid "Animation style"
+msgstr "Animation type"
+
+msgid "Duration"
+msgstr "Duration"
+
+msgid "Delay"
+msgstr "Delay"
+
+msgid "Offset (px)"
+msgstr "Distance (pixels)"
+
+msgid "Iteration"
+msgstr "Repetition"
+
+msgid "Change the animation duration (e.g. 2s)"
+msgstr "Duration of the animation (e.g. 2&nbsp;s)"
+
+msgid "Delay before the animation starts"
+msgstr "Time until animation begins"
+
+msgid "Distance to start the animation (related to the browser bottom)"
+msgstr "The animation starts when the scrolling distance between the top edge of the respective element and the bottom edge of the current browser window equals the entered pixel value. By adjusting this setting, you can, for example, prevent an animation from starting while the element is not&nbsp;yet completely visible."
+
+msgid "Number of times the animation is repeated"
+msgstr "Number of repetitions"
+
+msgid "onPageComposer"
+msgstr "OnPage Composer"
+
+msgid "toggleNavigation"
+msgstr "Toggle navigation"
+
+msgid "noteInfoInGuide"
+msgstr "Aside from the guided tours listed below, you can also find a lot of information in the JTL-Guide."
+
+msgid "generalIntroduction"
+msgstr "General introduction"
+
+msgid "getToKnowComposer"
+msgstr "Get to know the OnPage Composer and create your first portlet."
+
+msgid "animation"
+msgstr "Animation"
+
+msgid "noteMovementOnPage"
+msgstr "Would you like to have more moving elements on your pages?"
+
+msgid "noteSaveAsTemplate"
+msgstr "You have created a great view that you would like to use more often?<br> Why don’t you save it as a blueprint so that you can easily use it again and again?"
+
+msgid "settingsMore"
+msgstr "Settings (advanced)"
+
+msgid "noteTricks"
+msgstr "Get to know a few tips and tricks to optimise your online shop for a variety of display formats."
+
+msgid "startTour"
+msgstr "Start tour"
+
+msgid "draftPublic"
+msgstr "Publish this draft"
+
+msgid "draftName"
+msgstr "Internal name"
+
+msgid "restoreChanges"
+msgstr "Restoring local changes"
+
+msgid "restoreUnsaved"
+msgstr "This draft was not saved in the last session. Keep last changes?"
+
+msgid "noCurrent"
+msgstr "No, discard changes"
+
+msgid "yesRestore"
+msgstr "Yes, keep changes"
+
+msgid "editSettings"
+msgstr "Edit settings"
+
+msgid "copySelect"
+msgstr "Copy selection"
+
+msgid "saveTemplate"
+msgstr "Save selection as blueprint"
+
+msgid "goUp"
+msgstr "Select next higher level"
+
+msgid "deleteSelect"
+msgstr "Delete selection [Del]"
+
+msgid "templateTitle"
+msgstr "Blueprint name"
+
+msgid "availableFilters"
+msgstr "Available filters"
+
+msgid "activeFilters"
+msgstr "Active filters"
+
+msgid "noMoreFilters"
+msgstr "No other filters available."
+
+msgid "entryMove"
+msgstr "Move entry"
+
+msgid "entryDelete"
+msgstr "Delete entry"
+
+msgid "imageSelect"
+msgstr "Select image"
+
+msgid "alternativeText"
+msgstr "Alternative text"
+
+msgid "imageAdd"
+msgstr "Add image"
+
+msgid "videoTagNotSupported"
+msgstr "Your browser does not support the video tag."
+
+msgid "zoneNew"
+msgstr "New section"
+
+msgid "zoneDelete"
+msgstr "Delete section"
+
+msgid "templateDeleteSure"
+msgstr "Delete selected blueprint?"
+
+msgid "publishNot"
+msgstr "Do not publish"
+
+msgid "publishImmediately"
+msgstr "Publish now"
+
+msgid "selectDate"
+msgstr "Select period"
+
+msgid "indefinitePeriodOfTime"
+msgstr "For indefinite period"
+
+msgid "draftUpper"
+msgstr "DRAFT"
+
+msgid "publicUpper"
+msgstr "PUBLIC"
+
+msgid "plannedUpper"
+msgstr "SCHEDULED"
+
+msgid "pastUpper"
+msgstr "PAST"
+
+msgid "publicSince"
+msgstr "published on"
+
+msgid "publicUntil"
+msgstr "public until"
+
+msgid "publicFrom"
+msgstr "from"
+
+msgid "publicTill"
+msgstr "until"
+
+msgid "plannedFrom"
+msgstr "scheduled from"
+
+msgid "noPublicationPlanned"
+msgstr "no publication scheduled"
+
+msgid "duplicate"
+msgstr "Duplicate"
+
+msgid "useForOtherLang"
+msgstr "Apply to other languages"
+
+msgid "editPage"
+msgstr "Edit page"
+
+msgid "opcNotSupportedPage"
+msgstr "Unfortunately, this page cannot be edited with the OnPage Composer!"
+
+msgid "newDraft"
+msgstr "New draft"
+
+msgid "allDrafts"
+msgstr "All drafts"
+
+msgid "deleteDraftsContinue"
+msgstr "Drafts will be deleted. Continue?"
+
+msgid "draftDeleteSure"
+msgstr "Delete this draft?"
+
+msgid "label"
+msgstr "Labelling"
+
+msgid "style"
+msgstr "Colour scheme"
+
+msgid "stylePrimary"
+msgstr "Primary"
+
+msgid "styleSuccess"
+msgstr "Success"
+
+msgid "styleInfo"
+msgstr "Info"
+
+msgid "styleWarning"
+msgstr "Warning"
+
+msgid "styleDanger"
+msgstr "Danger"
+
+msgid "Icon"
+msgstr "Icon"
+
+msgid "background"
+msgstr "Background"
+
+msgid "backgroundImage"
+msgstr "Wallpaper"
+
+msgid "video"
+msgstr "Video"
+
+msgid "vertical"
+msgstr "vertical"
+
+msgid "horizontal"
+msgstr "horizontal"
+
+msgid "grid"
+msgstr "Grid"
+
+msgid "alternate"
+msgstr "Alternate"
+
+msgid "columns"
+msgstr "Columns"
+
+msgid "noAction"
+msgstr "No action"
+
+msgid "lightbox"
+msgstr "Lightbox"
+
+msgid "linked"
+msgstr "Link"
+
+msgid "mobileXS"
+msgstr "Mobile (XS)"
+
+msgid "tabletSM"
+msgstr "Tablet (SM)"
+
+msgid "desktopMD"
+msgstr "Desktop (MD)"
+
+msgid "desktopLG"
+msgstr "Large desktop (LG)"
+
+msgid "active"
+msgstr "active"
+
+msgid "planned"
+msgstr "scheduled"
+
+msgid "draft"
+msgstr "Draft"
+
+msgid "past"
+msgstr "Past"
+
+msgid "activeSince"
+msgstr "Active from"
+
+msgid "activeUntil"
+msgstr "Active until"
+
+msgid "scheduledFor"
+msgstr "Planned from"
+
+msgid "notScheduled"
+msgstr "Unpublished"
+
+msgid "expiredOn"
+msgstr "Expired on"
+
+msgid "dropPortletHere"
+msgstr "Insert portlet here"
+
+# Messages
+
+msgid "opcImportSuccess"
+msgstr "The draft was imported successfully."
+
+msgid "opcImportUnmappedS"
+msgstr "One section could not be displayed. Its ID is not present on the current page."
+
+msgid "opcImportUnmappedP"
+msgstr "%s sections could not be displayed. Their IDs are not present on the current page."
+
+msgid "opcImportSuccessTitle"
+msgstr "Import completed successfully."
+
+msgid "btnTitleCopyArea"
+msgstr "Add content to visible area"
+
+msgid "offscreenAreasDivider"
+msgstr "Sections not displayed"
+
+msgid "yesDeleteArea"
+msgstr "Discard this section"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "opcPageLocked"
+msgstr "This draft is currently locked for editing by"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Done"
+msgstr "All done!"
+
+# MISC
+
+msgid "alignment"
+msgstr "Alignment"
+
+msgid "targetBlank"
+msgstr "Open link in new tab"

@@ -1,0 +1,61 @@
+
+.table {
+	&:not(.table-bordered) thead th { border: 0; }
+
+	thead {
+		th { @extend .subheading1; background-color: $table-head-bg; padding: $table-head-padding; text-transform: uppercase; font-size: $font-size-sm; margin-bottom: map-get($spacers, 3); }
+		+ tbody tr:first-child td, + tbody tr:first-child th { border-top: 0; }
+	}
+}
+
+.table-border-light {
+	th, td { border-color: $table-border-color-light; }
+}
+
+.table-content-center {
+	th, td { vertical-align: middle; }
+}
+
+.table-sm { font-size: $font-size-sm;
+	thead th { @extend .subheading1; padding: $table-head-padding-sm; }
+}
+
+.table-vertical-center {
+	th, td { vertical-align: middle; }
+}
+
+.collapse-tr > td { padding: 0; border: 0;
+	> div { border-top: 1px solid $table-border-color-light; }
+}
+
+.table-dark {
+	&.table-striped {
+		tbody tr:nth-of-type(odd) {
+			background-color: $table-dark-accent-bg;
+		}
+		tbody tr:nth-of-type(even) {
+			background-color: $table-dark-bg;
+		}
+	}
+}
+
+.table-responsive {
+	@include media-breakpoint-down(md) {
+		max-height: 300px;
+		th {
+			z-index: 1;
+			position: sticky;
+			top: 0;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			white-space: nowrap;
+		}
+		td {
+			padding: .5rem;
+		}
+	}
+}
+table.sortable thead {
+	cursor: pointer;
+}
+

@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "errorIndexNotCreatable"
+msgstr "Could not create index for full-text search due to a MySQL error. Full-text search was deactivated. Please contact the Support team."
+
+msgid "errorIndexInvalid"
+msgstr "Invalid index. Please enter a valid index (tartikel or tartikelsprache)."
+
+msgid "successIndexCreate"
+msgstr "Full-text index for %s generated successfully."
+
+msgid "successIndexDelete"
+msgstr "Full-text index for %s deleted successfully."
+
+msgid "errorFulltextSearchMYSQL"
+msgstr "The full-text search requires MySQL version 5.6 or higher."
+
+msgid "successSearchActivate"
+msgstr "Full-text search activated successfully."
+
+msgid "successSearchDeactivate"
+msgstr "Full-text search deactivated successfully."
+
+msgid "indexCreate"
+msgstr "Generating full-text index…"
+
+msgid "errorCreateTime"
+msgstr "No full-text index available. Generating the index might take some time."
+
+msgid "successSearchCacheDelete"
+msgstr "Search cache deleted successfully."
+
+msgid "searchSettingsChange"
+msgstr "Changing the search settings"
+
+msgid "fulltextSearchMysql"
+msgstr "The full-text search requires MySQL version 5.6 or higher."
+
+msgid "useFulltextSearch"
+msgstr "Use full-text search"
+
+msgid "Sucheinstellungen"
+msgstr "Search settings"

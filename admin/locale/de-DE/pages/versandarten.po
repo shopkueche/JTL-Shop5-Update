@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "shippingmethods"
+msgstr "Versandarten"
+
+msgid "shippingmethodsURL"
+msgstr "https://jtl-url.de/dlkpz"
+
+msgid "isleListsHint"
+msgstr "Klicken Sie auf die einzelnen Versandländer, um Zuschlagslisten (z. B. Inselzuschläge) zu definieren. Ob für ein Lieferland Zuschlagslisten für die jeweilige Versandart hinterlegt sind, erkennen Sie an der entsprechenden Markierung."
+
+msgid "createShippingMethod"
+msgstr "Versandart anlegen"
+
+msgid "createShippingMethodTitle"
+msgstr "Versandart anlegen"
+
+msgid "createShippingMethodDesc"
+msgstr "Hier legen Sie eine neue Versandart für JTL-Shop an. Diese kann im Anschluss mit einer Versandart in JTL-Wawi verknüpft werden."
+
+msgid "shippingMethodName"
+msgstr "Name der Versandart"
+
+msgid "shipToCountries"
+msgstr "Lieferland"
+
+msgid "shippingTime"
+msgstr "Lieferzeit-Freitext"
+
+msgid "shippingNote"
+msgstr "Hinweistext"
+
+msgid "shippingNoteShop"
+msgstr "Hinweistext (Onlineshop)"
+
+msgid "shippingNoteEmail"
+msgstr "Hinweistext (E-Mail)"
+
+msgid "gross"
+msgstr "Brutto (fixer Versandkostenpreis)"
+
+msgid "amount"
+msgstr "Betrag"
+
+msgid "taxshippingcosts"
+msgstr "Steuerberechnung für Versandkosten und Versandkostenfrei-Grenze"
+
+msgid "taxshippingcostsDesc"
+msgstr "Hier legen Sie fest, ob die Versandkosten als fester Brutto-Preis angegeben werden sollen. Wenn die Option „Brutto (fixer Versandkostenpreis)“ gewählt wird, bleiben die Versandkosten für den Kunden immer gleich, da sich unterschiedliche Umsatzsteuersätze nicht auf die Gesamtkosten für den Versand auswirken. Außerdem wird bei der Grenze für kostenfreien Versand der Brutto-Warenkorbwert berücksichtigt.<br><br/> Wenn Sie als Option „Netto (automatischer USt-Aufschlag)“ wählen, wird der jeweils geltende Umsatzsteuersatz des Warenkorbs auf die Netto-Versandkosten aufgeschlagen, sodass es für den Kunden je nach Steuersatz zu unterschiedlichen Versandkosten kommen kann. Außerdem wird bei der Grenze für kostenfreien Versand der Netto-Warenkorbwert berücksichtigt."
+
+msgid "net"
+msgstr "Netto (automatischer USt-Aufschlag)"
+
+msgid "upTo"
+msgstr "bis"
+
+msgid "priceScale"
+msgstr "Preisstaffel"
+
+msgid "showShippingMethod"
+msgstr "Versandart ist verfügbar"
+
+msgid "excludeShippingProposal"
+msgstr "Für Kalkulation der günstigsten Versandkosten ignorieren"
+
+msgid "excludeShippingProposalDesc"
+msgstr "Hier legen Sie fest, ob diese Versandart für die Berechnung der günstigsten Versandkosten übersprungen werden soll.<br><br/> Unabhängig von dieser Einstellung wird die Versandart im Bestellvorgang und in der Warenkorb-Versandkostenermittlung als Option angeboten, sofern die sonstigen Kriterien erfüllt sind."
+
+msgid "sortnr"
+msgstr "Sortiernummer"
+
+msgid "minLiefertage"
+msgstr "Min. Liefertage"
+
+msgid "maxLiefertage"
+msgstr "Max. Liefertage"
+
+msgid "acceptedPaymentMethods"
+msgstr "Akzeptierte Zahlungsarten"
+
+msgid "createShippingType"
+msgstr "Versandart speichern"
+
+msgid "modifyedShippingType"
+msgstr "Änderungen speichern"
+
+msgid "modifyedShippingTypeTitle"
+msgstr "Versandart „%s“ ändern"
+
+msgid "shippingTypeName"
+msgstr "Versandart"
+
+msgid "countries"
+msgstr "Lieferländer"
+
+msgid "paymentMethods"
+msgstr "Zahlungsarten"
+
+msgid "shippingPrice"
+msgstr "Versandkosten"
+
+msgid "isleListFor"
+msgstr "Zuschlagslisten für"
+
+msgid "isleListsDesc"
+msgstr "Hier können Sie Zuschlagslisten (z.&nbsp;B. Inselzuschläge) anlegen und über „+“ eine PLZ-Basis hinzufügen. Die Zuschlagsliste gilt nur für die ausgewählte Versandart und das ausgewählte Lieferland."
+
+msgid "isleList"
+msgstr "Zuschlagsliste"
+
+msgid "additionalFee"
+msgstr "Zuschlag"
+
+msgid "zip"
+msgstr "PLZ"
+
+msgid "additionalFeeDelete"
+msgstr "Zuschlagsliste löschen"
+
+msgid "createList"
+msgstr "Neue Zuschlagsliste anlegen"
+
+msgid "editList"
+msgstr "Zuschlagsliste bearbeiten"
+
+msgid "orZipRange"
+msgstr "PLZ-Bereich"
+
+msgid "zipRange"
+msgstr "PLZ-Bereich"
+
+msgid "add"
+msgstr "Hinzufügen"
+
+msgid "freeShipping"
+msgstr "Versandkostenfrei ab"
+
+msgid "maxCosts"
+msgstr "Deckelung"
+
+msgid "maxCostsUpTo"
+msgstr "Deckelung auf"
+
+msgid "checkEU"
+msgstr "Europäische Union"
+
+msgid "checkNonEU"
+msgstr "Europa Nicht-EU"
+
+msgid "checkEurope"
+msgstr "Europa"
+
+msgid "checkNA"
+msgstr "Nordamerika"
+
+msgid "checkAsia"
+msgstr "Asien"
+
+msgid "pictureURL"
+msgstr "Bild-URL"
+
+msgid "pictureDesc"
+msgstr "Hier können Sie einen Pfad oder eine URL zu einem Bild, zum Beispiel dem Logo eines Versanddienstleisters, hinterlegen. Dieses Bild wird während der Kaufabwicklung anstelle des Namens der Versandart angezeigt."
+
+msgid "shippingclass"
+msgstr "Versandklasse"
+
+msgid "shippingclasses"
+msgstr "Versandklassen"
+
+msgid "shippingclassDesc"
+msgstr "Hier können Sie die erlaubten Versandklassen für diese Versandart einschränken. Fügen Sie dazu jede Kombination von Versandklassen, die sich für diese Versandart im Warenkorb befinden darf, über die Schaltfläche „Kombination hinzufügen“ hinzu. <br/>BEISPIEL: Sie haben 3 Versandklassen (A, B und C) und möchten nun alle möglichen Kombinationen erlauben, die Versandklasse A enthalten. Fügen Sie also hinzu: <br/>1. A, 2. A und B, 3. A und C und 4. A, B und C. <br/>Nur Artikel mit den Versandklassen B und C bzw. nur B oder nur C wären in diesem Beispiel für diese Versandart nicht erlaubt."
+
+msgid "addShippingClass"
+msgstr "Kombination hinzufügen"
+
+msgid "validOnShippingClasses"
+msgstr "Gültig für folgende Versandklassen-Kombinationen im Warenkorb"
+
+msgid "allCustomerGroups"
+msgstr "Alle"
+
+msgid "allCombinations"
+msgstr "Alle Kombinationen"
+
+msgid "shippingConfirm"
+msgstr "Wenn Sie alle Kombinationen nutzen, werden bereits erstellte Kombinationen verworfen. Möchten Sie fortfahren?"
+
+msgid "delData"
+msgstr "Daten löschen"
+
+msgid "always"
+msgstr "Immer"
+
+msgid "lowest"
+msgstr "Nur, wenn diese Versandart die günstigste ist"
+
+msgid "discount"
+msgstr "Aufpreis / Rabatt"
+
+msgid "onlyForOwnShippingPrices"
+msgstr "Artikelabhängige Versandart"
+
+msgid "ownShippingPricesDesc"
+msgstr "Hier legen Sie fest, ob diese Versandart nur bei Bestellungen gelten soll, die ausschließlich Artikel enthalten, bei denen per Funktionsattribut artikelabhängige Versandkosten pro Lieferland gesetzt wurden."
+
+msgid "customerclass"
+msgstr "Kundengruppe"
+
+msgid "customerclassDesc"
+msgstr "Hier legen Sie fest, welchen Kundengruppen diese Versandart angezeigt werden soll. Mit gehaltener Strg- bzw. Umschalt-Taste können Sie mehrere Kundengruppen wählen."
+
+msgid "addPriceScale"
+msgstr "Weitere Preisstaffel hinzufügen"
+
+msgid "delPriceScale"
+msgstr "Letzte Preisstaffel löschen"
+
+msgid "versandklassenExceeded"
+msgstr "Sie haben mehr als 5 Versandklassen. Bitte reduzieren Sie die Anzahl in JTL-Wawi."
+
+msgid "coverageShippingClassCombination"
+msgstr "Es sind nicht alle Versandklassenkombinationen von den Versandarten abgedeckt."
+
+msgid "noShipClassCombiValidation"
+msgstr "Eine genaue Aufstellung der fehlenden Kombinationen ist aufgrund der Anzahl an Möglichkeiten nicht möglich (max. %s Versandklassen)."
+
+msgid "showMissingCombinations"
+msgstr "Fehlende Versandklassen anzeigen"
+
+msgid "versandartenSortDesc"
+msgstr "Je kleiner die eingegebene Zahl, desto weiter oben wird diese Versandart angezeigt."
+
+msgid "successShippingMethodDelete"
+msgstr "Versandart wurde erfolgreich gelöscht."
+
+msgid "successShippingMethodDuplicated"
+msgstr "Versandart wurde erfolgreich dupliziert."
+
+msgid "errorShippingMethodDuplicated"
+msgstr "Versandart konnte nicht dupliziert werden."
+
+msgid "errorZIPOverlap"
+msgstr "Die PLZ %s überschneidet sich mit einer PLZ in Zuschlagsliste „%s“.<br/>Bitte geben Sie eine andere PLZ an."
+
+msgid "errorZIPAreaOverlap"
+msgstr "Der PLZ-Bereich %s überschneidet sich mit einer PLZ in Zuschlagsliste „%s“.<br/>Bitte geben Sie einen anderen PLZ-Bereich an."
+
+msgid "successZIPAdd"
+msgstr "PLZ wurde erfolgreich hinzugefügt."
+
+msgid "errorZIPMissing"
+msgstr "Sie müssen eine PLZ oder einen PLZ-Bereich angeben."
+
+msgid "successListAdd"
+msgstr "Zuschlagsliste wurde erfolgreich hinzugefügt."
+
+msgid "errorListNameMissing"
+msgstr "Bitte geben Sie der Zuschlagsliste einen Namen."
+
+msgid "errorListPriceMissing"
+msgstr "Bitte geben Sie einen Betrag für den Zuschlag ein."
+
+msgid "successShippingMethodCreate"
+msgstr "Versandart <strong>%s</strong> wurde erfolgreich hinzugefügt."
+
+msgid "successShippingMethodChange"
+msgstr "Versandart <strong>%s</strong> wurde erfolgreich bearbeitet."
+
+msgid "errorShippingMethodNameMissing"
+msgstr "Bitte geben Sie dieser Versandart einen Namen."
+
+msgid "errorShippingMethodCountryMissing"
+msgstr "Bitte wählen Sie mindestens ein Lieferland aus."
+
+msgid "errorShippingMethodPaymentMissing"
+msgstr "Bitte wählen Sie mindestens eine akzeptierte Zahlungsart aus."
+
+msgid "errorShippingMethodPriceMissing"
+msgstr "Bitte geben Sie mindestens einen Staffelpreis an."
+
+msgid "errorShippingFreeMax"
+msgstr "Der Versandkostenfrei-Wert darf maximal %s betragen."
+
+msgid "sendShippingNotification"
+msgstr "Versandbestätigung senden"
+
+msgid "deleteShippingMethod"
+msgstr "Versandart löschen: "
+
+msgid "successDeleteSurchargeList"
+msgstr "Zuschlagsliste wurde erfolgreich gelöscht."
+
+msgid "successDeleteZIP"
+msgstr "PLZ/PLZ-Bereich wurde erfolgreich gelöscht."
+
+# shipping types (tversandberechnung)
+msgid "shippingType_vm_versandkosten_pauschale_jtl"
+msgstr "Pauschale Versandkosten nach Lieferland"
+
+# shipping types (tversandberechnung)
+msgid "shippingType_vm_versandberechnung_artikelanzahl_jtl"
+msgstr "Versandkosten nach Artikelanzahl und Lieferland"
+
+# shipping types (tversandberechnung)
+msgid "shippingType_vm_versandberechnung_warenwert_jtl"
+msgstr "Versandkosten nach Warenwert und Lieferland"
+
+# shipping types (tversandberechnung)
+msgid "shippingType_vm_versandberechnung_gewicht_jtl"
+msgstr "Versandkosten nach Gewicht und Lieferland"
+
+msgid "surchargeListFor"
+msgstr "Zuschlagsliste für "
+
+msgid "surchargeList"
+msgstr "Zuschlagsliste"
+
+msgid "surcharge"
+msgstr "Zuschlag"
+
+msgid "addZip"
+msgstr "PLZ hinzufügen"
+
+msgid "deleteZip"
+msgstr "PLZ löschen"
+
+msgid "countriesSelected"
+msgstr "ausgewählt"
+
+msgid "acceptedPaymentMethodsDesc"
+msgstr "Geben Sie für einen Rabatt einen negativen Wert ein."

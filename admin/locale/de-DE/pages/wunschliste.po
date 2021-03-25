@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "wishlistName"
+msgstr "Wunschzettel"
+
+msgid "wishlistURL"
+msgstr "https://jtl-url.de/rj0qk"
+
+msgid "wishlistRecipientCount"
+msgstr "Anzahl Empfänger"
+
+msgid "wishlistPosCount"
+msgstr "Anzahl Artikel"
+
+msgid "wishlistDesc"
+msgstr "Hier erhalten Sie einen Überblick über die von Ihren Kunden erstellten Wunschzettel. Unter „Einstellungen“ können Sie die Wunschzettelfunktion konfigurieren."
+
+msgid "wishlistSend"
+msgstr "An Freunde versendete Wunschzettel"
+
+msgid "wishlistTop100"
+msgstr "Wunschzettel mit mindestens einer Position"
+
+msgid "wishlistPosTop100"
+msgstr "Gewünschte Artikel"
+
+msgid "wishlistPosName"
+msgstr "Artikel"
+
+msgid "wishlisteSave"
+msgstr "Speichern"
+
+msgid "wishlistPrevious"
+msgstr "Vorheriger"
+
+msgid "wishlistNext"
+msgstr "Nächster"
+
+msgid "wishlistLastAdded"
+msgstr "Zuletzt hinzugefügt"

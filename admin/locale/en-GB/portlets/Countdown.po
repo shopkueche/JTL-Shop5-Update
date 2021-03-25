@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Countdown"
+msgstr "Countdown"
+
+msgid "countdownDateTime"
+msgstr "End date and time"
+
+msgid "textAfterCountdownFinished"
+msgstr "Text after countdown ended"

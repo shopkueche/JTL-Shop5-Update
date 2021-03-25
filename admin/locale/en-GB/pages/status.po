@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "status"
+msgstr "Status"
+
+msgid "statusURL"
+msgstr "https://jtl-url.de/og4rq"
+
+msgid "systemCache"
+msgstr "System cache"
+
+msgid "imageCache"
+msgstr "Image cache"
+
+msgid "imagesInCache"
+msgstr "Item images in cache"
+
+msgid "fileStructure"
+msgstr "File structure"
+
+msgid "directoryPermissions"
+msgstr "Directory permissions"
+
+msgid "openUpdates"
+msgstr "Updates due"
+
+msgid "installDirectory"
+msgstr "Installation directory"
+
+msgid "profilerActive"
+msgstr "Profiler active"
+
+msgid "orphanedCategories"
+msgstr "Orphan categories"
+
+msgid "newPluginVersions"
+msgstr "New versions of plug-ins"
+
+msgid "atmNoInfo"
+msgstr "Currently no information available."
+
+msgid "expiresInXDays"
+msgstr "Expires in %s days"
+
+msgid "paymentTypesWithError"
+msgstr "The following payment methods contain protocols with the status \"Error\"."
+
+msgid "pluginsWithSameHook"
+msgstr "The following plug-ins use an identical hook."
+
+msgid "recommendedValue"
+msgstr "Recommended value"
+
+msgid "requirementsMet"
+msgstr "All requirements are met."
+
+msgid "extensions"
+msgstr "Extensions"

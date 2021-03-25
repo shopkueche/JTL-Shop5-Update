@@ -1,0 +1,59 @@
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/functions';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/mixins';
+
+@import 'functions';
+@import 'variables';
+@import 'mixins';
+
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/variables';
+
+//@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/root';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/reboot';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/type';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/images';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/code';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/grid';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/tables';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/forms';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/buttons';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/transitions';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/dropdown';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/button-group';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/input-group';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/custom-forms';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/nav';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/navbar';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/card';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/breadcrumb';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/pagination';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/badge';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/jumbotron';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/alert';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/progress';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/media';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/list-group';
+// @import '../../../../../templates/NOVA/themes/base/bootstrap/scss/close';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/toasts';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/modal';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/tooltip';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/popover';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/carousel';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/spinners';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/utilities';
+@import '../../../../../templates/NOVA/themes/base/bootstrap/scss/print';
+
+@import 'bootstrap-select/bootstrap-select';
+
+@import 'components/all';
+
+@import 'utilities/all';
+
+@import 'base';
+
+@import 'content';
+@import 'setup-assistant';
+@import 'sidebar';
+@import 'sortable';
+@import 'topbar';
+@import 'type';

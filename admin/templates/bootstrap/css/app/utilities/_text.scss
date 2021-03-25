@@ -1,0 +1,13 @@
+
+.font-size-xs { font-size: $font-size-xs !important; }
+.font-size-sm { font-size: $font-size-sm !important; }
+.font-size-lg { font-size: $font-size-lg !important; }
+.font-size-base { font-size: $font-size-base !important; }
+
+.font-weight-semibold { font-weight: $font-weight-semibold !important; }
+
+.underline-links {
+  a {
+    text-decoration: underline;
+  }
+}

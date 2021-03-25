@@ -1,0 +1,1 @@
+[AKZ][LEGAL_DATA]

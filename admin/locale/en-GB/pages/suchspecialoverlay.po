@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "suchspecialoverlay"
+msgstr "Image badges for special items"
+
+msgid "suchspecialoverlayDesc"
+msgstr "Special items can also be visually set off by adding a badge to the item image. Here you can manage the badges for the different types of special items. Please note that for the NOVA template, only the settings \"Badge function active\" and \"Priority\" have any effects. You can edit the badge texts for the NOVA template under Language variables (search for \"ribbon\") and change the appearance of the badges using CSS commands."
+
+msgid "suchspecialoverlayUrl"
+msgstr "https://jtl-url.de/q6a35"
+
+msgid "suchspecial"
+msgstr "Badge for item type"
+
+msgid "suchspecialoverlayActive"
+msgstr "Badge function active"
+
+msgid "suchspecialoverlayActiveDesc"
+msgstr "Specify whether the badge will be displayed for the item type indicated in the field \"Badge for item type\"."
+
+msgid "suchspecialoverlayFileName"
+msgstr "Badge image"
+
+msgid "suchspecialoverlayFileNameDesc"
+msgstr "Select the image used for the item badge. This setting is only valid for the EVO template and has no effect when NOVA is enabled."
+
+msgid "suchspecialoverlayPrio"
+msgstr "Priority (1 = low priority)"
+
+msgid "suchspecialoverlayClarityDesc"
+msgstr "Specify the transparency of the badge as a percentage. If you use the EVO template, this setting is changed by adjusting the template. If NOVA is active, this settings does not have any effect."
+
+msgid "suchspecialoverlaySize"
+msgstr "Badge size in pixels (px)"
+
+msgid "suchspecialoverlaySizeDesc"
+msgstr "Specify the size of the badge in relation to the item image. If you use the EVO template, this setting is changed by adjusting the template. If NOVA is active, this settings does not have any effect."
+
+msgid "suchspecialoverlayPositionDesc"
+msgstr "Specify where in the item image the badge will be placed. If you use the EVO template, this setting is changed by adjusting the template. If NOVA is active, this settings does not have any effect."
+
+msgid "suchspecialoverlayPrioDesc"
+msgstr "If several badges apply to an item, you can specify which one will be displayed. The badge with the highest number and thus the priority will be displayed."
+
+msgid "errorOverlayWritePermissions"
+msgstr "Could not save badge. Please check the write access of the folder \"%s\"."
+
+msgid "invalidOverlay"
+msgstr "Unknown item bade"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Bestseller"
+msgstr "Bestsellers"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Sonderangebote"
+msgstr "Special offers"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Neu im Sortiment"
+msgstr "New in product range"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Top Angebote"
+msgstr "Top items"
+
+#overlay name (tsuchspecialoverlay)
+msgid "In kürze Verfügbar"
+msgstr "Available soon"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Top bewertet"
+msgstr "Top rated"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Lagerbestand 0"
+msgstr "Not in stock"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Auf Lager"
+msgstr "In stock"
+
+#overlay name (tsuchspecialoverlay)
+msgid "Vorbestellbar"
+msgstr "Pre-order"

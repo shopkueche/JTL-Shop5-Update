@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "customerImport"
+msgstr "Kundenimport"
+
+msgid "customerImportURL"
+msgstr "https://jtl-url.de/effws"
+
+msgid "customerImportDesc"
+msgstr "Hier haben Sie die Möglichkeit, Kundendaten aus anderen Onlineshop-Systemen samt Passwort zu importieren. Ihre Kunden müssen sich somit nicht erneut in diesem Onlineshop anmelden. <strong>Wichtig: Achten Sie bei einem Serverwechsel unbedingt darauf, den Blowfish-Key (zu finden in der /includes/config.JTL-Shop.ini.php) für das neue System zu übernehmen!</strong>"
+
+msgid "csvFile"
+msgstr "CSV-Datei mit Kundendaten"
+
+msgid "customerGroup"
+msgstr "Kunden diese Kundengruppe zuweisen"
+
+msgid "language"
+msgstr "Kunden diese Sprache zuweisen"
+
+msgid "generateNewPass"
+msgstr "Neues Passwort erstellen und Kunden per E-Mail informieren"
+
+msgid "passYes"
+msgstr "Ja, für jeden Kunden ein neues Passwort erstellen und per E-Mail informieren"
+
+msgid "passNo"
+msgstr "Nein, Passwort aus CSV-Datei übernehmen und Kunden nicht per E-Mail benachrichtigen"
+
+msgid "errorInvalidEmail"
+msgstr "Keine gültige E-Mail-Adresse: (%s)! Datensatz wurde übersprungen."
+
+msgid "errorNoPassword"
+msgstr "Kein Passwort. Datensatz wurde übersprungen. (Es könnte sich um einen nicht registrierten JTL-Shop-Kunden handeln)"
+
+msgid "errorNoSurname"
+msgstr "Kein Nachname. Datensatz wurde übersprungen."
+
+msgid "errorEmailDuplicate"
+msgstr "Kunde mit dieser E-Mail-Adresse bereits vorhanden: %s. Datensatz wurde übersprungen."
+
+msgid "errorImportRecord"
+msgstr "Zeile konnte nicht importiert werden. Bitte sehen Sie sich die Log-Datei (Root/logs/) an und beheben Sie die entsprechenden Fehler in der CSV-Datei."
+
+msgid "successImportRecord"
+msgstr "Datensatz OK. Importiere: "
+
+msgid "checkHead"
+msgstr "Überprüfe Kopfzeile… "
+
+msgid "errorFormatNotFound"
+msgstr " Format wurde nicht erkannt."
+
+msgid "importPending"
+msgstr "Importiere…"

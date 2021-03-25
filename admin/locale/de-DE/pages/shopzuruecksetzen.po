@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "shopResetTitle"
+msgstr "Daten des Onlineshops zurücksetzen"
+
+msgid "shopResetButton"
+msgstr "Daten zurücksetzen"
+
+msgid "shopResetURL"
+msgstr "https://jtl-url.de/3wfz8"
+
+msgid "shopResetDesc"
+msgstr "Hier können Sie aus einzelnen Bereichen Ihres JTL-Shops Daten löschen, die Sie individuell verändert haben, und den Werkszustand wiederherstellen. Bitte beachten Sie, dass Ihre persönlichen Daten aus diesen Bereichen komplett entfernt werden und nach dem Löschen nur noch durch ein Backup wiederhergestellt werden können."
+
+msgid "successShopReturn"
+msgstr "Ausgewählte Einstellungen wurden erfolgreich zurückgesetzt."
+
+msgid "dangerStrong"
+msgstr "ACHTUNG"
+
+msgid "warningDeleteNotRestoreableData"
+msgstr "Es wurden Daten zur Löschung ausgewählt, die NICHT durch einen Abgleich mit JTL-Wawi wiederhergestellt werden können. Es wird daher dringend empfohlen, ein Backup der Onlineshop-Datenbank zu erstellen."
+
+msgid "shopContent"
+msgstr "Onlineshop-Inhalte"
+
+msgid "deleteNews"
+msgstr "Blogbeiträge löschen"
+
+msgid "deleteBestseller"
+msgstr "Bestseller löschen"
+
+msgid "deleteVisitorStatistics"
+msgstr "Besucherstatistiken löschen"
+
+msgid "deletePriceStatistics"
+msgstr "Preisverläufe löschen"
+
+msgid "deleteAvailabilityNotifications"
+msgstr "Verfügbarkeitsbenachrichtigungen löschen"
+
+msgid "deleteRevisions"
+msgstr "Revisionen löschen"
+
+msgid "deleteProductCategory"
+msgstr "Artikel, Kategorien und Merkmale löschen (Komplettabgleich mit JTL-Wawi füllt diese Daten wieder auf)"
+
+msgid "deleteTax"
+msgstr "Steuerklassen/-sätze/-zonen/-zonenländer löschen (Komplettabgleich der globalen Daten mit JTL-Wawi füllt diese Daten wieder auf)"
+
+msgid "userGeneratedContent"
+msgstr "Benutzergenerierte Inhalte"
+
+msgid "deleteSearch"
+msgstr "Suchanfragen löschen"
+
+msgid "deleteRatings"
+msgstr "Bewertungen löschen"
+
+msgid "deleteOrders"
+msgstr "Bestellungen löschen"
+
+msgid "deleteCustomers"
+msgstr "Kunden des Onlineshops löschen"
+
+msgid "customersOrdersCoupons"
+msgstr "Kunden, Bestellungen und Coupons"
+
+msgid "deleteCoupons"
+msgstr "Coupons löschen"
+
+msgid "yesBackupDone"
+msgstr "Ja, ich habe ein Backup meiner Onlineshop-Datenbank erstellt."
+
+msgid "followingWillBeDeleted"
+msgstr "Es werden folgende Bereiche von JTL-Shop zurückgesetzt<span id=\"messageDataGetsLost\" class=\"hide\">; das heißt, dass alle bisher gespeicherten Daten verloren gehen:</span>"
+
+msgid "sureContinue"
+msgstr "Möchten Sie fortfahren?"

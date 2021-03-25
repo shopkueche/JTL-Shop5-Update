@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "boxen"
+msgstr "Footers/Boxes"
+
+msgid "boxenURL"
+msgstr "https://jtl-url.de/li846"
+
+msgid "boxenDesc"
+msgstr "Here you can create and edit boxes for different box containers and manage the footer. You can specify for each container on which pages it should be visible. Depending on the template used, different containers are available. Some boxes can also be further configured via the \"Edit\" button."
+
+msgid "showContainer"
+msgstr "Activate container"
+
+msgid "boxTitle"
+msgstr "Name"
+
+msgid "boxType"
+msgstr "Type"
+
+msgid "boxLabel"
+msgstr "Description"
+
+msgid "boxTemplate"
+msgstr "Template"
+
+msgid "catBoxNum"
+msgstr "Category box ID"
+
+msgid "catBoxNumTooltip"
+msgstr "Only lists categories with the category attribute \"category box\" and the set number. For all categories with or without a function attribute, the default value is 0."
+
+msgid "linkgroup"
+msgstr "Link group"
+
+msgid "remove"
+msgstr "Remove from list"
+
+msgid "confirmDeleteBox"
+msgstr "Delete box \"%s\"? If you delete a container, all boxes in the container will also be deleted."
+
+msgid "new"
+msgstr "New box"
+
+msgid "inContainer"
+msgstr "In container"
+
+msgid "newContainer"
+msgstr "New container"
+
+msgid "pleaseSelect"
+msgstr "Please select"
+
+msgid "noTemplateConfig"
+msgstr "Could not find configuration file (template.xml)."
+
+msgid "noBoxActivated"
+msgstr "No box activated."
+
+msgid "boxEdit"
+msgstr "Edit box"
+
+msgid "warningInvisibleBoxes"
+msgstr "Some boxes cannot currently be displayed."
+
+msgid "noBoxesAvailableFor"
+msgstr "Currently there are no boxes available for \"%s\"."
+
+msgid "showBoxOnlyFor"
+msgstr "Show box \"%s\" only for:"
+
+msgid "invisibleBoxes"
+msgstr "Invisible boxes"
+
+msgid "deleteSelected"
+msgstr "Delete selected"
+
+msgid "sectionLeft"
+msgstr "Left side bar"
+
+msgid "sectionRight"
+msgstr "Right side bar"
+
+msgid "sectionTop"
+msgstr "Header"
+
+msgid "sectionBottom"
+msgstr "Footer"
+
+msgid "successBoxDelete"
+msgstr " Box(es) deleted successfully."
+
+msgid "successContainerCreate"
+msgstr "Container created successfully."
+
+msgid "errorContainerCreate"
+msgstr "Could not create container."
+
+msgid "successBoxCreate"
+msgstr "Box added successfully."
+
+msgid "errorBoxCreate"
+msgstr "Could not add box."
+
+msgid "errorBoxDelete"
+msgstr "Could not remove box."
+
+msgid "successBoxEdit"
+msgstr "Box successfully edited."
+
+msgid "errorBoxEdit"
+msgstr "Could not edit box."
+
+msgid "successBoxRefresh"
+msgstr "Boxes updated successfully."
+
+msgid "visibleOnAllPages"
+msgstr "visible on all pages"
+
+msgid "visibleOnSomePages"
+msgstr "visible on all selected pages"
+
+msgid "deactivatedOnAllPages"
+msgstr "deactivated on all pages"
+
+msgid "warningChangesForAllPages"
+msgstr "The selection \"All pages\" overwrites existing changes to the boxes that were made for individual pages beforehand."
+
+msgid "errorBoxesVisibilityEdit"
+msgstr "Could not set box visibility due to a MySQL error. Please contact the JTL Support team."
+
+#box name
+msgid "Bestseller"
+msgstr "Bestsellers"
+
+#box name
+msgid "Kategorien"
+msgstr "Categories"
+
+#box name
+msgid "Vergleichsliste"
+msgstr "Comparison list"
+
+#box name
+msgid "Wunschliste"
+msgstr "Wish list"
+
+#box name
+msgid "Login"
+msgstr "Login"
+
+#box name
+msgid "Zuletzt angesehen"
+msgstr "Recently viewed"
+
+#box name
+msgid "Hersteller"
+msgstr "Manufacturer"
+
+#box name
+msgid "Neue im Sortiment"
+msgstr "New in product range"
+
+#box name
+msgid "News Kategorien"
+msgstr "Blog: blog categories"
+
+#box name
+msgid "News (Monatsübersicht)"
+msgstr "Blog: months with blog posts"
+
+#box name
+msgid "Schnellkauf"
+msgstr "Quick buy"
+
+#box name
+msgid "Suchwolke"
+msgstr "Search cloud"
+
+#box name
+msgid "Sonderangebot"
+msgstr "Special offer"
+
+#box name
+msgid "Top Angebot"
+msgstr "Top item"
+
+#box name
+msgid "Top bewertet"
+msgstr "Top rated"
+
+#box name
+msgid "In Kürze Verfügbar"
+msgstr "Available soon"
+
+#box name
+msgid "Globale Merkmale"
+msgstr "Global characteristics"
+
+#box name
+msgid "Warenkorb"
+msgstr "Basket"
+
+#box name
+msgid "Linkgruppe"
+msgstr "Link group"
+
+#box name
+msgid "Filter (Tag)"
+msgstr "Filter (tag)"
+
+#box name
+msgid "Filter (Preisspanne)"
+msgstr "Filter (price range)"
+
+#box name
+msgid "Filter (Bewertung)"
+msgstr "Filter (customer review)"
+
+#box name
+msgid "Filter (Merkmale)"
+msgstr "Filter (characteristics)"
+
+#box name
+msgid "Filter (Suche)"
+msgstr "Filter (search)"
+
+#box name
+msgid "Filter (Suchspecial)"
+msgstr "Filter (item badge)"
+
+#box name
+msgid "Eigene Box (Ohne Rahmen)"
+msgstr "Custom box (without frame)"
+
+#box name
+msgid "Eigene Box (Mit Rahmen)"
+msgstr "Custom box (with frame)"
+
+
+#box name
+msgid "Konfigurator"
+msgstr "Configurator"
+
+#box name
+msgid "Filter (Hersteller)"
+msgstr "Filter (manufacturer)"
+
+#box name
+msgid "Filter (Kategorie)"
+msgstr "Filter (category)"
+
+msgid "templateTypeTemplate"
+msgstr "Template"
+
+msgid "templateTypeContent"
+msgstr "Contents"
+
+msgid "templateTypeLinkList"
+msgstr "Link list"
+
+msgid "templateTypePlugin"
+msgstr "Plug-in"
+
+msgid "templateTypeCategory"
+msgstr "Category"
+
+msgid "templateTypeExtension"
+msgstr "Plug-in"
+
+msgid "warningNovaSidebar"
+msgstr "The NOVA template only supports boxes in the left side bar for the page type \"Item overview\". Please use a personalised template if you also want to display boxes in the left side bar on other pages."

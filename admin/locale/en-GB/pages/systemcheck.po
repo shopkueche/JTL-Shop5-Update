@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "systemcheck"
+msgstr "System check"
+
+msgid "systemcheckURL"
+msgstr "https://jtl-url.de/og4rq"
+
+msgid "systemcheckDesc"
+msgstr "With the system check, you can review server-related settings."
+
+msgid "noteImportantCheckSettings"
+msgstr "In order to ensure smooth operation, all <code>marked</code> properties must be checked."
+
+msgid "suggestedAdjustments"
+msgstr "Recommended adjustments"
+
+msgid "suggestedValue"
+msgstr "Recommended value"
+
+msgid "neededPHPExtensions"
+msgstr "Required PHP extensions and functions"
+
+msgid "needPHPSetting"
+msgstr "Required PHP settings"
+
+msgid "neededValue"
+msgstr "Required value"

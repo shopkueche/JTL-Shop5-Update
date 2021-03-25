@@ -1,0 +1,17 @@
+
+.icon-text-indent { display: inline-block; padding-left: 1.5em;
+	> :first-child { float: left; margin-left: -1.5em; }
+}
+
+.icon-hover { display: inline-block; width: 1.25em; height: 1.25em; vertical-align: middle; position: relative;
+	> [data-fa-i2svg] { position: absolute; left: 0; top: 0; transition: opacity .2s; width: inherit; height: inherit;
+		&:last-child { opacity: 0; }
+	}
+
+	a:hover &, :hover > &, &:hover {
+		> [data-fa-i2svg] {
+			&:first-child { opacity: 0; }
+			&:last-child { opacity: 1; }
+		}
+	}
+}

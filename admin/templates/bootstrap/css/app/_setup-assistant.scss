@@ -1,0 +1,62 @@
+
+#modal-setup-assistant {
+	.steps { margin-top: map-get($spacers, 3); }
+	.step { cursor: pointer;
+		&.active { cursor: auto;
+			~ .step { cursor: auto; }
+		}
+	}
+	.modal-body {border: 0}
+	.img-setup-guide { float: left; margin-left: rem(-195px); margin-top: rem(-30px); }
+
+	.modal-content {
+		@include media-breakpoint-up(lg) { min-height: rem(700px); background: $white url('#{$image-path}/setup-assistant-bg.svg') no-repeat left top / auto rem(700px); }
+	}
+
+	.setup-slide {
+		&:not(.active) { display: none; }
+	}
+
+	.setup-subheadline { font-weight: $font-weight-semibold; margin: map-get($spacers, 5) 0; @extend .h2;
+		@include media-breakpoint-up(lg) { margin-top: map-get($spacers, 7); }
+	}
+
+	.setup-card { border: $border-width solid $border-color; box-shadow: none; margin-bottom: 0; text-decoration: none;
+		.card-body { padding: map-get($spacers, 1) * 3; display: flex; flex-direction: column; }
+		.icon-more { align-self: flex-end; margin-top: auto; }
+	}
+
+	&[data-setup-current="0"] {
+		.setup-steps, .modal-footer { display: none; }
+	}
+
+	&[data-setup-current="5"]:not(.installed) {
+		[data-setup-next] { display: none; }
+	}
+
+	&[data-setup-current="6"] {
+		[data-setup-prev], [data-setup-next],
+		[data-setup-submit], .setup-steps { display: none; }
+	}
+
+	&:not([data-setup-current="5"]), &.installed {
+		[data-setup-submit], [data-setup-auth] { display: none; }
+	}
+
+	&:not([data-setup-current="6"]) {
+		[data-setup-close] { display: none; }
+	}
+	.error {
+		input {
+			color: $danger;
+			border-color: $danger;
+		}
+	}
+	.custom-checkbox-centered {
+		.custom-control-label {
+			&:before, &:after {
+				top: 39%;
+			}
+		}
+	}
+}

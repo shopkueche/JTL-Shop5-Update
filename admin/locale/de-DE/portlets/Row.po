@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Row"
+msgstr "Grid-Layout"
+
+msgid "Layout"
+msgstr "Aufteilung"
+
+msgid "Column"
+msgstr "Spalte"
+
+msgid "Columns"
+msgstr "Spalten"
+
+msgid "rowLayoutDesc"
+msgstr "Definiert die Aufteilung der Spalten bei verschiedenen Gerätegrößen. 12 bedeutet dabei, die Spalte wird in "
+"voller Breite dargestellt."

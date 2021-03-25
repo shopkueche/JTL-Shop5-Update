@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "errorIndexNotCreatable"
+msgstr "Der Index für die Volltextsuche konnte aufgrund eines MySQL-Fehlers nicht angelegt werden. Die Volltextsuche wird deaktiviert. Bitte wenden Sie sich an den Support."
+
+msgid "errorIndexInvalid"
+msgstr "Ungültiger Index. Bitte geben Sie einen gültigen Index an (tartikel oder tartikelsprache)."
+
+msgid "successIndexCreate"
+msgstr "Volltextindex für %s wurde erfolgreich angelegt."
+
+msgid "successIndexDelete"
+msgstr "Volltextindex für %s wurde erfolgreich gelöscht."
+
+msgid "errorFulltextSearchMYSQL"
+msgstr "Die Volltextsuche erfordert MySQL ab Version 5.6."
+
+msgid "successSearchActivate"
+msgstr "Volltextsuche wurde erfolgreich aktiviert."
+
+msgid "successSearchDeactivate"
+msgstr "Volltextsuche wurde erfolgreich deaktiviert."
+
+msgid "indexCreate"
+msgstr "Der Volltextindex wird erstellt…"
+
+msgid "errorCreateTime"
+msgstr "Volltextindex ist nicht vorhanden. Die Erstellung des Index kann einige Zeit in Anspruch nehmen."
+
+msgid "successSearchCacheDelete"
+msgstr "Such-Cache wurde erfolgreich gelöscht."
+
+msgid "searchSettingsChange"
+msgstr "Sucheinstellungen ändern"
+
+msgid "fulltextSearchMysql"
+msgstr "Die Volltextsuche erfordert MySQL ab Version 5.6."
+
+msgid "useFulltextSearch"
+msgstr "Volltextsuche verwenden"
+
+msgid "Sucheinstellungen"
+msgstr "Sucheinstellungen"

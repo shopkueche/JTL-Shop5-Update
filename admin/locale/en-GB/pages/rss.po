@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "rssURL"
+msgstr "https://jtl-url.de/k0iab"
+
+msgid "rssSettings"
+msgstr "RSS settings"
+
+msgid "rssDescription"
+msgstr "You can automatically generate an RSS feed for JTL-Shop. The feed allows you to display new items, blog posts, and reviews. You can create the RSS feed manually or have it generated automatically with every synchronisation with JTL-Wawi."
+
+msgid "successRSSCreate"
+msgstr "RSS feed created successfully."
+
+msgid "errorRSSCreate"
+msgstr "Could not create RSS feed."
+
+msgid "errorRSSCreatePermissions"
+msgstr "Cannot write file %s. The file does not have sufficient write access to create an XML file for the RSS feed. Please check write access."
+
+msgid "xmlCreate"
+msgstr "Create XML file for RSS feed"

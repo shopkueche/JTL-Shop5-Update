@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "emailblacklist"
+msgstr "Email blacklist"
+
+msgid "emailblacklistURL"
+msgstr "https://jtl-url.de/m1wu2"
+
+msgid "emailblacklistDesc"
+msgstr "Use the email blacklist to block certain email addresses. Blocked email addresses cannot be used for the online shop registration or order processes by unregistered customers."
+
+msgid "emailblacklistEmail"
+msgstr "Email addresses"
+
+msgid "emailblacklistSeperator"
+msgstr "(Email addresses separated by \";\")"
+
+msgid "emailblacklistEmailSingle"
+msgstr "Email address"
+
+msgid "emailblacklistLastBlock"
+msgstr "Blocked last on"
+
+msgid "emailblacklistBlockedEmails"
+msgstr "Last 100 blocked email addresses"

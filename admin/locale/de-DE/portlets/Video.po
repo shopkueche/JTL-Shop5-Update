@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "embedResponsive"
+msgstr "Video responsive einbetten"
+
+msgid "source"
+msgstr "Quelle"
+
+msgid "localVideo"
+msgstr "Lokales Video"
+
+msgid "youtubeNote"
+msgstr "Weisen Sie in Ihrer Datenschutzerklärung auf folgende Punkte hin:<br/>- YouTube-Videos werden im „erweiterten Datenschutzmodus“ in Ihre Seiten eingebettet.<br>- Der Aufruf der Seiten führt zur Verbindungsaufnahme mit YouTube und DoubleClick.<br>- Schon ein Klick auf das Video kann weitere Datenverarbeitungsvorgänge auslösen, auf die der Website-Betreiber keinen Einfluss mehr hat. "
+
+msgid "videoID"
+msgstr "Video-ID"
+
+msgid "videoIDHelpYoutube"
+msgstr "Die Video-ID finden Sie in der YouTube-URL als letzten Teil nach der Zeichenfolge „?v=“: "
+"https://www.youtube.com/watch?v=[Video-ID]."
+
+msgid "showControls"
+msgstr "Steuerelemente anzeigen"
+
+msgid "showSimilarVideos"
+msgstr "Ähnliche Videos anzeigen"
+
+msgid "playlist"
+msgstr "Video-IDs für Playlist"
+
+msgid "playlistHelp"
+msgstr "Geben Sie die Video-IDs durch Kommas getrennt ein, z.&nbsp;B. xITQHgJ3RRo,sNYv0JgrUlw."
+
+msgid "videoIDHelpVimeo"
+msgstr "Die Video-ID finden Sie in der Vimeo-URL als letzten Teil nach dem „/“: https://vimeo.com/[Video-ID]."
+
+msgid "repeatVideo"
+msgstr "Video nach dem Abspielen wiederholen"
+
+msgid "muteVideo"
+msgstr "Tonausgabe unterdrücken"
+
+msgid "autoplayVideo"
+msgstr "automatisch abspielen"
+
+msgid "showImage"
+msgstr "Bild anzeigen"
+
+msgid "showTitle"
+msgstr "Titel anzeigen"
+
+msgid "showAuthorInformation"
+msgstr "Kanalinformationen anzeigen"
+
+msgid "videoURL"
+msgstr "Video-URL"
+
+msgid "colorYtDesc"
+msgstr "Farbe der Steuerelemente"
+
+msgid "widthPx"
+msgstr "Breite (px)"
+
+msgid "heightPx"
+msgstr "Höhe (px)"
+
+msgid "startSec"
+msgstr "Start bei Sekunde"
+
+msgid "endSec"
+msgstr "Ende bei Sekunde"

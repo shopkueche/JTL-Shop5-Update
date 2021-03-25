@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Divider"
+msgstr "Trennlinie"
+
+msgid "dividerTitle"
+msgstr "Beschriftung"
+
+msgid "dividerMoreLink"
+msgstr "Link-URL"
+
+msgid "dividerMoreTitle"
+msgstr "Link-Titel"
+
+msgid "dividerElmID"
+msgstr "Element-ID"
+
+msgid "dividerIdDesc"
+msgstr "Hier können Sie einen eindeutigen Bezeichner (Anker) vergeben, um von einer anderen Stelle oder Seite zu "
+"dieser Stelle zu verlinken (erlaubte Zeichen: Zahlen, Buchstaben, –, _)."

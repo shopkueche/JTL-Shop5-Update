@@ -1,0 +1,104 @@
+#portlets {
+  hr {
+    margin-top: 0;
+  }
+
+  .portletGroupBtn {
+    display: block;
+    font-weight: 600;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 16px;
+    text-transform: capitalize;
+
+    .fas {
+      float: right;
+      line-height: inherit;
+    }
+
+    &.collapsed .fas::before {
+      content: '\f078';
+    }
+  }
+
+  .collapse {
+    width: 340px;
+
+    &:after {
+      content: ' ';
+      display: block;
+      clear: both;
+    }
+  }
+
+  .collapsing {
+    width: 340px;
+  }
+
+  .portletButton {
+    display: block;
+    float: left;
+    width: 96px;
+    height: 96px;
+    margin-right: 22px;
+    margin-bottom: 22px;
+    background-color: $light-bg;
+    border-radius: 5px;
+
+    &:hover {
+      box-shadow: 4px 4px 4px rgba(0,0,0,0.125);
+    }
+
+    &:nth-child(3n) {
+      margin-right: 0;
+    }
+
+    > .portletBtnInner {
+      display: block;
+      width: 96px;
+      height: 96px;
+      position: relative;
+
+      > svg {
+        position: absolute;
+        left: 50%;
+        top: 36%;
+        transform: translate(-50%, -50%);
+        color: $primary-color;
+      }
+
+      > i {
+        display: block;
+        position: absolute;
+        left: 50%;
+        top: 36%;
+        transform: translate(-50%, -50%);
+        font-size: 32px;
+        color: $primary-color;
+      }
+
+      > span {
+        position: absolute;
+        left: 0;
+        bottom: 8px;
+        width: 100%;
+        line-height: 16px;
+      }
+    }
+  }
+
+  .collapseGroup {
+    display: block;
+    color: $text-color;
+    font-size: 16px;
+    padding: 8px 25px;
+    margin: 0 -15px 5px -15px;
+    text-decoration: none;
+  }
+
+  .collapse {
+    .row {
+      padding-bottom: 14px;
+    }
+  }
+}

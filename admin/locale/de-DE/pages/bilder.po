@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "imageTitle"
+msgstr "Bilder"
+
+msgid "bilderURL"
+msgstr "https://jtl-url.de/kgce4"
+
+msgid "bilderDesc"
+msgstr "Bildeinstellungen"
+
+msgid "newscategory"
+msgstr "Blogkategorien"
+
+msgid "News"
+msgstr "Blog"
+
+msgid "configGroups"
+msgstr "Konfigurationsgruppen"

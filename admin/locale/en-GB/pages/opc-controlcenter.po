@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "opcNoticePageReset"
+msgstr "The OnPage Composer content for this page was reset."
+
+msgid "opcNoticeDraftDelete"
+msgstr "Draft deleted successfully."
+
+msgid "opc"
+msgstr "OnPage Composer"
+
+msgid "opcDesc"
+msgstr "Here you can find an overview of all pages edited with the OnPage Composer and all available portlets."
+
+msgid "opcUrl"
+msgstr "https://jtl-url.de/flnzh"
+
+msgid "opcPages"
+msgstr "Edited pages"
+
+msgid "opcPortlets"
+msgstr "Available portlets"
+
+msgid "opcBlueprints"
+msgstr "Available blueprints"
+
+msgid "sureDeleteAll"
+msgstr "Delete all drafts of this page?"
+
+msgid "sureDelete"
+msgstr "Delete this draft?"
+
+msgid "lastChange"
+msgstr "Last edited on"
+
+msgid "changedNow"
+msgstr "Being edited by"
+
+msgid "tillUnknown"
+msgstr "For indefinite period"
+
+msgid "deleteDraft"
+msgstr "Delete draft"
+
+msgid "deleteDraftAll"
+msgstr "Delete all drafts"
+
+msgid "unpublished"
+msgstr "Unpublished"
+

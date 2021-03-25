@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "wishlistName"
+msgstr "Wish list"
+
+msgid "wishlistURL"
+msgstr "https://jtl-url.de/fj5ov"
+
+msgid "wishlistRecipientCount"
+msgstr "Number of recipients"
+
+msgid "wishlistPosCount"
+msgstr "Number of items"
+
+msgid "wishlistDesc"
+msgstr "This page provides an overview of the wish lists created by your customers. You can configure the wish list function in the \"Settings\"."
+
+msgid "wishlistSend"
+msgstr "Wish lists sent to friends"
+
+msgid "wishlistTop100"
+msgstr "Wish lists with at least one line item"
+
+msgid "wishlistPosTop100"
+msgstr "Items on wish lists"
+
+msgid "wishlistPosName"
+msgstr "Items"
+
+msgid "wishlisteSave"
+msgstr "Save"
+
+msgid "wishlistPrevious"
+msgstr "Previous"
+
+msgid "wishlistNext"
+msgstr "Next"
+
+msgid "wishlistLastAdded"
+msgstr "Recently added"

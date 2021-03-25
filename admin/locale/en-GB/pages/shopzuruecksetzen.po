@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "shopResetTitle"
+msgstr "Resetting online shop data"
+
+msgid "shopResetButton"
+msgstr "Reset data"
+
+msgid "shopResetURL"
+msgstr "https://jtl-url.de/rw054"
+
+msgid "shopResetDesc"
+msgstr "Here you can delete data from individual areas of your online shop and reset all settings to the factory settings. Please note that all personal data will be deleted from these areas and that the data can afterwards only be restored using a backup."
+
+msgid "successShopReturn"
+msgstr "Selected settings reset successfully."
+
+msgid "dangerStrong"
+msgstr "CAUTION"
+
+msgid "warningDeleteNotRestoreableData"
+msgstr "Please note that you have selected data that cannot be restored via a synchronisation with JTL-Wawi after deletion. We highly recommend creating a backup of the online shop database first."
+
+msgid "shopContent"
+msgstr "Online shop contents"
+
+msgid "deleteNews"
+msgstr "Delete blog posts"
+
+msgid "deleteBestseller"
+msgstr "Delete bestsellers"
+
+msgid "deleteVisitorStatistics"
+msgstr "Delete visitor statistics"
+
+msgid "deletePriceStatistics"
+msgstr "Delete price histories"
+
+msgid "deleteAvailabilityNotifications"
+msgstr "Delete availability notifications"
+
+msgid "deleteRevisions"
+msgstr "Delete revisions"
+
+msgid "deleteProductCategory"
+msgstr "Delete items, categories, and characteristics (complete synchronisation with JTL-Wawi restores data)"
+
+msgid "deleteTax"
+msgstr "Delete tax classes/rates/zones/zone countries (complete synchronisation of the global data with JTL-Wawi restores data)"
+
+msgid "userGeneratedContent"
+msgstr "User-generated contents"
+
+msgid "deleteSearch"
+msgstr "Delete search queries"
+
+msgid "deleteRatings"
+msgstr "Delete customer reviews"
+
+msgid "deleteOrders"
+msgstr "Delete orders"
+
+msgid "deleteCustomers"
+msgstr "Delete online shop customers"
+
+msgid "customersOrdersCoupons"
+msgstr "Customers, orders, and coupons"
+
+msgid "deleteCoupons"
+msgstr "Delete coupons"
+
+msgid "yesBackupDone"
+msgstr "Yes, I performed a backup of my online shop database."
+
+msgid "followingWillBeDeleted"
+msgstr "The following areas of JTL-Shop will be reset<span id=\"messageDataGetsLost\" class=\"hide\"> and the respective data will be deleted:</span>"
+
+msgid "sureContinue"
+msgstr "Would you like to continue?"

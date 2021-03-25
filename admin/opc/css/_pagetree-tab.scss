@@ -1,0 +1,114 @@
+#pagetree {
+  height: 100%;
+
+  .offscreenDivider {
+    font-weight: 600;
+    margin: 1em;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    padding-top: 1em;
+  }
+
+  #pageTreeView {
+    padding: 1em 0;
+    background-color: $light-bg;
+    border-radius: 5px;
+    height: 100%;
+    overflow-y: auto;
+
+    .item-copybtn {
+      float: right;
+      margin-right: 1em;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      padding-left: 1em;
+      margin: 0;
+    }
+
+    a {
+      display: inline-block;
+      text-decoration: none;
+      color: $text-color;
+    }
+
+    .area-item > .item-head > .item-label {
+      color: $text-lighter;
+      padding: 0 4px;
+      margin: 2px;
+    }
+
+    .portlet-item > .item-head {
+      > .item-label {
+        border-radius: 4px;
+        padding: 0 4px;
+        margin: 2px;
+      }
+
+      > .item-copybtn {
+        visibility: hidden;
+      }
+    }
+
+    .item-expander {
+      > .fa-chevron-down {
+        display: none;
+      }
+
+      > .fa-chevron-right {
+        display: inline-block;
+      }
+    }
+
+    li {
+      > ul {
+        display: none;
+      }
+
+      &.expanded {
+        > .item-head {
+          > .item-expander {
+            > .fa-chevron-down {
+              display: inline-block;
+            }
+
+            > .fa-chevron-right {
+              display: none;
+            }
+          }
+        }
+
+        > ul {
+          display: block;
+        }
+      }
+
+      &.leaf {
+        &.area-item {
+          > .item-head {
+            > .item-label {
+              color: $muted-text;
+            }
+          }
+        }
+
+        > .item-head {
+          > .item-expander ,
+          > .item-copybtn {
+            visibility: hidden;
+          }
+        }
+      }
+
+      &.selected {
+        > .item-head {
+          > .item-label {
+            background-color: $gray-dark;
+            color: $light-bg;
+          }
+        }
+      }
+    }
+  }
+}

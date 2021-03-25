@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "filecheck"
+msgstr "Check of online shop files"
+
+msgid "filecheckDesc"
+msgstr "Here you can review all online shop files to check whether they have been uploaded correctly. The files are checked for discrepancies between the checksum of the original files and the checksum of the current file. If no discrepancies are found, the status is \"OK\". If an online shop file has been changed, transferred with errors, or deleted, the status is \"modified\"."
+
+msgid "filecheckURL"
+msgstr "https://jtl-url.de/bhzcm"
+
+msgid "fileCheckNoneModifiedOrphanedFiles"
+msgstr "There are currently no modified or orphaned files."
+
+msgid "fileCheckModifiedFilesHeadline"
+msgstr "Modified files"
+
+msgid "fileCheckModifiedFilesNote"
+msgstr "The following files are not identical to the files of the version of JTL-Shop."
+
+msgid "fileCheckOrphanedFilesHeadline"
+msgstr "Orphaned files"
+
+msgid "fileCheckOrphanedFilesNote"
+msgstr "The following files were deleted in earlier versions of JTL-Shop and are not used anymore. The files can therefore be removed."
+
+msgid "fileCheckNumberModifiedFiles"
+msgstr "Number of modified files"
+
+msgid "fileCheckNumberOrphanedFiles"
+msgstr "Number of orphaned files"
+
+msgid "errorFileNotFound"
+msgstr "The file with the current file list does not exist."
+
+msgid "errorFileListEmpty"
+msgstr "The file with the current file list is empty."
+
+msgid "errorNotDeleted"
+msgstr "Could not delete all files."
+
+msgid "errorCreatingZipArchive"
+msgstr "Could not create zip archive %s."
+
+msgid "confirmDeleteText"
+msgstr "Delete all listed files? You should only do this if you have created a backup."
+
+msgid "backupText"
+msgstr "Created backup in %s and deleted %d files."
+
+msgid "showDeleteScript"
+msgstr "Generate script"

@@ -1,0 +1,205 @@
+# Tutorials
+
+msgid "tutStepTitle_0_0"
+msgstr "Welcome"
+
+msgid "tutStepText_0_0"
+msgstr "In this short introduction, we provide you with an overview of the OnPage&nbsp;Composer. This editor helps you to quickly create new contents for your online shop pages."
+
+msgid "tutStepTitle_0_1"
+msgstr "Panes"
+
+msgid "tutStepText_0_1"
+msgstr "<p>The editor basically has two panes.</p><p>On the left, there is a sidebar."
+
+msgid "tutStepTitle_0_2"
+msgstr "Panes"
+
+msgid "tutStepText_0_2"
+msgstr "On the right, you see the page that you are working on."
+
+msgid "tutStepTitle_0_3"
+msgstr "Portlets"
+
+msgid "tutStepText_0_3"
+msgstr "<em>Portlets</em> are ready-to-use building blocks that help you to add new content to your pages."
+
+msgid "tutStepTitle_0_4"
+msgstr "Portlets"
+
+msgid "tutStepText_0_4"
+msgstr "The light blue areas mark places to which you can drag and drop portlets."
+
+msgid "tutStepTitle_0_5"
+msgstr "Portlets"
+
+msgid "tutStepText_0_5"
+msgstr "Drag the <em>Headline</em> portlet into one of the light blue areas to add it to the page."
+
+msgid "tutStepTitle_0_6"
+msgstr "Portlets"
+
+msgid "tutStepText_0_6"
+msgstr "All portlets offer different functions. In this dialogue, you can make further settings for the portlet."
+
+msgid "tutStepTitle_0_7"
+msgstr "Settings"
+
+msgid "tutStepText_0_7"
+msgstr "Enter a text for the headline and click <em>Save</em>."
+
+msgid "tutStepTitle_0_8"
+msgstr "Settings"
+
+msgid "tutStepText_0_8"
+msgstr "Above the new portlet, you can find a toolbar with several buttons. Use the pen icon to edit the portlet at any time."
+
+msgid "tutStepTitle_0_9"
+msgstr "Publishing a page"
+
+msgid "tutStepText_0_9"
+msgstr "<p>If you want the visitors of your online shop to see the page, it must be published first. To do this, click on this button.</p>"
+
+msgid "tutStepTitle_0_10"
+msgstr "Publishing a page"
+
+msgid "tutStepText_0_10"
+msgstr "You can have several drafts for every page. You can also schedule when each draft is published. You could, for example, create a general draft and a Christmas draft."
+
+msgid "tutStepTitle_0_11"
+msgstr "Publishing a page"
+
+msgid "tutStepText_0_11"
+msgstr "<p>The default selection publishes the draft immediately and for an indefinite period of time. By clicking Apply, the page is published. For this tutorial, we skip that step. Exit the dialogue by clicking Cancel.</p> "
+
+msgid "tutStepTitle_0_12"
+msgstr "All done!"
+
+msgid "tutStepText_0_12"
+msgstr "<p>You can now close the editor and look at the page in the preview.</p><p>This was a tutorial on the basic functions of the OnPage&nbsp;Composer. Have fun trying it out yourself!</p>"
+
+msgid "tutStepTitle_1_0"
+msgstr "Animations"
+
+msgid "tutStepText_1_0"
+msgstr "Some portlets have <em>animations</em>. Learn how to use them correctly here."
+
+msgid "tutStepTitle_1_1"
+msgstr "Animations"
+
+msgid "tutStepText_1_1"
+msgstr "First, drag a <em>Button</em> portlet on the page."
+
+msgid "tutStepTitle_1_2"
+msgstr "Animations"
+
+msgid "tutStepText_1_2"
+msgstr "Go to the <em>Animation</em> tab."
+
+msgid "tutStepTitle_1_3"
+msgstr "Animations"
+
+msgid "tutStepText_1_3"
+msgstr "<p>Under <em>Animation type</em> you can select one of several animation types. <em>\"bounce\"</em>, for example, makes the portlet jump up and down.</p><p>Save the settings.</p>"
+
+msgid "tutStepTitle_1_4"
+msgstr "Animations"
+
+msgid "tutStepText_1_4"
+msgstr "<p>The first animation is visible on the page.</p><p>Let's try something more complex.</p>"
+
+msgid "tutStepTitle_1_5"
+msgstr "Animation"
+
+msgid "tutStepText_1_5"
+msgstr "Open the settings of the button again. You can either double-click on the portlet itself or use the pen icon."
+
+msgid "tutStepTitle_1_6"
+msgstr "Animations"
+
+msgid "tutStepText_1_6"
+msgstr "In the \"Layout\" tab, you can assign a bottom margin of 350 pixels to the button. Then go back to the Animation tab."
+
+msgid "tutStepTitle_1_7"
+msgstr "Animations"
+
+msgid "tutStepText_1_7"
+msgstr "One suitable animation type is, for example, <em>\"fade in\"</em>. Also enter \"350\" into the <em>Distance</em> field. Save the settings."
+
+msgid "tutStepTitle_1_8"
+msgstr "Animations"
+
+msgid "tutStepText_1_8"
+msgstr "To see how the settings affect the portlet, copy the button several times. To do this, click <em>Copy</em>."
+
+msgid "tutStepTitle_1_9"
+msgstr "Animations"
+
+msgid "tutStepText_1_9"
+msgstr "And a second time."
+
+msgid "tutStepTitle_1_10"
+msgstr "Animations"
+
+msgid "tutStepText_1_10"
+msgstr "Click <em>Copy</em> one more time. There should now be 4 identical buttons."
+
+msgid "tutStepTitle_1_11"
+msgstr "Animations"
+
+msgid "tutStepText_1_11"
+msgstr "Activate the <em>Preview</em> switch to view the result."
+
+msgid "tutStepTitle_1_12"
+msgstr "Animations"
+
+msgid "tutStepText_1_12"
+msgstr "<p>Scroll down. As you can see, the animation does not start until the button is at least 350 pixels above the lower viewport limit.</p><p>You can also use this to make sections of the page come in alternately from the left and right."
+
+msgid "tutStepTitle_1_13"
+msgstr "Animations"
+
+msgid "tutStepText_1_13"
+msgstr "<p>Do not forget that \"less is often more\". Do not use too many animations. They could distract customers or even scare them off!</p><p>This was a tutorial on animations. Have fun trying out the OnPage&nbsp;Composer!"
+
+msgid "tutStepTitle_2_0"
+msgstr "Blueprints"
+
+msgid "tutStepText_2_0"
+msgstr "<p>Learn how to create blueprints and reuse them.</p><p>First, drag a <em>Grid layout</em> on the page. Then fill the columns with whatever content you like.</p>"
+
+msgid "tutStepTitle_2_1"
+msgstr "Creating blueprints"
+
+msgid "tutStepText_2_1"
+msgstr "If you want to use contents again at a later time, you can create blueprints for them. To do this, click on the grid to select it."
+
+msgid "tutStepTitle_2_2"
+msgstr "Creating blueprints"
+
+msgid "tutStepText_2_2"
+msgstr "Click on the <em>Star</em> button in the toolbar."
+
+msgid "tutStepTitle_2_3"
+msgstr "Creating blueprints"
+
+msgid "tutStepText_2_3"
+msgstr "Give the blueprint a clear name. This will help you to quickly find the blueprint again in the future. Good naming examples are <em>\"Product table\"</em>, <em>\"Video with description\"</em> or <em>\"Text with 3 columns\"</em>."
+
+msgid "tutStepTitle_2_4"
+msgstr "Reusing blueprints"
+
+msgid "tutStepText_2_4"
+msgstr "You can find all saved blueprints in the respective tab of the sidebar."
+
+msgid "tutStepTitle_2_5"
+msgstr "Reusing blueprints"
+
+msgid "tutStepText_2_5"
+msgstr "The blueprint works like a regular portlet. Simply drag and drop it on the page."
+
+msgid "tutStepTitle_2_6"
+msgstr "Reusing blueprints"
+
+msgid "tutStepText_2_6"
+msgstr "<p>The plug-in <em>\"JTL-Portlets\"</em> offers a small selection of blueprints. If the plug-in is installed, you can find these templates here as well.</p><p>This was the <em>Blueprint</em> tutorial. Have fun trying out the OnPage&nbsp;Composer!</p>"

@@ -1,0 +1,25 @@
+@import "fonts";
+
+$primary-color:   #5cbcf6;
+$primary-lighter: lighten($primary-color, 25%);
+$primary-darker:  darken($primary-color, 12%);
+$text-color:      #435A6B;
+$text-lighter:    lighten($text-color, 16%);
+$bg-color:        #fff;
+$light-bg:        #F5F7FA;
+$hover-btn-bg:    #dfe1e2;
+$muted-text:      #BDBDBD;
+$gray-dark:       #525252;
+$gray-light:      #9b9b9b;
+$brand-text:      #fff;
+
+$transition: 0.5s;
+$main-font: "Open Sans";
+$fontawesome-mixed: "Font Awesome 5 Free", FontAwesome, $main-font;
+
+$portlet-btn-bg:    #f5f7fa;
+$display-prevs-bg:  #f5f7fa;
+
+$iframe-panel-bg:  #ddd;
+
+$sidebar-width:    380px;

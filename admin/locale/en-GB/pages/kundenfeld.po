@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "kundenfeld"
+msgstr "Extended customer data"
+
+msgid "kundenfeldURL"
+msgstr "https://jtl-url.de/xnm6c"
+
+msgid "kundenfeldDesc"
+msgstr "Here you can define custom form fields. These fields can be used to ask for specific customer information during the creation of customer accounts and the order process."
+
+msgid "kundenfeldExistingDesc"
+msgstr "Custom form fields:"
+
+msgid "kundenfeldName"
+msgstr "Name of field in JTL-Shop"
+
+msgid "kundenfeldNameShort"
+msgstr "Name of field in JTL-Shop"
+
+msgid "kundenfeldPflicht"
+msgstr "Mandatory field"
+
+msgid "kundenfeldTyp"
+msgstr "Field type"
+
+msgid "kundenfeldSortDesc"
+msgstr "Integer, e.g. 10 (if 0 or nothing is entered into several fields, these fields will be displayed in random sorting order)"
+
+msgid "kundenfeldPflichtDesc"
+msgstr "(*) = mandatory field"
+
+msgid "kundenfeldWawi"
+msgstr "Name of field in JTL-Wawi"
+
+msgid "kundenfeldWawiShort"
+msgstr "Name of field in JTL-Wawi"
+
+msgid "kundenfeldEditable"
+msgstr "Allow editing"
+
+msgid "headingKundenfeldEdit"
+msgstr "Editing form fields"
+
+msgid "headingKundenfeldCreate"
+msgstr "Creating new form fields"
+
+msgid "successCustomerFieldDelete"
+msgstr "Selected form fields deleted successfully."
+
+msgid "errorCustomerFieldDelete"
+msgstr "Could not delete the selected form fields."
+
+msgid "errorAtLeastOneCustomerField"
+msgstr "Please select at least one form field."
+
+msgid "successCustomerFieldUpdate"
+msgstr "Form fields updated successfully."
+
+msgid "errorCustomerFieldUpdate"
+msgstr "Could not update form fields."
+
+msgid "successCustomerFieldSave"
+msgstr "Form field saved successfully."
+
+msgid "errorCustomerFieldSave"
+msgstr "Could not save form field."
+
+msgid "errorCustomerFieldNameExists"
+msgstr "A field with this name already exists."
+
+msgid "errorLoginTemporaryNotPossible"
+msgstr "Login temporarily unavailable."
+
+msgid "errorLoginDataExpired"
+msgstr "Login data expired."
+
+msgid "errorFieldNeedsAtLeastOneValue"
+msgstr "Please enter at least one value into the field."
+
+msgid "errorChooseField"
+msgstr "Please select a field first."
+
+msgid "sureDeleteSelected"
+msgstr "Delete selected fields? All assigned customer values will be deleted."
+
+msgid "infoChangeFieldType"
+msgstr "When you change the field type, all customer values will be changed to match the new type (if possible)."

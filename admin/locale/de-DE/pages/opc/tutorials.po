@@ -1,0 +1,205 @@
+# Tutorials
+
+msgid "tutStepTitle_0_0"
+msgstr "Willkommen"
+
+msgid "tutStepText_0_0"
+msgstr "In dieser kurzen Einführung erhalten Sie einen Überblick über den OnPage&nbsp;Composer, der Ihnen dabei hilft, schnell neue Inhalte auf Ihrer Onlineshop-Seite entstehen zu lassen. "
+
+msgid "tutStepTitle_0_1"
+msgstr "Aufteilung"
+
+msgid "tutStepText_0_1"
+msgstr "<p>Grundsätzlich ist der Editor in zwei Bereiche aufgeteilt.</p><p>Links befindet sich die Sidebar. "
+
+msgid "tutStepTitle_0_2"
+msgstr "Aufteilung"
+
+msgid "tutStepText_0_2"
+msgstr "Rechts sehen Sie die Seite, die Sie gerade bearbeiten."
+
+msgid "tutStepTitle_0_3"
+msgstr "Portlets"
+
+msgid "tutStepText_0_3"
+msgstr "<em>Portlets</em> sind fertige Bausteine, mit denen Sie neue Inhalte auf Ihren Seiten hinzufügen können. "
+
+msgid "tutStepTitle_0_4"
+msgstr "Portlets"
+
+msgid "tutStepText_0_4"
+msgstr "Die hellblauen Bereiche auf der Seite zeigen an, wo Sie die Portlets ablegen können."
+
+msgid "tutStepTitle_0_5"
+msgstr "Portlets"
+
+msgid "tutStepText_0_5"
+msgstr "Ziehen Sie das Portlet <em>Überschrift</em> in einen der hellblauen Bereiche, um es einzufügen. "
+
+msgid "tutStepTitle_0_6"
+msgstr "Portlets"
+
+msgid "tutStepText_0_6"
+msgstr "Alle Portlets bieten verschiedene Einstellungen. In diesem Fenster können Sie das Portlet weiter konfigurieren. "
+
+msgid "tutStepTitle_0_7"
+msgstr "Einstellungen"
+
+msgid "tutStepText_0_7"
+msgstr "Geben Sie einen eigenen Text für die Überschrift ein und klicken Sie auf <em>Speichern</em>."
+
+msgid "tutStepTitle_0_8"
+msgstr "Einstellungen"
+
+msgid "tutStepText_0_8"
+msgstr "Am neuen Portlet befindet sich eine Leiste mit verschiedenen Schaltflächen. Über das Stift-Symbol können Sie das Portlet jederzeit bearbeiten. "
+
+msgid "tutStepTitle_0_9"
+msgstr "Seite veröffentlichen"
+
+msgid "tutStepText_0_9"
+msgstr "<p>Damit den Besuchern Ihres Onlineshops die Seite angezeigt wird, muss sie veröffentlicht werden. Klicken Sie dazu auf diese Schaltfläche.</p>"
+
+msgid "tutStepTitle_0_10"
+msgstr "Seite veröffentlichen"
+
+msgid "tutStepText_0_10"
+msgstr "Für jede Seite können Sie mehrere Entwürfe pflegen, deren Sichtbarkeit Sie auch zeitlich planen können. Sie können z.&nbsp;B einen allgemeinen Entwurf und einen für die Weihnachtszeit anlegen. "
+
+msgid "tutStepTitle_0_11"
+msgstr "Seite veröffentlichen"
+
+msgid "tutStepText_0_11"
+msgstr "<p>Die Voreinstellung macht den Entwurf ab sofort und auf unbestimmte Zeit sichtbar. Mit einem Klick auf Übernehmen wird die Seite online gestellt. Diesen Schritt überspringen wir im Tutorial. Verlassen Sie das Fenster mit Abbrechen. "
+
+msgid "tutStepTitle_0_12"
+msgstr "Fertig!"
+
+msgid "tutStepText_0_12"
+msgstr "<p>Sie können den Editor nun beenden und sich die Seite über die Vorschau ansehen. Das waren die Basics zum OnPage&nbsp;Composer. Wir wünschen Ihnen viel Spaß beim Ausprobieren!</p>"
+
+msgid "tutStepTitle_1_0"
+msgstr "Animationen"
+
+msgid "tutStepText_1_0"
+msgstr "Einige Portlets verfügen über Einstellungen, um <em>Animationen</em> zu erstellen. Hier lernen Sie, diese richtig zu nutzen. "
+
+msgid "tutStepTitle_1_1"
+msgstr "Animationen"
+
+msgid "tutStepText_1_1"
+msgstr "Ziehen Sie zunächst eine <em>Schaltfläche</em> auf die Seite."
+
+msgid "tutStepTitle_1_2"
+msgstr "Animationen"
+
+msgid "tutStepText_1_2"
+msgstr "Wechseln Sie nun in den Reiter <em>Animation</em>."
+
+msgid "tutStepTitle_1_3"
+msgstr "Animationen"
+
+msgid "tutStepText_1_3"
+msgstr "<p>Unter <em>Animationstyp</em> können Sie einen der verschiedenen Animationsstile auswählen. <em>„bounce“</em> zum Beispiel lässt das Portlet hüpfen. Speichern Sie dann die Einstellungen. "
+
+msgid "tutStepTitle_1_4"
+msgstr "Animationen"
+
+msgid "tutStepText_1_4"
+msgstr "<p>Die erste Animation erscheint im Editorfenster. Versuchen wir nun etwas Komplexeres.</p>"
+
+msgid "tutStepTitle_1_5"
+msgstr "Animation"
+
+msgid "tutStepText_1_5"
+msgstr "Öffnen Sie erneut die Einstellungen der Schaltfläche. Dazu können Sie doppelt auf das Portlet oder einfach auf das Stiftsymbol klicken. "
+
+msgid "tutStepTitle_1_6"
+msgstr "Animationen"
+
+msgid "tutStepText_1_6"
+msgstr "Im Reiter „Layout“ können Sie dem Button einen unteren Abstand von 350 Pixeln zuweisen. Wechseln Sie dann wieder in den Animationsreiter. "
+
+msgid "tutStepTitle_1_7"
+msgstr "Animationen"
+
+msgid "tutStepText_1_7"
+msgstr "Ein geeigneter Animationstyp ist zum Beispiel <em>„fade in“</em>. Geben Sie außerdem für den <em>Abstand</em> „350“ ein. Speichern Sie dann die Einstellungen. "
+
+msgid "tutStepTitle_1_8"
+msgstr "Animationen"
+
+msgid "tutStepText_1_8"
+msgstr "Um zu sehen, wie sich die Einstellung auswirkt, klonen wir die Schaltfläche einige Male. Klicken Sie dazu auf <em>Kopieren</em>. "
+
+msgid "tutStepTitle_1_9"
+msgstr "Animationen"
+
+msgid "tutStepText_1_9"
+msgstr "Und noch einmal!"
+
+msgid "tutStepTitle_1_10"
+msgstr "Animationen"
+
+msgid "tutStepText_1_10"
+msgstr "Klicken Sie ein letztes Mal auf <em>Kopieren</em>, sodass 4 Exemplare der Schaltfläche untereinander angezeigt werden. "
+
+msgid "tutStepTitle_1_11"
+msgstr "Animationen"
+
+msgid "tutStepText_1_11"
+msgstr "Mit dem <em>Vorschau</em>-Schalter können Sie das Ergebnis gleich testen."
+
+msgid "tutStepTitle_1_12"
+msgstr "Animationen"
+
+msgid "tutStepText_1_12"
+msgstr "<p>Scrollen Sie nach unten. Wie Sie sehen, startet die Animation nicht, bis sich die Schaltfläche mindestens 350 Pixel oberhalb der Viewport-Untergrenze befindet. Sie können dieses Konzept auch weiter ausbauen und z.&nbsp;B. Bereiche abwechselnd von links und rechts auf der Seite erscheinen lassen. "
+
+msgid "tutStepTitle_1_13"
+msgstr "Animationen"
+
+msgid "tutStepText_1_13"
+msgstr "<p>Denken Sie aber daran, dass „weniger oft mehr ist“. Gehen Sie sparsam mit Animationen um, da Kunden sonst leicht abgelenkt oder gar verschreckt werden. Dies war das Tutorial zu Animationen. Wir wünschen Ihnen weiterhin viel Spaß mit dem OnPage&nbsp;Composer! "
+
+msgid "tutStepTitle_2_0"
+msgstr "Blueprints"
+
+msgid "tutStepText_2_0"
+msgstr "<p>Lernen Sie hier, wie Sie Blueprints anlegen und diese wiederverwenden. Ziehen Sie zunächst ein <em>Grid-Layout</em> in die Seite und füllen Sie die Spalten mit beliebigen Inhalten.</p>"
+
+msgid "tutStepTitle_2_1"
+msgstr "Blueprints anlegen"
+
+msgid "tutStepText_2_1"
+msgstr "Wenn Sie erstellte Inhalte zu einem späteren Zeitpunkt wiederverwenden wollen, können Sie dafür einen Blueprint erstellen. Wählen Sie dazu das gesamte Grid-Layout mit einem Klick aus. "
+
+msgid "tutStepTitle_2_2"
+msgstr "Blueprints anlegen"
+
+msgid "tutStepText_2_2"
+msgstr "Klicken Sie jetzt in der Toolbar auf die <em>Stern</em>-Schaltfläche."
+
+msgid "tutStepTitle_2_3"
+msgstr "Blueprints anlegen"
+
+msgid "tutStepText_2_3"
+msgstr "Geben Sie dem Blueprint einen aussagekräftigen Namen. Mit diesem Namen finden Sie später den Blueprint besser wieder. Gute Beispiele wären <em>„Produkttabelle“</em>, <em>„Video mit Beschreibungstext“</em> oder <em>„3-spaltiger Text“</em>.<br/>"
+
+msgid "tutStepTitle_2_4"
+msgstr "Blueprints wiederverwenden"
+
+msgid "tutStepText_2_4"
+msgstr "Alle gespeicherten Blueprints finden Sie im entsprechenden Reiter in der Sidebar."
+
+msgid "tutStepTitle_2_5"
+msgstr "Blueprints wiederverwenden"
+
+msgid "tutStepText_2_5"
+msgstr "Sie können jeden Blueprint wie ein normales Portlet einfach auf die Seite ziehen."
+
+msgid "tutStepTitle_2_6"
+msgstr "Blueprints wiederverwenden"
+
+msgid "tutStepText_2_6"
+msgstr "<p>Das Plugin <em>„JTL-Portlets“</em> bietet übrigens eine kleine Auswahl an Blueprints. Diese werden ebenfalls hier zur Verfügung gestellt, sofern Sie das Plugin installiert haben.</p> <p>Dies war das Tutorial zu den <em>Blueprints</em>. Wir wünschen Ihnen weiterhin viel Spaß mit dem OnPage&nbsp;Composer!</p> "

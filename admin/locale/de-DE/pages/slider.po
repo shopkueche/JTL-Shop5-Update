@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "slider"
+msgstr "Slider"
+
+msgid "sliderURL"
+msgstr "https://jtl-url.de/uywto"
+
+msgid "sliderDesc"
+msgstr "Hier pflegen Sie für beliebige Seiten Ihres Onlineshops Slider ein."
+
+msgid "errorSliderSave"
+msgstr "Der Slider konnte nicht in der Datenbank gespeichert werden. Bitte wenden Sie sich an den Support."
+
+msgid "successSliderSave"
+msgstr "Änderungen wurden erfolgreich gespeichert."
+
+msgid "errorSliderNotFound"
+msgstr "Slider wurde nicht gefunden."
+
+msgid "errorSliderRemove"
+msgstr "Slider konnte nicht entfernt werden."
+
+msgid "sliderCreate"
+msgstr "Slider erstellen"
+
+msgid "slides"
+msgstr "Slides"
+
+msgid "pauseOnHover"
+msgstr "Pause bei Hover"
+
+msgid "kenBurnsEffect"
+msgstr "Ken-Burns-Effekt"
+
+msgid "overrideDescription"
+msgstr "Wenn diese Option aktiviert ist, überschreibt sie andere <a href=\"#\" data-toggle=\"tooltip\" title=\"Es werden überschrieben: zufälliger Start, Pause bei Hover, Navigation, Thumbnail-Navigation, Navigation (Richtung) und Effekte.\">Einstellungen</a>."
+
+msgid "randomEffects"
+msgstr "Zufällige Effekte"
+
+msgid "selectedEffects"
+msgstr "Ausgewählte Effekte"
+
+msgid "availableEffects"
+msgstr "Verfügbare Effekte"
+
+msgid "animationSliceDownLeft"
+msgstr "sliceDownLeft"
+
+msgid "animationSliceUp"
+msgstr "sliceUp"
+
+msgid "animationSliceUpLeft"
+msgstr "sliceUpLeft"
+
+msgid "animationSliceUpDown"
+msgstr "sliceUpDown"
+
+msgid "animationSliceUpDownLeft"
+msgstr "sliceUpDownLeft"
+
+msgid "animationFold"
+msgstr "fold"
+
+msgid "animationSlideInRight"
+msgstr "slideInRight"
+
+msgid "animationSlideInLeft"
+msgstr "slideInLeft"
+
+msgid "animationBoxRandom"
+msgstr "boxRandom"
+
+msgid "animationBoxRain"
+msgstr "boxRain"
+
+msgid "animationBoxRainReverse"
+msgstr "boxRainReverse"
+
+msgid "animationBoxRainGrow"
+msgstr "boxRainGrow"
+
+msgid "animationBoxRainGrowReverse"
+msgstr "boxRainGrowReverse"
+
+msgid "themeDefault"
+msgstr "default"
+
+msgid "themeBar"
+msgstr "bar"
+
+msgid "themeLight"
+msgstr "light"
+
+msgid "themeDark"
+msgstr "dark"
+
+msgid "warningAnimationTimeLower"
+msgstr "Der Wert von „Animationsgeschwindigkeit“ darf den Wert von „Pausenzeit“ nicht überschreiten."
+
+msgid "pauseTime"
+msgstr "Pausenzeit (in ms)"
+
+msgid "dotNavigation"
+msgstr "Punktnavigation"
+
+msgid "thumbnailNavigation"
+msgstr "Thumbnail-Navigation"
+
+msgid "directionNavigation"
+msgstr "Pfeilnavigation"
+
+msgid "animationSpeed"
+msgstr "Animationsgeschwindigkeit"

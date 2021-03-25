@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Divider"
+msgstr "Divider"
+
+msgid "dividerTitle"
+msgstr "Labelling"
+
+msgid "dividerMoreLink"
+msgstr "Link URL"
+
+msgid "dividerMoreTitle"
+msgstr "Link title"
+
+msgid "dividerElmID"
+msgstr "Element ID"
+
+msgid "dividerIdDesc"
+msgstr "Here you can enter a unique identifier (anchor). Use it to link to this position from other positions or pages (allowed characters: numbers, letters, –, _)."

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "order"
+msgstr "Bestellhistorie"
+
+msgid "orderDesc"
+msgstr " "
+
+msgid "orderURL"
+msgstr "https://jtl-url.de/p5rq7"
+
+msgid "orderShippingName"
+msgstr "Versandart"
+
+msgid "orderPaymentName"
+msgstr "Zahlungsart"
+
+msgid "orderWawiPickedUp"
+msgstr "Bereits an JTL-Wawi gesendet"
+
+msgid "orderCostumerRegistered"
+msgstr "Registrierter Kunde"
+
+msgid "orderSum"
+msgstr "Gesamtsumme"
+
+msgid "orderDate"
+msgstr "Bestelldatum"
+
+msgid "orderPickedUpResetBTN"
+msgstr "Für den nächsten JTL-Wawi-Abgleich zum erneuten Senden vormerken"
+
+msgid "orderSearch"
+msgstr "Suche"
+
+msgid "orderSearchItem"
+msgstr "Bestellnummer"
+
+msgid "orderCanceled"
+msgstr "storniert"
+
+msgid "orderInProgress"
+msgstr "in Bearbeitung"
+
+msgid "orderPayed"
+msgstr "bezahlt"
+
+msgid "orderShipped"
+msgstr "versendet"
+
+msgid "orderPartlyShipped"
+msgstr "teilversendet"
+
+msgid "orderIpAddress"
+msgstr "IP-Adresse"
+
+msgid "successOrderReset"
+msgstr "Markierte Bestellungen wurden erfolgreich zurückgesetzt."
+
+msgid "errorAtLeastOneOrder"
+msgstr "Bitte markieren Sie mindestens eine Bestellung."
+
+msgid "errorMissingOrderNumber"
+msgstr "Bitte geben Sie eine Bestellnummer ein."

@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "buyNow"
+msgstr "Jetzt kaufen"
+
+msgid "loading"
+msgstr "Wird geladen…"
+
+msgid "communityForum"
+msgstr "Community-Forum"
+
+msgid "noPatchesATM"
+msgstr "Zurzeit stehen keine Patches zur Verfügung."
+
+msgid "noStatisticsThisMonth"
+msgstr "Für den aktuellen Monat liegen noch keine Statistiken vor."
+
+msgid "phpVersion"
+msgstr "PHP-Version"
+
+msgid "mysqlStatistic"
+msgstr "MySQL-Statistik"
+
+msgid "mysqlVersion"
+msgstr "MySQL-Version"
+
+msgid "maxPHPExecutionTime"
+msgstr "Maximale PHP-Ausführungszeit"
+
+msgid "phpMemoryLimit"
+msgstr "PHP-Speicherlimit"
+
+msgid "phpMaxTransimissionSizeFile"
+msgstr "Maximale PHP-Übertragungsgröße (FILE)"
+
+msgid "phpMaxTransimissionSizePost"
+msgstr "Maximale PHP-Übertragungsgröße (POST)"
+
+msgid "soapExtension"
+msgstr "SOAP-Erweiterung"
+
+msgid "shopVersion"
+msgstr "Shopversion"
+
+msgid "templateVersion"
+msgstr "Template-Version"
+
+msgid "dbVersion"
+msgstr "Datenbankversion"
+
+msgid "dbLastUpdate"
+msgstr "Letzte Datenbankaktualisierung"
+
+msgid "subscriptionValidUntil"
+msgstr "Shop-Lizenz gültig bis"
+
+msgid "shopVersionUpToDate"
+msgstr "Sie nutzen die aktuelle Version von JTL-Shop."
+
+msgid "build"
+msgstr "Build"
+
+msgid "noVisitorsATM"
+msgstr "Momentan befinden sich keine Besucher im Shop."
+
+msgid "lastActivity"
+msgstr "Letzte Aktivität"
+
+msgid "lastPurchase"
+msgstr "Letzter Einkauf"
+
+msgid "newsletterSubscriber"
+msgstr "Newsletter-Abonnent"
+
+msgid "moreDetailsStatistics"
+msgstr "Mehr Details unter <a href=\"statistik.php?s=3\">Statistiken</a>"
+
+msgid "noStatisticsFound"
+msgstr "Keine Statistiken gefunden"
+
+msgid "moduleSelectionWizard"
+msgstr "Auswahlassistent-Modul"
+
+msgid "moduleUpload"
+msgstr "Upload-Modul"
+
+msgid "moduleDownload"
+msgstr "Download-Modul"
+
+msgid "moduleConfigurator"
+msgstr "Konfigurator-Modul"
+
+msgid "moduleBrandFree"
+msgstr "BrandFree Option"

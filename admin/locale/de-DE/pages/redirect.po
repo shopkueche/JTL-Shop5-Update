@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "redirect"
+msgstr "Weiterleitungen"
+
+msgid "redirectDesc"
+msgstr "Legen Sie Weiterleitungen für verwaiste URLs an, deren Zielseiten unter einem neuen Pfad erreichbar sind. JTL-Shop merkt sich automatisch alle nicht gefundenen URLs, die aufgerufen wurden, und listet diese hier auf. Legen Sie nur dann eine Weiterleitung an, wenn der Inhalt der alten Seite umgezogen wurde und nun unter einem neuen Pfad abrufbar ist."
+
+msgid "redirectURL"
+msgstr "https://jtl-url.de/961as"
+
+msgid "redirectDelUnassigned"
+msgstr "Alle ohne Weiterleitung löschen"
+
+msgid "redirectNew"
+msgstr "Neue Weiterleitung"
+
+msgid "redirectFrom"
+msgstr "Quell-URL"
+
+msgid "redirectTo"
+msgstr "Ziel-URL"
+
+msgid "redirectRefererCount"
+msgstr "Besucher"
+
+msgid "redirectReferer"
+msgstr "Ursprung"
+
+msgid "redirectRefererDirect"
+msgstr "Direkteinstieg"
+
+msgid "redirectCsvImport"
+msgstr "CSV-Import"
+
+msgid "errorURLNotReachable"
+msgstr "Änderungen konnten nicht gespeichert werden, da die weiterzuleitende URL %s nicht erreichbar ist."
+
+msgid "successRedirectSave"
+msgstr "Weiterleitung wurde erfolgreich gespeichert."
+
+msgid "errorImport"
+msgstr "Der Import konnte nicht durchgeführt werden. Bitte prüfen Sie die CSV-Datei."
+
+msgid "successImport"
+msgstr "Import wurde erfolgreich durchgeführt."

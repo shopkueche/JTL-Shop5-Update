@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "loginLong"
+msgstr "Log in with your account data."
+
+msgid "TwoFALogin"
+msgstr "Enter Google Authenticator code:"
+
+msgid "successPasswordChange"
+msgstr "Password changed successfully."
+
+msgid "changerUser"
+msgstr "Change user"

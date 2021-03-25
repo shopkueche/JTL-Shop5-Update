@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "statisticTitle"
+msgstr "Statistics"
+
+msgid "statisticBesucherURL"
+msgstr "https://jtl-url.de/rk925"
+
+msgid "statisticKundenherkunft"
+msgstr "Origins of shop visitors"
+
+msgid "statisticKundenherkunftURL"
+msgstr "https://jtl-url.de/fzxua"
+
+msgid "statisticSuchmaschine"
+msgstr "Search engines"
+
+msgid "statisticSuchmaschineURL"
+msgstr "https://jtl-url.de/hrkb3"
+
+msgid "statisticUmsatz"
+msgstr "Sales revenues"
+
+msgid "statisticUmsatzURL"
+msgstr "https://jtl-url.de/39h7w"
+
+msgid "statisticEinstiegsseite"
+msgstr "Start page"
+
+msgid "statisticEinstiegsseiteURL"
+msgstr "https://jtl-url.de/8bs5u"
+
+msgid "statisticDesc"
+msgstr "Here you can find detailed statistics regarding your online shop. Select the period for which you want to view the statistics."
+
+msgid "sales"
+msgstr "Sales revenues"
+
+msgid "statisticType"
+msgstr "Statistics type"
+
+msgid "crawlerSettings"
+msgstr "Settings"
+
+msgid "crawlerOverviewTitle"
+msgstr "Excluded crawlers"
+
+msgid "deleteCrawlerModalTitle"
+msgstr "Delete crawler"
+
+msgid "newCrawler"
+msgstr "Adding a new crawler"
+
+msgid "createCrawler"
+msgstr "Add crawler"
+
+msgid "editCrawler"
+msgstr "Editing a crawler"
+
+msgid "crawlerUserAgent"
+msgstr "Crawler name (user agent)"
+
+msgid "crawlerDescription"
+msgstr "Crawler description"
+
+msgid "crawlerListUserAgent"
+msgstr "Name (user agent)"
+
+msgid "crawlerListDescription"
+msgstr "Description"
+
+msgid "missingCrawlerFields"
+msgstr "Please complete all mandatory fields."
+
+msgid "crawlerUserAgentHint"
+msgstr "Specify which crawlers are excluded from the visitor counter."
+
+msgid "crawlerDescriptionHint"
+msgstr "Enter a clear description of the crawler."

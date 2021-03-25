@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "emailTemplates"
+msgstr "E-Mail-Vorlagen"
+
+msgid "emailTemplateURL"
+msgstr "https://jtl-url.de/wjkma"
+
+msgid "emailTemplatesHint"
+msgstr "Hier können die Vorlagen für alle E-Mails angepasst werden, die JTL-Shop verschicken kann. Diese Vorlagen werden mithilfe der Smarty Template Engine bearbeitet. Wenn Sie eine Test-E-Mail anfordern, erhalten Sie diese in jeder im Onlineshop verfügbaren Sprache."
+
+msgid "testmail"
+msgstr "Test-E-Mail anfordern"
+
+msgid "testmailsGoToEmail"
+msgstr "Test-E-Mails werden an folgende Adresse gesendet: "
+
+msgid "noMasterEmailSpecified"
+msgstr "Keine Master-E-Mail-Adresse hinterlegt. Bitte tragen Sie eine Master-E-Mail-Adresse für den Absender unter Administration > E-Mail > Server ein."
+
+msgid "emailTemplateModifyHint"
+msgstr "Hier bearbeiten Sie den Inhalt einer E-Mail-Vorlage in jeder in JTL-Shop gepflegten Sprache. Sie können außerdem festlegen, von welcher Adresse aus die E-Mail versendet werden soll, und ob bestimmte Anhänge standardmäßig mitgesendet werden sollen."
+
+msgid "mailText"
+msgstr "Inhalt (Text)"
+
+msgid "mailHtml"
+msgstr "Inhalt (HTML)"
+
+msgid "mailType"
+msgstr "Diese E-Mail-Art versenden als"
+
+msgid "pdf"
+msgstr "PDF-Datei"
+
+msgid "currentFiles"
+msgstr "Aktuelle Anhänge"
+
+msgid "emailAddAKZ"
+msgstr "Anbieterkennzeichnung anhängen"
+
+msgid "emailAddAGB"
+msgstr "AGB anhängen"
+
+msgid "emailAddWRB"
+msgstr "Widerrufsbelehrung anhängen"
+
+msgid "emailAddWRBForm"
+msgstr "Muster-Widerrufsformular anhängen"
+
+msgid "emailAddDSE"
+msgstr "Datenschutzerklärung anhängen"
+
+msgid "emailActive"
+msgstr "E-Mail versenden"
+
+msgid "emailOut"
+msgstr "Absender-E-Mail-Adresse"
+
+msgid "emailSenderName"
+msgstr "Absendername"
+
+msgid "emailCopyTo"
+msgstr "E-Mail-Kopie (bcc) an"
+
+msgid "errorTemplate"
+msgstr "Die E-Mail-Vorlage ist fehlerhaft."
+
+msgid "successTemplateReset"
+msgstr "Markierte E-Mail-Vorlage wurde erfolgreich zurückgesetzt."
+
+msgid "errorTemplateMissing"
+msgstr "Es existiert keine E-Mail-Vorlage: "
+
+msgid "successEmailSend"
+msgstr "E-Mail wurde erfolgreich versendet."
+
+msgid "errorEmailSend"
+msgstr "E-Mail konnte nicht versendet werden."
+
+msgid "errorFileName"
+msgstr "Der Dateiname %s enthält unzulässige Zeichen (erlaubt sind A–Z, a–z, 0–9, _ und -)."
+
+msgid "errorFileSave"
+msgstr "Dateien konnten nicht geschrieben werden. Prüfen Sie bitte, ob für das PDF-Verzeichnis Schreibrechte gesetzt sind."
+
+msgid "errorFileNameMissing"
+msgstr "Bitte geben Sie zu jeder Datei auch einen Dateinamen ein."
+
+msgid "errorFileSizeType"
+msgstr "Die Datei muss im PDF-Format vorliegen und darf maximal 2&nbsp;MB groß sein."
+
+msgid "errorFileNamePdfMissing"
+msgstr "Sie haben zu einem PDF keinen Dateinamen angegeben."
+
+msgid "successTemplateEdit"
+msgstr "E-Mail-Vorlage wurde erfolgreich geändert."
+
+msgid "successFileAppendixDelete"
+msgstr "Dateianhänge für die gewählte Sprache wurden erfolgreich gelöscht."
+
+msgid "multipleDividedColon"
+msgstr "Mehrere Empfänger durch Semikolon trennen"
+
+msgid "resetEmailTemplate"
+msgstr "Die E-Mail-Vorlage wird zurückgesetzt."
+
+msgid "sureResetEmailTemplate"
+msgstr "Möchten Sie die E-Mail-Vorlage „<b>%s</b>“ wirklich zurücksetzen?"
+
+msgid "pluginTemplates"
+msgstr "Plugin-Vorlagen"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_kupon"
+msgstr "Coupon (Standard / Versandcoupon)"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_gutschein"
+msgstr "Kunde erhält Guthaben"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellbestaetigung"
+msgstr "Bestellbestätigung"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_passwort_vergessen"
+msgstr "Passwort vergessen"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_neukundenregistrierung"
+msgstr "Neukundenregistrierung"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_accounterstellung_durch_betreiber"
+msgstr "Erstellung eines Kundenkontos durch den Onlineshop-Betreiber"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellung_bezahlt"
+msgstr "Bestellung bezahlt"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellung_versandt"
+msgstr "Bestellung versandt"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_account_geloescht"
+msgstr "Löschung eines Kundenkontos"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_kdgrp_zuweisung"
+msgstr "Kundengruppenzuweisung durch Onlineshop-Betreiber"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_kontaktformular"
+msgstr "Kontaktformular"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_produktanfrage"
+msgstr "Frage zum Artikel"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_verfuegbarkeitsbenachrichtigung"
+msgstr "Benachrichtigung, wenn Artikel wieder verfügbar"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_wunschliste"
+msgstr "Wunschzettelversand an Freunde"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bewertungerinnerung"
+msgstr "Bewertungserinnerung nach Artikelkauf"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellung_aktualisiert"
+msgstr "Bestellung aktualisiert"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellung_storno"
+msgstr "Bestellung storniert"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellung_restorno"
+msgstr "Bestellung reaktiviert"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bestellung_teilversandt"
+msgstr "Bestellung teilversandt"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_footer"
+msgstr "Footer"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_header"
+msgstr "Header"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_newsletteranmelden"
+msgstr "Freischalt-E-Mail nach Newsletter-Anmeldung"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_artikelweiterempfehlen"
+msgstr "Artikel weiterempfehlen"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_bewertung_guthaben"
+msgstr "Bonusguthaben für Bewertung"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_anbieterkennzeichnung"
+msgstr "Anbieterkennzeichnung"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_checkbox_shopbetreiber"
+msgstr "Auswahl einer Checkboxoption"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_admin_passwort_vergessen"
+msgstr "Passwort vergessen (Administrator)"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_statusemail"
+msgstr "E-Mail-Bericht"
+
+# email name (temailvorlage)
+msgid "name_core_jtl_verfuegbarkeitsbenachrichtigung_optin"
+msgstr "E-Mail-Benachrichtigung, wenn Artikel wieder verfügbar (Bestätigung nach Double-Opt-In-Verfahren)"
+
+msgid "Empty mail body"
+msgstr "E-Mail-Body ist leer"
+
+msgid "Check syntax"
+msgstr "E-Mail-Sytnax prüfen"
+
+msgid "Syntax check fail"
+msgstr "E-Mail Syntaxprüfung fehlgeschlagen"

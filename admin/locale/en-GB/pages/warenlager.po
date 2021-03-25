@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "warenlager"
+msgstr "Warehouse stocks"
+
+msgid "warenlagerURL"
+msgstr "https://jtl-url.de/anf89"
+
+msgid "warenlagerDesc"
+msgstr "Specify whether to display the stocks of individual warehouses on the item detail page. For this, check \"Active in online shop\" for the respective warehouse and click \"Save\". In the options, you can adjust the names displayed for each warehouse."
+
+msgid "warenlagerIntern"
+msgstr "Internal name"
+
+msgid "warenlagerActive"
+msgstr "Active in online shop"
+
+msgid "successStoreRefresh"
+msgstr "Warehouses updated successfully."

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "order"
+msgstr "Order history"
+
+msgid "orderDesc"
+msgstr " "
+
+msgid "orderURL"
+msgstr "https://jtl-url.de/bv8mg"
+
+msgid "orderShippingName"
+msgstr "Shipping method"
+
+msgid "orderPaymentName"
+msgstr "Payment method"
+
+msgid "orderWawiPickedUp"
+msgstr "Already sent to JTL-Wawi"
+
+msgid "orderCostumerRegistered"
+msgstr "Registered customer"
+
+msgid "orderSum"
+msgstr "Total sum"
+
+msgid "orderDate"
+msgstr "Order date"
+
+msgid "orderPickedUpResetBTN"
+msgstr "Schedule new transfer to JTL-Wawi during next synchronisation"
+
+msgid "orderSearch"
+msgstr "Search"
+
+msgid "orderSearchItem"
+msgstr "Order ID"
+
+msgid "orderCanceled"
+msgstr "cancelled"
+
+msgid "orderInProgress"
+msgstr "in progress"
+
+msgid "orderPayed"
+msgstr "paid"
+
+msgid "orderShipped"
+msgstr "shipped"
+
+msgid "orderPartlyShipped"
+msgstr "partially delivered"
+
+msgid "orderIpAddress"
+msgstr "IP address"
+
+msgid "successOrderReset"
+msgstr "Selected orders reset successfully."
+
+msgid "errorAtLeastOneOrder"
+msgstr "Please select at least one order."
+
+msgid "errorMissingOrderNumber"
+msgstr "Please enter an order ID."

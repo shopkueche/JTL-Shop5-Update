@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "warenkorbpers"
+msgstr "Saved baskets"
+
+msgid "warenkorbpersURL"
+msgstr "https://jtl-url.de/c0h2b"
+
+msgid "warenkorbpersDesc"
+msgstr "Here you can view all baskets that contain items put there by logged-in customers that have not (yet) been ordered. You can disable the option to save baskets under \"Settings\"."
+
+msgid "warenkorbpersCompany"
+msgstr "Company"
+
+msgid "warenkorbpersClientName"
+msgstr "Customer (Customer ID, email or first name)"
+
+msgid "warenkorbpersClient"
+msgstr "Basket saved by"
+
+msgid "warenkorbpersProduct"
+msgstr "Item"
+
+msgid "warenkorbpersCount"
+msgstr "Quantity"
+
+msgid "warenkorbpersDate"
+msgstr "Date"
+
+msgid "warenkorbpersBack"
+msgstr "Back"
+
+msgid "warenkorbpersShow"
+msgstr "View"
+
+msgid "warenkorbpersDel"
+msgstr "Delete"
+
+msgid "warenkorbpersSettings"
+msgstr "Settings"
+
+msgid "warenkorbpersSearch"
+msgstr "Search"
+
+msgid "warenkorbpersSearchBTN"
+msgstr "Find"
+
+msgid "warenkorbpersAction"
+msgstr "Action"
+
+msgid "successCartPersPosDelete"
+msgstr "Selected basket deleted successfully."

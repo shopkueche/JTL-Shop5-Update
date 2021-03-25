@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "livesearch"
+msgstr "Search queries"
+
+msgid "livesucheURL"
+msgstr "https://jtl-url.de/hjd59"
+
+msgid "livesucheDesc"
+msgstr "Here you can find the latest search queries entered into the search function of JTL-Shop and can link search queries and search terms with other search queries/terms, e.g. mobile phone with smartphone. If a customer looks for the search term \"mobile phone\", they will also see the results for the search term \"smartphone\"."
+
+msgid "searchnew"
+msgstr "New search"
+
+msgid "searchcount"
+msgstr "Number of searches"
+
+msgid "mappingDelete"
+msgstr "Remove selected links"
+
+msgid "lastsearch"
+msgstr "Last searched"
+
+msgid "blacklistDescription"
+msgstr "Separate multiple search terms by semicolons"
+
+msgid "searchrequest"
+msgstr "Search queries"
+
+msgid "searchmiss"
+msgstr "Search queries without results"
+
+msgid "livesucheSearchItem"
+msgstr "Search term"
+
+msgid "livesucheSearchType"
+msgstr "Search category"
+
+msgid "livesucheMappingOn"
+msgstr "Link selected with"
+
+msgid "livesucheMappingOnBTN"
+msgstr "Link"
+
+msgid "livesucheEdit"
+msgstr "Edit search"
+
+msgid "livesucheSelectAll"
+msgstr "Select all"
+
+msgid "errorSearchTermMissing"
+msgstr "Please enter a search term."
+
+msgid "successSearchMap"
+msgstr "Search query %s successfully linked with %s."
+
+msgid "errorSearchMapSelf"
+msgstr "Search query %s cannot be linked with a search term that refers to the same word."
+
+msgid "successSearchRefresh"
+msgstr "Search queries updated successfully."
+
+msgid "successSearchMapMultiple"
+msgstr "Selected search queries successfully linked with %s."
+
+msgid "errorSearchMapToNotExist"
+msgstr "The second search query that you want to link with the first search query does not exist."
+
+msgid "errorSearchMapNotExist"
+msgstr "The first search query that you want to link with the second search query does not exist."
+
+msgid "errorAtLeastOneSearch"
+msgstr "Please select at least one search query."
+
+msgid "errorMapNameMissing"
+msgstr "Please enter a name for the link."
+
+msgid "successSearchDelete"
+msgstr "Search query %s deleted successfully."
+
+msgid "successSearchBlacklist"
+msgstr "Search query %s successfully added to blacklist."
+
+msgid "errorSearchMapLoop"
+msgstr "Linking %s with %s would lead to a loop."
+
+msgid "successSearchDeleteMultiple"
+msgstr "Selected search queries deleted successfully."
+
+msgid "successBlacklistRefresh"
+msgstr "Blacklist updated successfully."
+
+msgid "successSearchMapDelete"
+msgstr "Link %s deleted successfully."
+
+msgid "errorSearchMapNotFound"
+msgstr "No links with ID %s found."
+
+msgid "errorAtLeastOneSearchMap"
+msgstr "Please select at least one link."

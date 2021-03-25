@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Tabs"
+msgstr "Registerkarten"
+
+msgid "tabOne"
+msgstr "Registerkarte 1"
+
+msgid "tabTwo"
+msgstr "Registerkarte 2"
+
+msgid "tabThree"
+msgstr "Registerkarte 3"

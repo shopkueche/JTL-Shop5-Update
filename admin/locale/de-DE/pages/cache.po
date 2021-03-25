@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "objectcache"
+msgstr "Cache"
+
+msgid "objectcacheDesc"
+msgstr "Hier stellen Sie den von JTL-Shop genutzten Cache ein. Der Objekt-Cache puffert Daten, damit sie schneller geladen werden. Sie können für jede Objektart aktivieren, ob diese im Cache gespeichert werden soll."
+
+msgid "cacheURL"
+msgstr "https://jtl-url.de/lt1ec"
+
+msgid "cg_article_description"
+msgstr "Enthält Artikeldaten"
+
+msgid "cg_category_description"
+msgstr "Enthält Kategoriedaten"
+
+msgid "cg_language_description"
+msgstr "Enthält Sprachvariablen und Übersetzungen"
+
+msgid "cg_template_description"
+msgstr "Enthält Template-Einstellungen"
+
+msgid "cg_option_description"
+msgstr "Enthält allgemeine Einstellungen"
+
+msgid "cg_plugin_description"
+msgstr "Enthält Plugin-Daten"
+
+msgid "cg_core_description"
+msgstr "Enthält JTL-eigene Daten"
+
+msgid "cg_object_description"
+msgstr "Enthält allgemeine Objekte"
+
+msgid "cg_box_description"
+msgstr "Enthält Boxen und deren Einstellungen"
+
+msgid "cg_news_description"
+msgstr "Enthält Blogbeiträge und -kategorien"
+
+msgid "cg_attribute_description"
+msgstr "Enthält Attributdaten"
+
+msgid "cg_manufacturer_description"
+msgstr "Enthält Herstellerdaten"
+
+msgid "cg_filter_description"
+msgstr "Enthält Filterdaten"
+
+msgid "cg_status_description"
+msgstr "Enthält Status für Mitteilungen"
+
+msgid "cg_article_nicename"
+msgstr "Artikel"
+
+msgid "cg_category_nicename"
+msgstr "Kategorien"
+
+msgid "cg_language_nicename"
+msgstr "Sprache"
+
+msgid "cg_template_nicename"
+msgstr "Templates"
+
+msgid "cg_option_nicename"
+msgstr "Optionen"
+
+msgid "cg_plugin_nicename"
+msgstr "Plugins"
+
+msgid "cg_core_nicename"
+msgstr "Core"
+
+msgid "cg_object_nicename"
+msgstr "Objekte"
+
+msgid "cg_box_nicename"
+msgstr "Boxen"
+
+msgid "cg_news_nicename"
+msgstr "Blog"
+
+msgid "cg_attribute_nicename"
+msgstr "Attribute"
+
+msgid "cg_manufacturer_nicename"
+msgstr "Hersteller"
+
+msgid "cg_filter_nicename"
+msgstr "Artikelfilter"
+
+msgid "cg_status_nicename"
+msgstr "Status"
+
+msgid "entries"
+msgstr "Einträge"
+
+msgid "management"
+msgstr "Verwaltung"
+
+msgid "stats"
+msgstr "Statistik"
+
+msgid "benchmark"
+msgstr "Benchmark"
+
+msgid "status"
+msgstr "Status"
+
+msgid "type"
+msgstr "Typ"
+
+msgid "description"
+msgstr "Beschreibung"
+
+msgid "empty"
+msgstr "leeren"
+
+msgid "clearObjectCache"
+msgstr "Gesamten Objekt-Cache leeren"
+
+msgid "clearPageCache"
+msgstr "Gesamten Seiten-Cache leeren"
+
+msgid "clearTemplateCache"
+msgstr "Gesamten Template-Cache leeren"
+
+msgid "startBenchmark"
+msgstr "Benchmark starten"
+
+msgid "showAdvanced"
+msgstr "Erweiterte Optionen anzeigen"
+
+msgid "configurationError"
+msgstr "(fehlerhaft konfiguriert)"
+
+msgid "successCacheEmptied"
+msgstr " Caches wurden erfolgreich geleert."
+
+msgid "errorNoCacheType"
+msgstr "Bitte wählen Sie einen Cache-Typ."
+
+msgid "errorCacheTypeDelete"
+msgstr "Cache %s konnte nicht geleert werden (evtl. bereits leer)."
+
+msgid "successCacheTypeActivate"
+msgstr "Ausgewählte wurden Typen erfolgreich aktiviert."
+
+msgid "successCacheTypeDeactivate"
+msgstr "Ausgewählte Typen wurden erfolgreich deaktiviert."
+
+msgid "successCacheDelete"
+msgstr "Object-Cache wurde erfolgreich gelöscht."
+
+msgid "errorCacheDelete"
+msgstr "Cache konnte nicht geleert werden."
+
+msgid "successCacheMethodSave"
+msgstr " wurde als Cache-Methode gespeichert."
+
+msgid "errorCacheMethodSelect"
+msgstr "Es konnte keine funktionierende Cache-Methode ausgewählt werden."
+
+msgid "errorFileDelete"
+msgstr "Datei %s konnte nicht gelöscht werden!"
+
+msgid "errorDirDelete"
+msgstr "Verzeichnis %s konnte nicht gelöscht werden!"
+
+msgid "successTemplateCacheDelete"
+msgstr "Es wurden %d Dateien im Template-Cache gelöscht."
+
+msgid "uptime"
+msgstr "Uptime"
+
+msgid "fullSize"
+msgstr "Gesamtgröße"
+
+msgid "entriesCount"
+msgstr "Anzahl Einträge"
+
+msgid "misses"
+msgstr "Misses"
+
+msgid "hits"
+msgstr "Hits"
+
+msgid "inserts"
+msgstr "Inserts"
+
+msgid "slowlog"
+msgstr "Slowlog"
+
+msgid "hitRate"
+msgstr "Hit-Rate"
+
+msgid "emptySpace"
+msgstr "Freier Speicher"
+
+msgid "busySpace"
+msgstr "Belegter Speicher"
+
+msgid "scriptCountInCache"
+msgstr "Anzahl Skripte im Cache"
+
+msgid "keyCountInCache"
+msgstr "Anzahl Keys im Cache"
+
+msgid "templateCache"
+msgstr "Template-Cache"
+
+msgid "filesFrontend"
+msgstr "Dateien Frontend"
+
+msgid "runs"
+msgstr "Durchläufe"
+
+msgid "repeats"
+msgstr "Wiederholungen"
+
+msgid "testData"
+msgstr "Testdaten"
+
+msgid "time"
+msgstr "Zeiten"
+
+msgid "errorBenchmark"
+msgstr "Benchmark konnte nicht ausgeführt werden."
+
+msgid "errorMethodNotFound"
+msgstr "Keine Methoden gefunden."
+
+msgid "typeArray"
+msgstr "Array"
+
+msgid "typeObject"
+msgstr "Objekt"
+
+msgid "typeString"
+msgstr "String"

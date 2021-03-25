@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "freischalten"
+msgstr "Freischaltzentrale"
+
+msgid "freischaltenURL"
+msgstr "https://jtl-url.de/ihwlq"
+
+msgid "freischaltenDesc"
+msgstr "Hier können Sie Bewertungen, Suchanfragen, Blogkommentare und Newsletter-Empfänger in der aktuell ausgewählten Sprache freischalten."
+
+msgid "freischaltenActivate"
+msgstr "Freischalten"
+
+msgid "freischaltenReviewsCustomer"
+msgstr "Kundenname"
+
+msgid "freischaltenReviewsText"
+msgstr "Bewertungstext"
+
+msgid "freischaltenReviewsDate"
+msgstr "Erstellt am"
+
+msgid "freischaltenLivesearch"
+msgstr "Suchanfragen"
+
+msgid "freischaltenLivesearchSearch"
+msgstr "Suche"
+
+msgid "freischaltenLivesearchCount"
+msgstr "Suchanzahl"
+
+msgid "freischaltenLivesearchHits"
+msgstr "Suchtreffer"
+
+msgid "freischaltenLiveseachDate"
+msgstr "Zuletzt gesucht am"
+
+msgid "freischaltenNewsComments"
+msgstr "Blogkommentare"
+
+msgid "freischaltenNewsCommentsHeadline"
+msgstr "Überschrift"
+
+msgid "freischaltenNewsCommentsDate"
+msgstr "Erstellt am"
+
+msgid "freischaltenNewsletterReceiver"
+msgstr "Newsletter-Empfänger"
+
+msgid "freischaltenSearchItem"
+msgstr "Suchbegriff"
+
+msgid "freischaltenSearchType"
+msgstr "Suchkategorie"
+
+msgid "freischaltenMappingOn"
+msgstr "Verknüpfen mit"
+
+msgid "freischaltenMappingOnBTN"
+msgstr "Verknüpfen"
+
+msgid "freischaltenMappingDesc"
+msgstr "Achtung: Bei einer Verknüpfung werden die Suchanfragen direkt freigeschaltet."
+
+msgid "errorSearchTermMissing"
+msgstr "Bitte geben Sie einen Suchbegriff ein."
+
+msgid "successRatingUnlock"
+msgstr "Markierte Bewertungen wurden erfolgreich freigeschaltet."
+
+msgid "errorAtLeastOneRating"
+msgstr "Bitte markieren Sie mindestens eine Bewertung."
+
+msgid "successRatingDelete"
+msgstr "Markierte Bewertungen wurden erfolgreich gelöscht."
+
+msgid "successLiveSearchMap"
+msgstr "Markierte Suchanfragen wurden erfolgreich mit %s verknüpft."
+
+msgid "errorLiveSearchMapNotUnlock"
+msgstr "Die Suchanfrage wurde zwar erfolgreich verknüpft, konnte jedoch aufgrund eines unbekannten Fehlers nicht freigeschaltet werden."
+
+msgid "errorMapUnknown"
+msgstr "Verknüpfung konnte aufgrund eines unbekannten Fehlers nicht durchgeführt werden."
+
+msgid "errorSearchNotFoundDB"
+msgstr "Mindestens eine Suchanfrage wurde nicht in der Datenbank gefunden."
+
+msgid "errorMapDB"
+msgstr "Mindestens eine Suchanfrage konnte nicht als Verknüpfung in die Datenbank gespeichert werden."
+
+msgid "errorMapToNotExisting"
+msgstr "Die zu verknüpfende Suchanfrage existiert nicht."
+
+msgid "errorMapSelf"
+msgstr "Eine Suchanfrage kann nicht mit sich selbst verknüpft werden."
+
+msgid "errorAtLeastOneLiveSearch"
+msgstr "Bitte markieren Sie mindestens eine Suchanfrage."
+
+msgid "errorMapNameMissing"
+msgstr "Bitte geben Sie einen Namen für die Verknüpfung an."
+
+msgid "successSearchUnlock"
+msgstr "Markierte Suchanfragen wurden erfolgreich freigeschaltet."
+
+msgid "errorAtLeastOneSearch"
+msgstr "Bitte markieren Sie mindestens eine Suchanfrage."
+
+msgid "successSearchDelete"
+msgstr "Markierte Suchanfragen wurden erfolgreich gelöscht."
+
+msgid "successNewsCommentUnlock"
+msgstr "Markierte Blogkommentare wurden erfolgreich freigeschaltet."
+
+msgid "errorAtLeastOneNewsComment"
+msgstr "Bitte markieren Sie mindestens einen Blogkommentar."
+
+msgid "successNewsCommentDelete"
+msgstr "Markierte Blogkommentare wurden erfolgreich gelöscht."
+
+msgid "successNewsletterUnlock"
+msgstr "Markierte Newsletter-Empfänger wurden erfolgreich freigeschaltet."
+
+msgid "errorAtLeastOneNewsletter"
+msgstr "Bitte markieren Sie mindestens einen Newsletter-Empfänger."
+
+msgid "successNewsletterDelete"
+msgstr "Markierte Newsletter-Empfänger wurden erfolgreich gelöscht."
+
+msgid "unlockMarked"
+msgstr "Markierte freischalten"
+
+msgid "linkMarked"
+msgstr "Markierte verknüpfen mit"

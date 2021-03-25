@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internationalisierung\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: fg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Titles
+msgid "JTL Shop Administration"
+msgstr "Administration von JTL-Shop"
+
+msgid "Toggle navigation"
+msgstr "Navigation umschalten"
+
+msgid "Search item"
+msgstr "Suchbegriff"
+
+# Top Menu
+msgid "Appearance"
+msgstr "Darstellung"
+
+# Mid Menu
+msgid "Templates"
+msgstr "Templates"
+
+# Mid Menu
+msgid "Images"
+msgstr "Bilder"
+
+# Menu Items
+msgid "Image settings"
+msgstr "Bildeinstellungen"
+
+msgid "Watermark"
+msgstr "Wasserzeichen"
+
+msgid "Shop logo"
+msgstr "Logo"
+
+msgid "Item badges"
+msgstr "Artikelsticker"
+
+# Top Menu
+msgid "Contents"
+msgstr "Inhalte"
+
+# Mid Menu
+msgid "Item"
+msgstr "Artikel"
+
+# Menu Items
+msgid "Selection wizard"
+msgstr "Auswahlassistent"
+
+msgid "Item detail page"
+msgstr "Artikeldetailseite"
+
+msgid "Reviews"
+msgstr "Bewertungen"
+
+msgid "Price history"
+msgstr "Preisverlauf"
+
+msgid "Warehouse display"
+msgstr "Lageranzeige"
+
+# Top Menu
+msgid "Pages"
+msgstr "Seiten"
+
+# Mid Menu
+msgid "OnPage Composer"
+msgstr "OnPage Composer"
+
+# Menu Items
+msgid "Home page"
+msgstr "Startseite"
+
+msgid "Terms / Withdrawal"
+msgstr "AGB & Widerrufsbelehrung"
+
+msgid "Blog posts"
+msgstr "Blogbeiträge"
+
+msgid "Footer / Boxes"
+msgstr "Footer / Boxen"
+
+msgid "Languages"
+msgstr "Sprachvariablen"
+
+# Just incase you want to add a translation for partners:
+#   msgid "IT-Recht Kanzlei"
+#   msgstr "IT-Recht Kanzlei"
+#
+#   msgid "Trustbadge Reviews"
+#   msgstr "Trustbadge Reviews"
+# Mid Menu
+msgid "Forms"
+msgstr "Formulare"
+
+# Menu Items
+msgid "Registration"
+msgstr "Registrierung"
+
+msgid "Contact form"
+msgstr "Kontaktformular"
+
+msgid "Extended customer data"
+msgstr "Erweiterte Kundendaten"
+
+msgid "Check boxes"
+msgstr "Checkboxen"
+
+# Mid Menu
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Reports"
+msgstr "Berichte"
+
+msgid "Blacklist"
+msgstr "Blacklist"
+
+# Menu Items
+msgid "Checkout"
+msgstr "Bestellvorgang"
+
+msgid "Baskets"
+msgstr "Warenkörbe"
+
+msgid "Free gifts"
+msgstr "Gratisgeschenke"
+
+msgid "Payments"
+msgstr "Zahlungen"
+
+# Menu Items
+msgid "Payment methods"
+msgstr "Zahlungsarten"
+
+# Mid Menu
+msgid "Shipments"
+msgstr "Versand"
+
+# Menu Items
+msgid "Shipping methods"
+msgstr "Versandarten"
+
+msgid "Additional packaging"
+msgstr "Zusatzverpackungen"
+
+msgid "Marketing"
+msgstr "Marketing"
+
+msgid "Coupons"
+msgstr "Coupons"
+
+msgid "Wish list"
+msgstr "Wunschzettel"
+
+msgid "Comparison list"
+msgstr "Vergleichsliste"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+# Menu Items
+msgid "Banners"
+msgstr "Banner"
+
+msgid "Sliders"
+msgstr "Slider"
+
+msgid "Campaigns"
+msgstr "Kampagnen"
+
+# Mid Menu
+msgid "Statistics"
+msgstr "Statistiken"
+
+# Menu Items
+msgid "Sales"
+msgstr "Umsatz"
+
+msgid "Visitors"
+msgstr "Besucher"
+
+msgid "Referrer pages"
+msgstr "Herkunftsseiten"
+
+msgid "Search engines"
+msgstr "Suchmaschinen"
+
+msgid "Entry pages"
+msgstr "Einstiegsseiten"
+
+msgid "Coupon statistics"
+msgstr "Coupons"
+
+# Mid Menu
+msgid "Import"
+msgstr "Import"
+
+# Menu Items
+msgid "Customers"
+msgstr "Kunden"
+
+msgid "Newsletters"
+msgstr "Newsletter"
+
+msgid "Postal codes"
+msgstr "Postleitzahlen"
+
+# Mid Menu
+msgid "Export"
+msgstr "Export"
+
+# Menu Items
+msgid "Export manager"
+msgstr "Exporte-Manager"
+
+msgid "Other formats"
+msgstr "Weitere Formate"
+
+msgid "Site map"
+msgstr "Sitemap"
+
+msgid "RSS feed"
+msgstr "RSS-Feed"
+
+# Top Menu
+msgid "Administration"
+msgstr "Administration"
+
+# Mid Menu
+msgid "Settings"
+msgstr "Einstellungen"
+
+# Menu Items
+msgid "System"
+msgstr "System"
+
+msgid "Users"
+msgstr "Benutzer"
+
+msgid "JTL-Wawi synchronisation"
+msgstr "Abgleich JTL-Wawi"
+
+msgid "Meta data"
+msgstr "Metadaten"
+
+msgid "SEO path"
+msgstr "SEO-Pfade"
+
+msgid "Number formats"
+msgstr "Zahlenformate"
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "Filesystem"
+msgstr "Dateisystem"
+
+# Mid Menu
+msgid "Maintenance"
+msgstr "Wartung"
+
+# Menu Items
+msgid "Orders"
+msgstr "Bestellungen"
+
+msgid "Approvals"
+msgstr "Freischaltung"
+
+msgid "Log"
+msgstr "Logbuch"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "Item images"
+msgstr "Bilder"
+
+msgid "Forwarding"
+msgstr "Weiterleitungen"
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+# Mid Menu
+msgid "Search"
+msgstr "Suche & Artikellisten"
+
+msgid "Item overview"
+msgstr "Artikelübersicht"
+
+msgid "Search queries"
+msgstr "Suchanfragen"
+
+msgid "Cron"
+msgstr "Cron"
+
+# Top Menu
+msgid "Plug-ins"
+msgstr "Plugins"
+
+# Mid Menu
+msgid "Overview"
+msgstr "Übersicht"
+
+msgid "Plug-in manager"
+msgstr "Plugin-Manager"
+
+msgid "My purchases"
+msgstr "Meine Käufe"
+
+msgid "Plug-in profiler"
+msgstr "Plugin-Profiler"
+
+# Mid Menu
+# This is redundant, but could be used in the future.
+#   msgid "Plugins"
+#   msgstr "Plugins"
+#
+#
+# Right Top Menu
+msgid "Messages"
+msgstr "Mitteilungen"
+
+msgid "Favorites"
+msgstr "Favoriten"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "System check"
+msgstr "Systemprüfung"
+
+msgid "Consent manager"
+msgstr "Consent-Manager"
+
+msgid "Manage favorites"
+msgstr "Favoriten verwalten"
+
+msgid "First steps"
+msgstr "Erste Schritte"
+
+msgid "JTL guide"
+msgstr "JTL-Guide"
+
+msgid "JTL forum"
+msgstr "JTL-Forum"
+
+msgid "Training"
+msgstr "Training"
+
+msgid "Service partner"
+msgstr "Servicepartner"
+
+msgid "To the shop"
+msgstr "Zum Onlineshop"
+
+msgid "Logout"
+msgstr "Abmelden"
+
+# Notfications
+msgid "System update"
+msgstr "System-Update"
+
+msgid "A database update is mandatory"
+msgstr "Ein Datenbank-Update ist zwingend notwendig."
+
+msgid "Data system"
+msgstr "Dateisystem"
+
+msgid "Some directories are not writeable."
+msgstr "Es sind Verzeichnisse nicht beschreibbar."
+
+msgid "Please delete the installation directory '/install' in the root directory."
+msgstr "Bitte löschen Sie das Installationsverzeichnis '/install/' im Wurzelverzeichnis Ihres JTL-Shops."
+
+msgid "Database"
+msgstr "Datenbank"
+
+msgid "There are errors within the database structure."
+msgstr "Es liegen Fehler in der Datenbankstruktur vor."
+
+msgid "Your template version differs from your shop version.<br />For additional help about template updates go to <i class='fa fa-external-link'></i> Wiki"
+msgstr "Ihre Template-Version unterscheidet sich von der Version Ihres Onlineshops.<br/>Weitere Hilfe zu Template-Anpassungen finden Sie im <i class=\"fa fa-external-link\"></i> JTL-Guide."
+
+msgid "You are using a full responsive template. The activation of a separate mobile template is not necessary in this case."
+msgstr "Sie nutzen ein Full-Responsive-Template. Die Aktivierung eines separaten Mobile-Templates ist in diesem Fall nicht notwendig."
+
+msgid "You have activated a non-standard template!"
+msgstr "Sie haben kein Standard-Template aktiviert."
+
+msgid "The profiler is active. This can cause strong power loss in the shop."
+msgstr "Der Plugin-Profiler ist aktiv. Dies kann zu starken Leistungseinbußen im Onlineshop führen."
+
+msgid "New plugin versions are available."
+msgstr "Es sind neue Plugin-Versionen vorhanden."
+
+msgid "Configuration"
+msgstr "Konfiguration"
+
+msgid "You've selected Google reCaptcha as spam protection method, but homepage and or secrect key have not been added."
+msgstr "Sie haben Google reCaptcha als Spamschutz-Methode gewählt, aber Websiteschlüssel und/oder Geheimen Schlüssel nicht angegeben."
+
+msgid "The full-text index does not exist!"
+msgstr "Volltextindex ist nicht vorhanden."
+
+msgid "E-mail template broken"
+msgstr "Defekte E-Mail-Vorlage"
+
+msgid "The E-mail template 'Passwort vergessen'/'Forgotten password' is outdated. The variable $neues_passwort is not available anymore. Please replace this with $passwordResetLink or reset the template."
+msgstr "Die E-Mail-Vorlage „Passwort vergessen“ ist veraltet. Variable $neues_passwort ist nicht mehr verfügbar. Bitte ersetzen Sie diese durch $passwordResetLink oder setzen Sie die Vorlage zurück."
+
+msgid "Insecure SMTP connection"
+msgstr "Unsichere SMTP-Verbindung"
+
+msgid "You have selected SMTP as mail-method, but no encryption method has been chosen. We recommend you urgently to adjust your mail settings. You can find these options at 'System > E-Mails > Emaileinstellungen > SMTP Security'"
+msgstr "Sie haben SMTP gewählt, allerdings keine SMTP-Security-Methode. Wir empfehlen Ihnen dringend, Ihre E-Mail-Einstellungen anzupassen. Sie finden die Option unter „Administration > E-Mail > Server.“"
+
+msgid "User management"
+msgstr "Benutzerverwaltung"
+
+msgid "The algorithm for saving passwords has changed. <br/>Please generate a new emergency code for the 2 factor authentication."
+msgstr "Der Algorithmus zur Passwortspeicherung hat sich geändert.<br/>Bitte erzeugen Sie neue Notfall-Codes für die Zwei-Faktor-Authentifizierung."
+
+msgid "Installed plug-ins"
+msgstr "Installierte Plugins"
+
+msgid "Promotions"
+msgstr "Aktionen"
+
+msgid "Landing pages"
+msgstr "Landingpages"
+
+msgid "Default views"
+msgstr "Standardansichten"
+
+msgid "Default elements"
+msgstr "Standardelemente"
+
+msgid "Question on item"
+msgstr "Frage zum Artikel"
+
+msgid "Custom contents"
+msgstr "Eigene Inhalte"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Accounts"
+msgstr "Benutzer & Rechte"
+
+msgid "Troubleshooting"
+msgstr "Fehlerbehebung"
+
+msgid "System diagnostics"
+msgstr "Diagnose"
+
+msgid "Email templates"
+msgstr "Vorlagen"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "Availability notifications"
+msgstr "Verfügbarkeitsanfragen"
+
+msgid "Set up"
+msgstr "Einrichten"

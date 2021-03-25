@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "paymentmethods"
+msgstr "Zahlungsarten"
+
+msgid "paymentmethodsURL"
+msgstr "https://jtl-url.de/covba"
+
+msgid "paymentmethodName"
+msgstr "Name der Zahlungsart"
+
+msgid "installedPaymentmethods"
+msgstr "Hier sehen Sie eine Übersicht der installierten Zahlungsarten."
+
+msgid "name"
+msgstr "Zahlungsart"
+
+msgid "configurePaymentmethod"
+msgstr "Hier können Sie die Einstellungen der Zahlungsart anpassen."
+
+msgid "restrictedToCustomerGroups"
+msgstr "Erlaubte Kundengruppen"
+
+msgid "feeName"
+msgstr "Name der Gebühr"
+
+msgid "pictureURL"
+msgstr "Bild-URL"
+
+msgid "pictureDesc"
+msgstr "Hier geben Sie den Pfad oder die URL eines Bildes an, das statt des Namens der Zahlungsart in der Kaufabwicklung angezeigt werden soll."
+
+msgid "noticeText"
+msgstr "Hinweistext"
+
+msgid "noticeTextShop"
+msgstr "Hinweistext (Onlineshop)"
+
+msgid "noticeTextEmail"
+msgstr "Hinweistext (E-Mail)"
+
+msgid "noticeTextEmailDesc"
+msgstr "Dieser Text wird zusätzlich zum vorhandenen Inhalt der E-Mail-Vorlagen „Bestellbestätigung“ und „Bestellung aktualisiert“ angezeigt."
+
+msgid "paymentAckMail"
+msgstr "E-Mail: Bestätigung der Zahlung"
+
+msgid "paymentCancelMail"
+msgstr "E-Mail: Stornierung der Bestellung"
+
+msgid "duringOrder"
+msgstr "Zahlung vor Bestellabschluss"
+
+msgid "paymentmethodsCheckAll"
+msgstr "Anforderungen aller Zahlungsarten prüfen"
+
+msgid "log"
+msgstr "Log"
+
+msgid "viewLog"
+msgstr "Log anzeigen"
+
+msgid "logText"
+msgstr "Text"
+
+msgid "logDate"
+msgstr "Datum"
+
+msgid "logLevel"
+msgstr "Fehlerlevel"
+
+msgid "logError"
+msgstr "Error"
+
+msgid "logNotice"
+msgstr "Notice"
+
+msgid "logDebug"
+msgstr "Debug"
+
+msgid "logReset"
+msgstr "Log zurücksetzen"
+
+msgid "payments"
+msgstr "Zahlungseingänge für "
+
+msgid "paymentsURL"
+msgstr "https://jtl-url.de/covba"
+
+msgid "paymentsDesc"
+msgstr "Hier können Sie alle Zahlungseingänge zu einer gewünschten Zahlungsart und deren Abgleichstatus zu JTL-Wawi einsehen."
+
+msgid "successPaymentMethodCheck"
+msgstr "Zahlungsarten wurden erfolgreich auf Nutzbarkeit geprüft."
+
+msgid "successLogReset"
+msgstr "Fehler-Log von %s wurde erfolgreich zurückgesetzt."
+
+msgid "noLogs"
+msgstr "Keine Logs vorhanden."
+
+msgid "amountPayed"
+msgstr "Gezahlter Betrag"
+
+msgid "syncedWithWawi"
+msgstr "Bereits an JTL-Wawi gesendet"
+
+msgid "wawiSyncReset"
+msgstr "Für den nächsten JTL-Wawi-Abgleich zum erneuten Senden vormerken"
+
+msgid "installedPaymentTypes"
+msgstr "Installierte Zahlungsarten"
+
+msgid "successPaymentMethodSave"
+msgstr "Zahlungsart wurde erfolgreich gespeichert."
+
+msgid "errorPaymentMethodNotFound"
+msgstr "Zahlungsart nicht gefunden."
+
+msgid "feeNameHint"
+msgstr "Hier legen Sie den Namen einer eventuell anfallenden Gebühr für die Zahlungsart fest. Der Name der Gebühr wird während der Kaufabwicklung bei der Zahlungsart angezeigt. Die Höhe der Gebühr legen Sie individuell in jeder Versandart fest, für die die Zahlungsart angeboten wird."
+
+msgid "paymentsReceived"
+msgstr "Zahlungseingänge"
+
+msgid "Plugin for payment method not found"
+msgstr "Die Zahlungsart %s ist eine Plugin-Zahlungsart für %s. Das zugehörige Plugin ist jedoch nicht installiert!"
+
+msgid "Payment method can not been deleted"
+msgstr "Die Zahlungsart %s kann nicht gelöscht werden!"
+
+msgid "Payment method has been deleted"
+msgstr "Die Zahlungsart %s wurde gelöscht!"

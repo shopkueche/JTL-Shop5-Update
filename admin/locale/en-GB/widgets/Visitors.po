@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Visitors_title"
+msgstr "Visitors (current month)"
+
+msgid "Visitors_desc"
+msgstr "Visitor chart for current month"

@@ -1,0 +1,56 @@
+
+.form-group-lg { margin-bottom: $form-group-margin-bottom * 2; }
+
+.form-title { display: block; font-weight: $font-weight-bold; font-size: $font-size-base * 0.8; margin-bottom: $spacer; text-transform: uppercase; }
+
+.form-group-list { border: $border-width solid $border-color; border-radius: $border-radius; max-height: rem(430px); overflow: auto;
+	&.disabled { pointer-events: none; opacity: .4; }
+}
+
+.form-group-list-item { padding: $spacer; border-bottom: $border-width solid $border-color;
+	&:last-child { border: 0; }
+	p {
+		margin-bottom:map-get($spacers, 2);
+	}
+}
+
+.custom-file-label { display: flex; align-items: center; justify-content: space-between;
+	&::after { @include fal('f093'); }
+	span { margin-right: map-get($spacers, 2); }
+}
+
+input[type="color"] { overflow: hidden; padding: 0;
+	&::-webkit-color-swatch-wrapper { padding: 0; }
+	&::-webkit-color-swatch { border: 0; }
+}
+
+/* bootstrap select */
+
+.bootstrap-select { padding: 0;
+	.dropdown-toggle { height: 100%; width: 100%; text-align: left;
+		&::after, svg { display: none; }
+	}
+}
+
+// form counter
+.form-counter { border: $input-border-width solid $input-border-color; border-radius: $input-border-radius;
+	.form-control { border: 0; text-align: center;
+		&::-webkit-inner-spin-button,
+		&::-webkit-outer-spin-button { appearance: none; margin: 0; }
+	}
+	.input-group-text { border: 0; background: none;  }
+
+	.btn { border-radius: $input-border-radius; color: map-get($primary-palette, 'darker'); background-color: $white;
+		&:hover { background-color: $light-gray; }
+	}
+}
+
+.fieldfillout {
+	border-color: $danger;
+}
+
+.form-error {
+	input, select {
+		border-color: $danger;
+	}
+}

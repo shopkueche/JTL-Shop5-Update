@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Container"
+msgstr "Container"
+
+msgid "minHeightPX"
+msgstr "Minimum height in px"
+
+msgid "boxedContainer"
+msgstr "Boxed container"
+
+msgid "image"
+msgstr "Static image"
+
+msgid "imageParallax"
+msgstr "Parallax scrolling"
+
+msgid "backgroundVideo"
+msgstr "Background video"
+
+msgid "noBackground"
+msgstr "no background"
+
+msgid "placeholderImage"
+msgstr "Placeholder image"
+
+msgid "boxedContainerDesc"
+msgstr "Responsive container with fixed width"
+
+msgid "parallaxNote"
+msgstr "Attention: Do not place a container with a parallax background under other portlets with variable heights (such as accordions or tabs). Parallax backgrounds can only be positioned properly with fixed page layouts."

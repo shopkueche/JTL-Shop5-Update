@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "zusatzverpackung"
+msgstr "Zusatzverpackung"
+
+msgid "zusatzverpackungURL"
+msgstr "https://jtl-url.de/0hqn3"
+
+msgid "zusatzverpackungDesc"
+msgstr "Hier können Sie verschiedene kostenpflichtige Verpackungsoptionen, z. B. Geschenkverpackungen oder Versicherungen, hinterlegen. Zusatzverpackungsoptionen werden in der Kaufabwicklung im Schritt der Versandartauswahl angezeigt und abgefragt."
+
+msgid "zusatzverpackungExemptFromCharge"
+msgstr "Kostenfrei ab"
+
+msgid "zusatzverpackungTaxClass"
+msgstr "Steuerklasse"
+
+msgid "zusatzverpackungAutoTax"
+msgstr "Automatisch berechnen"
+
+msgid "zusatzverpackungCreate"
+msgstr "Zusatzverpackung anlegen"
+
+msgid "zusatzverpackungCreateTitle"
+msgstr "Zusatzverpackung anlegen"
+
+msgid "zusatzverpackungEdit"
+msgstr "Zusatzverpackung bearbeiten"
+
+msgid "zusatzverpackungAddedNone"
+msgstr "Keine Zusatzverpackung angelegt"
+
+msgid "errorNameMissing"
+msgstr "Bitte geben Sie der Verpackung einen Namen."
+
+msgid "errorCustomerGroupMissing"
+msgstr "Bitte wählen Sie mindestens eine Kundengruppe aus."
+
+msgid "successPackagingSave"
+msgstr "Verpackung %s wurde erfolgreich gespeichert."
+
+msgid "successPackagingDelete"
+msgstr "Markierte Verpackungen wurden erfolgreich gelöscht."
+
+msgid "errorAtLeastOnePackaging"
+msgstr "Bitte markieren Sie mindestens eine Verpackung."
+
+msgid "successPackagingSaveMultiple"
+msgstr "Markierte Verpackungen wurden erfolgreich aktualisiert."

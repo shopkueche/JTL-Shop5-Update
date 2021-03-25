@@ -1,0 +1,128 @@
+
+%nav-hover { background-color: map-get($primary-palette, 'dark'); color: $white; }
+
+#sidebar { background-color: map-get($primary-palette, 'medium'); color: $white; min-width: rem(250px); width: rem(250px); transition: $transition-base; display: block; z-index: $zindex-fixed; position: fixed; top: 0; left: 0; height: 100vh;
+	&:not(.show) {
+		margin-left: rem(-250px);
+		.opaque-background {
+			display: none;
+		}
+	}
+	&.show {
+		.opaque-background {
+			display: block;
+		}
+	}
+	&.collapsing { overflow: visible; }
+
+	[data-toggle="sidebar-collapse"] { display: none; transition: margin .2s; }
+	&:not(.sidebar-collapsed) [data-toggle="sidebar-collapse"] { margin-right: -(map-get($spacers, 2)); }
+
+	.navigation { background-color: inherit; height: calc(100% - (#{map-get($spacers, 7)} - 1rem)); overflow-y: auto; font-size: $font-size-sm;
+		[data-toggle="collapse"] { @extend .dropdown-toggle;
+			&:not(.collapsed) { @extend %nav-hover;
+				&::after { color: $primary; }
+
+				+ .submenu { @extend %nav-hover; }
+			}
+
+		}
+	}
+
+	.nav { flex-direction: column; flex-wrap: nowrap; background-color: inherit; }
+
+	.nav-item { background-color: inherit; }
+
+	.nav-link { color: $white; transition: background-color .2s;
+		@include hover { @extend %nav-hover; }
+	}
+
+	.categories {
+		> .nav-item { margin-bottom: $spacer / 2; transition: margin .2s;
+			> .nav-link { padding-top: $nav-link-padding-y * 2; padding-bottom: $nav-link-padding-y * 2; text-transform: uppercase; font-size: .857em;
+				&:not(.clickable) { pointer-events: none; }
+
+				+ .submenu {
+					&::before { content: ''; border-top: rem(1px) solid $white; width: calc(100% - 2 * #{$nav-link-padding-x}); margin-left: $nav-link-padding-x; margin-top: -$nav-link-padding-y; margin-bottom: $nav-link-padding-y; }
+				}
+			}
+		}
+	}
+
+	.category-icon { margin-right: map-get($spacers, 1) * 3; line-height: 1; display: inline-block;
+		svg { margin-top: rem(-2px); }
+	}
+
+	.submenu {
+		> .nav-item {
+			&.active { @extend %nav-hover;
+				> .nav-link { border-left: rem(6px) solid $primary; padding-left: $nav-link-padding-x - rem(6px); }
+			}
+		}
+
+		.submenu { list-style: disc; padding-left: rem(40px);
+			> .nav-item {
+				&.active {
+					> .nav-link { font-weight: $font-weight-bold; }
+				}
+
+				> .nav-link { padding-left: rem(40px); margin-left: rem(-40px); border-left: 0;
+					@include hover { background-color: darken(map-get($primary-palette, 'dark'), 10%); }
+				}
+
+				&:not(.active) { list-style: none; }
+			}
+		}
+	}
+
+	@include media-breakpoint-up(lg) {
+		&:not(.show) { margin-left: 0; }
+
+		[data-toggle="sidebar-collapse"] { display: block; }
+
+		.navigation { height: calc(100% - #{map-get($spacers, 7)}); }
+
+		&.sidebar-collapsed { width: rem(60px); min-width: rem(60px);
+			.brand-logo { display: none; }
+			[data-toggle="sidebar-collapse"] { transform: rotate(180deg); }
+
+			.navigation { overflow: visible; }
+
+			.categories {
+				> .nav-item { margin-bottom: 0; position: relative;
+					> .submenu { position: absolute; left: 100%; top: 0; width: rem(250px); z-index: $zindex-fixed; display: none; background-color: map-get($primary-palette, 'medium'); box-shadow: rem(2px) rem(2px) rem(16px) transparentize($black, .78); }
+					> .nav-link { text-align: center; pointer-events: auto;
+						&.clickable .category-title { display: none; }
+					}
+
+					&.active {
+						> .nav-link { border-left: rem(6px) solid $primary; padding-left: $nav-link-padding-x - rem(6px); }
+					}
+
+					&:hover > .submenu { display: block; padding-top: rem(50px); }
+
+					&.active, &:hover { background-color: map-get($primary-palette, 'dark'); color: $white; }
+
+					&:not(:hover) {
+						.category-title { display: none; }
+					}
+				}
+			}
+
+			.submenu::before { display: none; }
+
+			.category-title { position: absolute; left: 100%; margin-left: $nav-link-padding-x; z-index: $zindex-fixed + 1; pointer-events: none; font-weight: $font-weight-semibold; }
+			.category-icon { margin-right: 0; }
+		}
+	}
+}
+
+.sidebar-offset { transition: $transition-base;
+	@include media-breakpoint-up(lg) { margin-left: rem(250px);
+		.sidebar-collapsed + & { margin-left: rem(60px); }
+	}
+}
+
+.sidebar-toggler { position: fixed; right: $spacer; bottom: $spacer; width: 3rem; height: 3rem; background-color: map-get($primary-palette, 'medium'); color: $white; border-radius: 50%;
+	@include media-breakpoint-up(lg) { display: none; }
+}

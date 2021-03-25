@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "bearbeiteBewertung"
+msgstr "Bewertung bearbeiten"
+
+msgid "votesystem"
+msgstr "Bewertungssystem"
+
+msgid "votesystemURL"
+msgstr "https://jtl-url.de/vpl3k"
+
+msgid "votesystemDesc"
+msgstr "Hier legen Sie fest, ob Kunden Ihre Artikel bewerten können. Außerdem können Sie alle bisher abgegebenen aktiven und inaktiven Bewertungen durchsuchen und ggf. bearbeiten."
+
+msgid "clearVotes"
+msgstr "Alle Bewertungen zurücksetzen"
+
+msgid "removeReply"
+msgstr "Antwort löschen"
+
+msgid "options"
+msgstr "Auswahl"
+
+msgid "ratings"
+msgstr "Bewertungen"
+
+msgid "ratingsInaktive"
+msgstr "Inaktive Bewertungen"
+
+msgid "productName"
+msgstr "Artikel"
+
+msgid "customerName"
+msgstr "Kundenname"
+
+msgid "ratingText"
+msgstr "Bewertungstext"
+
+msgid "ratingReply"
+msgstr "Antwort:"
+
+msgid "ratingStars"
+msgstr "Sterne"
+
+msgid "ratingForProduct"
+msgstr "Bewertungen für einen bestimmten Artikel"
+
+msgid "ratingcArtNr"
+msgstr "Artikelnummer / Artikelname"
+
+msgid "ratingSearchedFor"
+msgstr "Gesucht nach"
+
+msgid "ratingLast50"
+msgstr "Aktive Bewertungen"
+
+msgid "successRatingEdit"
+msgstr "Bewertung wurde erfolgreich bearbeitet."
+
+msgid "errorCreditUnlock"
+msgstr "Um den Guthabenbonus gewähren zu können, muss die Option „Bewertung freischalten“ aktiviert sein."
+
+msgid "successRatingUnlock"
+msgstr " Bewertung(en) wurde(n) erfolgreich aktiviert."
+
+msgid "successRatingDelete"
+msgstr " Bewertung(en) wurde(n) erfolgreich gelöscht."
+
+msgid "successRatingCommentDelete"
+msgstr "Antwort wurde erfolgreich gelöscht."
+
+msgid "linkItemShop"
+msgstr "Artikel im Onlineshop ansehen"

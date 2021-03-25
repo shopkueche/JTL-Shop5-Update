@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "statusemail"
+msgstr "E-Mail-Berichte"
+
+msgid "statusemailURL"
+msgstr "https://jtl-url.de/b15ip"
+
+msgid "statusemailDesc"
+msgstr "Sie können sich E-Mail-Berichte über alle Aktivitäten in Ihrem Onlineshop zusenden lassen. E-Mail-Berichte können täglich, wöchentlich und / oder monatlich verschickt werden."
+
+msgid "statusemailUse"
+msgstr "E-Mail-Berichte nutzen"
+
+msgid "statusemailUseDesc"
+msgstr "Hier aktivieren Sie die Funktion „E-Mail-Berichte“."
+
+msgid "statusemailEmail"
+msgstr "Empfänger-E-Mail-Adresse"
+
+msgid "statusemailEmailDesc"
+msgstr "An diese E-Mail-Adresse wird der E-Mail-Bericht gesendet."
+
+msgid "statusemailIntervall"
+msgstr "Berichtszeitraum"
+
+msgid "statusemailIntervallDesc"
+msgstr "Hier legen Sie fest, wie oft ein Bericht erstellt werden soll. Eine Mehrfachauswahl ist möglich."
+
+msgid "statusemailContent"
+msgstr "Berichtsinhalt"
+
+msgid "statusemailContentDesc"
+msgstr "Hier legen Sie fest, welche Informationen die E-Mail-Berichte beinhalten sollen. Eine Mehrfachauswahl ist möglich."
+
+msgid "sendEmail"
+msgstr "E-Mail-Bericht jetzt senden"
+
+msgid "contentTypeCountItemCustomerGroup"
+msgstr "Anzahl Artikel pro Kundengruppe"
+
+msgid "contentTypeCountNewCustomer"
+msgstr "Anzahl Neukunden"
+
+msgid "contentTypeCountNewCustomerOrdered"
+msgstr "Anzahl Neukunden, die gekauft haben"
+
+msgid "contentTypeCountOrders"
+msgstr "Anzahl Bestellungen"
+
+msgid "contentTypeCountOrdersNewCustomers"
+msgstr "Anzahl Bestellungen von Neukunden"
+
+msgid "contentTypeCountPayments"
+msgstr "Anzahl Zahlungseingänge zu Bestellungen"
+
+msgid "contentTypeCountOrdersSent"
+msgstr "Anzahl versendeter Bestellungen"
+
+msgid "contentTypeCountVisitors"
+msgstr "Anzahl Besucher"
+
+msgid "contentTypeCountVisitorsSearchEngine"
+msgstr "Anzahl Besucher über Suchmaschine"
+
+msgid "contentTypeCountRatings"
+msgstr "Anzahl Bewertungen"
+
+msgid "contentTypeCountRatingsLocked"
+msgstr "Anzahl nicht freigeschalteter Bewertungen"
+
+msgid "contentTypeCountRatingDepositPayed"
+msgstr "Anzahl gewährter Bewertungsguthaben"
+
+msgid "contentTypeCountCustomerRecruited"
+msgstr "Anzahl geworbener Kunden"
+
+msgid "contentTypeCountCustomerRecruitedOrdered"
+msgstr "Anzahl geworbener Kunden, die gekauft haben"
+
+msgid "contentTypeCountSentWishlists"
+msgstr "Anzahl versendeter Wunschzettel"
+
+msgid "contentTypeCountNewsComments"
+msgstr "Anzahl neuer Blogkommentare"
+
+msgid "contentTypeCountNewsCommentsLocked"
+msgstr "Anzahl nicht freigeschalteter Blogkommentare"
+
+msgid "contentTypeCountProductQuestion"
+msgstr "Anzahl neuer Fragen zum Artikel"
+
+msgid "contentTypeCountAvailabilityNotifications"
+msgstr "Anzahl neuer Verfügbarkeitsanfragen"
+
+msgid "contentTypeCountProductCompare"
+msgstr "Anzahl Artikelvergleiche"
+
+msgid "contentTypeCountCouponsUsed"
+msgstr "Anzahl genutzter Coupons"
+
+msgid "contentTypeLastErrorLog"
+msgstr "Letzte Fehlermeldungen im System-Log"
+
+msgid "contentTypeLastNoteLog"
+msgstr "Letzte Hinweise im System-Log"
+
+msgid "contentTypeLastDebugLog"
+msgstr "Letzte Debug-Einträge im System-Log"
+
+msgid "intervalDay"
+msgstr "Tagesbericht"
+
+msgid "intervalWeek"
+msgstr "Wochenbericht"
+
+msgid "intervalMonth"
+msgstr "Monatsbericht"
+
+msgid "nextStatusMail"
+msgstr "Der nächste %s wird am %s versendet."
+
+msgid "contentTypeCountNewsletterOptOut"
+msgstr "Newsletter-Abmeldungen"
+
+msgid "contentTypeCountNewsletterOptIn"
+msgstr "Newsletter-Anmeldungen"

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "sitemapExport"
+msgstr "Sitemap export"
+
+msgid "sitemapExportURL"
+msgstr "https://jtl-url.de/gk107"
+
+msgid "sitemapDownload"
+msgstr "Sitemap download"
+
+msgid "sitemapExportDesc"
+msgstr "Here you can download the online shop sitemap according to the standard Sitemap Protocol 0.9. You can upload the sitemap to all search engines supporting this standard.<br/>With a synchronisation with JTL-Wawi or a manual download of the sitemap, the file export/sitemap_index.xml and other content files of your online shop will be newly generated so that external services can access them."
+
+msgid "searchEnginesHint"
+msgstr "Among others, <a class=\"externURL\" href=\"http://www.google.com\" rel=\"external\">Google</a>, <a class=\"externURL\" href=\"http://www.yahoo.com\" rel=\"external\">Yahoo!</a>, and <a class=\"externURL\" href=\"http://www.msn.com\" rel=\"external\">Microsoft</a> also support this standard."
+
+msgid "sitemapExportSubmit"
+msgstr "Create sitemap again now"
+
+msgid "download"
+msgstr "Download link:"
+
+msgid "xml"
+msgstr "sitemap_index.xml"
+
+msgid "sitemapName"
+msgstr "File"
+
+msgid "sitemapSize"
+msgstr "Size"
+
+msgid "sitemapBot"
+msgstr "Bot"
+
+msgid "sitemapIP"
+msgstr "IP"
+
+msgid "sitemapUserAgent"
+msgstr "User agent"
+
+msgid "sitemapDate"
+msgstr "Created"
+
+msgid "sitemapSelectAll"
+msgstr "Select all"
+
+msgid "sitemapReport"
+msgstr "Sitemap reports"
+
+msgid "sitemapProcessTime"
+msgstr "Processing time"
+
+msgid "sitemapTotalURL"
+msgstr "Total number of URLs"
+
+msgid "sitemapCountURL"
+msgstr "Number of URLs"
+
+msgid "errorSitemapCreatePermission"
+msgstr "Cannot write file %s. Please note that there must be sufficient write access for this file to create a sitemap. Please review the write access."
+
+msgid "successSave"
+msgstr "%s updated successfully."
+
+msgid "successSitemapDLDelete"
+msgstr "Selected sitemap downloads deleted successfully."
+
+msgid "successSitemapReportDelete"
+msgstr "Selected sitemap reports deleted successfully."
+
+msgid "successSitemapDLDeleteByYear"
+msgstr "Selected sitemap downloads for %s deleted successfully."
+
+msgid "successSitemapReportDeleteByYear"
+msgstr "Sitemap reports for %s deleted successfully."
+
+msgid "sureDeleteEntries"
+msgstr "Delete all entries of the selected year?"

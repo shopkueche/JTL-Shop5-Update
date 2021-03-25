@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "exportformats"
+msgstr "Export formats"
+
+msgid "exportformatsURL"
+msgstr "https://jtl-url.de/oh65a"
+
+msgid "exportformatsDesc"
+msgstr "Here you can define the export formats for item data."
+
+msgid "campaigns"
+msgstr "Campaign"
+
+msgid "lastModified"
+msgstr "Last created"
+
+msgid "markedElement"
+msgstr "Selected element"
+
+msgid "createExportFile"
+msgstr "Create export file"
+
+msgid "createExportFileAsync"
+msgstr "Create export file asynchronously"
+
+msgid "newExportformat"
+msgstr "Create new export format"
+
+msgid "modifyExportformat"
+msgstr "Edit export format"
+
+msgid "newExportformatSave"
+msgstr "Save new export format"
+
+msgid "modifyExportformatSave"
+msgstr "Save edited export format"
+
+msgid "onlyIfNeeded"
+msgstr "Only complete if header is to be included in the export file."
+
+msgid "template"
+msgstr "Export template"
+
+msgid "smartyRules"
+msgstr "Smarty is used. Caution: PHP tags and contents are forbidden."
+
+msgid "download"
+msgstr "Download file"
+
+msgid "onlyIfNeededFooter"
+msgstr "Only complete if footer is to be added"
+
+msgid "saveSettings"
+msgstr "Save settings"
+
+msgid "StartTime"
+msgstr "Start date (only during creation)"
+
+msgid "encoding"
+msgstr "Character encoding"
+
+msgid "varikombiOption"
+msgstr "Export of child items"
+
+msgid "varikombiOption1"
+msgstr "Export parent and child items"
+
+msgid "varikombiOption2"
+msgstr "Export parent items only"
+
+msgid "varikombiOption3"
+msgstr "Export child items only"
+
+msgid "splitSize"
+msgstr "Size per file (MB)"
+
+msgid "successFormatEdit"
+msgstr "Export format %s edited successfully."
+
+msgid "successFormatCreate"
+msgstr "Export format %s created successfully."
+
+msgid "successFormatDelete"
+msgstr "Export format deleted successfully."
+
+msgid "errorFormatDelete"
+msgstr "Could not delete export format."
+
+msgid "errorFormatCreate"
+msgstr "Could not create export format %s. Please check write access."
+
+msgid "errorExport"
+msgstr "Could not create export file."
+
+msgid "availableFormats"
+msgstr "Existing export formats"
+
+msgid "exportAll"
+msgstr "Export all"
+
+msgid "sureDeleteFormat"
+msgstr "Delete export format?"
+
+msgid "useCache"
+msgstr "Use cache"
+
+msgid "Check syntax"
+msgstr "Check email sytnax"
+
+msgid "Syntax check fail"
+msgstr "Email syntax check failed"

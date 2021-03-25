@@ -1,0 +1,17 @@
+
+.pagination-sm .page-item.active .page-link::after { left: $pagination-padding-x-sm * 3/4; right: $pagination-padding-x-sm * 3/4; }
+.pagination-lg .page-item.active .page-link::after { left: $pagination-padding-x-lg * 3/4; right: $pagination-padding-x-lg * 3/4; }
+
+.page-item { position: relative;
+	&.active { font-weight: $font-weight-bold;
+		.page-link {
+			&::after { content: ''; position: absolute; left: $pagination-padding-x * 3/4; bottom: 0; right: $pagination-padding-x * 3/4; border-bottom: 4px solid $primary; }
+		}
+	}
+}
+
+.page-link {
+	&:hover { font-weight: $font-weight-bold; }
+}
+
+.page-text { @extend .page-link; }

@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "agbwrb"
+msgstr " AGB / Widerrufsbelehrung"
+
+msgid "availableAGBWRB"
+msgstr "Vorhandene AGB / Widerrufsbelehrung"
+
+msgid "agbwrbURL"
+msgstr "https://jtl-url.de/15ge9"
+
+msgid "agb"
+msgstr "Allgemeine Geschäftsbedingungen"
+
+msgid "wrb"
+msgstr "Widerrufsbelehrung"
+
+msgid "dse"
+msgstr "Datenschutzerklärung"
+
+msgid "wrbform"
+msgstr "Muster-Widerrufsformular"
+
+msgid "agbWrbInfo"
+msgstr "Hier können Sie eigene Texte für Ihre AGB, Ihre Widerrufsbelehrung, ein Muster-Widerrufsformular und eine Datenschutzerklärung hinterlegen. Bei der Erstellung rechtssicherer Texte können Ihnen unsere Partner helfen. Hier finden Sie alle Partner, die Rechtstexte anbieten: <i class=\"fa fa-external-link\"></i> <a href=\"http://jtl-url.de/rechtstexte\" target=\"_blank\">http://jtl-url.de/rechtstexte</a>."
+
+msgid "errorInvalidCustomerGroup"
+msgstr "Bitte geben Sie eine gültige Kundengruppe an."
+
+msgid "successSave"
+msgstr "AGB / Widerrufsbelehrung wurde erfolgreich gespeichert."
+
+msgid "errorSave"
+msgstr "AGB / Widerrufsbelehrung konnte nicht gespeichert werden."

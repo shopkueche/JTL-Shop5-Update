@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "docURL"
+msgstr "https://jtl-devguide.readthedocs.io/projects/jtl-shop/de/latest/shop_privacy/consentmanager.html"
+
+msgid "pageTitle"
+msgstr "Consent-Manager"
+
+msgid "pageDesc"
+msgstr "Hier können Sie nötige Zustimmungen zur Anzeige von Drittanbieterinhalten und -Cookies verwalten."
+
+msgid "itemID"
+msgstr "ID"
+
+msgid "company"
+msgstr "Firma"
+
+msgid "pluginID"
+msgstr "Plugin-ID"
+
+msgid "languageID"
+msgstr "Sprach-ID"
+
+msgid "description"
+msgstr "Beschreibung"
+
+msgid "purpose"
+msgstr "Zweck"
+
+msgid "disable"
+msgstr "Deaktivieren"
+
+msgid "enable"
+msgstr "Aktivieren"
+
+msgid "saveAndContinue"
+msgstr "Speichern und weiterbearbeiten"
+
+msgid "modelHeader"
+msgstr "Consent"
+
+msgid "childHeading"
+msgstr "Lokalisierung"
+
+msgid "generalHeading"
+msgstr "Allgemein"
+
+msgid "privacyPolicy"
+msgstr "Nutzungsbedingungen (Link)"

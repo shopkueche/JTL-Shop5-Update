@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "shoptemplates"
+msgstr "Templates für JTL-Shop"
+
+msgid "shoptemplateURL"
+msgstr "https://jtl-url.de/dq1g2"
+
+msgid "shoptemplatesDesc"
+msgstr "Auf dieser Seite finden Sie alle Templates, die sich im Ordner „/templates/“ des Wurzelverzeichnisses von JTL-Shop befinden. Falls Sie ein neues Template haben und es nutzen möchten, übertragen Sie es zuerst per <abbr title=\"FTP (File Transfer Protokoll) ist ein Dateiübertragungsprotokoll\">FTP</abbr> in dieses Verzeichnis. Sie können immer nur ein normales und ein Mobile Template zur gleichen Zeit für JTL-Shop aktivieren. Über die Schaltfläche „Einstellungen“ konfigurieren Sie das aktivierte Template."
+
+msgid "templateName"
+msgstr "Template-Name"
+
+msgid "warning_responsive_mobile"
+msgstr "Responsive Templates sind für alle Auflösungen geeignet und sollten nicht explizit als Template für mobile Endgeräte ausgewiesen werden."
+
+msgid "successTemplateSave"
+msgstr "Template und Einstellungen wurden erfolgreich geändert."
+
+msgid "errorTemplateSave"
+msgstr "Template bzw. Einstellungen konnten nicht geändert werden. Falls das Template ein Child-Template ist, stellen Sie sicher, dass ein entsprechendes Parent-Template existiert. Sollte das Problem dennoch weiterhin bestehen, wenden Sie sich bitte an den Support."
+
+msgid "errorFileUpload"
+msgstr "Der Datei-Upload konnte nicht ausgeführt werden – bitte überprüfen Sie die Schreibrechte des Ordners „%s“."
+
+msgid "errorStyleFilePermission"
+msgstr "Style-Datei konnte nicht geschrieben werden. Die Datei %s existiert nicht oder hat nicht genügend Schreibrechte."
+
+msgid "successLayoutSave"
+msgstr "Layout wurde erfolgreich angepasst."
+
+msgid "standardTemplateMobil"
+msgstr "Template für mobile Endgeräte"
+
+msgid "optimizeBrowser"
+msgstr "Nein (optimiert für Standard-Browser)"
+
+msgid "optimizeMobile"
+msgstr "Ja (optimiert für mobile Endgeräte)"
+
+msgid "activateTemplate"
+msgstr "Template aktivieren"
+
+msgid "inheritsFrom"
+msgstr "Erbt von %s"
+
+msgid "originalExists"
+msgstr "Originalversion vorhanden"
+
+msgid "mobileDevices"
+msgstr "Mobile Endgeräte"
+
+msgid "parentTemplateMissing"
+msgstr "Parent-Template fehlt"
+
+msgid "errorOverlayWritePermissions"
+msgstr "Die Artikelsticker konnten nicht erzeugt werden. Bitte prüfen Sie die Schreibrechte des Ordners „%s“ und aktivieren Sie das Template erneut."
+
+msgid "successTemplateUpload"
+msgstr "Template wurde erfolgreich hochgeladen."
+
+msgid "uploadTemplateHeading"
+msgstr "Template hochladen"
+
+msgid "errorTemplateUpload"
+msgstr "Template konnte nicht hochgeladen werden. Bitte wenden Sie sich an den Support."
+
+msgid "errorParentNotFound"
+msgstr "Parent-Template konnte nicht gefunden werden."
+
+msgid "errorShopVersionNotFound"
+msgstr "XML-Knoten „ShopVersion“/„MinShopVersion“ konnte nicht gefunden werden."
+
+msgid "errorXmlNotFound"
+msgstr "template.xml konnte nicht gefunden werden."
+
+msgid "errorXmlParse"
+msgstr "XML konnte nicht geparst werden."
+
+msgid "errorNameNotFound"
+msgstr "XML-Knoten „Name“ konnte nicht gefunden werden."
+
+msgid "errorInvalidVersion"
+msgstr "Keine gültige SemVer."
+
+msgid "errorUnknown"
+msgstr "Unbekannter Fehler."
+
+msgid "dangerMinShopVersion"
+msgstr "Bitte beachten Sie, dass dieses Template eine aktuellere Version von JTL-Shop erfordert. Es können daher Probleme beim Betrieb entstehen."
+
+msgid "dangerMaxShopVersion"
+msgstr "Bitte beachten Sie, dass dieses Template für eine ältere Version von JTL-Shop entwickelt wurde. Es können daher Probleme beim Betrieb entstehen."

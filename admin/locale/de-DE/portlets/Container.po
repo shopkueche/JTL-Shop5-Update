@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Container"
+msgstr "Container"
+
+msgid "minHeightPX"
+msgstr "Mindesthöhe in px"
+
+msgid "boxedContainer"
+msgstr "Boxed Container"
+
+msgid "image"
+msgstr "statisches Bild"
+
+msgid "imageParallax"
+msgstr "mitlaufendes Bild (parallax)"
+
+msgid "backgroundVideo"
+msgstr "Hintergrundvideo"
+
+msgid "noBackground"
+msgstr "kein Hintergrund"
+
+msgid "placeholderImage"
+msgstr "Platzhalterbild"
+
+msgid "boxedContainerDesc"
+msgstr "Responsiver Container mit konstanter Breite"
+
+msgid "parallaxNote"
+msgstr "Achtung: Platzieren Sie einen Container mit einem mitlaufenden Hintergrund nicht unterhalb von anderen Portlets, die ihre Höhe ändern können (z. B.  Akkordeons und Registerkarten). Parallax-Hintergründe können nur bei feststehenden Seitenlayouts fehlerfrei positioniert werden."

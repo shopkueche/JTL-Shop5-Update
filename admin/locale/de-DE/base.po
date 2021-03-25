@@ -1,0 +1,2079 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Wrong XSRF token."
+msgstr "Falsches XSRF-Token."
+
+msgid "dashboard"
+msgstr "Dashboard"
+
+msgid "settingspath"
+msgstr "Pfad"
+
+msgid "add"
+msgstr "Hinzufügen"
+
+msgid "add_force"
+msgstr "Hinzufügen erzwingen"
+
+msgid "modify"
+msgstr "Bearbeiten"
+
+msgid "edit"
+msgstr "Bearbeiten"
+
+msgid "delete"
+msgstr "Löschen"
+
+msgid "deleteSelected"
+msgstr "Markierte löschen"
+
+msgid "refresh"
+msgstr "Aktualisieren"
+
+msgid "deleteAll"
+msgstr "Alles löschen"
+
+msgid "showedName"
+msgstr "Angezeigter Name"
+
+msgid "multipleChoice"
+msgstr "Mehrfachauswahl möglich"
+
+msgid "save"
+msgstr "Speichern"
+
+msgid "saveAndContinue"
+msgstr "Speichern und weiterbearbeiten"
+
+msgid "settings"
+msgstr "Einstellungen"
+
+msgid "logout"
+msgstr "Abmelden"
+
+msgid "docu"
+msgstr "Dokumentation"
+
+msgid "sortNo"
+msgstr "Sortiernummer"
+
+msgid "allCustomerGroups"
+msgstr "Alle Kundengruppen"
+
+msgid "goShop"
+msgstr "Zum Onlineshop"
+
+msgid "help"
+msgstr "Hilfe"
+
+msgid "startPage"
+msgstr "Startseite"
+
+msgid "sitemap"
+msgstr "Sitemap"
+
+msgid "yes"
+msgstr "Ja"
+
+msgid "no"
+msgstr "Nein"
+
+msgid "update"
+msgstr "Aktualisieren"
+
+msgid "from"
+msgstr "von"
+
+msgid "next"
+msgstr "Nächste"
+
+msgid "previous"
+msgstr "Vorherige"
+
+msgid "changeLanguage"
+msgstr "Sprache"
+
+msgid "goBack"
+msgstr "Zurück"
+
+msgid "enterResult"
+msgstr "Lösung eingeben"
+
+msgid "invalidCode"
+msgstr "Ungültiger Code"
+
+msgid "invalidResult"
+msgstr "Falsche Lösung"
+
+msgid "enterCode"
+msgstr "Code eingeben"
+
+msgid "code"
+msgstr "Code"
+
+msgid "globalSelectAll"
+msgstr "Alle auswählen"
+
+msgid "noDataAvailable"
+msgstr "Zurzeit liegen keine Daten vor."
+
+msgid "noFilterResults"
+msgstr "Die Filterung ergab keine Treffer."
+
+msgid "noPluginDataAvailable"
+msgstr "Dieses Plugin hat keine Einstellungsmöglichkeiten."
+
+msgid "confSearch"
+msgstr "Suchen"
+
+msgid "confSearchWord"
+msgstr "Einstellungssuche"
+
+msgid "searchHeadline"
+msgstr "Einstellung"
+
+msgid "noSearchResult"
+msgstr "Leider wurde zu Ihrem Suchbegriff keine Einstellung gefunden."
+
+msgid "NotAvailable"
+msgstr "nicht verfügbar"
+
+msgid "page"
+msgstr "Seite"
+
+msgid "FillOut"
+msgstr "Bitte ausfüllen"
+
+msgid "nofopenError"
+msgstr "Leider steht die PHP-Stream-Konfigurationsoption „<b>allow_url_fopen</b>“ nicht auf aktiv. Bitte wenden Sie sich an den Serveradministrator, um die Option auf 1 zu setzen."
+
+msgid "noCURLError"
+msgstr "Leider steht das Programm „<b>CURL (curl_init)</b>“ nicht zur Verfügung. Bitte wenden Sie sich an den Serveradministrator, um es zu installieren."
+
+msgid "noCURLAndFopenError"
+msgstr "Leider ist weder die PHP-Stream-Konfigurationsoption „<b>allow_url_fopen</b>“ aktiv, noch existiert das Programm „<b>CURL (curl_init)</b>“. Bitte wenden Sie sich an den Serveradministrator, um mindestens eins der beiden zu aktivieren."
+
+msgid "noSOAPError"
+msgstr "Leider steht das Netzwerkprotokoll „<b>SOAP</b>“ nicht zur Verfügung. Bitte wenden Sie sich an den Serveradministrator, damit dieses zur Verfügung gestellt wird."
+
+msgid "noModuleAvailable"
+msgstr "Es wurde keine gültige Lizenz für dieses Modul gefunden. Eine passende Lizenz können Sie unter <a href=\"https://www.jtl-software.de/JTL-Shop-Onlineshop-und-Erweiterungen\">jtl-software.de</a> erwerben."
+
+msgid "pageBack"
+msgstr "Zurück"
+
+msgid "submit"
+msgstr "Absenden"
+
+msgid "cancel"
+msgstr "Abbrechen"
+
+msgid "apply"
+msgstr "Übernehmen"
+
+msgid "exportCsv"
+msgstr "Exportiere Einträge"
+
+msgid "importCsv"
+msgstr "Importiere Einträge"
+
+msgid "importCsvChooseType"
+msgstr "Wie soll importiert werden?"
+
+msgid "importCsvType0"
+msgstr "Vorhandene Einträge löschen, dann neue importieren"
+
+msgid "importCsvType1"
+msgstr "Vorhandene Einträge überschreiben und neue importieren"
+
+msgid "importCsvType2"
+msgstr "Vorhandene Einträge beibehalten und neue importieren"
+
+msgid "selectAllShown"
+msgstr "Alle auswählen"
+
+msgid "unselectAllShown"
+msgstr "Alle abwählen"
+
+msgid "file"
+msgstr "Datei"
+
+msgid "import"
+msgstr "Importieren"
+
+msgid "noAccount"
+msgstr "- Kein Kundenkonto -"
+
+msgid "confirm"
+msgstr "Bestätigen"
+
+msgid "wantToConfirm"
+msgstr "Möchten Sie fortfahren?"
+
+msgid "reloadCaptcha"
+msgstr "Captcha neu laden"
+
+msgid "invalidToken"
+msgstr "Es wurde ein ungültiger Sicherheitscode übermittelt."
+
+msgid "allPages"
+msgstr "Alle Seiten"
+
+msgid "errorFillRequired"
+msgstr "Bitte füllen Sie alle Pflichtfelder korrekt aus."
+
+msgid "successConfigSave"
+msgstr "Einstellungen wurden erfolgreich gespeichert."
+
+msgid "errorConfigSave"
+msgstr "Einstellungen konnten nicht gespeichert werden."
+
+msgid "errorIsNoDir"
+msgstr " ist kein Verzeichnis"
+
+msgid "contactSupport"
+msgstr "Support kontaktieren"
+
+msgid "errorUnknown"
+msgstr "Unbekannter Fehler"
+
+msgid "errorUnknownLong"
+msgstr "Es ist ein unbekannter Fehler aufgetreten."
+
+msgid "year"
+msgstr " Jahr"
+
+msgid "years"
+msgstr " Jahre"
+
+msgid "month"
+msgstr " Monat"
+
+msgid "months"
+msgstr " Monate"
+
+msgid "day"
+msgstr " Tag"
+
+msgid "days"
+msgstr " Tage"
+
+msgid "hour"
+msgstr " Stunde"
+
+msgid "hours"
+msgstr " Stunden"
+
+msgid "seconds"
+msgstr "Sekunden"
+
+msgid "errorEnterValidDate"
+msgstr "Bitte geben Sie ein gültiges Datum ein."
+
+msgid "smartySyntaxError"
+msgstr "Smarty-Syntax-Fehler"
+
+msgid "errorCheckInput"
+msgstr "Bitte überprüfen Sie Ihre Eingaben."
+
+msgid "lockForMinutes"
+msgstr "Gesperrt für %s Minuten"
+
+msgid "errorWrongPasswordUser"
+msgstr "Benutzername oder Passwort falsch"
+
+msgid "errorTwoFactorExpired"
+msgstr "2-Faktor-Authentifizierungs-Code abgelaufen"
+
+msgid "errorTwoFactorFaultyExpired"
+msgstr "2-Faktor-Authentifizierungs-Code ungültig oder abgelaufen"
+
+msgid "errorNoPermission"
+msgstr "Fehlende Berechtigung"
+
+msgid "errorCSRF"
+msgstr "Cross-Site-Request-Forgery! Sind Cookies aktiviert?"
+
+msgid "errorCookieSettings"
+msgstr "Fehlerhafte Cookie-Einstellungen: Anmeldung nicht möglich. Bitte wenden Sie sich an den Support."
+
+msgid "errorSessionExpired"
+msgstr "Ihre Sitzung wurde zurückgesetzt. Bitte melden Sie sich neu an."
+
+msgid "row"
+msgstr "Zeile"
+
+msgid "errorLangVarNotFound"
+msgstr "Ausgewählte Sprachvariable wurde nicht gefunden."
+
+msgid "successChangesSave"
+msgstr "Änderungen wurden erfolgreich übernommen."
+
+msgid "errorChooseOption"
+msgstr "Bitte wählen Sie mindestens eine Option aus."
+
+msgid "all"
+msgstr "Alle"
+
+msgid "both"
+msgstr "Beide"
+
+msgid "successEmailSend"
+msgstr "Eine E-Mail mit weiteren Anweisungen wurde an die hinterlegte Adresse gesendet."
+
+msgid "errorEmailNotFound"
+msgstr "Die E-Mail-Adresse wurde nicht gefunden."
+
+msgid "successPasswordChange"
+msgstr "Passwort wurde erfolgreich geändert."
+
+msgid "errorPasswordChange"
+msgstr "Passwort konnte nicht geändert werden."
+
+msgid "errorHashInvalid"
+msgstr "Ungültiger Hash wurde übergeben."
+
+msgid "errorPasswordMismatch"
+msgstr "Passwörter stimmen nicht überein."
+
+msgid "action"
+msgstr "Aktion"
+
+msgid "available"
+msgstr "Vorhanden"
+
+msgid "html"
+msgstr "HTML"
+
+msgid "text"
+msgstr "Text"
+
+msgid "forCustomerGroup"
+msgstr "für Kundengruppe"
+
+msgid "customerGroup"
+msgstr "Kundengruppe"
+
+msgid "titleChooseCategory"
+msgstr "Kategorien auswählen"
+
+msgid "labelSearchCategory"
+msgstr "Suche nach Kategorien"
+
+msgid "category"
+msgstr "Kategorie"
+
+msgid "characteristic value"
+msgstr "Merkmalwert"
+
+msgid "characteristic"
+msgstr "Merkmal"
+
+msgid "variation"
+msgstr "Variation"
+
+msgid "showQuestions"
+msgstr "Fragen anzeigen"
+
+msgid "errorImageSizeTooLarge"
+msgstr "Die Bilddatei ist zu groß."
+
+msgid "errorUploadSizeLimit"
+msgstr "Die Datei ist größer als das Upload-Limit des Servers."
+
+msgid "general"
+msgstr "Allgemein"
+
+msgid "chooseAvailableFile"
+msgstr "Vorhandene Datei wählen"
+
+msgid "pageType"
+msgstr "Seitentyp"
+
+msgid "tag"
+msgstr "Tag"
+
+msgid "attribute"
+msgstr "Merkmal"
+
+msgid "attributes"
+msgstr "Merkmale"
+
+msgid "attributeValues"
+msgstr "Merkmalwerte"
+
+msgid "searchTerm"
+msgstr "Suchbegriff"
+
+msgid "runTime"
+msgstr "Laufzeit"
+
+msgid "status"
+msgstr "Status"
+
+msgid "manufacturer"
+msgstr "Hersteller"
+
+msgid "pageSelf"
+msgstr "Eigene Seite"
+
+msgid "product"
+msgstr "Artikel"
+
+msgid "titleChooseProducts"
+msgstr "Artikel wählen"
+
+msgid "chooseProduct"
+msgstr "Artikel wählen"
+
+msgid "deleteProduct"
+msgstr "Artikel löschen"
+
+msgid "filter"
+msgstr "Filter"
+
+msgid "noFilter"
+msgstr "Kein Filter"
+
+msgid "to"
+msgstr "bis"
+
+msgid "zones"
+msgstr "Zonen"
+
+msgid "zone"
+msgstr "Zone"
+
+msgid "newZone"
+msgstr "Neue Zone"
+
+msgid "saveZones"
+msgstr "Zonen speichern"
+
+msgid "deleteZone"
+msgstr "Zone löschen"
+
+msgid "title"
+msgstr "Titel"
+
+msgid "description"
+msgstr "Beschreibung"
+
+msgid "url"
+msgstr "URL"
+
+msgid "cssClass"
+msgstr "CSS-Klasse"
+
+msgid "new"
+msgstr "neu"
+
+msgid "active"
+msgstr "Aktiv"
+
+msgid "inactive"
+msgstr "Inaktiv"
+
+msgid "emailAddress"
+msgstr "E-Mail-Adresse"
+
+msgid "preSurName"
+msgstr "Vor- und Nachname"
+
+msgid "language"
+msgstr "Sprache"
+
+msgid "username"
+msgstr "Benutzername"
+
+msgid "logindata"
+msgstr "Anmeldedaten"
+
+msgid "password"
+msgstr "Passwort"
+
+msgid "twoFactorAuth"
+msgstr "2-Faktor-Authentifizierung"
+
+msgid "activate"
+msgstr "Aktivieren"
+
+msgid "permissions"
+msgstr "Berechtigungen"
+
+msgid "permissionDenied"
+msgstr "Zugriff verweigert"
+
+msgid "userGroup"
+msgstr "Benutzergruppe"
+
+msgid "noPermissionForPage"
+msgstr "Sie haben keine Berechtigung, diese Seite anzuzeigen."
+
+msgid "contactAdminForPermission"
+msgstr "Falls Sie Zugang zu diesem Bereich benötigen, kontaktieren Sie bitte den Administrator, damit er Ihnen die entsprechenden Rechte zuweist."
+
+msgid "imageSizes"
+msgstr "Bildgrößen"
+
+msgid "variations"
+msgstr "Variationen"
+
+msgid "configGroup"
+msgstr "Konfigurationsgruppe"
+
+msgid "type"
+msgstr "Typ"
+
+msgid "xs"
+msgstr "Mini"
+
+msgid "sm"
+msgstr "Klein"
+
+msgid "md"
+msgstr "Normal"
+
+msgid "lg"
+msgstr "Groß"
+
+msgid "widthXHeight"
+msgstr "(Breite x Höhe)"
+
+msgid "notice"
+msgstr "Meldung"
+
+msgid "name"
+msgstr "Name"
+
+msgid "street"
+msgstr "Straße"
+
+msgid "city"
+msgstr "Ort"
+
+msgid "email"
+msgstr "E-Mail"
+
+msgid "customerNumberShort"
+msgstr "Kundennummer"
+
+msgid "minOrderValue"
+msgstr "Mindestbestellwert"
+
+msgid "maxOrderValue"
+msgstr "Maximaler Bestellwert"
+
+msgid "directDebit"
+msgstr "Lastschriftverfahren"
+
+msgid "top"
+msgstr "oben"
+
+msgid "topRight"
+msgstr "oben rechts"
+
+msgid "topLeft"
+msgstr "oben links"
+
+msgid "bottom"
+msgstr "unten"
+
+msgid "bottomRight"
+msgstr "unten rechts"
+
+msgid "bottomLeft"
+msgstr "unten links"
+
+msgid "left"
+msgstr "links"
+
+msgid "right"
+msgstr "rechts"
+
+msgid "centered"
+msgstr "zentriert"
+
+msgid "activated"
+msgstr "Aktiviert"
+
+msgid "modified"
+msgstr "Modifiziert"
+
+msgid "unmodified"
+msgstr "Unmodifiziert"
+
+msgid "tplChecksums"
+msgstr "Template Dateienchecksummen"
+
+msgid "modifiedFiles"
+msgstr "Modifizierte Dateien"
+
+msgid "lastModified"
+msgstr "Zuletzt bearbeitet"
+
+msgid "files"
+msgstr "Dateien"
+
+msgid "frontend"
+msgstr "Frontend"
+
+msgid "backend"
+msgstr "Backend"
+
+msgid "methods"
+msgstr "Methoden"
+
+msgid "entries"
+msgstr "Einträge"
+
+msgid "extended"
+msgstr "Erweitert"
+
+msgid "requiredEntry"
+msgstr "Pflichtangabe"
+
+msgid "noMoreInfo"
+msgstr "Es stehen keine weiteren Informationen zur Verfügung."
+
+msgid "structure"
+msgstr "Struktur"
+
+msgid "show"
+msgstr "Anzeigen"
+
+msgid "table"
+msgstr "Tabelle"
+
+msgid "any"
+msgstr "beliebig"
+
+msgid "overview"
+msgstr "Übersicht"
+
+msgid "consistency"
+msgstr "Konsistenz"
+
+msgid "execute"
+msgstr "Ausführen"
+
+msgid "collation"
+msgstr "Kollation"
+
+msgid "dataEntries"
+msgstr "Datensätze"
+
+msgid "autoIncrement"
+msgstr "Autoinkrement"
+
+msgid "column"
+msgstr "Spalte"
+
+msgid "indices"
+msgstr "Indizes"
+
+msgid "count"
+msgstr "Anzahl"
+
+msgid "showData"
+msgstr "Daten anzeigen"
+
+msgid "noData"
+msgstr "Keine Daten vorhanden"
+
+msgid "database"
+msgstr "Datenbank"
+
+msgid "saveCopy"
+msgstr "Sicherungskopie"
+
+msgid "migration"
+msgstr "Migration"
+
+msgid "executed"
+msgstr "Ausgeführt"
+
+msgid "download"
+msgstr "Herunterladen"
+
+msgid "buttonUpdateNow"
+msgstr "Jetzt aktualisieren"
+
+msgid "danger"
+msgstr "Achtung"
+
+msgid "ok"
+msgstr "OK"
+
+msgid "placeholder"
+msgstr "Platzhalter"
+
+msgid "example"
+msgstr "Beispiel"
+
+msgid "mister"
+msgstr "Herr"
+
+msgid "maleShort"
+msgstr "m"
+
+msgid "madame"
+msgstr "Frau"
+
+msgid "femaleShort"
+msgstr "w"
+
+msgid "content"
+msgstr "Inhalt"
+
+msgid "firstNameStub"
+msgstr "Max"
+
+msgid "lastNameStub"
+msgstr "Mustermann"
+
+msgid "companyStub"
+msgstr "Muster GmbH"
+
+msgid "faulty"
+msgstr "Fehlerhaft"
+
+msgid "untested"
+msgstr "Ungeprüft"
+
+msgid "week"
+msgstr "Woche"
+
+msgid "weeks"
+msgstr "Wochen"
+
+msgid "own"
+msgstr "eigene"
+
+msgid "questionUseCache"
+msgstr "Cache nutzen?"
+
+msgid "link"
+msgstr "Link"
+
+msgid "startsWith"
+msgstr "beginnt mit"
+
+msgid "endsWith"
+msgstr "endet mit"
+
+msgid "isEqual"
+msgstr "ist gleich"
+
+msgid "isNotEqual"
+msgstr "ist ungleich"
+
+msgid "contains"
+msgstr "enthält"
+
+msgid "firstSteps"
+msgstr "Erste Schritte"
+
+msgid "jtlGuide"
+msgstr "JTL-Guide"
+
+msgid "jtlForum"
+msgstr "JTL-Forum"
+
+msgid "training"
+msgstr "Training"
+
+msgid "servicePartners"
+msgstr "Servicepartner"
+
+msgid "actions"
+msgstr "Aktionen"
+
+msgid "linkVerb"
+msgstr "Verknüpfen"
+
+msgid "old"
+msgstr "alt"
+
+msgid "january"
+msgstr "Januar"
+
+msgid "february"
+msgstr "Februar"
+
+msgid "march"
+msgstr "März"
+
+msgid "april"
+msgstr "April"
+
+msgid "may"
+msgstr "Mai"
+
+msgid "june"
+msgstr "Juni"
+
+msgid "july"
+msgstr "Juli"
+
+msgid "august"
+msgstr "August"
+
+msgid "september"
+msgstr "September"
+
+msgid "october"
+msgstr "Oktober"
+
+msgid "november"
+msgstr "November"
+
+msgid "december"
+msgstr "Dezember"
+
+msgid "dynamic"
+msgstr "dynamisch"
+
+msgid "fixedValue"
+msgstr "Fester Wert"
+
+msgid "earlier"
+msgstr "Früher"
+
+msgid "later"
+msgstr "Später"
+
+msgid "value"
+msgstr "Wert"
+
+msgid "values"
+msgstr "Werte"
+
+msgid "number"
+msgstr "Zahl"
+
+msgid "selection"
+msgstr "Auswahl"
+
+msgid "addValue"
+msgstr "Wert hinzufügen"
+
+msgid "sortShort"
+msgstr "Sort."
+
+msgid "remove"
+msgstr "Entfernen"
+
+msgid "amount"
+msgstr "Betrag"
+
+msgid "chooseCustomer"
+msgstr "Kunden auswählen"
+
+msgid "customers"
+msgstr "Kunden"
+
+msgid "products"
+msgstr "Artikel"
+
+msgid "only"
+msgstr "nur"
+
+msgid "deactivated"
+msgstr "Deaktiviert"
+
+msgid "standard"
+msgstr "Standard"
+
+msgid "forced"
+msgstr "erzwungen"
+
+msgid "images"
+msgstr "Bilder"
+
+msgid "plugin"
+msgstr "Plugin"
+
+msgid "missingTranslations"
+msgstr "Fehlende Übersetzungen"
+
+msgid "login"
+msgstr "Anmelden"
+
+msgid "forgotPassword"
+msgstr "Passwort vergessen?"
+
+msgid "metaSeo"
+msgstr "Meta/SEO"
+
+msgid "id"
+msgstr "ID"
+
+msgid "marked"
+msgstr "markiert"
+
+msgid "textHtml"
+msgstr "text/html"
+
+msgid "labelSearchProduct"
+msgstr "Suche nach Artikelnamen"
+
+msgid "labelSearchManufacturer"
+msgstr "Suche nach Herstellernamen"
+
+msgid "titleChooseManufacturer"
+msgstr "Hersteller wählen"
+
+msgid "chooseCatgeory"
+msgstr "Kategorie wählen"
+
+msgid "entriesPerPage"
+msgstr "Einträge pro Seite"
+
+msgid "sorting"
+msgstr "Sortierung"
+
+msgid "ascending"
+msgstr "aufsteigend"
+
+msgid "descending"
+msgstr "absteigend"
+
+msgid "allEntries"
+msgstr "Einträge gesamt"
+
+msgid "templates"
+msgstr "Vorlagen"
+
+msgid "draft"
+msgstr "Entwurf"
+
+msgid "replaced"
+msgstr "Ersetzt"
+
+msgid "group"
+msgstr "Gruppe"
+
+msgid "portlet"
+msgstr "Portlet"
+
+msgid "preview"
+msgstr "Vorschau"
+
+msgid "pageID"
+msgstr "Seiten-ID"
+
+msgid "entry"
+msgstr "Eintrag"
+
+msgid "resetPassword"
+msgstr "Passwort zurücksetzen"
+
+msgid "newPassword"
+msgstr "Neues Passwort"
+
+msgid "confirmNewPassword"
+msgstr "Neues Passwort bestätigen"
+
+msgid "showAll"
+msgstr "Alle anzeigen"
+
+msgid "problems"
+msgstr "Probleme"
+
+msgid "upload"
+msgstr "Upload"
+
+msgid "selected"
+msgstr "Gewählte"
+
+msgid "found"
+msgstr "Gefundene"
+
+msgid "categories"
+msgstr "Kategorien"
+
+msgid "revisions"
+msgstr "Revisionen"
+
+msgid "noRevisions"
+msgstr "Keine Revision vorhanden"
+
+msgid "revisionDelete"
+msgstr "Revision löschen"
+
+msgid "revisionRestore"
+msgstr "Revision wiederherstellen"
+
+msgid "hook"
+msgstr "Hook"
+
+msgid "calls"
+msgstr "Aufrufe"
+
+msgid "plugins"
+msgstr "Plugin"
+
+msgid "sql"
+msgstr "SQL"
+
+msgid "deleteEntry"
+msgstr "Eintrag löschen"
+
+msgid "tables"
+msgstr "Tabellen"
+
+msgid "totalQueries"
+msgstr "Total Queries"
+
+msgid "errorMessage"
+msgstr "Fehlermeldung"
+
+msgid "backtrace"
+msgstr "Backtrace"
+
+msgid "statement"
+msgstr "Statement"
+
+msgid "internalName"
+msgstr "Interner Name "
+
+msgid "randomStart"
+msgstr "zufälliger Start"
+
+msgid "searchThrough"
+msgstr "Durchsuchen"
+
+msgid "options"
+msgstr "Optionen"
+
+msgid "presentation"
+msgstr "Darstellung"
+
+msgid "navigation"
+msgstr "Navigation"
+
+msgid "hide"
+msgstr "Ausblenden"
+
+msgid "thumbnail"
+msgstr "Thumbnail"
+
+msgid "direction"
+msgstr "Richtung"
+
+msgid "effects"
+msgstr "Effekte"
+
+msgid "theme"
+msgstr "Theme"
+
+msgid "displayOptions"
+msgstr "Anzeigeoptionen"
+
+msgid "mobile"
+msgstr "Mobil"
+
+msgid "version"
+msgstr "Version"
+
+msgid "shopversion"
+msgstr "Onlineshop-Version"
+
+msgid "create"
+msgstr "Erstellen"
+
+msgid "visitors"
+msgstr "Besucher"
+
+msgid "visitor"
+msgstr "Besucher"
+
+msgid "customerHeritage"
+msgstr "Kundenherkunft"
+
+msgid "searchEngines"
+msgstr "Suchmaschinen"
+
+msgid "sales"
+msgstr "Umsatz"
+
+msgid "entryPages"
+msgstr "Einstiegsseiten"
+
+msgid "details"
+msgstr "Details"
+
+msgid "server"
+msgstr "Server"
+
+msgid "subscription"
+msgstr "Subscription"
+
+msgid "valid"
+msgstr "gültig"
+
+msgid "expired"
+msgstr "abgelaufen"
+
+msgid "domain"
+msgstr "Domain"
+
+msgid "paymentTypes"
+msgstr "Zahlungsarten"
+
+msgid "paymentType"
+msgstr "Zahlungsart"
+
+msgid "cache"
+msgstr "Cache"
+
+msgid "settingNumberShort"
+msgstr "Einstellungsnummer"
+
+msgid "shippingTypesOverview"
+msgstr "Versandartenübersicht"
+
+msgid "paymentTypesOverview"
+msgstr "Zahlungsartenübersicht"
+
+msgid "yourSystem"
+msgstr "Ihr System"
+
+msgid "installedSoftware"
+msgstr "Installierte Software"
+
+msgid "software"
+msgstr "Software"
+
+msgid "requirements"
+msgstr "Voraussetzung"
+
+msgid "designation"
+msgstr "Bezeichnung"
+
+msgid "setting"
+msgstr "Einstellung"
+
+msgid "divider"
+msgstr "Trennzeichen"
+
+msgid "unit"
+msgstr "Einheit"
+
+msgid "quantity"
+msgstr "Menge"
+
+msgid "weight"
+msgstr "Gewicht"
+
+msgid "option"
+msgstr "Option"
+
+msgid "last"
+msgstr "letzte"
+
+msgid "lastYear"
+msgstr "letztes Jahr"
+
+msgid "duplicate"
+msgstr "Duplizieren"
+
+msgid "user"
+msgstr "Benutzer"
+
+msgid "change"
+msgstr "ändern"
+
+msgid "noMoreWidgets"
+msgstr "Keine weiteren Widgets vorhanden."
+
+msgid "note"
+msgstr "Hinweis"
+
+msgid "level"
+msgstr "Level"
+
+msgid "orderNumberShort"
+msgstr "Bestellnummer"
+
+msgid "currency"
+msgstr "Währung"
+
+msgid "paymentDue"
+msgstr "Zahlungsgebühr"
+
+msgid "rows"
+msgstr "Zeilen"
+
+msgid "engine"
+msgstr "Engine"
+
+msgid "databaseStructure"
+msgstr "Datenbankstruktur"
+
+msgid "showModified"
+msgstr "Modifizierte anzeigen"
+
+msgid "markAll"
+msgstr "Alle markieren"
+
+msgid "optimize"
+msgstr "optimieren"
+
+msgid "repair"
+msgstr "reparieren"
+
+msgid "check"
+msgstr "prüfen"
+
+msgid "analyse"
+msgstr "analysieren"
+
+msgid "send"
+msgstr "senden"
+
+msgid "step"
+msgstr "Schritt"
+
+msgid "automatic"
+msgstr "Automatisch"
+
+msgid "approximately"
+msgstr "ca."
+
+msgid "minute"
+msgstr "Minute"
+
+msgid "minutes"
+msgstr "Minuten"
+
+msgid "continueQuestion"
+msgstr "Fortfahren?"
+
+msgid "reset"
+msgstr "Zurücksetzen"
+
+msgid "question"
+msgstr "Frage"
+
+msgid "orderNumber"
+msgstr "Bestellnummer"
+
+msgid "customer"
+msgstr "Kunde"
+
+msgid "search"
+msgstr "Suche"
+
+msgid "more"
+msgstr "Mehr"
+
+msgid "insert"
+msgstr "Hinzufügen"
+
+msgid "pages"
+msgstr "Seiten"
+
+msgid "manufacturers"
+msgstr "Hersteller"
+
+msgid "transparency"
+msgstr "Transparenz"
+
+msgid "size"
+msgstr "Größe"
+
+msgid "position"
+msgstr "Position"
+
+msgid "deactivate"
+msgstr "deaktivieren"
+
+msgid "newsletter"
+msgstr "Newsletter"
+
+msgid "exportformat"
+msgstr "Exportformat"
+
+msgid "exportformats"
+msgstr "Exportformate"
+
+msgid "progress"
+msgstr "Fortschritt"
+
+msgid "configure"
+msgstr "einstellen"
+
+msgid "subject"
+msgstr "Betreff"
+
+msgid "subjects"
+msgstr "Betreffe"
+
+msgid "filename"
+msgstr "Dateiname"
+
+msgid "module"
+msgstr "Modul"
+
+msgid "template"
+msgstr "Vorlage"
+
+msgid "repetition"
+msgstr "Wiederholung"
+
+msgid "header"
+msgstr "Kopfzeile"
+
+msgid "footer"
+msgstr "Fußzeile"
+
+msgid "firstName"
+msgstr "Vorname"
+
+msgid "lastName"
+msgstr "Nachname"
+
+msgid "reviews"
+msgstr "Bewertungen"
+
+msgid "stars"
+msgstr "Sterne"
+
+msgid "productName"
+msgstr "Artikelname"
+
+msgid "back"
+msgstr "Zurück"
+
+msgid "annual"
+msgstr "Jährlich"
+
+msgid "monthly"
+msgstr "Monatlich"
+
+msgid "weekly"
+msgstr "Wöchentlich"
+
+msgid "daily"
+msgstr "Täglich"
+
+msgid "contents"
+msgstr "Inhalte"
+
+msgid "format"
+msgstr "Format"
+
+msgid "credit"
+msgstr "Guthaben"
+
+msgid "newCustomer"
+msgstr "Neukunde"
+
+msgid "registered"
+msgstr "Registriert"
+
+msgid "names"
+msgstr "Namen"
+
+msgid "optional"
+msgstr "optional"
+
+msgid "coupon"
+msgstr "Coupon"
+
+msgid "coupons"
+msgstr "Coupons"
+
+msgid "orderValue"
+msgstr "Bestellwert"
+
+msgid "order"
+msgstr "Bestellung"
+
+msgid "orders"
+msgstr "Bestellungen"
+
+msgid "unitPrice"
+msgstr "Stückpreis"
+
+msgid "totalPrice"
+msgstr "Gesamtpreis"
+
+msgid "totalAmount"
+msgstr "Gesamtsumme"
+
+msgid "linkGroup"
+msgstr "Linkgruppe"
+
+msgid "register"
+msgstr "Registrieren"
+
+msgid "basket"
+msgstr "Warenkorb"
+
+msgid "contact"
+msgstr "Kontakt"
+
+msgid "news"
+msgstr "Blog"
+
+msgid "mapping"
+msgstr "Mapping"
+
+msgid "blacklist"
+msgstr "Blacklist"
+
+msgid "headline"
+msgstr "Überschrift"
+
+msgid "campaign"
+msgstr "Kampagne"
+
+msgid "error"
+msgstr "Fehler"
+
+msgid "selectAll"
+msgstr "Alle auswählen"
+
+msgid "continent"
+msgstr "Kontinent"
+
+msgid "country"
+msgstr "Land"
+
+msgid "iso"
+msgstr "ISO"
+
+msgid "areas"
+msgstr "Bereiche"
+
+msgid "current"
+msgstr "aktuell"
+
+msgid "bestseller"
+msgstr "Bestseller"
+
+msgid "seo"
+msgstr "SEO"
+
+msgid "read"
+msgstr "lesen"
+
+msgid "net"
+msgstr "Netto"
+
+msgid "gross"
+msgstr "Brutto"
+
+msgid "price"
+msgstr "Preis"
+
+msgid "favorites"
+msgstr "Favoriten"
+
+msgid "manageFavorites"
+msgstr "Verwalten Sie Ihre Favoriten."
+
+msgid "account"
+msgstr "Konto"
+
+msgid "shop"
+msgstr "Onlineshop"
+
+# page type (tspezialseite)
+msgid "Startseite"
+msgstr "Startseite"
+
+# page type (tspezialseite)
+msgid "Informationen zum Versand"
+msgstr "Informationen zum Versand"
+
+# page type (tspezialseite)
+msgid "WRB"
+msgstr "Widerrufsbelehrung"
+
+# page type (tspezialseite)
+msgid "AGB"
+msgstr "AGB"
+
+# page type (tspezialseite)
+msgid "Tagging Übersicht"
+msgstr "Tagging"
+
+# page type (tspezialseite)
+msgid "Livesuche"
+msgstr "Suchanfragen"
+
+# page type (tspezialseite)
+msgid "Datenschutz"
+msgstr "Datenschutz"
+
+# page type (tspezialseite)
+msgid "Hersteller Übersicht"
+msgstr "Hersteller"
+
+# page type (tspezialseite)
+msgid "Sitemap"
+msgstr "Sitemap"
+
+# page type (tspezialseite)
+msgid "Gratis Geschenk"
+msgstr "Gratisgeschenke"
+
+# page type (tspezialseite)
+msgid "Auswahlassistent"
+msgstr "Auswahlassistent"
+
+msgid "pageCustom"
+msgstr "Eigene Seite"
+
+msgid "pageAccount"
+msgstr "Mein Konto"
+
+# page type (tspezialseite)
+msgid "Login"
+msgstr "Anmeldung"
+
+# page type (tspezialseite)
+msgid "Registrieren"
+msgstr "Registrieren"
+
+# page type (tspezialseite)
+msgid "Warenkorb"
+msgstr "Warenkorb"
+
+# page type (tspezialseite)
+msgid "Passwort vergessen"
+msgstr "Passwort vergessen"
+
+# page type (tspezialseite)
+msgid "Kontakt"
+msgstr "Kontakt"
+
+# page type (tspezialseite)
+msgid "Newsletter"
+msgstr "Newsletter"
+
+# page type (tspezialseite)
+msgid "Newsletterarchiv"
+msgstr "Newsletter-Archiv"
+
+# page type (tspezialseite)
+msgid "News"
+msgstr "Blog"
+
+msgid "pageNewsMonth"
+msgstr "Monatsübersicht der Blogbeiträge"
+
+msgid "pageNewsCategory"
+msgstr "Blogkategorie"
+
+msgid "pageNewsDetail"
+msgstr "Detailseite für Blogbeitrag"
+
+msgid "pagePlugin"
+msgstr "Plugin"
+
+# page type (tspezialseite)
+msgid "404"
+msgstr "404"
+
+# page type (tspezialseite)
+msgid "Bestellvorgang"
+msgstr "Bestellvorgang"
+
+# page type (tspezialseite)
+msgid "Bestellabschluss"
+msgstr "Bestellabschluss"
+
+# page type (tspezialseite)
+msgid "Wunschliste"
+msgstr "Wunschzettel"
+
+# page type (tspezialseite)
+msgid "Vergleichsliste"
+msgstr "Vergleichsliste"
+
+msgid "pageProduct"
+msgstr "Artikel"
+
+msgid "pageProductList"
+msgstr "Artikelübersicht"
+
+msgid "pageRating"
+msgstr "Bewertung"
+
+msgid "pageMaintenance"
+msgstr "Wartung"
+
+msgid "pageOrderStatus"
+msgstr "Bestellstatus"
+
+msgid "pageUnknown"
+msgstr "Unbekannt"
+
+# page type (tspezialseite)
+msgid "Impressum"
+msgstr "Impressum"
+
+# page type (tspezialseite)
+msgid "Batteriegesetzhinweise"
+msgstr "Batteriegesetzhinweise"
+
+# page type (tspezialseite)
+msgid "WRB-Formular"
+msgstr "Widerrufsformular"
+
+msgid "exception"
+msgstr "Ausnahme"
+
+msgid "errorDirCreate"
+msgstr "Verzeichnis konnte nicht erstellt werden: "
+
+msgid "unknown"
+msgstr "Unbekannt"
+
+msgid "userAgent"
+msgstr "User-Agent"
+
+msgid "host"
+msgstr "Host"
+
+msgid "warning"
+msgstr "Warnung"
+
+msgid "moreInfo"
+msgstr "Weitere Informationen"
+
+msgid "info"
+msgstr "Info"
+
+msgid "guests"
+msgstr "Gäste"
+
+msgid "overall"
+msgstr "Insgesamt"
+
+msgid "entryPage"
+msgstr "Einstiegsseite"
+
+msgid "origin"
+msgstr "Herkunft"
+
+msgid "errorFileUploadGeneral"
+msgstr "Datei konnte nicht hochgeladen werden."
+
+msgid "Europa"
+msgstr "Europa"
+
+msgid "Asien"
+msgstr "Asien"
+
+msgid "Nordamerika"
+msgstr "Nordamerika"
+
+msgid "Suedamerika"
+msgstr "Südamerika"
+
+msgid "Ozeanien"
+msgstr "Ozeanien"
+
+msgid "Afrika"
+msgstr "Afrika"
+
+msgid "Antarktis"
+msgstr "Antarktis"
+
+msgid "date"
+msgstr "Datum"
+
+msgid "europeanUnion"
+msgstr "Europäische Union"
+
+msgid "notEuropeanUnionEurope"
+msgstr "Nicht Europäische Union in Europa"
+
+msgid "countries"
+msgstr "Länder"
+
+msgid "syntax"
+msgstr "Syntax"
+
+msgid "typeAheadCategory"
+msgstr "Geben Sie den Namen der Kategorie ein. Nach kurzer Verzögerung werden Ihnen passende Vorschläge angezeigt, von denen Sie einen auswählen können."
+
+msgid "typeAheadPage"
+msgstr "Geben Sie den Namen der Seite ein. Nach kurzer Verzögerung werden Ihnen passende Vorschläge angezeigt, von denen Sie einen auswählen können."
+
+msgid "typeAheadTag"
+msgstr "Geben Sie den Namen des Tags ein. Nach kurzer Verzögerung werden Ihnen passende Vorschläge angezeigt, von denen Sie einen auswählen können."
+
+msgid "typeAheadManufacturer"
+msgstr "Geben Sie den Namen des Herstellers ein. Nach kurzer Verzögerung werden Ihnen passende Vorschläge angezeigt, von denen Sie einen auswählen können."
+
+msgid "typeAheadAttribute"
+msgstr "Geben Sie den Namen des Merkmals ein. Nach kurzer Verzögerung werden Ihnen passende Vorschläge angezeigt, von denen Sie einen auswählen können."
+
+msgid "typeAheadProduct"
+msgstr "Geben Sie den Namen des Artikels ein. Nach kurzer Verzögerung werden Ihnen passende Vorschläge angezeigt, von denen Sie einen auswählen können."
+
+msgid "enterSearchTerm"
+msgstr "Geben Sie einen Suchbegriff ein."
+
+msgid "errorKeyMissing"
+msgstr "Es gab Probleme beim Anlegen des Eingabefeldes mit dem Key „%s“."
+
+msgid "statisticNoData"
+msgstr "Es liegen noch keine Statistiken vor."
+
+msgid "of"
+msgstr "von"
+
+msgid "activeFrom"
+msgstr "Aktiv von"
+
+msgid "activeTo"
+msgstr "Aktiv bis"
+
+msgid "validUntil"
+msgstr "Gültig bis"
+
+msgid "miscellaneous"
+msgstr "Sonstige"
+
+msgid "system"
+msgstr "System"
+
+msgid "labelSearchPage"
+msgstr "Suche nach Seitennamen"
+
+msgid "titleChoosePage"
+msgstr "Eigene Seiten auswählen"
+
+msgid "datepickerCustom"
+msgstr "Benutzerdefiniert"
+
+msgid "datepickerToday"
+msgstr "Heute"
+
+msgid "datepickerYesterday"
+msgstr "Gestern"
+
+msgid "datepickerThisWeek"
+msgstr "Diese Woche"
+
+msgid "datepickerLastWeek"
+msgstr "Letzte Woche"
+
+msgid "datepickerThisMonth"
+msgstr "Dieser Monat"
+
+msgid "datepickerLastMonth"
+msgstr "Letzter Monat"
+
+msgid "datepickerThisYear"
+msgstr "Dieses Jahr"
+
+msgid "datepickerLastYear"
+msgstr "Letztes Jahr"
+
+msgid "datepickerSeparator"
+msgstr " - "
+
+msgid "mondayShort"
+msgstr "Mo"
+
+msgid "tuesdayShort"
+msgstr "Di"
+
+msgid "wednesdayShort"
+msgstr "Mi"
+
+msgid "thursdayShort"
+msgstr "Do"
+
+msgid "fridayShort"
+msgstr "Fr"
+
+msgid "saturdayShort"
+msgstr "Sa"
+
+msgid "sundayShort"
+msgstr "So"
+
+msgid "Zeitraum"
+msgstr "Zeitraum"
+
+msgid "directEntry"
+msgstr "Direkter Einstieg"
+
+msgid "color"
+msgstr "Farbe"
+
+msgid "white"
+msgstr "weiß"
+
+msgid "red"
+msgstr "rot"
+
+msgid "goToDocu"
+msgstr "Zur Dokumentation"
+
+msgid "addToFavourites"
+msgstr "Zu Favoriten hinzufügen"
+
+msgid "length"
+msgstr "Länge"
+
+msgid "foundEntries"
+msgstr "Gefundene Einträge: "
+
+msgid "noEntriesSelected"
+msgstr "Bisher wurden keine Einträge ausgewählt. Bitte nutzen Sie die Suche."
+
+msgid "allSelectedEntries"
+msgstr "Alle ausgewählten Einträge: "
+
+msgid "deleteInput"
+msgstr "Eingabe löschen"
+
+msgid "searchPending"
+msgstr "Suche…"
+
+msgid "searchResultsFor"
+msgstr "Suchergebnisse für: %s"
+
+msgid "pagesMenu"
+msgstr "Seiten / Menüpunkte"
+
+msgid "redirection"
+msgstr "Weiterleitung"
+
+msgid "missing"
+msgstr "Fehlend"
+
+msgid "useFilter"
+msgstr "Filter anwenden"
+
+msgid "resetFilter"
+msgstr "Filter zurücksetzen"
+
+msgid "passwordGenerate"
+msgstr "Passwort generieren"
+
+msgid "shopTitle"
+msgstr "Administration von JTL-Shop"
+
+msgid "fileSelect"
+msgstr "Datei auswählen"
+
+msgid "helpCenterHeader"
+msgstr "Hilfecenter"
+
+msgid "notificationsHeader"
+msgstr "Mitteilungen"
+
+msgid "Refresh all notifications"
+msgstr "Alle Mitteilungen aktualisieren"
+
+msgid "Mark notification as read"
+msgstr "Mitteilung als gelesen verbergen"
+
+msgid "Mark all notifications as unread"
+msgstr "Alle verborgenen Mitteilungen anzeigen"
+
+msgid "favouritesHeader"
+msgstr "Favoriten"
+
+msgid "saveWithIcon"
+msgstr "<i class=\"fal fa-save\"></i> Speichern"
+
+msgid "cancelWithIcon"
+msgstr "<i class=\"fas fa-exclamation\"></i> Abbrechen"
+
+msgid "selectPickerNoneSelectedText"
+msgstr "Nichts ausgewählt"
+
+msgid "selectPickerNoneResultsText"
+msgstr "{0} ergab keine Treffer"
+
+msgid "selectPickerCountSelectedText"
+msgstr "{0} ausgewählt"
+
+msgid "selectPickerLimitReached"
+msgstr "Limit erreicht (max. {n})"
+
+msgid "selectPickerGroupLimitReached"
+msgstr "Gruppenlimit erreicht (max. {n})"
+
+msgid "selectPickerSelectAllText"
+msgstr "Alle aktivieren"
+
+msgid "selectPickerDeselectAllText"
+msgstr "Alle deaktivieren"
+
+msgid "close"
+msgstr "Schließen"
+
+msgid "none"
+msgstr "Keine"
+
+msgid "successSave"
+msgstr "Erfolgreich gespeichert"
+
+msgid "errorSave"
+msgstr "Speichern fehlgeschlagen"
+
+msgid "successDelete"
+msgstr "Erfolgreich gelöscht"
+
+msgid "errorDelete"
+msgstr "Löschen fehlgeschlagen"
+
+msgid "filterManufacturers"
+msgstr "Alle Hersteller"
+
+msgid "filterPriceRange"
+msgstr "Preisspanne"
+
+msgid "filterRatings"
+msgstr "Bewertungen"
+
+msgid "filterSearch"
+msgstr "Suchfilter"
+
+msgid "filterSearchSpecial"
+msgstr "Besondere Artikel"
+
+msgid "filterCategory"
+msgstr "Alle Kategorien"
+
+msgid "filterCharacteristics"
+msgstr "Merkmale"
+
+msgid "filterAvailability"
+msgstr "Verfügbarkeit"
+
+msgid "za_ueberweisung_jtl"
+msgstr "Überweisung"
+
+msgid "za_nachnahme_jtl"
+msgstr "Nachnahme"
+
+msgid "za_kreditkarte_jtl"
+msgstr "Kreditkarte"
+
+msgid "za_rechnung_jtl"
+msgstr "Rechnung"
+
+msgid "za_lastschrift_jtl"
+msgstr "Lastschrift"
+
+msgid "za_barzahlung_jtl"
+msgstr "Barzahlung"
+
+msgid "getToKnowMore"
+msgstr "Mehr erfahren"
+
+msgid "Updates available"
+msgstr "Updates verfügbar"
+
+msgid "validationErrorIncorrectEmail"
+msgstr "Bitte geben Sie eine korrekte E-Mail-Adresse an."
+
+msgid "Licenses expired"
+msgstr "Lizenzen abgelaufen"
+
+msgid "I understood this notice."
+msgstr "Ja, ich habe diesen Hinweis zur Kenntnis genommen."
+
+msgid "No valid licence found for the following installed and active extensions:"
+msgstr "Zu folgenden installierten und aktiven Extensions wurde keine gültige Lizenz gefunden:"
+
+msgid "Possible reasons:"
+msgstr "Dies kann folgende Gründe haben:"
+
+msgid "The extension was obtained from a different source than the JTL-Extension Store"
+msgstr "Eine Extension wurde über eine andere Quelle als den JTL-Extension Store bezogen"
+
+msgid "The licence is not bound to this shop yet (check licence in \"My purchases\")"
+msgstr "Die Lizenz ist noch nicht an diesen Shop gebunden (Lizenz prüfen unter \"Meine Käufe\")"
+
+msgid "The licence is bound to a different customer account that is not connected to this shop (check connected account in \"My purchases\")"
+msgstr "Die Lizenz ist einem anderen Kundenkonto zugeordnet, welches aber nicht mit diesem Shop verknüpft ist (verknüpftes Kundenkonto unter \"Meine Käufe\" prüfen)"
+
+msgid "The manufacturer disabled the licence"
+msgstr "Die Lizenz wurde vom Hersteller deaktiviert"
+
+msgid "Further use of the extension may constitute a licence violation!"
+msgstr "Eine weitere Nutzung kann einen Lizenzverstoß darstellen!"
+
+msgid "Please purchase a licence in the JTL-Extension Store or contact the manufacturer of the extension for information on rights of use."
+msgstr "Bitte erwerben Sie eine Lizenz im JTL-Extension Store oder kontaktieren Sie den Hersteller der Extension zu Informationen bezüglich der Nutzungsrechte."
+
+msgid "Licensing problem detected"
+msgstr "Lizenzproblem festgestellt"
+
+msgid "Understood"
+msgstr "Verstanden"
+
+msgid "Disable plugins"
+msgstr "Plugins deaktivieren"
+
+msgid "Disable template"
+msgstr "Template deaktivieren"
+
+msgid "Smarty syntax error"
+msgstr "Smarty Syntax-Fehler"
+
+msgid "Smarty syntax ok"
+msgstr "Smarty Syntax in Ordnung."
+
+msgid "weRecommend"
+msgstr "Wir empfehlen:"
+
+msgid "somethingHappend"
+msgstr "Es ist ein unbekannter Fehler aufgetreten."
+
+msgid "warningPasswordResetAuth"
+msgstr "Falls für dieses Konto eine Verknüpfung mit dem JTL-Extension Store besteht, muss diese nach der Änderung des Passworts erneuert werden (Plugins > Meine Käufe > Konto verknüpfen). Dies hat keine Auswirkungen auf bereits erstandene Extensions."
+
+msgid "errrorNumberRange"
+msgstr "Der Wert der Einstellung \"%s\" muss zwischen %d und %d liegen."
+
+msgid "csvImportInvalidMime"
+msgstr "Gewählte Datei hat einen ungültigen MIME-Typen"
+
+msgid "csvImportNoArtNrOrDestUrl"
+msgstr "CSV enthält weder Artikelnummern noch Ziel-URLs."
+
+msgid "csvImportArtNrAndDestUrlError"
+msgstr "CSV enthält sowohl Artikelnummern als Ziel-URLs und darf nur eines von beiden beinhalten."
+
+msgid "csvImportArtNrNotFound"
+msgstr "Artikelnummer %s konnte nicht im Shop gefunden werden."
+
+msgid "csvImportSaveError"
+msgstr "Zeile %s konnte nicht gespeichert werden."
+
+msgid "extensionStoreURL"
+msgstr "https://jtl-url.de/exs"
+
+msgid "Safe mode"
+msgstr "Abgesicherter Modus"
+
+msgid "Safe mode enabled."
+msgstr "Abgesicherter Modus aktiv. Gewisse Funktionalitäten stehen nicht zur Verfügung."

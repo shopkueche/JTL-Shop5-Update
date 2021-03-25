@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "filecheck"
+msgstr "Prüfung der Onlineshop-Dateien"
+
+msgid "filecheckDesc"
+msgstr "Hier können Sie prüfen, ob alle Dateien des Onlineshops korrekt und vollständig hochgeladen wurden. Es wird pro Datei geprüft, ob die Prüfsumme der aktuellen Datei mit der Prüfsumme der Originaldatei übereinstimmt. Ist dies der Fall, so steht unter Status „OK“. Wurde eine Datei des Onlineshops geändert, fehlerhaft übertragen oder gelöscht, dann wird dies mit „modifiziert“ kenntlich gemacht."
+
+msgid "filecheckURL"
+msgstr "https://jtl-url.de/o9a4l"
+
+msgid "fileCheckNoneModifiedOrphanedFiles"
+msgstr "Derzeit gibt es keine modifizierten oder verwaisten Dateien."
+
+msgid "fileCheckModifiedFilesHeadline"
+msgstr "Modifizierte Dateien"
+
+msgid "fileCheckModifiedFilesNote"
+msgstr "Die folgenden Dateien sind nicht identisch mit den Dateien der aktuellen Version von JTL-Shop."
+
+msgid "fileCheckOrphanedFilesHeadline"
+msgstr "Verwaiste Dateien"
+
+msgid "fileCheckOrphanedFilesNote"
+msgstr "Die folgenden Dateien sind in früheren Versionen von JTL-Shop gelöscht worden und jetzt nicht mehr in Gebrauch. Daher können diese Dateien entfernt werden."
+
+msgid "fileCheckNumberModifiedFiles"
+msgstr "Anzahl modifizierter Dateien"
+
+msgid "fileCheckNumberOrphanedFiles"
+msgstr "Anzahl verwaister Dateien"
+
+msgid "errorFileNotFound"
+msgstr "Datei mit der aktuellen Dateiliste existiert nicht."
+
+msgid "errorFileListEmpty"
+msgstr "Die Datei mit der aktuellen Dateiliste ist leer."
+
+msgid "errorNotDeleted"
+msgstr "Es konnten nicht alle Dateien gelöscht werden."
+
+msgid "errorCreatingZipArchive"
+msgstr "Zip-Archiv %s konnte nicht erstellt werden."
+
+msgid "confirmDeleteText"
+msgstr "Möchten Sie wirklich alle genannten Dateien löschen? Stellen Sie sicher, dass Sie zuvor ein Backup erstellt haben!"
+
+msgid "backupText"
+msgstr "Backup unter %s erstellt und %d Dateien gelöscht."
+
+msgid "showDeleteScript"
+msgstr "Skript generieren"

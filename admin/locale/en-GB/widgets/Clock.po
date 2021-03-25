@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Clock_title"
+msgstr "Clock"
+
+msgid "Clock_desc"
+msgstr "Current time + date"

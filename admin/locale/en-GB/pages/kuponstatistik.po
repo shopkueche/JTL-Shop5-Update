@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "couponstatisticsURL"
+msgstr "https://jtl-url.de/6kyun"
+
+msgid "couponStatistic"
+msgstr "Coupon statistics"
+
+msgid "fromUntilDate"
+msgstr "Date (from/to)"
+
+msgid "filtering"
+msgstr "Filter"
+
+msgid "countUsedCoupons"
+msgstr "All used coupons (% of orders)"
+
+msgid "countOrders"
+msgstr "Number of all orders for which coupons were used"
+
+msgid "countCustomers"
+msgstr "Number of customers who used coupons"
+
+msgid "couponAmountAll"
+msgstr "Total value of all used coupons"
+
+msgid "shoppingCartAmountAll"
+msgstr "Total value of all orders for which coupons were used"
+
+msgid "couponValue"
+msgstr "Coupon value"
+
+msgid "orderPosition"
+msgstr "Order line item"

@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "exportformat"
+msgstr "Export manager"
+
+msgid "exportformatDesc"
+msgstr "Use this task scheduler to create tasks that will then be executed automatically, e.g. exports for price search engines."
+
+msgid "exportformatUrl"
+msgstr "https://jtl-url.de/7mp5g"
+
+msgid "exportformatOptions"
+msgstr "Language/Currency/Customer group"
+
+msgid "exportformatAdd"
+msgstr "Create new task"
+
+msgid "exportformatStart"
+msgstr "Start date"
+
+msgid "exportformatEveryXHour"
+msgstr "Every X hours"
+
+msgid "exportformatLastXHourPre"
+msgstr "Previous"
+
+msgid "exportformatDelete"
+msgstr "Delete selected tasks"
+
+msgid "exportformatQueue"
+msgstr "Scheduled tasks"
+
+msgid "exportformatNoFormat"
+msgstr "No export formats available"
+
+msgid "exportformatExported"
+msgstr "Exported"
+
+msgid "exportformatLastStart"
+msgstr "Last start"
+
+msgid "exportformatNextStart"
+msgstr "Next start (scheduled)"
+
+msgid "exportformatTodaysWork"
+msgstr "Finished recently"
+
+msgid "exportformatTriggerCron"
+msgstr "Trigger Cron manually"
+
+msgid "exportformatNoTodaysWork"
+msgstr "No export formats were edited in the selected period."
+
+msgid "errorWrongQueue"
+msgstr "Please select a valid queue."
+
+msgid "successQueueDelete"
+msgstr "Selected queues deleted successfully."
+
+msgid "errorCronStart"
+msgstr "Cron task(s) could not be started."
+
+msgid "successCronsStart"
+msgstr "%s Cron tasks started successfully."
+
+msgid "successCronStart"
+msgstr "One Cron task started successfully."
+
+msgid "successQueueDone"
+msgstr "One task queue completed successfully."
+
+msgid "successQueuseDone"
+msgstr "%s task queues completed successfully."
+
+msgid "errorFormatInQueue"
+msgstr "The export format is already part of the queue."
+
+msgid "successQueueCreate"
+msgstr "New export queue created successfully."
+
+msgid "errorGreaterEqualOne"
+msgstr "Please enter a value that equals or exceeds 1."
+
+msgid "errorFormatSelect"
+msgstr "Please select a valid export format."
+
+msgid "immediately"
+msgstr "immediately"
